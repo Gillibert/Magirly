@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="1108"
+ height="659"
+ viewBox="905 480 1113 664"
+ xml:space="preserve"
+ stroke-linecap="round" stroke-linejoin="round" stroke-width="1.28273"
+ fill="none">
+<path stroke="#000" stroke-width="6" d="M1092 907l139 37"/>
+<path stroke="#000" stroke-width="6" d="M1231 944l101-102"/>
+<path stroke="#000" stroke-width="6" d="M1092 907l-140 37"/>
+<path stroke="#000" stroke-width="6" d="M952 944l101-102"/>
+<path stroke="#000" stroke-width="6" d="M1332 842l-140-38"/>
+<path stroke="#000" stroke-width="6" d="M1092 907l48-255"/>
+<path stroke="#000" stroke-width="6" d="M1192 804l-52-152"/>
+<path stroke="#000" stroke-width="6" d="M1140 652l-125-72"/>
+<path stroke="#000" stroke-width="6" d="M1140 652l71-125"/>
+<path stroke="#000" stroke-width="6" d="M1092 907l-73 124"/>
+<text x="1302" y="1107" font-family="Arial" font-size="100" fill="#000" text-anchor="middle">O</text>
+<path stroke="#000" stroke-width="6" d="M1215 942l46 81"/>
+<path stroke="#000" stroke-width="6" d="M1242 938l41 73"/>
+<path stroke="#000" stroke-width="6" d="M1332 842l139-38"/>
+<path stroke="#000" stroke-width="6" d="M1354 862l108-30"/>
+<path stroke="#000" stroke-width="6" d="M1471 804l124 72"/>
+<path stroke="#000" stroke-width="6" d="M1595 876l0 143"/>
+<path stroke="#000" stroke-width="6" d="M1620 892l0 111"/>
+<path stroke="#000" stroke-width="6" d="M1595 1019l123 72"/>
+<path stroke="#000" stroke-width="6" d="M1718 1091l124-71"/>
+<path stroke="#000" stroke-width="6" d="M1719 1061l96-55"/>
+<path stroke="#000" stroke-width="6" d="M1842 1020l0-144"/>
+<path stroke="#000" stroke-width="6" d="M1842 876l-124-72"/>
+<path stroke="#000" stroke-width="6" d="M1815 890l-96-56"/>
+<path stroke="#000" stroke-width="6" d="M1718 804l-123 72"/>
+<path stroke="#000" stroke-width="6" d="M1842 1020l124 72"/>
+<path stroke="#000" stroke-width="6" d="M1192 804l-67 17"/>
+<path stroke="#000" stroke-width="6" d="M1053 842l42-13"/>
+</svg>

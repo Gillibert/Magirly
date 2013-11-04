@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1280px" height="640px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 1302.91 734.26"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="688.051" y1="181.041" x2="688.051" y2="511.625">
+    <stop offset="0" stop-color="#4457C2"/>
+    <stop offset="0.631373" stop-color="#CBF3FF"/>
+    <stop offset="1" stop-color="#57D99A"/>
+   </linearGradient>
+    <clipPath id="id1">
+     <path d="M826.44 38.5389l435.981 0 0 339.626 -435.981 0 0 -339.626z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <path d="M827.919 382.262l430.068 0 0 274.582 -430.068 0 0 -274.582z"/>
+    </clipPath>
+    <clipPath id="id3">
+     <path d="M151.954 521.999l319.694 0 0 119.237 -319.694 0 0 -119.237z"/>
+    </clipPath>
+    <clipPath id="id4">
+     <path d="M470.018 454.201l330.869 0 0 63.5923 -330.869 0 0 -63.5923z"/>
+    </clipPath>
+     <clipPath id="id5">
+      <path d="M459.11 128.227l335.363 0 0 98.0396 -335.363 0 0 -98.0396z"/>
+     </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon fill="#FFFFBF" stroke="black" stroke-width="1.14621" points="0.573103,0.571154 1302.34,0.571154 1302.34,733.689 0.573103,733.689 "/>
+  <rect fill="url(#id0)" stroke="black" stroke-width="1.14621" x="108.878" y="28.4639" width="1158.35" height="635.738"/>
+  <path fill="none" stroke="black" stroke-width="3.24888" stroke-linecap="round" stroke-linejoin="round" d="M192.034 44.4285c-5.58678,5.46982 -16.3159,4.96104 -16.5583,12.7753 -0.166993,5.41654 11.1892,1.07018 16.0547,3.44901 2.1865,1.06758 -4.86553,3.68098 -3.27422,5.52375 2.0312,2.35479 6.62252,-0.0656274 9.3191,1.48149 1.22418,0.703708 -3.66539,2.9045 -2.38663,3.51334 3.06889,1.46005 6.93961,-0.771285 10.1937,0.205329 0.953222,0.285902 -0.619887,2.82198 0.365824,2.96818 3.32621,0.49383 7.33143,-1.06303 9.98447,0.996107 2.41847,1.87655 -1.28786,4.31192 -1.19364,7.37301 0.0753741,2.45486 0.853157,4.45357 1.71606,6.75378 0.556209,1.48799 1.08773,0.670569 2.67643,0.634832 3.00912,-0.0688763 6.82655,-0.448346 8.91753,1.71281 2.93114,3.02926 -0.528268,5.98704 0.705008,10.0189 0.576352,1.88305 2.71282,3.0468 4.53479,3.79405 4.25864,1.7466 9.44645,1.09812 13.3484,3.53933 1.35803,0.849258 1.02275,3.57377 0,4.80575 -3.0611,3.68748 -9.72715,4.33336 -11.3347,8.84996 -0.866152,2.43731 5.70049,-0.0298897 7.5569,1.77064 1.32944,1.29046 -1.38597,4.33271 0,5.56404 1.63419,1.44965 4.88957,-1.16635 6.54845,0.252763 1.41002,1.20599 -1.28526,4.52374 0.252113,5.56404 2.95843,2.00391 8.05463,-0.761538 10.5777,1.77064 1.91099,1.91879 -2.22483,5.8168 -0.75504,8.09232 1.25082,1.93568 5.32427,-0.503577 6.79991,1.26382 1.40612,1.68292 -1.70891,4.937 -0.251464,6.57509 1.45485,1.63614 4.81679,-0.832364 6.54845,0.506176 1.19949,0.927231 -1.3119,3.7921 0,4.55168 5.99874,3.47306 14.8344,1.83757 19.6453,6.82785 2.32685,2.41327 -7.36977,7.79537 -4.28268,9.10467 12.4296,5.27229 26.9228,2.9058 40.0477,6.06891 1.96947,0.474337 4.73362,2.65304 4.02991,4.55168 -1.18584,3.20015 -11.2899,5.21381 -8.06048,6.32298 14.2697,4.90711 29.2419,0.818718 43.8229,4.70568 2.39962,0.64003 2.63939,6.2463 4.9396,7.18003 5.0767,2.06109 16.72,-1.48214 15.967,3.94219 -0.808322,5.82135 -24.0937,4.78625 -17.9813,10.1703 7.05917,4.07735 20.8188,-1.09097 33.5973,2.41262 2.23133,0.612089 -3.36714,3.80964 -1.76219,5.47697 2.15726,2.24303 7.08646,-0.37687 9.52053,1.56596 1.84861,1.47369 -0.506176,4.05071 0.302146,6.27294 1.17285,3.22939 2.24108,7.26385 5.28853,8.85126 8.7174,4.54129 19.8838,3.37364 28.2094,8.59849 2.27097,1.42431 -6.44513,2.65954 -6.04487,5.31127 0.393765,2.60625 7.69595,0.427553 7.30349,3.03381 -0.500978,3.32101 -11.1294,3.14622 -8.56211,5.31127 5.55689,4.68684 14.928,1.55946 21.1561,5.31062 1.8837,1.13451 -4.31582,2.40092 -4.78495,4.55168 -0.450945,2.06304 4.28528,4.6615 2.51723,5.81615 -5.04811,3.29372 -13.2197,-0.0649777 -17.6297,4.04681 -2.65174,2.4711 14.0033,1.34309 10.5777,2.52763 -17.8416,6.17353 -38.1471,4.70438 -55.1582,12.8987 -5.58158,2.68813 15.453,-0.63873 17.8831,5.05786 1.89085,4.43213 -12.5238,0.81482 -13.349,5.56404 -0.711505,4.08774 12.2346,0.454194 11.5849,4.55103 -0.776483,4.89932 -8.66607,4.94285 -13.3484,6.57509 -9.38862,3.27292 -19.1184,5.48606 -28.713,8.09232 -14.9182,4.05201 -29.8027,8.26061 -44.8313,11.8857 -15.3698,3.70762 -30.8423,7.00329 -46.3447,10.1157 -13.8851,2.78819 -27.7961,5.5257 -41.8086,7.58744 -8.92533,1.3132 -18.6304,-0.962969 -26.9508,2.52828 -3.39053,1.42301 -0.7271,8.31194 -3.7778,10.3685 -3.85058,2.59586 -9.49259,-0.0844709 -13.8519,1.51723 -2.85057,1.04679 -3.82458,5.45682 -6.80056,6.07021 -13.041,2.68878 -26.6168,1.62184 -39.7943,3.54063 -3.13257,0.456143 -6.66021,1.22028 -8.81617,3.53933 -1.00131,1.07733 0.656274,3.07929 1.76284,4.04681 1.66928,1.45875 5.29113,0.69851 6.04487,2.78169 0.716704,1.98182 -2.31645,2.55817 -3.42692,4.3509 -0.822617,1.32944 -3.53348,3.24174 -2.16376,3.99548 3.09164,1.70111 7.48543,-0.504876 10.3769,1.51723 1.57376,1.10267 -3.3314,3.70633 -2.26707,5.30932 1.54322,2.32555 6.30673,0.680966 7.80707,3.03576 0.895392,1.40742 -4.95585,2.10593 -3.7778,3.28787 3.39508,3.40808 13.2152,1.25992 13.0969,6.06891 -0.161794,6.60238 -12.1638,7.96756 -13.6005,14.4153 -0.735547,3.29827 8.29505,1.12996 9.82267,4.14492 1.76479,3.47955 -0.536715,6.56274 -2.77065,9.76289 -2.57961,3.69268 -7.76873,4.78625 -10.8298,8.09362 -6.91817,7.47568 -14.7239,14.7265 -18.8903,24.0235 -1.12216,2.50684 4.98249,3.59326 5.28983,6.32298 0.299547,2.65694 -2.54128,4.70828 -3.7778,7.07997 -1.61794,3.10593 -4.52894,5.86488 -4.78625,9.35808 -0.139052,1.90125 3.60301,2.39962 3.7778,4.29827 0.218975,2.36779 -2.58221,4.2047 -2.77065,6.57509 -0.166993,2.10008 1.95843,3.97273 1.76349,6.07021 -0.328137,3.52699 -3.40678,6.57379 -3.27422,10.1157 0.0623785,1.66798 3.08384,1.76999 3.7778,3.28722 0.84406,1.84472 -0.298247,4.2047 0.503577,6.06891 0.634832,1.47499 4.09164,1.78494 3.52634,3.28722 -1.09357,2.9019 -7.05202,2.96948 -7.05202,6.07021 0,3.04615 6.56014,2.80898 7.05202,5.81615 0.641329,3.92075 -3.80704,7.18133 -4.28138,11.1274 -0.238468,1.98767 1.62444,3.66799 2.26707,5.56404 0.702408,2.07149 0.534116,4.51205 1.76219,6.32233 1.40872,2.07474 4.69723,2.54907 5.79341,4.80445 0.816119,1.68162 0.417157,4.10659 -0.75569,5.56404 -2.26577,2.81548 -7.23851,3.0676 -8.81552,6.32168 -0.761538,1.57311 4.79925,1.36388 4.28138,3.03446 -2.32555,7.49062 -10.8006,10.8604 -11.5849,18.6655 -0.318391,3.16116 6.78822,1.92399 9.3191,3.84213 1.82457,1.38467 0.66797,4.72128 2.01431,6.57509 1.08383,1.49254 2.99287,2.34699 4.7856,2.78169 3.19105,0.772584 6.90258,-0.739446 9.82332,0.758939 1.45485,0.745943 -0.309294,3.83368 1.0065,4.8051 2.06629,1.52503 5.43603,0.0688763 7.5569,1.51723 0.838862,0.572453 -2.05784,2.14881 -1.25992,2.78104 3.09554,2.45421 8.10531,1.94933 10.8298,4.80575 1.63224,1.71216 -0.487332,4.93375 0.504876,7.07997 1.87396,4.04681 6.06631,7.76678 8.66867,11.3919"/>
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="108.673" y1="72.5476" x2="131.18" y2= "72.5476" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="108.799" y1="155.814" x2="131.306" y2= "155.814" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="108.697" y1="240.903" x2="131.204" y2= "240.903" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="108.708" y1="324.283" x2="131.216" y2= "324.283" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="108.72" y1="409.601" x2="131.228" y2= "409.601" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="108.732" y1="494.462" x2="131.24" y2= "494.462" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="108.516" y1="580.806" x2="131.024" y2= "580.806" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="170.398" y1="665.07" x2="170.398" y2= "642.562" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="118.271" y1="665.07" x2="118.271" y2= "642.562" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="222.525" y1="665.07" x2="222.525" y2= "642.562" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="274.653" y1="665.07" x2="274.653" y2= "642.562" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="326.78" y1="665.07" x2="326.78" y2= "642.562" />
+  <line fill="none" stroke="black" stroke-width="1.94933" x1="378.909" y1="665.07" x2="378.909" y2= "642.562" />
+  <text x="108.465" y="704.464"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">0</text>
+  <text x="161.246" y="704.009"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">5</text>
+  <text x="205.775" y="704.464"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">1</text>
+  <text x="225.513" y="704.464"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">0</text>
+  <text x="258.556" y="704.464"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">15</text>
+  <text x="311.338" y="704.464"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">2</text>
+  <text x="331.076" y="704.464"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">0</text>
+  <text x="364.119" y="704.464"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">25</text>
+  <g transform="matrix(0.978148 0 -0.20791 0.978148 -2.77322 -145.143)">
+   <text x="640" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">К</text>
+   <text x="658.499" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">о</text>
+   <text x="675.464" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">л</text>
+   <text x="693.995" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">и</text>
+   <text x="711.738" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">ч</text>
+   <text x="728.285" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">е</text>
+   <text x="745.949" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">с</text>
+   <text x="761.829" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">т</text>
+   <text x="776.376" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">в</text>
+   <text x="792.896" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">о </text>
+   <text x="819.392" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">о</text>
+   <text x="836.701" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">з</text>
+   <text x="850.909" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">о</text>
+   <text x="868.573" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">н</text>
+   <text x="886.109" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">а</text>
+   <text x="903.448" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial"> </text>
+   <text x="912.288" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">(</text>
+   <text x="922.866" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">п</text>
+   <text x="940.064" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">а</text>
+   <text x="957.727" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">р</text>
+   <text x="975.391" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">ц</text>
+   <text x="993.583" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">и</text>
+   <text x="1011.33" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">а</text>
+   <text x="1028.99" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">л</text>
+   <text x="1047.52" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">ь</text>
+   <text x="1064.07" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">н</text>
+   <text x="1081.6" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">о</text>
+   <text x="1099.27" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">е </text>
+   <text x="1125.76" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">д</text>
+   <text x="1144.29" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">а</text>
+   <text x="1161.96" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">в</text>
+   <text x="1178.1" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">л</text>
+   <text x="1196.63" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">е</text>
+   <text x="1214.3" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">н</text>
+   <text x="1231.83" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">и</text>
+   <text x="1249.58" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">е</text>
+   <text x="1267.24" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">, </text>
+   <text x="1284.9" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">м</text>
+   <text x="1306.73" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">П</text>
+   <text x="1329.56" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">а</text>
+   <text x="1347.22" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">)</text>
+  </g>
+  <text x="58.1927" y="90.7257"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">3</text>
+  <text x="77.9556" y="90.7257"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">5</text>
+  <text x="58.1927" y="173.746"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">3</text>
+  <text x="77.9556" y="173.746"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">0</text>
+  <text x="58.1927" y="256.766"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">2</text>
+  <text x="77.9556" y="256.766"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">5</text>
+  <text x="58.1927" y="343.15"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">2</text>
+  <text x="77.9556" y="343.15"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">0</text>
+  <text x="58.1927" y="429.535"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">1</text>
+  <text x="77.9556" y="429.535"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">5</text>
+  <text x="58.1927" y="515.919"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">1</text>
+  <text x="77.9556" y="515.919"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">0</text>
+  <text x="77.2643" y="595.575"  fill="black" font-weight="normal" font-size="35.4895" font-family="Arial">5</text>
+  <g transform="matrix(0 -0.978148 0.978148 0.20791 -812.074 952.244)">
+   <text x="640" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">Высота </text>
+   <text x="757.946" y="873.087"  fill="black" font-weight="normal" font-size="31.7474" font-family="Arial">(километры)</text>
+  </g>
+ </g>
+ <g id="Outline">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="_50904448">
+   <g clip-path="url(#id1)">
+    <image id="_26601216" transform="matrix(1 0 0 1 186.44 -494.922)" x="640" y="533.461" width="435.981" height="339.626" xlink:href="data:image/png;base64,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
+wdgl7X8S9q0hqVtCnljqbeg4MPf4KtG9Q173qAmbHrVcKva5PrTtkhE8w2Tms21FUfMjq7VYuy7b
+JnLMSBHyR0y98Jy7ljCHTU2eKt7lJmLuEuR26fbr+/LTqmGeWpVguslV84pI94p3++6WeRrtb/kf
+hJBjMLMZg0eatuRjtrfvchN9BbnTCyV8BUcfVvyRvtS7+nanFPeF4PBgdcP640EI+RvMcl6Es6nP
+xq0goq+bg6tPP1y7ZGz+cFChu4zdJl803OciEF1lQj6L+r6aK7YKfy9CDm5X+24Um5c/dnOb+0Mh
+ZH/QfdhUvhLS9rP7tT6ZEPJlJHbVONaVFZb2Ptbj1OAsyfBnedWV1yA/2vRZJrX+WnSaXEK+wpLM
+ZnLlKDG1xr5+O73hPYkV/Bs/fb4uIeT/FZQuIUeyZ5i37rw1eZm6BLfmVBNCvky/LOIE19z+Xp3n
+/cCSi05pdQk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqX
+kCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOh
+dAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5
+EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqX
+kCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOh
+dAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5EkqXkCOhdAk5klJKDC3GEMeA
+sY0hxhrkS4x9TIbQ5V6MMXSZ6GF8lHpoY6p/5y9AyHHEFFIaY9SLlKK8Qsp4m3Umy+SYyTHbNUZc
+5/GNkVaXkCOhdAk5EkqXkCOhdAk5klJuqXfEyK2lOoJfS1mlKmmqEVHHmkJIYzJkpK4kTRV7x0VH
+piqO7/7u34KQk0gReaa0vzQFhYuUxxdPTeWS8GkZ10muxxd5pUSrS8iRULqEHAmlS8iRULqEHIml
+qeqIm1uKQZJVAckqJKgaElQtxh4kNSUjklWWpgq9hfFNidVUhHwF5KjiVkc1i6X0tZJSMe8JKpth
+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
+TkSuQmCC"/>
+   </g>
+  </g>
+  <rect fill="white" x="848.75" y="47.4402" width="405.107" height="308.75" rx="23.0411" ry="23.0411"/>
+  <text x="855.637" y="75.8406"  fill="black" font-weight="normal" font-size="21.4329" font-family="Symbol">·</text>
+  <text x="855.637" y="134.996"  fill="black" font-weight="normal" font-size="21.4329" font-family="Symbol">·</text>
+  <text x="855.637" y="225.137"  fill="black" font-weight="normal" font-size="21.4329" font-family="Symbol">·</text>
+  <text x="890.024" y="253.306"  fill="black" font-weight="normal" font-size="21.4329" font-family="Symbol">-</text>
+  <text x="890.024" y="312.461"  fill="black" font-weight="normal" font-size="21.4329" font-family="Symbol">-</text>
+  <text x="870.081" y="75.8406"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">Содержит 90% атмосферного </text>
+  <text x="855.637" y="106.827"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">озона</text>
+  <text x="870.081" y="134.996"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">Положительная роль: действует </text>
+  <text x="855.637" y="165.982"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">как основная защита от ультра-</text>
+  <text x="855.637" y="196.967"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">фиолетового излучения</text>
+  <text x="870.081" y="225.137"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">Текущие проблемы:</text>
+  <text x="906.371" y="253.306"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">Долгосрочная глобальная </text>
+  <text x="855.637" y="284.292"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">тенденция к уменьшению</text>
+  <text x="906.371" y="312.461"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">Весенняя антарктическая </text>
+  <text x="855.637" y="343.447"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">озоновая дыра каждый год</text>
+  <g id="_50909128">
+   <g clip-path="url(#id2)">
+    <image id="_26601192" transform="matrix(1 0 0 1 187.919 -216.243)" x="640" y="598.505" width="430.068" height="274.582" xlink:href="data:image/png;base64,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"/>
+   </g>
+  </g>
+  <rect fill="white" x="848.522" y="387.859" width="405.107" height="249.62" rx="23.0411" ry="23.0411"/>
+  <text x="855.409" y="417.011"  fill="black" font-weight="normal" font-size="21.4329" font-family="Symbol">·</text>
+  <text x="855.409" y="476.166"  fill="black" font-weight="normal" font-size="21.4329" font-family="Symbol">·</text>
+  <text x="855.409" y="535.321"  fill="black" font-weight="normal" font-size="21.4329" font-family="Symbol">·</text>
+  <text x="889.795" y="563.49"  fill="black" font-weight="normal" font-size="21.4329" font-family="Symbol">-</text>
+  <text x="869.853" y="417.011"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">Содержит </text>
+  <text x="1007.83" y="417.011"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">0% атмосферного </text>
+  <text x="855.409" y="447.997"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">озона</text>
+  <text x="869.853" y="476.166"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">Негативное воздействие: </text>
+  <text x="855.409" y="507.152"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">токсичен для людей и растений</text>
+  <text x="869.853" y="535.321"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">Текущие проблемы:</text>
+  <text x="906.143" y="563.49"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">Повышение концентрации </text>
+  <text x="855.409" y="594.476"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">поверхностного озона в город-</text>
+  <text x="855.409" y="625.462"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">ских и сельских районах</text>
+  <text x="993.803" y="417.011"  fill="black" font-weight="normal" font-size="25.2152" font-family="Arial">1</text>
+  <g id="_50884872">
+   <g clip-path="url(#id3)">
+    <image id="_51048120" transform="matrix(1 0 0 1 -488.046 -231.851)" x="640" y="753.851" width="319.694" height="119.237" xlink:href="data:image/png;base64,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
+SqMjAAAAAElFTkSuQmCC"/>
+   </g>
+  </g>
+  <path fill="white" fill-rule="nonzero" d="M231.482 561.572c0,-9.67777 0,-19.3542 0,-29.032 0,-5.34311 6.45163,-9.67712 14.4062,-9.67712 70.8861,0 141.772,0 212.658,0 7.95456,0 14.4062,4.33401 14.4062,9.67712 0,9.67777 0,19.3542 0,29.032 0,5.34311 -6.45163,9.67712 -14.4062,9.67712 -41.4791,0 -82.9596,0 -124.439,0 -55.0991,18.4329 -110.198,36.8657 -165.297,55.2986 36.9885,-18.4329 73.9771,-36.8657 110.966,-55.2986 -11.2957,0 -22.5921,0 -33.8878,0 -7.95456,0 -14.4062,-4.33401 -14.4062,-9.67712zm0 -14.516m4.21965 -21.3582m116.515 -2.83498m116.515 2.83498m4.2203 21.3582m-4.2203 21.3582m-72.4059 2.83498m-144.868 27.6493m-27.1659 0m38.5389 -27.6493m-27.1301 -2.83498"/>
+  <text x="242.485" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">С</text>
+  <text x="264.903" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">м</text>
+  <text x="286.246" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">о</text>
+  <text x="303.51" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">г</text>
+  <text x="314.144" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">о</text>
+  <text x="331.408" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">в</text>
+  <text x="347.901" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">ы</text>
+  <text x="370.216" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">й </text>
+  <text x="396.102" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">о</text>
+  <text x="413.019" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">з</text>
+  <text x="426.903" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">о</text>
+  <text x="444.167" y="556.101"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">н</text>
+  <g id="_50877536">
+   <g clip-path="url(#id4)">
+    <image id="_51048096" transform="matrix(1 0 0 1 -169.982 -355.294)" x="640" y="809.495" width="330.869" height="63.5923" xlink:href="data:image/png;base64,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"/>
+   </g>
+  </g>
+  <rect fill="white" x="482.92" y="450.283" width="322.575" height="55.2986" rx="21.889" ry="21.889"/>
+  <text x="497.008" y="487.731"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">Тропосферный </text>
+  <text x="723.874" y="487.731"  fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">озон</text>
+  <g id="_50794040">
+   <g>
+    <g clip-path="url(#id5)">
+     <image id="_51228512" transform="matrix(1 0 0 1 -180.89 -646.821)" x="640" y="775.048" width="335.363" height="98.0396" xlink:href="data:image/png;base64,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
+7k0RGxvyAAAAAElFTkSuQmCC"/>
+    </g>
+   </g>
+   <rect id="_50803632" fill="white" x="471.612" y="127.708" width="322.575" height="85.252" rx="21.889" ry="21.889"/>
+   <text x="479.481" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">С</text>
+   <text x="501.909" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">т</text>
+   <text x="516.134" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">р</text>
+   <text x="533.408" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">а</text>
+   <text x="549.999" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">т</text>
+   <text x="563.877" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">о</text>
+   <text x="581.151" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">с</text>
+   <text x="596.681" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">ф</text>
+   <text x="622.235" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">е</text>
+   <text x="639.509" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">р</text>
+   <text x="656.782" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">н</text>
+   <text x="673.932" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">ы</text>
+   <text x="696.257" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">й </text>
+   <text x="722.13" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">о</text>
+   <text x="739.057" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">з</text>
+   <text x="752.951" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">о</text>
+   <text x="770.225" y="162.112" id="_50799232" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">н</text>
+   <text x="520.741" y="198.013" id="_50794064" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">(озоновый </text>
+   <text x="678.43" y="198.013" id="_50794064" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">слой</text>
+   <text x="744.246" y="198.013" id="_50794064" fill="black" font-weight="normal" font-size="31.0528" font-family="Arial">)</text>
+  </g>
+ </g>
+</svg>

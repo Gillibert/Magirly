@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/SVG/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="243px" height="328px" >
+<desc>
+Created with Chemtool 1.6.9 
+</desc>
+<g>
+<line x1="21" y1="120" x2="76" y2="88"
+style="stroke-width:2; stroke-linecap:round; stroke:#000000" />
+<line x1="76" y1="88" x2="131" y2="120"
+style="stroke-width:2; stroke-linecap:round; stroke:#000000" />
+<line x1="131" y1="120" x2="131" y2="184"
+style="stroke-width:2; stroke-linecap:round; stroke:#000000" />
+<line x1="131" y1="184" x2="76" y2="216"
+style="stroke-width:2; stroke-linecap:round; stroke:#000000" />
+<line x1="76" y1="216" x2="21" y2="184"
+style="stroke-width:2; stroke-linecap:round; stroke:#000000" />
+<line x1="21" y1="184" x2="21" y2="120"
+style="stroke-width:2; stroke-linecap:round; stroke:#000000" />
+<circle cx="76" cy="152" r="39"
+style="fill:none; stroke-width:2; stroke-linecap:round; stroke:#000000" />
+<line x1="76" y1="88" x2="76" y2="36"
+style="stroke-width:2; stroke-linecap:round; stroke:#000000" />
+<line x1="181" y1="85" x2="145" y2="110" style="stroke-width:2; stroke-linecap:round; stroke:#0000ff" />
+<polygon style="fill:#0000ff; stroke-linecap:round; stroke:#0000ff; stroke-width:1" points="137,116 148,115 143,106" />
+<line x1="181" y1="213" x2="144" y2="191" style="stroke-width:2; stroke-linecap:round; stroke:#0000ff" />
+<polygon style="fill:#0000ff; stroke-linecap:round; stroke:#0000ff; stroke-width:1" points="136,186 142,195 147,186" />
+<line x1="76" y1="274" x2="76" y2="233" style="stroke-width:2; stroke-linecap:round; stroke:#0000ff" />
+<polygon style="fill:#0000ff; stroke-linecap:round; stroke:#0000ff; stroke-width:1" points="76,223 70,233 81,233" />
+<text x="68" y="32" style="font-family:FreeSans; font-size:18pt; fill:#0000ff;text-anchor:start;" > 
+<tspan>R</tspan>
+</text>
+<text x="183" y="86" style="font-family:FreeSans; font-size:18pt; fill:#0000ff;text-anchor:start;" > 
+<tspan>ortho</tspan>
+</text>
+<text x="186" y="225" style="font-family:FreeSans; font-size:18pt; fill:#0000ff;text-anchor:start;" > 
+<tspan>meta</tspan>
+</text>
+<text x="71" y="296" style="font-family:FreeSans; font-size:18pt; fill:#0000ff;text-anchor:start;" > 
+<tspan>para</tspan>
+</text>
+</g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="500"
+   viewBox="0 0 1 1"
+   id="svg17052"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docname="Hazard_X_gold.svg"
+   sodipodi:docbase="C:\Dokumente und Einstellungen\Jonas Töle\Desktop">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="598"
+     inkscape:window-width="925"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.756"
+     inkscape:cx="250"
+     inkscape:cy="250"
+     inkscape:window-x="22"
+     inkscape:window-y="-3"
+     inkscape:current-layer="svg17052" />
+  <defs
+     id="defs17131" />
+  <title
+     id="title17054">SVG drawing</title>
+  <desc
+     id="desc17056">This was produced by version 4.1 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+  <polygon
+     points="182.85,519.35 210.04,519.35 210.04,546.5 182.85,546.5 182.85,519.35 "
+     transform="matrix(3.616548e-2,0,0,-3.621881e-2,-6.604528,19.80191)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#eedc82;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.4603689;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="polygon17062" />
+  <polygon
+     points="196.3,529.82 189.93,523.47 185.65,527.75 192.03,534.16 185.91,540.41 190.31,544.81 196.58,538.48 202.93,544.79 207.31,540.41 200.9,533.92 207.1,527.95 202.69,523.5 196.3,529.82 "
+     transform="matrix(3.616548e-2,0,0,-3.621881e-2,-6.605794,19.84592)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="polygon17128" />
+</svg>

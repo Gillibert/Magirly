@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="487"
+   height="334"
+   id="svg2211">
+  <defs
+     id="defs2214" />
+  <path
+     d="M 79,148 C 79,148 126,148 126,148 C 207,148 198,65 245,65 C 299,66 305,236 409,236 C 409,236 461,236 461,236"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="path2224" />
+  <path
+     d="M 40,252 L 40,28 M 30,46 L 40,26 L 49,46"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="path2220" />
+  <path
+     d="M 82,295 L 423,295 M 404,305 L 423,295 L 404,285"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="path2222" />
+  <path
+     d="M 218,56 L 268,56 M 218,50 L 218,63 M 268,50 L 268,63"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="path2236" />
+  <text
+     x="250"
+     y="38"
+     style="font-size:20px;text-align:center;text-anchor:middle;fill:#000000;font-family:sans"
+     id="text2238"
+     xml:space="preserve"><tspan
+       x="250"
+       y="38"
+       id="tspan2240">activated complex</tspan></text>
+  <text
+     x="70"
+     y="167"
+     style="font-size:20px;text-align:start;text-anchor:start;fill:#000000;font-family:sans"
+     id="text2242"
+     xml:space="preserve"><tspan
+       x="70"
+       y="167"
+       id="tspan2244">reactants</tspan></text>
+  <text
+     x="463"
+     y="253"
+     style="font-size:20px;text-align:end;text-anchor:end;fill:#000000;font-family:sans"
+     id="text2246"
+     xml:space="preserve"><tspan
+       x="463"
+       y="253"
+       id="tspan2248">products</tspan></text>
+  <text
+     x="224"
+     y="289"
+     style="font-size:20px;text-align:center;text-anchor:middle;fill:#000000;font-family:sans"
+     id="text2250"
+     xml:space="preserve"><tspan
+       x="224"
+       y="289"
+       id="tspan2252">reaction coordinate</tspan></text>
+  <text
+     x="-141"
+     y="32"
+     transform="matrix(0,-1,1,0,0,0)"
+     style="font-size:20px;text-align:center;text-anchor:middle;fill:#000000;font-family:sans"
+     id="text2254"
+     xml:space="preserve"><tspan
+       x="-141"
+       y="32"
+       id="tspan2256">potential energy</tspan></text>
+</svg>

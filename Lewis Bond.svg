@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="578"
+   height="413"
+   id="svg2">
+  <defs
+     id="defs6">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         id="path3637"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+  </defs>
+  <path
+     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
+     id="path2818"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
+     transform="translate(126,0)"
+     id="path3592"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
+     transform="translate(246,0)"
+     id="path3594"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
+     transform="matrix(14.370746,0,0,14.370746,-2163.3182,-2812.7999)"
+     id="path3596"
+     style="fill:none;stroke:#000000;stroke-width:0.13917162;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.55668645, 0.55668645;stroke-dashoffset:0" />
+  <path
+     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
+     transform="matrix(41.626498,0,0,41.626498,-6573.1591,-8546.5843)"
+     id="path3598"
+     style="fill:none;stroke:#000000;stroke-width:0.04804632;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.19218528, 0.19218528;stroke-dashoffset:0" />
+  <path
+     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
+     transform="matrix(14.370746,0,0,14.370746,-1917.3182,-2812.7999)"
+     id="path3600"
+     style="fill:none;stroke:#000000;stroke-width:0.13917162;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.55668645, 0.55668645;stroke-dashoffset:0" />
+  <path
+     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
+     transform="matrix(41.626498,0,0,41.626498,-6327.1592,-8546.5844)"
+     id="path3602"
+     style="fill:none;stroke:#000000;stroke-width:0.04804632;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.19218528, 0.19218528;stroke-dashoffset:0" />
+  <text
+     x="163.96039"
+     y="200.77957"
+     id="text3604"
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+       x="163.96039"
+       y="200.77957"
+       id="tspan3606">+</tspan></text>
+  <text
+     x="407.73544"
+     y="200.77957"
+     id="text3608"
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+       x="407.73544"
+       y="200.77957"
+       id="tspan3610">+</tspan></text>
+  <text
+     x="287.73544"
+     y="202.77957"
+     id="text3612"
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+       x="287.73544"
+       y="202.77957"
+       id="tspan3614">-</tspan></text>
+  <text
+     x="153.44217"
+     y="39.294048"
+     id="text3616"
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+       x="153.44217"
+       y="39.294048"
+       id="tspan3618">shared electron</tspan></text>
+  <text
+     x="264.81149"
+     y="387.63257"
+     id="text3620"
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+       x="264.81149"
+       y="387.63257"
+       id="tspan3622">orbit overlap</tspan></text>
+  <path
+     d="m 284.8125,140.0625 c -11.87426,20.72175 -18.65625,44.71768 -18.65625,70.3125 0,25.59541 6.78149,49.59043 18.65625,70.3125 11.87012,-20.7191 18.625,-44.72248 18.625,-70.3125 0,-25.58935 -6.75546,-49.59378 -18.625,-70.3125 z"
+     id="path3624"
+     style="fill:#000000;fill-opacity:0.1254902;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8.00000017, 8.00000017;stroke-dashoffset:0" />
+  <path
+     d="M 207.88939,46.718687 282.75433,202.63573"
+     id="path3629"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+  <path
+     d="M 300.69716,363.50253 285.2292,247.18346"
+     id="path4265"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+</svg>

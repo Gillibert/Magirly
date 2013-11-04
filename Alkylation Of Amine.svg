@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="252.43" width="476.53" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata8">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs6">
+  <marker id="Arrow1Lend" refY="0" refX="0" overflow="visible" orient="auto">
+   <path id="path5353" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.8 0 0 -.8 -10 0)" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <linearGradient id="linearGradient5265-4" x1="110.04" gradientUnits="userSpaceOnUse" y1="-53.267" gradientTransform="translate(187.91 131.83)" x2="112.64" y2="-53.267">
+   <stop id="stop5247-5" offset="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5265-8" x1="110.04" gradientUnits="userSpaceOnUse" y1="-53.267" gradientTransform="translate(187.91 126.23)" x2="112.64" y2="-53.267">
+   <stop id="stop5247-3" offset="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5974" x1="110.04" gradientUnits="userSpaceOnUse" y1="-53.267" gradientTransform="translate(-34.247 126.46)" x2="112.64" y2="-53.267">
+   <stop id="stop5247-3-3" offset="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5976" x1="110.04" gradientUnits="userSpaceOnUse" y1="-53.267" gradientTransform="translate(-34.247 132.06)" x2="112.64" y2="-53.267">
+   <stop id="stop5247-5-8" offset="0"/>
+  </linearGradient>
+ </defs>
+ <path id="path2987" stroke="#000" stroke-width="1px" fill="none" d="m67.539 43.043v17.564"/>
+ <text id="text2989" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="34.277344" x="60.412106" font-family="Sans" fill="#000000"><tspan id="tspan2991" y="34.277344" x="60.412106">R<tspan id="tspan2993" style="baseline-shift:sub" font-size="65.001%">1</tspan></tspan></text>
+ <text id="text2995" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="82.704025" x="60.248814" font-family="Sans" fill="#000000"><tspan id="tspan2997" y="82.704025" x="60.248814">N</tspan></text>
+ <text id="text2999" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="82.704025" x="18.545572" font-family="Sans" fill="#000000"><tspan id="tspan3001" y="82.704025" x="18.545572">H</tspan></text>
+ <text id="text3003" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="128.86435" x="61.469471" font-family="Sans" fill="#000000"><tspan id="tspan3005" y="128.86435" x="61.469471">R<tspan id="tspan3017" style="baseline-shift:sub" font-size="65.001%">2</tspan></tspan></text>
+ <text id="text3007" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="82.640549" x="151.96106" font-family="Sans" fill="#000000"><tspan id="tspan3009" y="82.640549" x="151.96106">R<tspan id="tspan3015" style="baseline-shift:sub" font-size="65.001%">3</tspan>X</tspan></text>
+ <text id="text3011" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="82.704025" x="414.29312" font-family="Sans" fill="#000000"><tspan id="tspan3013" y="82.704025" x="414.29312">HX</tspan></text>
+ <rect id="rect3019-7" height="2.2664" width="1.6998" stroke="#000" y="77.434" x="298.39" stroke-width=".9" fill="url(#linearGradient5265-4)"/>
+ <rect id="rect3019-2" height="2.2664" width="1.6998" stroke="#000" y="71.831" x="298.39" stroke-width=".9" fill="url(#linearGradient5265-8)"/>
+ <path id="path2987-9" stroke="#000" stroke-width="1px" fill="none" d="m67.539 89.22v17.564"/>
+ <path id="path2987-2" stroke="#000" stroke-width="1px" fill="none" d="m37.226 75.565h17.564"/>
+ <text id="text5337" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="82.635666" x="103.80074" font-family="Sans" fill="#000000"><tspan id="tspan5339" y="82.635666" x="103.80074">+</tspan></text>
+ <path id="path5345" marker-end="url(#Arrow1Lend)" d="m205.79 75.565h59.492" stroke="#000" stroke-width="1px" fill="none"/>
+ <text id="text2995-6" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="82.704025" x="302.75018" font-family="Sans" fill="#000000"><tspan id="tspan2997-6" y="82.704025" x="302.75018">N</tspan></text>
+ <path id="path2987-7" stroke="#000" stroke-width="1px" fill="none" d="m310.04 45.292v17.564"/>
+ <path id="path2987-0" stroke="#000" stroke-width="1px" fill="none" d="m310.04 90.619v17.564"/>
+ <path id="path2987-2-1" stroke="#000" stroke-width="1px" fill="none" d="m320.82 75.565h17.564"/>
+ <text id="text2989-5" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="34.883286" x="302.91348" font-family="Sans" fill="#000000"><tspan id="tspan2991-7" y="34.883286" x="302.91348">R<tspan id="tspan2993-6" style="baseline-shift:sub" font-size="65.001%">1</tspan></tspan></text>
+ <text id="text3003-8" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="128.86435" x="303.97086" font-family="Sans" fill="#000000"><tspan id="tspan3005-8" y="128.86435" x="303.97086">R<tspan id="tspan3017-1" style="baseline-shift:sub" font-size="65.001%">2</tspan></tspan></text>
+ <text id="text5903" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="82.640549" x="343.46915" font-family="Sans" fill="#000000"><tspan id="tspan5905" y="82.640549" x="343.46915">R<tspan id="tspan5907" style="baseline-shift:sub" font-size="65.001%">3</tspan></tspan></text>
+ <text id="text5337-8" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="20px" line-height="125%" y="82.635666" x="383.85529" font-family="Sans" fill="#000000"><tspan id="tspan5339-6" y="82.635666" x="383.85529">+</tspan></text>
+ <rect id="rect3019-7-7" height="2.2664" width="1.6998" stroke="#000" y="77.659" x="76.238" stroke-width=".9" fill="url(#linearGradient5976)"/>
+ <rect id="rect3019-2-9" height="2.2664" width="1.6998" stroke="#000" y="72.056" x="76.238" stroke-width=".9" fill="url(#linearGradient5974)"/>
+ <text id="text3058" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="13px" line-height="125%" y="164.30502" x="128.95523" font-family="Sans" fill="#000000"><tspan id="tspan3060" y="164.30502" x="128.95523">halogenoalkane</tspan></text>
+ <text id="text3062" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="13px" line-height="125%" y="164.30502" x="330.25742" font-family="Sans" fill="#000000"><tspan id="tspan3064" y="164.30502" x="330.25742" style="text-anchor:middle;text-align:center">alkyl-substituted</tspan><tspan id="tspan3066" y="180.55502" x="330.25742" style="text-anchor:middle;text-align:center">amine</tspan><tspan id="tspan3074" y="196.80502" x="330.25742" style="text-anchor:middle;text-align:center"/><tspan id="tspan3076" y="213.05502" x="330.25742" style="text-anchor:middle;text-align:center">(secondary</tspan><tspan id="tspan3078" y="229.30502" x="330.25742" style="text-anchor:middle;text-align:center">or tertiary)</tspan></text>
+ <text id="text3068" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="13px" line-height="125%" y="164.30502" x="434.1709" font-family="Sans" fill="#000000"><tspan id="tspan3070" y="164.30502" x="434.1709" style="text-anchor:middle;text-align:center">halogen</tspan><tspan id="tspan3072" y="180.55502" x="434.1709" style="text-anchor:middle;text-align:center">acid</tspan></text>
+ <text id="text3059" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="13px" line-height="125%" y="165.62997" x="54.407715" font-family="Sans" fill="#000000"><tspan id="tspan3061" x="54.407715" style="text-anchor:middle;text-align:center" y="165.62997">primary or</tspan><tspan id="tspan3063" x="54.407715" style="text-anchor:middle;text-align:center" y="181.87997">secondary</tspan><tspan id="tspan3065" x="54.407715" style="text-anchor:middle;text-align:center" y="198.12997">amine</tspan></text>
+</svg>

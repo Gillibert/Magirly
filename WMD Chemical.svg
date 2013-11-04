@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="310pt"
+   height="310pt"
+   id="svg2271"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/Users/User/Desktop"
+   sodipodi:docname="WMD-chemical.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2273">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 193.75 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="387.5 : 193.75 : 1"
+       inkscape:persp3d-origin="193.75 : 129.16667 : 1"
+       id="perspective11" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="739"
+     inkscape:window-height="701"
+     inkscape:window-x="115"
+     inkscape:window-y="65"
+     showgrid="false" />
+  <metadata
+     id="metadata2276">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3118"
+       transform="translate(-96.04554,76.78907)">
+      <circle
+         transform="matrix(0.828945,0,0,0.828945,90.84874,-81.98587)"
+         sodipodi:ry="200"
+         sodipodi:rx="200"
+         sodipodi:cy="240"
+         sodipodi:cx="240"
+         id="circle3848"
+         style="font-size:12px;opacity:1;fill:#008d00;fill-opacity:1;stroke:none;stroke-width:20"
+         r="200"
+         cy="240"
+         cx="240" />
+      <circle
+         transform="matrix(0.828945,0,0,0.828945,90.84874,-81.98587)"
+         sodipodi:ry="200"
+         sodipodi:rx="200"
+         sodipodi:cy="240"
+         sodipodi:cx="240"
+         id="circle1738"
+         style="font-size:12px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:20"
+         r="200"
+         cy="240"
+         cx="240" />
+      <path
+         d="M 320.57721,120.89043 C 320.57721,137.79873 306.85452,151.52141 289.94622,151.52141 C 273.03792,151.52141 259.31524,137.79873 259.31524,120.89043 C 259.31524,103.98213 273.03792,90.259454 289.94622,90.259454 C 306.85452,90.259454 320.57721,103.98213 320.57721,120.89043 z M 299.96854,80.449578 L 300.02036,55.397838 C 317.30628,50.924852 330.07905,35.224136 330.07904,16.546331 C 330.07904,-5.6100516 312.10577,-23.605368 289.94938,-23.605368 C 289.77628,-23.605368 289.59307,-23.607554 289.42049,-23.605368 C 289.24925,-23.603196 289.08435,-23.609683 288.91363,-23.605368 C 288.82895,-23.603224 288.73375,-23.608033 288.64919,-23.605368 C 267.08673,-22.925523 249.79768,-5.1800203 249.79768,16.546331 C 249.79768,35.224136 262.59248,50.924852 279.8784,55.397838 L 279.8784,80.449578 C 282.44501,79.844321 287.19834,79.47763 289.92347,79.374264 C 290.01046,79.370963 296.75964,79.653892 299.96854,80.449578 z M 249.89642,132.50645 L 228.17508,144.98744 C 215.6584,132.2539 195.67481,129.04272 179.49936,138.38163 C 160.31138,149.45981 153.71362,174.02278 164.79182,193.21076 C 164.87836,193.36067 164.96808,193.52043 165.05626,193.6688 C 165.14376,193.81601 165.2206,193.96206 165.30969,194.10775 C 165.35389,194.18002 165.39733,194.26487 165.44191,194.33677 C 176.8119,212.67047 200.82448,218.77047 219.64004,207.90729 C 235.81549,198.56839 243.0153,179.63741 238.24606,162.43088 L 259.94149,149.90501 C 258.13402,147.9849 255.43979,144.05173 253.98771,141.74339 C 253.94135,141.6697 250.81179,135.68328 249.89642,132.50645 z M 329.89508,132.50645 L 351.61642,144.98744 C 364.1331,132.2539 384.11669,129.04272 400.29214,138.38163 C 419.48012,149.45981 426.07788,174.02278 414.99968,193.21076 C 414.91314,193.36067 414.82342,193.52043 414.73524,193.6688 C 414.64774,193.81601 414.5709,193.96206 414.48181,194.10775 C 414.43761,194.18002 414.39417,194.26487 414.34958,194.33677 C 402.9796,212.67047 378.96702,218.77047 360.15146,207.90729 C 343.97601,198.56839 336.7762,179.63741 341.54544,162.43088 L 319.85001,149.90501 C 321.65748,147.9849 324.35171,144.05173 325.80379,141.74339 C 325.85015,141.6697 328.97971,135.68328 329.89508,132.50645 z M 310.68761,156.8646 L 322.62839,163.78227 C 313.55918,170.70466 302.23195,174.81718 289.94938,174.81718 C 277.6494,174.81718 266.30746,170.69298 257.2318,163.7528 L 257.2318,163.75279 L 269.16759,156.84266 C 275.28211,160.38323 282.38107,162.41027 289.94938,162.41027 C 297.50203,162.41027 304.58489,160.39161 310.68761,156.8646 z M 343.40845,128.00736 L 331.46667,121.13756 C 331.46714,121.05585 331.46738,120.72223 331.46738,120.64041 C 331.46738,105.24185 323.07618,92.048026 310.61874,84.880217 L 310.61874,84.880217 L 310.6138,71.072842 C 330.13629,79.185647 343.8743,98.4433 343.8743,120.89226 C 343.8743,123.30409 343.71573,125.67907 343.40845,128.00736 z M 248.40981,121.09204 L 236.48177,127.94233 C 236.18009,125.63486 236.02446,123.28163 236.02446,120.89226 C 236.02446,98.446354 249.7508,79.185139 269.26534,71.067652 L 269.28686,84.854435 C 256.81542,92.026073 248.40933,105.48673 248.40934,120.89226 C 248.40934,120.9589 248.4095,121.02549 248.40981,121.09204 z "
+         style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+         id="path1350" />
+    </g>
+  </g>
+</svg>
