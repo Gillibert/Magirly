@@ -1,364 +1,102 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.0"
-   width="127.35352mm"
-   height="59.853519mm"
-   viewBox="0 0 483 227"
-   id="svg2">
-  <defs
-     id="defs135" />
-  <g
-     transform="translate(-23,-39)"
-     id="g4"
-     style="font-size:15px;stroke-linecap:round;font-family:Helvetica">
-    <g
-       id="g6"
-       style="stroke:#000000;stroke-width:2.27555561">
-      <line
-         x1="186.55"
-         x2="183.14"
-         y1="147.36"
-         y2="153.27"
-         id="line8" />
-      <line
-         x1="192.3"
-         x2="188.89"
-         y1="150.67999"
-         y2="156.59"
-         id="line10" />
-      <line
-         x1="198.05"
-         x2="194.64"
-         y1="154"
-         y2="159.91"
-         id="line12" />
-      <line
-         x1="203.8"
-         x2="200.38"
-         y1="157.32001"
-         y2="163.23"
-         id="line14" />
-      <line
-         x1="209.53999"
-         x2="206.13"
-         y1="160.64"
-         y2="166.55"
-         id="line16" />
-      <line
-         x1="215.28999"
-         x2="211.88"
-         y1="163.96001"
-         y2="169.87"
-         id="line18" />
-      <line
-         x1="221.03999"
-         x2="217.63"
-         y1="167.28"
-         y2="173.19"
-         id="line20" />
-      <line
-         x1="226.78999"
-         x2="223.37"
-         y1="170.59"
-         y2="176.50999"
-         id="line22" />
-    </g>
-    <g
-       id="g24"
-       style="stroke:#000000;stroke-width:2.27555561">
-      <line
-         x1="126"
-         x2="80.019997"
-         y1="147"
-         y2="120.45"
-         id="line26" />
-    </g>
-    <g
-       id="g28"
-       style="stroke:#000000;stroke-width:2.27555561">
-      <line
-         x1="179.10001"
-         x2="214"
-         y1="147"
-         y2="126.85"
-         id="line30" />
-    </g>
-    <g
-       id="g32"
-       style="stroke:#000000;stroke-width:1">
-      <polygon
-         points="113.94,174.71 108.03,171.29 125.01,146.43 126.99,147.57 126.99,147.57 "
-         id="polygon34"
-         style="fill:#000000;stroke:#000000" />
-    </g>
-    <g
-       id="g36"
-       style="stroke:#000000;stroke-width:2.27555561">
-      <line
-         x1="126"
-         x2="179.10001"
-         y1="147"
-         y2="147"
-         id="line38" />
-    </g>
-    <g
-       id="g40"
-       style="stroke:#000000;stroke-width:2.27555561">
-      <line
-         x1="121.96"
-         x2="118.55"
-         y1="153.27"
-         y2="147.36"
-         id="line42" />
-      <line
-         x1="116.21"
-         x2="112.8"
-         y1="156.59"
-         y2="150.67999"
-         id="line44" />
-      <line
-         x1="110.46"
-         x2="107.05"
-         y1="159.91"
-         y2="154"
-         id="line46" />
-      <line
-         x1="104.72"
-         x2="101.3"
-         y1="163.23"
-         y2="157.32001"
-         id="line48" />
-      <line
-         x1="98.970001"
-         x2="95.559998"
-         y1="166.55"
-         y2="160.64"
-         id="line50" />
-      <line
-         x1="93.220001"
-         x2="89.809998"
-         y1="169.87"
-         y2="163.96001"
-         id="line52" />
-      <line
-         x1="87.470001"
-         x2="84.059998"
-         y1="173.19"
-         y2="167.28"
-         id="line54" />
-      <line
-         x1="81.730003"
-         x2="78.309998"
-         y1="176.50999"
-         y2="170.59"
-         id="line56" />
-    </g>
-    <g
-       id="g58"
-       style="stroke:#000000;stroke-width:1">
-      <polygon
-         points="208.61,191.27 202.69,194.69 178.11,147.57 180.09,146.43 180.09,146.43 "
-         id="polygon60"
-         style="fill:#000000;stroke:#000000" />
-    </g>
-    <path
-       d="m 227.03,119.23 7.38,-10.65 -3.33,0 -5.64,8.58 -5.61,-8.58 -3.39,0 7.26,10.65 -7.74,11.22 3.39,0 6,-9.12 5.97,9.12 3.45,0 -7.74,-11.22"
-       id="text62"
-       style="font-size:30px;fill:#000000;font-family:helvetica" />
-    <path
-       d="m 104.83,193.02 0,9.96 2.79,0 0,-21.87 -2.79,0 0,9.45 -11.249997,0 0,-9.45 -2.79,0 0,21.87 2.82,0 0,-9.96 11.219997,0"
-       id="text64"
-       style="font-size:30px;fill:#000000;font-family:helvetica" />
-    <polyline
-       fill="none"
-       points="263.00,151.00 315.68,151.00"
-       stroke="#000000"
-       stroke-width="2.27555555556"
-       id="polyline66"
-       style="fill:none;stroke:#000000;stroke-width:2.27555561" />
-    <polygon
-       points="313.68,148 315.68,151 313.68,154 323.68,151 323.68,151 "
-       id="polygon68"
-       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1" />
-    <g
-       id="g70"
-       style="stroke:#000000;stroke-width:2.27555561">
-      <line
-         x1="454.14001"
-         x2="457.54999"
-         y1="148.73"
-         y2="154.64"
-         id="line72" />
-      <line
-         x1="459.89001"
-         x2="463.29999"
-         y1="145.41"
-         y2="151.32001"
-         id="line74" />
-      <line
-         x1="465.64001"
-         x2="469.04999"
-         y1="142.09"
-         y2="148"
-         id="line76" />
-      <line
-         x1="471.38"
-         x2="474.79999"
-         y1="138.77"
-         y2="144.67999"
-         id="line78" />
-      <line
-         x1="477.13"
-         x2="480.54001"
-         y1="135.45"
-         y2="141.36"
-         id="line80" />
-      <line
-         x1="482.88"
-         x2="486.29001"
-         y1="132.13"
-         y2="138.03999"
-         id="line82" />
-      <line
-         x1="488.63"
-         x2="492.04001"
-         y1="128.81"
-         y2="134.72"
-         id="line84" />
-      <line
-         x1="494.37"
-         x2="497.79001"
-         y1="125.49"
-         y2="131.41"
-         id="line86" />
-    </g>
-    <g
-       id="g88"
-       style="stroke:#000000;stroke-width:2.27555561">
-      <line
-         x1="389.54999"
-         x2="392.95999"
-         y1="154.64"
-         y2="148.73"
-         id="line90" />
-      <line
-         x1="383.79999"
-         x2="387.20999"
-         y1="151.32001"
-         y2="145.41"
-         id="line92" />
-      <line
-         x1="378.04999"
-         x2="381.45999"
-         y1="148"
-         y2="142.09"
-         id="line94" />
-      <line
-         x1="372.29999"
-         x2="375.72"
-         y1="144.67999"
-         y2="138.77"
-         id="line96" />
-      <line
-         x1="366.56"
-         x2="369.97"
-         y1="141.36"
-         y2="135.45"
-         id="line98" />
-      <line
-         x1="360.81"
-         x2="364.22"
-         y1="138.03999"
-         y2="132.13"
-         id="line100" />
-      <line
-         x1="355.06"
-         x2="358.47"
-         y1="134.72"
-         y2="128.81"
-         id="line102" />
-      <line
-         x1="349.31"
-         x2="352.73001"
-         y1="131.41"
-         y2="125.49"
-         id="line104" />
-    </g>
-    <g
-       id="g106"
-       style="stroke:#000000;stroke-width:2.27555561">
-      <line
-         x1="397"
-         x2="450.10001"
-         y1="155"
-         y2="155"
-         id="line108" />
-      <line
-         x1="400.98001"
-         x2="446.12"
-         y1="147.03999"
-         y2="147.03999"
-         id="line110" />
-    </g>
-    <g
-       id="g112"
-       style="stroke:#000000;stroke-width:1">
-      <polygon
-         points="352.73,184.51 349.31,178.59 396.43,154.01 397.57,155.99 397.57,155.99 "
-         id="polygon114"
-         style="fill:#000000;stroke:#000000" />
-    </g>
-    <g
-       id="g116"
-       style="stroke:#000000;stroke-width:1">
-      <polygon
-         points="497.79,178.59 494.37,184.51 449.53,155.99 450.67,154.01 450.67,154.01 "
-         id="polygon118"
-         style="fill:#000000;stroke:#000000" />
-    </g>
-    <path
-       d="m 278.32,125.24 -15.12,0 0,2.1 15.12,0 0,-2.1 m 17.72953,-1.95 0,9.96 2.79,0 0,-21.87 -2.79,0 0,9.45 -11.25,0 0,-9.45 -2.79,0 0,21.87 2.82,0 0,-9.96 11.22,0 m 16.87969,-1.26 7.38,-10.65 -3.33,0 -5.64,8.58 -5.61,-8.58 -3.39,0 7.26,10.65 -7.74,11.22 3.39,0 6,-9.12 5.97,9.12 3.45,0 -7.74,-11.22"
-       id="text120"
-       style="font-size:30px;fill:#000000;font-family:helvetica" />
-    <path
-       d="m 194,126.68 c -11.33333,-31.786667 -10.27667,-52.936667 3.17,-63.45 13.44667,-10.52 22.64333,-3.5 27.59,21.06"
-       id="path122"
-       style="fill:none;stroke:#ff0000;stroke-width:2.27555561;stroke-opacity:1" />
-    <polygon
-       points="227.31,81.73 224.76,84.29 221.42,82.92 226.34,92.13 226.34,92.13 "
-       id="polygon124"
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-opacity:1" />
-    <path
-       d="m 31.669999,250 9.87,0 c 2.069998,0 3.600001,-0.57 4.77,-1.83 1.079999,-1.14 1.68,-2.7 1.68,-4.41 0,-2.64 -1.200003,-4.23 -3.99,-5.31 1.979998,-0.93 3.03,-2.55 3.03,-4.77 0,-1.59 -0.600001,-3 -1.74,-4.02 -1.139999,-1.05 -2.640002,-1.53 -4.74,-1.53 l -8.88,0 0,21.87 m 2.79,-12.45 0,-6.96 5.4,0 c 1.559999,0 2.430001,0.21 3.18,0.78 0.779999,0.6 1.2,1.5 1.2,2.7 0,1.17 -0.420001,2.1 -1.2,2.7 -0.749999,0.57 -1.620001,0.78 -3.18,0.78 l -5.4,0 m 0,9.99 0,-7.53 6.81,0 c 1.349999,0 2.250001,0.33 2.91,1.05 0.66,0.69 1.02,1.65 1.02,2.73 0,1.05 -0.36,2.01 -1.02,2.7 -0.659999,0.72 -1.560001,1.05 -2.91,1.05 l -6.81,0"
-       id="text126"
-       style="font-size:30px;fill:#000000;font-family:helvetica" />
-    <line
-       x1="55.305763"
-       x2="52.186363"
-       y1="249.25401"
-       y2="228.45801"
-       id="line128"
-       style="fill:#000000;stroke:#000000;stroke-width:2.10286355" />
-    <path
-       d="M 62.129607,237.2352 C 113.91627,233.2352 140.74,220.77 122.22,202.31"
-       id="path130"
-       style="fill:none;stroke:#ff0000;stroke-width:2.27555561;stroke-opacity:1" />
-    <polygon
-       points="121.51,205.84 122.22,202.31 125.75,201.59 116.55,196.66 116.55,196.66 "
-       id="polygon132"
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-opacity:1" />
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="59.854mm" width="127.35mm" version="1.0" viewBox="0 0 483 227">
+ <g id="g4" stroke-linecap="round" transform="translate(-23,-39)">
+  <g id="g6" stroke-width="2.2756" stroke="#000">
+   <line id="line8" x2="183.14" y1="147.36" x1="186.55" y2="153.27"/>
+   <line id="line10" x2="188.89" y1="150.68" x1="192.3" y2="156.59"/>
+   <line id="line12" x2="194.64" y1="154" x1="198.05" y2="159.91"/>
+   <line id="line14" x2="200.38" y1="157.32" x1="203.8" y2="163.23"/>
+   <line id="line16" x2="206.13" y1="160.64" x1="209.54" y2="166.55"/>
+   <line id="line18" x2="211.88" y1="163.96" x1="215.29" y2="169.87"/>
+   <line id="line20" x2="217.63" y1="167.28" x1="221.04" y2="173.19"/>
+   <line id="line22" x2="223.37" y1="170.59" x1="226.79" y2="176.51"/>
   </g>
-  <path
-     d="m 103.03298,125.3319 c 8.50277,17.64195 27.63159,23.45218 29.79167,-4.14554"
-     id="path130-9"
-     style="font-size:15px;fill:none;stroke:#ff0000;stroke-width:2.27555561;stroke-linecap:round;stroke-opacity:1;font-family:Helvetica" />
-  <polygon
-     points="116.55,196.66 116.55,196.66 121.51,205.84 122.22,202.31 125.75,201.59 "
-     transform="matrix(0.64886818,0.76090084,-0.76090084,0.64886818,207.47789,-102.88197)"
-     id="polygon132-8"
-     style="font-size:15px;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-opacity:1;font-family:Helvetica" />
+  <g id="g24" stroke-width="2.2756" stroke="#000">
+   <line id="line26" x2="80.02" y1="147" x1="126" y2="120.45"/>
+  </g>
+  <g id="g28" stroke-width="2.2756" stroke="#000">
+   <line id="line30" x2="214" y1="147" x1="179.1" y2="126.85"/>
+  </g>
+  <g id="g32" stroke="#000">
+   <polygon id="polygon34" points="113.94 174.71 108.03 171.29 125.01 146.43 126.99 147.57 126.99 147.57" stroke="#000"/>
+  </g>
+  <g id="g36" stroke-width="2.2756" stroke="#000">
+   <line id="line38" x2="179.1" y1="147" x1="126" y2="147"/>
+  </g>
+  <g id="g40" stroke-width="2.2756" stroke="#000">
+   <line id="line42" x2="118.55" y1="153.27" x1="121.96" y2="147.36"/>
+   <line id="line44" x2="112.8" y1="156.59" x1="116.21" y2="150.68"/>
+   <line id="line46" x2="107.05" y1="159.91" x1="110.46" y2="154"/>
+   <line id="line48" x2="101.3" y1="163.23" x1="104.72" y2="157.32"/>
+   <line id="line50" x2="95.56" y1="166.55" x1="98.97" y2="160.64"/>
+   <line id="line52" x2="89.81" y1="169.87" x1="93.22" y2="163.96"/>
+   <line id="line54" x2="84.06" y1="173.19" x1="87.47" y2="167.28"/>
+   <line id="line56" x2="78.31" y1="176.51" x1="81.73" y2="170.59"/>
+  </g>
+  <g id="g58" stroke="#000">
+   <polygon id="polygon60" points="208.61 191.27 202.69 194.69 178.11 147.57 180.09 146.43 180.09 146.43" stroke="#000"/>
+  </g>
+  <path id="text62" d="m227.03 119.23 7.38-10.65h-3.33l-5.64 8.58-5.61-8.58h-3.39l7.26 10.65-7.74 11.22h3.39l6-9.12 5.97 9.12h3.45l-7.74-11.22"/>
+  <path id="text64" d="m104.83 193.02v9.96h2.79v-21.87h-2.79v9.45h-11.25v-9.45h-2.79v21.87h2.82v-9.96h11.22"/>
+  <polyline id="polyline66" stroke="#000" points="263 151 315.68 151" stroke-width="2.2756" fill="none"/>
+  <polygon id="polygon68" fill-rule="evenodd" stroke="#000" points="313.68 148 315.68 151 313.68 154 323.68 151 323.68 151"/>
+  <g id="g70" stroke-width="2.2756" stroke="#000">
+   <line id="line72" x2="457.55" y1="148.73" x1="454.14" y2="154.64"/>
+   <line id="line74" x2="463.3" y1="145.41" x1="459.89" y2="151.32"/>
+   <line id="line76" x2="469.05" y1="142.09" x1="465.64" y2="148"/>
+   <line id="line78" x2="474.8" y1="138.77" x1="471.38" y2="144.68"/>
+   <line id="line80" x2="480.54" y1="135.45" x1="477.13" y2="141.36"/>
+   <line id="line82" x2="486.29" y1="132.13" x1="482.88" y2="138.04"/>
+   <line id="line84" x2="492.04" y1="128.81" x1="488.63" y2="134.72"/>
+   <line id="line86" x2="497.79" y1="125.49" x1="494.37" y2="131.41"/>
+  </g>
+  <g id="g88" stroke-width="2.2756" stroke="#000">
+   <line id="line90" x2="392.96" y1="154.64" x1="389.55" y2="148.73"/>
+   <line id="line92" x2="387.21" y1="151.32" x1="383.8" y2="145.41"/>
+   <line id="line94" x2="381.46" y1="148" x1="378.05" y2="142.09"/>
+   <line id="line96" x2="375.72" y1="144.68" x1="372.3" y2="138.77"/>
+   <line id="line98" x2="369.97" y1="141.36" x1="366.56" y2="135.45"/>
+   <line id="line100" x2="364.22" y1="138.04" x1="360.81" y2="132.13"/>
+   <line id="line102" x2="358.47" y1="134.72" x1="355.06" y2="128.81"/>
+   <line id="line104" x2="352.73" y1="131.41" x1="349.31" y2="125.49"/>
+  </g>
+  <g id="g106" stroke-width="2.2756" stroke="#000">
+   <line id="line108" x2="450.1" y1="155" x1="397" y2="155"/>
+   <line id="line110" x2="446.12" y1="147.04" x1="400.98" y2="147.04"/>
+  </g>
+  <g id="g112" stroke="#000">
+   <polygon id="polygon114" points="352.73 184.51 349.31 178.59 396.43 154.01 397.57 155.99 397.57 155.99" stroke="#000"/>
+  </g>
+  <g id="g116" stroke="#000">
+   <polygon id="polygon118" points="497.79 178.59 494.37 184.51 449.53 155.99 450.67 154.01 450.67 154.01" stroke="#000"/>
+  </g>
+  <path id="text120" d="m278.32 125.24h-15.12v2.1h15.12v-2.1m17.73-1.95v9.96h2.79v-21.87h-2.79v9.45h-11.25v-9.45h-2.79v21.87h2.82v-9.96h11.22m16.88-1.26 7.38-10.65h-3.33l-5.64 8.58-5.61-8.58h-3.39l7.26 10.65-7.74 11.22h3.39l6-9.12 5.97 9.12h3.45l-7.74-11.22"/>
+  <path id="path122" d="m194 126.68c-11.333-31.787-10.277-52.937 3.17-63.45 13.447-10.52 22.643-3.5 27.59 21.06" stroke="#f00" stroke-width="2.2756" fill="none"/>
+  <polygon id="polygon124" fill-rule="evenodd" stroke="#f00" points="227.31 81.73 224.76 84.29 221.42 82.92 226.34 92.13 226.34 92.13" fill="#f00"/>
+  <path id="text126" d="m31.67 250h9.87c2.07 0 3.6-0.57 4.77-1.83 1.08-1.14 1.68-2.7 1.68-4.41 0-2.64-1.2-4.23-3.99-5.31 1.98-0.93 3.03-2.55 3.03-4.77 0-1.59-0.6-3-1.74-4.02-1.14-1.05-2.64-1.53-4.74-1.53h-8.88v21.87m2.79-12.45v-6.96h5.4c1.56 0 2.43 0.21 3.18 0.78 0.78 0.6 1.2 1.5 1.2 2.7 0 1.17-0.42 2.1-1.2 2.7-0.75 0.57-1.62 0.78-3.18 0.78h-5.4m0 9.99v-7.53h6.81c1.35 0 2.25 0.33 2.91 1.05 0.66 0.69 1.02 1.65 1.02 2.73 0 1.05-0.36 2.01-1.02 2.7-0.66 0.72-1.56 1.05-2.91 1.05h-6.81"/>
+  <line id="line128" stroke-width="2.1029" y2="228.46" y1="249.25" stroke="#000" x2="52.186" x1="55.306"/>
+  <path id="path130" d="m62.13 237.24c51.79-4 78.61-16.47 60.09-34.93" stroke="#f00" stroke-width="2.2756" fill="none"/>
+  <polygon id="polygon132" fill-rule="evenodd" stroke="#f00" points="121.51 205.84 122.22 202.31 125.75 201.59 116.55 196.66 116.55 196.66" fill="#f00"/>
+ </g>
+ <path id="path130-9" d="m103.03 125.33c8.5028 17.642 27.632 23.452 29.792-4.1455" stroke="#f00" stroke-linecap="round" stroke-width="2.2756" fill="none"/>
+ <polygon id="polygon132-8" fill-rule="evenodd" stroke-linecap="round" transform="matrix(.64887 .76090 -.76090 .64887 207.48 -102.88)" stroke="#f00" points="116.55 196.66 116.55 196.66 121.51 205.84 122.22 202.31 125.75 201.59" fill="#f00"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://openclipart.org/">
+      <dc:title>Openclipart</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
 </svg>

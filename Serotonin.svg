@@ -1,78 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="206pt" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="145pt" viewBox="0 0 206 145" >
- <g transform="translate(13, 58.1504)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M9.7002 27.5498 C9.7002 27.5498 8.75 28.5996 8.75 28.5996 C8.75 28.5996 0 0 0 0 C0 0 1.4004 0.2998 1.4004 0.2998 C1.4004 0.2998 9.7002 27.5498 9.7002 27.5498 Z" />
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" height="145pt" width="206pt" viewBox="0 0 206 145">
+ <g fill="#161413" transform="translate(13 58.15)">
+  <path d="m9.7002 27.55l-0.9502 1.05-8.75-28.6 1.4004 0.2998 8.2998 27.25z"/>
  </g>
- <g transform="translate(19.0498, 59.4502)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M7.9004 22.1494 C7.9004 22.1494 6.75 22.5 6.75 22.5 C6.75 22.5 0 0.3994 0 0.3994 C0 0.3994 1.1504 0 1.1504 0 C1.1504 0 7.9004 22.1494 7.9004 22.1494 Z" />
+ <g fill="#161413" transform="translate(19.05 59.45)">
+  <path d="m7.9004 22.149l-1.1504 0.351-6.75-22.101c0 0.0004 1.1504-0.399 1.1504-0.399l6.75 22.149z"/>
  </g>
- <g transform="translate(21.75, 85.7002)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M28.75 6.3994 C28.75 6.3994 28.9502 7.0996 28.9502 7.0996 C28.9502 7.0996 28.5498 7.5996 28.5498 7.5996 C28.5498 7.5996 0 1.0498 0 1.0498 C0 1.0498 0.9502 0 0.9502 0 C0.9502 0 28.75 6.3994 28.75 6.3994 Z" />
+ <g fill="#161413" transform="translate(21.75 85.7)">
+  <path d="m28.75 6.3994l0.2 0.7002-0.4 0.5s-28.55-6.5498-28.55-6.5498l0.9502-1.0498s27.8 6.3994 27.8 6.3994z"/>
  </g>
- <g transform="translate(50.5, 71.25)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M19.4004 0 C19.4004 0 20.0996 0.1504 20.0996 0.1504 C20.0996 0.1504 20.25 0.9004 20.25 0.9004 C20.25 0.9004 0.9502 21.5996 0.9502 21.5996 C0.9502 21.5996 0.2002 21.5498 0.2002 21.5498 C0.2002 21.5498 0 20.8496 0 20.8496 C0 20.8496 19.4004 0 19.4004 0 Z" />
+ <g fill="#161413" transform="translate(50.5 71.25)">
+  <path d="m19.4 0l0.7 0.1504 0.15 0.75s-19.3 20.7-19.3 20.7c0.0002 0-0.7498-0.05-0.7498-0.05l-0.2002-0.7s19.4-20.85 19.4-20.85z"/>
  </g>
- <g transform="translate(48.4502, 69.6504)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M15.7998 0 C15.7998 0 16.7002 0.7998 16.7002 0.7998 C16.7002 0.7998 0.8994 17.75 0.8994 17.75 C0.8994 17.75 0 16.8994 0 16.8994 C0 16.8994 15.7998 0 15.7998 0 Z" />
+ <g fill="#161413" transform="translate(48.45 69.65)">
+  <path d="m15.8 0l0.9 0.7998-15.801 16.95c0.0004 0-0.899-0.851-0.899-0.851s15.8-16.899 15.8-16.899z"/>
  </g>
- <g transform="translate(61.5996, 43)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M0 1 C0 1 0.9502 0 0.9502 0 C0.9502 0 9.5 28 9.5 28 C9.5 28 9 28.4004 9 28.4004 C9 28.4004 8.3008 28.25 8.3008 28.25 C8.3008 28.25 0 1 0 1 Z" />
+ <g fill="#161413" transform="translate(61.6 43)">
+  <path d="m0 1s0.9502-1 0.9502-1l8.5498 28-0.5 0.4-0.6992-0.15-8.3008-27.25z"/>
  </g>
- <g transform="translate(33.5996, 36.4004)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M0.2002 1.1992 C0.2002 1.1992 0 0.5498 0 0.5498 C0 0.5498 0.5 0 0.5 0 C0.5 0 28.9502 6.5996 28.9502 6.5996 C28.9502 6.5996 28 7.5996 28 7.5996 C28 7.5996 0.2002 1.1992 0.2002 1.1992 Z" />
+ <g fill="#161413" transform="translate(33.6 36.4)">
+  <path d="m0.2002 1.1992s-0.2002-0.6494-0.2002-0.6494l0.5-0.5498s28.45 6.5996 28.45 6.5996-0.95 1-0.95 1l-27.8-6.4004z"/>
  </g>
- <g transform="translate(35.25, 42.1504)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M0 1.1494 C0 1.1494 0.2998 0 0.2998 0 C0.2998 0 22.7998 5.1992 22.7998 5.1992 C22.7998 5.1992 22.5498 6.3994 22.5498 6.3994 C22.5498 6.3994 0 1.1494 0 1.1494 Z" />
+ <g fill="#161413" transform="translate(35.25 42.15)">
+  <path d="m0 1.1494l0.2998-1.1494s22.5 5.1992 22.5 5.1992l-0.25 1.2002s-22.55-5.25-22.55-5.25z"/>
  </g>
- <g transform="translate(13, 36.75)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M1.4004 21.7002 C1.4004 21.7002 0 21.4004 0 21.4004 C0 21.4004 19.9502 0 19.9502 0 C19.9502 0 20.5996 0.2002 20.5996 0.2002 C20.5996 0.2002 20.7998 0.8496 20.7998 0.8496 C20.7998 0.8496 1.4004 21.7002 1.4004 21.7002 Z" />
+ <g fill="#161413" transform="translate(13 36.75)">
+  <path d="m1.4004 21.7s-1.4004-0.3-1.4004-0.3l19.95-21.4 0.65 0.2002 0.2 0.6494s-19.4 20.85-19.4 20.85z"/>
  </g>
- <g transform="translate(59.041, 111.466)" style="fill:#161413; fill-rule:evenodd; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M11.5596 0 C11.5596 0 9.7754 0 9.7754 0 C9.7754 0 9.7754 12.087 9.7754 12.087 C9.7754 12.087 2.0488 0 2.0488 0 C2.0488 0 0 0 0 0 C0 0 0 14.784 0 14.784 C0 14.784 1.7852 14.784 1.7852 14.784 C1.7852 14.784 1.7852 2.799 1.7852 2.799 C1.7852 2.799 9.4307 14.784 9.4307 14.784 C9.4307 14.784 11.5596 14.784 11.5596 14.784 C11.5596 14.784 11.5596 0 11.5596 0 Z" />
+ <g fill="#161413" transform="translate(59.041 111.47)" fill-rule="evenodd">
+  <path d="m11.56 0h-1.7846v12.087l-7.7266-12.087h-2.0488v14.784h1.7852v-11.985l7.6455 11.985h2.1293v-14.784z"/>
  </g>
- <g transform="translate(50.2998, 92.7998)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M9.4004 14.9502 C9.4004 14.9502 8.2998 15.5502 8.2998 15.5502 C8.2998 15.5502 0 0.5 0 0.5 C0 0.5 0.4004 0 0.4004 0 C0.4004 0 1.1504 0.0498 1.1504 0.0498 C1.1504 0.0498 9.4004 14.9502 9.4004 14.9502 Z" />
+ <g fill="#161413" transform="translate(50.3 92.8)">
+  <path d="m9.4004 14.95l-1.1006 0.6-8.2998-15.05s0.4004-0.5 0.4004-0.5l0.75 0.0498 8.25 14.9z"/>
  </g>
- <g transform="translate(74.2998, 112.25)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M18.6504 0 C18.6504 0 19.75 1 19.75 1 C19.75 1 0.25 4.8 0.25 4.8 C0.25 4.8 0 3.6 0 3.6 C0 3.6 18.6504 0 18.6504 0 Z" />
+ <g fill="#161413" transform="translate(74.3 112.25)">
+  <path d="m18.65 0l1.1 1-19.5 3.8-0.25-1.2 18.65-3.6z"/>
  </g>
- <g transform="translate(92.9502, 83.75)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M3.4502 0.4004 C3.4502 0.4004 4.1494 0 4.1494 0 C4.1494 0 4.7002 0.4004 4.7002 0.4004 C4.7002 0.4004 1.0996 29.5 1.0996 29.5 C1.0996 29.5 0 28.5 0 28.5 C0 28.5 3.4502 0.4004 3.4502 0.4004 Z" />
+ <g fill="#161413" transform="translate(92.95 83.75)">
+  <path d="m3.4502 0.4004l0.6992-0.4004 0.5508 0.4004-3.6006 29.1-1.0996-1 3.4502-28.1z"/>
  </g>
- <g transform="translate(88.1504, 86.8496)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M2.6494 0 C2.6494 0 3.8496 0.1504 3.8496 0.1504 C3.8496 0.1504 1.1992 21.5504 1.1992 21.5504 C1.1992 21.5504 0 21.4004 0 21.4004 C0 21.4004 2.6494 0 2.6494 0 Z" />
+ <g fill="#161413" transform="translate(88.15 86.85)">
+  <path d="m2.6494 0l1.2002 0.1504-2.6504 21.4-1.1992-0.15 2.6494-21.4z"/>
  </g>
- <g transform="translate(70.5996, 71)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M0.1504 1.1504 C0.1504 1.1504 0 0.4004 0 0.4004 C0 0.4004 0.5 0 0.5 0 C0.5 0 26.4502 12.0996 26.4502 12.0996 C26.4502 12.0996 26.5 12.75 26.5 12.75 C26.5 12.75 25.8008 13.1504 25.8008 13.1504 C25.8008 13.1504 0.1504 1.1504 0.1504 1.1504 Z" />
+ <g fill="#161413" transform="translate(70.6 71)">
+  <path d="m0.1504 1.1504l-0.1504-0.75 0.5-0.4004 25.95 12.1 0.05 0.65-0.699 0.4-25.651-12z"/>
  </g>
- <g transform="translate(97.0498, 68.9004)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M25.6002 0 C25.6002 0 25.5502 1.3994 25.5502 1.3994 C25.5502 1.3994 0.6006 15.25 0.6006 15.25 C0.6006 15.25 0.0498 14.8496 0.0498 14.8496 C0.0498 14.8496 0 14.1992 0 14.1992 C0 14.1992 25.6002 0 25.6002 0 Z" />
+ <g fill="#161413" transform="translate(97.05 68.9)">
+  <path d="m25.6 0l-0.05 1.3994-24.949 13.851c-0.0004 0-0.5512-0.4-0.5512-0.4s-0.0498-0.651-0.0498-0.651l25.6-14.199z"/>
  </g>
- <g transform="translate(122.6, 68.9004)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M25.05 15.0498 C25.05 15.0498 25.05 16.4492 25.05 16.4492 C25.05 16.4492 0 1.3994 0 1.3994 C0 1.3994 0.05 0 0.05 0 C0.05 0 25.05 15.0498 25.05 15.0498 Z" />
+ <g fill="#161413" transform="translate(122.6 68.9)">
+  <path d="m25.05 15.05v1.399l-25.05-15.05c0 0.0004 0.05-1.399 0.05-1.399l25 15.05z"/>
  </g>
- <g transform="translate(167.541, 63.7158)" style="fill:#161413; fill-rule:evenodd; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M11.56 0 C11.56 0 9.775 0 9.775 0 C9.775 0 9.775 12.0869 9.775 12.0869 C9.775 12.0869 2.049 0 2.049 0 C2.049 0 0 0 0 0 C0 0 0 14.7842 0 14.7842 C0 14.7842 1.785 14.7842 1.785 14.7842 C1.785 14.7842 1.785 2.7988 1.785 2.7988 C1.785 2.7988 9.431 14.7842 9.431 14.7842 C9.431 14.7842 11.56 14.7842 11.56 14.7842 C11.56 14.7842 11.56 0 11.56 0 Z" />
+ <g fill="#161413" transform="translate(167.54 63.716)" fill-rule="evenodd">
+  <path d="m11.56 0h-1.785v12.087l-7.726-12.087h-2.049v14.784h1.785v-11.985c0-0.0002 7.646 11.985 7.646 11.985h2.129v-14.784z"/>
  </g>
- <g transform="translate(182.184, 63.7158)" style="fill:#161413; fill-rule:evenodd; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M9.49 8.0508 C9.49 8.0508 9.49 14.7842 9.49 14.7842 C9.49 14.7842 11.377 14.7842 11.377 14.7842 C11.377 14.7842 11.377 0 11.377 0 C11.377 0 9.49 0 9.49 0 C9.49 0 9.49 6.3887 9.49 6.3887 C9.49 6.3887 1.885 6.3887 1.885 6.3887 C1.885 6.3887 1.885 0 1.885 0 C1.885 0 0 0 0 0 C0 0 0 14.7842 0 14.7842 C0 14.7842 1.906 14.7842 1.906 14.7842 C1.906 14.7842 1.906 8.0508 1.906 8.0508 C1.906 8.0508 9.49 8.0508 9.49 8.0508 Z" />
+ <g fill="#161413" transform="translate(182.18 63.716)" fill-rule="evenodd">
+  <path d="m9.49 8.0508v6.7332h1.887v-14.784h-1.887v6.3887h-7.605v-6.3887h-1.885v14.784h1.906v-6.7332h7.584z"/>
  </g>
- <g transform="translate(195.768, 71.4658)" style="fill:#161413; fill-rule:evenodd; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M7.178 9.461 C7.178 9.461 1.504 9.461 1.504 9.461 C1.642 8.5791 2.128 8.0156 3.452 7.2403 C3.452 7.2403 4.973 6.419 4.973 6.419 C6.479 5.5977 7.254 4.4873 7.254 3.1641 C7.254 2.2666 6.889 1.4297 6.251 0.8526 C5.612 0.2744 4.821 0 3.801 0 C2.433 0 1.414 0.4873 0.821 1.3994 C0.44 1.9776 0.273 2.6465 0.243 3.7422 C0.243 3.7422 1.581 3.7422 1.581 3.7422 C1.627 3.0117 1.718 2.5703 1.9 2.2207 C2.251 1.5674 2.95 1.1719 3.756 1.1719 C4.973 1.1719 5.885 2.0381 5.885 3.1944 C5.885 4.0459 5.383 4.7764 4.425 5.3242 C4.425 5.3242 3.026 6.1143 3.026 6.1143 C0.775 7.3926 0.121 8.4112 0 10.7842 C0 10.7842 7.178 10.7842 7.178 10.7842 C7.178 10.7842 7.178 9.461 7.178 9.461 Z" />
+ <g fill="#161413" transform="translate(195.77 71.466)" fill-rule="evenodd">
+  <path d="m7.178 9.461h-5.674c0.138-0.8819 0.624-1.4454 1.948-2.2207 0 0 1.521-0.8213 1.521-0.8213 1.506-0.8213 2.281-1.9317 2.281-3.2549 0-0.8975-0.365-1.7344-1.003-2.3115-0.639-0.5782-1.43-0.8526-2.45-0.8526-1.368 0-2.387 0.4873-2.98 1.3994-0.381 0.5782-0.548 1.2471-0.578 2.3428h1.338c0.046-0.7305 0.137-1.1719 0.319-1.5215 0.351-0.6533 1.05-1.0488 1.856-1.0488 1.217 0 2.129 0.8662 2.129 2.0225 0 0.8515-0.502 1.582-1.46 2.1298l-1.399 0.7901c-2.251 1.2783-2.905 2.2969-3.026 4.6697h7.178v-1.323z"/>
  </g>
- <g transform="translate(147.65, 75.75)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M14.75 0 C14.75 0 15.35 1.0996 15.35 1.0996 C15.35 1.0996 0 9.5996 0 9.5996 C0 9.5996 0 8.2002 0 8.2002 C0 8.2002 14.75 0 14.75 0 Z" />
+ <g fill="#161413" transform="translate(147.65 75.75)">
+  <path d="m14.75 0l0.6 1.0996s-15.35 8.5-15.35 8.5v-1.3994s14.75-8.2002 14.75-8.2002z"/>
  </g>
- <g transform="translate(4.43359, 2.21582)" style="fill:#161413; fill-rule:evenodd; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M9.49021 8.05078 C9.49021 8.05078 9.49021 14.7842 9.49021 14.7842 C9.49021 14.7842 11.3769 14.7842 11.3769 14.7842 C11.3769 14.7842 11.3769 0 11.3769 0 C11.3769 0 9.49021 0 9.49021 0 C9.49021 0 9.49021 6.38867 9.49021 6.38867 C9.49021 6.38867 1.88575 6.38867 1.88575 6.38867 C1.88575 6.38867 1.88575 0 1.88575 0 C1.88575 0 0 0 0 0 C0 0 0 14.7842 0 14.7842 C0 14.7842 1.90625 14.7842 1.90625 14.7842 C1.90625 14.7842 1.90625 8.05078 1.90625 8.05078 C1.90625 8.05078 9.49021 8.05078 9.49021 8.05078 Z" />
+ <g fill="#161413" transform="translate(4.4336 2.2158)" fill-rule="evenodd">
+  <path d="m9.4902 8.0508v6.7332h1.8868v-14.784h-1.8868v6.3887h-7.6044v-6.3887h-1.8858v14.784h1.9062v-6.7332h7.584z"/>
  </g>
- <g transform="translate(18.0205, 1.97266)" style="fill:#161413; fill-rule:evenodd; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M7.1182 0 C2.8799 0 0 3.12304 0 7.74707 C0 12.3711 2.8799 15.4941 7.1387 15.4941 C8.9229 15.4941 10.5254 14.9462 11.7217 13.9326 C13.3242 12.5732 14.2774 10.2822 14.2774 7.86816 C14.2774 3.10254 11.458 0 7.1182 0 Z M7.1182 1.66308 C10.3223 1.66308 12.3916 4.09668 12.3916 7.82812 C12.3916 11.3974 10.2617 13.831 7.1387 13.831 C3.9951 13.831 1.8858 11.3974 1.8858 7.74707 C1.8858 4.09668 3.9951 1.66308 7.1182 1.66308 Z" />
+ <g fill="#161413" transform="translate(18.02 1.9727)" fill-rule="evenodd">
+  <path d="m7.1182 0c-4.2383 0-7.1182 3.123-7.1182 7.7471 0 4.6239 2.8799 7.7469 7.1387 7.7469 1.7842 0 3.3863-0.548 4.5833-1.561 1.602-1.36 2.555-3.651 2.555-6.0648 0-4.7657-2.819-7.8682-7.1588-7.8682zm0 1.6631c3.2038 0 5.2738 2.4336 5.2738 6.165 0 3.5689-2.13 6.0029-5.2533 6.0029-3.1436 0-5.2529-2.434-5.2529-6.0839 0-3.6504 2.1093-6.084 5.2324-6.084z"/>
  </g>
- <g transform="translate(27.8496, 19.75)" style="fill:#161413; fill-rule:nonzero; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M0 0.4004 C0 0.4004 1.1504 0 1.1504 0 C1.1504 0 6.25 16.6504 6.25 16.6504 C6.25 16.6504 5.75 17.2002 5.75 17.2002 C5.75 17.2002 5.1006 17 5.1006 17 C5.1006 17 0 0.4004 0 0.4004 Z" />
+ <g fill="#161413" transform="translate(27.85 19.75)">
+  <path d="m0 0.4004l1.1504-0.4004 5.0996 16.65-0.5 0.55-0.6494-0.2-5.1006-16.6z"/>
  </g>
- <g transform="translate(59.1836, 127.716)" style="fill:#161413; fill-rule:evenodd; stroke:none; stroke-width:1.2; stroke-linecap:butt; stroke-linejoin:miter; stroke-dasharray:none;" >
-  <path d="M9.4902 8.051 C9.4902 8.051 9.4902 14.784 9.4902 14.784 C9.4902 14.784 11.3769 14.784 11.3769 14.784 C11.3769 14.784 11.3769 0 11.3769 0 C11.3769 0 9.4902 0 9.4902 0 C9.4902 0 9.4902 6.388 9.4902 6.388 C9.4902 6.388 1.8857 6.388 1.8857 6.388 C1.8857 6.388 1.8857 0 1.8857 0 C1.8857 0 0 0 0 0 C0 0 0 14.784 0 14.784 C0 14.784 1.9062 14.784 1.9062 14.784 C1.9062 14.784 1.9062 8.051 1.9062 8.051 C1.9062 8.051 9.4902 8.051 9.4902 8.051 Z" />
+ <g fill="#161413" transform="translate(59.184 127.72)" fill-rule="evenodd">
+  <path d="m9.4902 8.051v6.733h1.8868v-14.784h-1.8868v6.388h-7.6045v-6.388h-1.8857v14.784h1.9062v-6.733h7.584z"/>
  </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://openclipart.org/">
+      <dc:title>Openclipart</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
 </svg>

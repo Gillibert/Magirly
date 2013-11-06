@@ -1,195 +1,43 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.0"
-   width="1809.042"
-   height="755.21997"
-   viewBox="0 0 1809.042 755.22"
-   id="svg2"
-   xml:space="preserve"><defs
-   id="defs94" />
-	
-		<g
-   transform="translate(49.99997,43.20189)"
-   id="レイヤー_1">
-			<polygon
-   points="256.997,264.802 252.998,262.302 252.998,257.8 377.998,185.798 377.998,194.802 256.997,264.802 "
-   id="polygon7" />
-			<polygon
-   points="256.997,403.801 252.998,406.301 248.999,403.801 248.999,264.802 252.998,262.302 256.997,264.802 256.997,403.801 "
-   id="polygon9" />
-			<rect
-   width="7.5"
-   height="113.999"
-   x="223.50101"
-   y="277.302"
-   id="rect11" /> 
-			<polygon
-   points="377.998,473.801 377.998,482.795 252.998,410.803 252.998,406.301 256.997,403.801 377.998,473.801 "
-   id="polygon13" />
-			<polygon
-   points="498.501,403.801 502.5,406.301 502.5,410.803 377.998,482.795 377.998,473.801 498.501,403.801 "
-   id="polygon15" />
-			<polygon
-   points="498.501,264.802 502.5,262.302 506.499,264.802 506.499,403.801 502.5,406.301 498.501,403.801 498.501,264.802 "
-   id="polygon17" />
-			<rect
-   width="7.9980001"
-   height="113.999"
-   x="472.5"
-   y="277.302"
-   id="rect19" /> 
-			<polygon
-   points="377.998,194.802 377.998,185.798 502.5,257.8 502.5,262.302 498.501,264.802 377.998,194.802 "
-   id="polygon21" />
-			<polygon
-   points="128.501,194.802 128.501,185.798 252.998,257.8 252.998,262.302 248.999,264.802 128.501,194.802 "
-   id="polygon23" />
-			<polygon
-   points="7.5,264.802 0,259.802 128.501,185.798 128.501,194.802 7.5,264.802 "
-   id="polygon25" />
-			
-				<rect
-   width="8.059"
-   height="114.237"
-   x="74.969002"
-   y="191.67999"
-   transform="matrix(0.4962,0.8682,-0.8682,0.4962,255.808,56.7564)"
-   id="rect27" /> 
-			<polygon
-   points="7.5,403.801 0,408.801 0,259.802 7.5,264.802 7.5,403.801 "
-   id="polygon29" />
-			<polygon
-   points="128.501,473.801 128.501,482.795 0,408.801 7.5,403.801 128.501,473.801 "
-   id="polygon31" />
-			
-				<rect
-   width="8.0629997"
-   height="114.237"
-   x="74.967003"
-   y="362.67899"
-   transform="matrix(0.4959,-0.8684,0.8684,0.4959,-324.7131,280.2009)"
-   id="rect33" /> 
-			<polygon
-   points="248.999,403.801 252.998,406.301 252.998,410.803 128.501,482.795 128.501,473.801 248.999,403.801 "
-   id="polygon35" />
-			<text
-   transform="translate(339.5015,85.7969)"
-   id="text37"><tspan
-     x="0"
-     y="0"
-     style="font-size:100px;font-family:ArialMT"
-     id="tspan39">O</tspan></text>
-
-			<rect
-   width="7.9980001"
-   height="95.498001"
-   x="361.00101"
-   y="102.302"
-   id="rect41" /> 
-			<rect
-   width="7.5"
-   height="95.498001"
-   x="386.99701"
-   y="102.302"
-   id="rect43" /> 
-			<text
-   transform="translate(339.5015,660.7974)"
-   id="text45"><tspan
-     x="0"
-     y="0"
-     style="font-size:100px;font-family:ArialMT"
-     id="tspan47">O</tspan></text>
-
-			<rect
-   width="7.5"
-   height="101.494"
-   x="386.99701"
-   y="470.80301"
-   id="rect49" /> 
-			<rect
-   width="7.9980001"
-   height="101.494"
-   x="361.00101"
-   y="470.80301"
-   id="rect51" /> 
-			<polygon
-   points="628.999,474.797 626.997,477.795 625,481.301 502.5,410.803 502.5,406.301 506.499,403.801 628.999,474.797 "
-   id="polygon53" />
-			<polygon
-   points="627.5,185.798 627.5,194.802 506.499,264.802 502.5,262.302 502.5,257.8 627.5,185.798 "
-   id="polygon55" />
-			<polygon
-   points="751.499,257.302 751.499,266.799 627.5,194.802 627.5,185.798 751.499,257.302 "
-   id="polygon57" />
-			<polygon
-   points="871.997,187.8 876.001,190.3 876.001,194.802 751.499,266.799 751.499,257.302 871.997,187.8 "
-   id="polygon59" />
-			
-				<rect
-   width="8.0629997"
-   height="113.799"
-   x="796.71802"
-   y="146.899"
-   transform="matrix(-0.4959,-0.8684,0.8684,-0.4959,1020.906,1000.206)"
-   id="rect61" /> 
-			<polygon
-   points="871.997,46.301 876.001,46.301 879.995,46.301 879.995,187.8 876.001,190.3 871.997,187.8 871.997,46.301 "
-   id="polygon63" />
-			<polygon
-   points="1000,257.302 1000,266.799 876.001,194.802 876.001,190.3 879.995,187.8 1000,257.302 "
-   id="polygon65" />
-			<polygon
-   points="1125,185.3 1125,194.802 1000,266.799 1000,257.302 1125,185.3 "
-   id="polygon67" />
-			<polygon
-   points="1249.004,257.302 1249.004,266.301 1125,194.802 1125,185.3 1249.004,257.302 "
-   id="polygon69" />
-			<polygon
-   points="1370,187.302 1374.004,189.802 1374.004,194.299 1249.004,266.301 1249.004,257.302 1370,187.302 "
-   id="polygon71" />
-			
-				<rect
-   width="8.0620003"
-   height="114.241"
-   x="1294.465"
-   y="146.17999"
-   transform="matrix(-0.4967,-0.8679,0.8679,-0.4967,1766.954,1431.295)"
-   id="rect73" /> 
-			<polygon
-   points="1498.008,256.799 1498.008,266.301 1374.004,194.299 1374.004,189.802 1378.008,187.302 1498.008,256.799 "
-   id="polygon75" />
-			<polygon
-   points="1370,46.301 1374.004,46.301 1378.008,46.301 1378.008,187.302 1374.004,189.802 1370,187.302 1370,46.301 "
-   id="polygon77" />
-			<text
-   transform="translate(1587.001,228.7988)"
-   id="text79"><tspan
-     x="0"
-     y="0"
-     style="font-size:100px;font-family:ArialMT"
-     id="tspan81">H</tspan></text>
-
-			<polygon
-   points="1569.004,215.798 1573.008,222.8 1498.008,266.301 1498.008,256.799 1569.004,215.798 "
-   id="polygon83" />
-			<path
-   d="M 1090.82,10.798 L 1070.507,10.798 L 1070.507,335.803 L 1090.82,335.803 M 1517.695,335.803 L 1538.008,335.803 L 1538.008,10.798 L 1517.695,10.798"
-   style="fill:none;stroke:black;stroke-width:8"
-   id="path85" />
-			<text
-   transform="translate(1553.988,348.5376)"
-   id="text87"><tspan
-     x="0"
-     y="0"
-     style="font-size:75px;font-style:italic;font-family:Arial-ItalicMT"
-     id="tspan89">n</tspan><tspan
-     x="41.710999"
-     y="0"
-     style="font-size:75px;font-family:ArialMT"
-     id="tspan91"> − 1</tspan></text>
-
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" xml:space="preserve" height="755.22" width="1809" version="1.0" viewBox="0 0 1809.042 755.22">
+		<g id="&#x30EC;&#x30A4;&#x30E4;&#x30FC;_1" transform="translate(50 43.202)">
+			<polygon id="polygon7" points="257 264.8 253 262.3 253 257.8 378 185.8 378 194.8"/>
+			<polygon id="polygon9" points="257 403.8 253 406.3 249 403.8 249 264.8 253 262.3 257 264.8"/>
+			<rect id="rect11" y="277.3" width="7.5" x="223.5" height="114"/> 
+			<polygon id="polygon13" points="378 473.8 378 482.8 253 410.8 253 406.3 257 403.8"/>
+			<polygon id="polygon15" points="498.5 403.8 502.5 406.3 502.5 410.8 378 482.8 378 473.8"/>
+			<polygon id="polygon17" points="498.5 264.8 502.5 262.3 506.5 264.8 506.5 403.8 502.5 406.3 498.5 403.8"/>
+			<rect id="rect19" y="277.3" width="7.998" x="472.5" height="114"/> 
+			<polygon id="polygon21" points="378 194.8 378 185.8 502.5 257.8 502.5 262.3 498.5 264.8"/>
+			<polygon id="polygon23" points="128.5 194.8 128.5 185.8 253 257.8 253 262.3 249 264.8"/>
+			<polygon id="polygon25" points="7.5 264.8 0 259.8 128.5 185.8 128.5 194.8"/>
+				<rect id="rect27" transform="matrix(.4962 .8682 -.8682 .4962 255.81 56.756)" height="114.24" width="8.059" y="191.68" x="74.969"/> 
+			<polygon id="polygon29" points="7.5 403.8 0 408.8 0 259.8 7.5 264.8"/>
+			<polygon id="polygon31" points="128.5 473.8 128.5 482.8 0 408.8 7.5 403.8"/>
+				<rect id="rect33" transform="matrix(.4959 -.8684 .8684 .4959 -324.71 280.2)" height="114.24" width="8.063" y="362.68" x="74.967"/> 
+			<polygon id="polygon35" points="249 403.8 253 406.3 253 410.8 128.5 482.8 128.5 473.8"/>
+			<text id="text37" transform="translate(339.5 85.797)"><tspan id="tspan39" font-size="100px" y="0" x="0" font-family="ArialMT">O</tspan></text>
+			<rect id="rect41" y="102.3" width="7.998" x="361" height="95.498"/> 
+			<rect id="rect43" y="102.3" width="7.5" x="387" height="95.498"/> 
+			<text id="text45" transform="translate(339.5 660.8)"><tspan id="tspan47" font-size="100px" y="0" x="0" font-family="ArialMT">O</tspan></text>
+			<rect id="rect49" y="470.8" width="7.5" x="387" height="101.49"/> 
+			<rect id="rect51" y="470.8" width="7.998" x="361" height="101.49"/> 
+			<polygon id="polygon53" points="629 474.8 627 477.8 625 481.3 502.5 410.8 502.5 406.3 506.5 403.8"/>
+			<polygon id="polygon55" points="627.5 185.8 627.5 194.8 506.5 264.8 502.5 262.3 502.5 257.8"/>
+			<polygon id="polygon57" points="751.5 257.3 751.5 266.8 627.5 194.8 627.5 185.8"/>
+			<polygon id="polygon59" points="872 187.8 876 190.3 876 194.8 751.5 266.8 751.5 257.3"/>
+				<rect id="rect61" transform="matrix(-.4959 -.8684 .8684 -.4959 1020.9 1000.2)" height="113.8" width="8.063" y="146.9" x="796.72"/> 
+			<polygon id="polygon63" points="872 46.301 876 46.301 880 46.301 880 187.8 876 190.3 872 187.8"/>
+			<polygon id="polygon65" points="1e3 257.3 1e3 266.8 876 194.8 876 190.3 880 187.8"/>
+			<polygon id="polygon67" points="1125 185.3 1125 194.8 1e3 266.8 1e3 257.3"/>
+			<polygon id="polygon69" points="1249 257.3 1249 266.3 1125 194.8 1125 185.3"/>
+			<polygon id="polygon71" points="1370 187.3 1374 189.8 1374 194.3 1249 266.3 1249 257.3"/>
+				<rect id="rect73" transform="matrix(-.4967 -.8679 .8679 -.4967 1767 1431.3)" height="114.24" width="8.062" y="146.18" x="1294.5"/> 
+			<polygon id="polygon75" points="1498 256.8 1498 266.3 1374 194.3 1374 189.8 1378 187.3"/>
+			<polygon id="polygon77" points="1370 46.301 1374 46.301 1378 46.301 1378 187.3 1374 189.8 1370 187.3"/>
+			<text id="text79" transform="translate(1587 228.8)"><tspan id="tspan81" font-size="100px" y="0" x="0" font-family="ArialMT">H</tspan></text>
+			<polygon id="polygon83" points="1569 215.8 1573 222.8 1498 266.3 1498 256.8"/>
+			<path id="path85" d="m1090.8 10.798h-20.3v325h20.3m426.9 0h20.3v-325l-20.3-0.002" stroke="#000" stroke-width="8" fill="none"/>
+			<text id="text87" font-size="75px" transform="translate(1554 348.54)"><tspan id="tspan89" font-style="italic" y="0" x="0" font-family="Arial-ItalicMT">n</tspan><tspan id="tspan91" y="0" x="41.710999" font-family="ArialMT"> &#x2212; 1</tspan></text>
 		</g>
-	</svg>
+	<metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/><dc:publisher><cc:Agent rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher></cc:Work><cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/><cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/><cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata></svg>

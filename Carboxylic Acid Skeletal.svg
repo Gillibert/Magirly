@@ -1,85 +1,43 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.0"
-   width="927"
-   height="743"
-   id="svg2">
-  <defs
-     id="defs4" />
-  <g
-     transform="translate(102.336,-86.81729)"
-     id="layer1">
-    <rect
-       width="12.486286"
-       height="235.78271"
-       x="306.664"
-       y="308.81729"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.4766355"
-       id="rect3696" />
-    <rect
-       width="12"
-       height="232.5827"
-       x="269.664"
-       y="308.81729"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.4766355"
-       id="rect1922" />
-    <rect
-       width="11.999992"
-       height="224.24583"
-       x="-615.4975"
-       y="-232.54584"
-       transform="matrix(-0.5000002,-0.8660253,0.8660253,-0.5000002,0,0)"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.4766355"
-       id="rect1889" />
-    <rect
-       width="12.130057"
-       height="223.92114"
-       x="-321.07187"
-       y="-742.42114"
-       transform="matrix(0.5000002,-0.8660253,-0.8660253,-0.5000002,0,0)"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.4766355"
-       id="rect7228" />
-    <text
-       x="-37.7169"
-       y="753.19153"
-       style="font-size:188px"
-       id="text2247"
-       xml:space="preserve"><tspan
-         x="-37.7169"
-         y="753.19153"
-         id="tspan2249"><tspan
-           x="-37.7169"
-           y="753.19153"
-           style="font-family:Arial"
-           id="tspan2251">R</tspan></tspan></text>
-    <text
-       x="219.5761"
-       y="298.52243"
-       style="font-size:188px"
-       id="text2305"
-       xml:space="preserve"><tspan
-         x="219.5761"
-         y="298.52243"
-         id="tspan2307"><tspan
-           x="219.5761"
-           y="298.52243"
-           style="font-family:Arial"
-           id="tspan2309">O</tspan></tspan></text>
-    <text
-       x="484.57611"
-       y="755.57825"
-       style="font-size:188px"
-       id="text2182"
-       xml:space="preserve"><tspan
-         x="484.57611"
-         y="755.57825"
-         id="tspan2184"><tspan
-           x="484.57611"
-           y="755.57825"
-           style="font-family:Arial"
-           id="tspan2186">OH</tspan></tspan></text>
-  </g>
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="743" width="927" version="1.0">
+ <g id="layer1" transform="translate(102.34 -86.817)">
+  <rect id="rect3696" height="235.78" width="12.486" y="308.82" x="306.66"/>
+  <rect id="rect1922" height="232.58" width="12" y="308.82" x="269.66"/>
+  <rect id="rect1889" transform="rotate(240)" height="224.25" width="12" y="-232.55" x="-615.5"/>
+  <rect id="rect7228" transform="matrix(0.5 -.86603 -.86603 -0.5 0 0)" height="223.92" width="12.13" y="-742.42" x="-321.07"/>
+  <text id="text2247" xml:space="preserve" font-size="188px" y="753.19153" x="-37.7169">
+      <tspan id="tspan2249" y="753.19153" x="-37.7169">
+        <tspan id="tspan2251" y="753.19153" x="-37.7169" font-family="Arial">R</tspan>
+      </tspan>
+    </text>
+  <text id="text2305" xml:space="preserve" font-size="188px" y="298.52243" x="219.5761">
+      <tspan id="tspan2307" y="298.52243" x="219.5761">
+        <tspan id="tspan2309" y="298.52243" x="219.5761" font-family="Arial">O</tspan>
+      </tspan>
+    </text>
+  <text id="text2182" xml:space="preserve" font-size="188px" y="755.57825" x="484.57611">
+      <tspan id="tspan2184" y="755.57825" x="484.57611">
+        <tspan id="tspan2186" y="755.57825" x="484.57611" font-family="Arial">OH</tspan>
+      </tspan>
+    </text>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://openclipart.org/">
+      <dc:title>Openclipart</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
 </svg>

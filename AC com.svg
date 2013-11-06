@@ -1,74 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.0"
-   width="487"
-   height="334"
-   id="svg2211">
-  <defs
-     id="defs2214" />
-  <path
-     d="M 79,148 C 79,148 126,148 126,148 C 207,148 198,65 245,65 C 299,66 305,236 409,236 C 409,236 461,236 461,236"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
-     id="path2224" />
-  <path
-     d="M 40,252 L 40,28 M 30,46 L 40,26 L 49,46"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
-     id="path2220" />
-  <path
-     d="M 82,295 L 423,295 M 404,305 L 423,295 L 404,285"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
-     id="path2222" />
-  <path
-     d="M 218,56 L 268,56 M 218,50 L 218,63 M 268,50 L 268,63"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
-     id="path2236" />
-  <text
-     x="250"
-     y="38"
-     style="font-size:20px;text-align:center;text-anchor:middle;fill:#000000;font-family:sans"
-     id="text2238"
-     xml:space="preserve"><tspan
-       x="250"
-       y="38"
-       id="tspan2240">activated complex</tspan></text>
-  <text
-     x="70"
-     y="167"
-     style="font-size:20px;text-align:start;text-anchor:start;fill:#000000;font-family:sans"
-     id="text2242"
-     xml:space="preserve"><tspan
-       x="70"
-       y="167"
-       id="tspan2244">reactants</tspan></text>
-  <text
-     x="463"
-     y="253"
-     style="font-size:20px;text-align:end;text-anchor:end;fill:#000000;font-family:sans"
-     id="text2246"
-     xml:space="preserve"><tspan
-       x="463"
-       y="253"
-       id="tspan2248">products</tspan></text>
-  <text
-     x="224"
-     y="289"
-     style="font-size:20px;text-align:center;text-anchor:middle;fill:#000000;font-family:sans"
-     id="text2250"
-     xml:space="preserve"><tspan
-       x="224"
-       y="289"
-       id="tspan2252">reaction coordinate</tspan></text>
-  <text
-     x="-141"
-     y="32"
-     transform="matrix(0,-1,1,0,0,0)"
-     style="font-size:20px;text-align:center;text-anchor:middle;fill:#000000;font-family:sans"
-     id="text2254"
-     xml:space="preserve"><tspan
-       x="-141"
-       y="32"
-       id="tspan2256">potential energy</tspan></text>
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2211" height="334" width="487" version="1.0">
+ <path id="path2224" d="m79 148h47c81 0 72-83 119-83 54 1 60 171 164 171h52" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path2220" d="m40 252v-224m-10 18l10-20 9 20" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path2222" d="m82 295h341m-19 10l19-10-19-10" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path2236" d="m218 56h50m-50-6v13m50-13v13" stroke="#000" stroke-width="1px" fill="none"/>
+ <text id="text2238" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="38" x="250" font-family="sans" fill="#000000">
+    <tspan id="tspan2240" y="38" x="250">activated complex</tspan>
+  </text>
+ <text id="text2242" xml:space="preserve" font-size="20px" y="167" x="70" font-family="sans" fill="#000000">
+    <tspan id="tspan2244" y="167" x="70">reactants</tspan>
+  </text>
+ <text id="text2246" style="text-anchor:end;text-align:end" xml:space="preserve" font-size="20px" y="253" x="463" font-family="sans" fill="#000000">
+    <tspan id="tspan2248" y="253" x="463">products</tspan>
+  </text>
+ <text id="text2250" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="289" x="224" font-family="sans" fill="#000000">
+    <tspan id="tspan2252" y="289" x="224">reaction coordinate</tspan>
+  </text>
+ <text id="text2254" style="text-anchor:middle;text-align:center" xml:space="preserve" transform="rotate(-90)" font-size="20px" y="32" x="-141" font-family="sans" fill="#000000">
+    <tspan id="tspan2256" y="32" x="-141">potential energy</tspan>
+  </text>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://openclipart.org/">
+      <dc:title>Openclipart</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
 </svg>

@@ -1,117 +1,52 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="578"
-   height="413"
-   id="svg2">
-  <defs
-     id="defs6">
-    <marker
-       refX="0"
-       refY="0"
-       orient="auto"
-       id="Arrow1Lend"
-       style="overflow:visible">
-      <path
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         id="path3637"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
-    </marker>
-  </defs>
-  <path
-     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
-     id="path2818"
-     style="fill:#000000;fill-opacity:1;stroke:none" />
-  <path
-     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
-     transform="translate(126,0)"
-     id="path3592"
-     style="fill:#000000;fill-opacity:1;stroke:none" />
-  <path
-     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
-     transform="translate(246,0)"
-     id="path3594"
-     style="fill:#000000;fill-opacity:1;stroke:none" />
-  <path
-     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
-     transform="matrix(14.370746,0,0,14.370746,-2163.3182,-2812.7999)"
-     id="path3596"
-     style="fill:none;stroke:#000000;stroke-width:0.13917162;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.55668645, 0.55668645;stroke-dashoffset:0" />
-  <path
-     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
-     transform="matrix(41.626498,0,0,41.626498,-6573.1591,-8546.5843)"
-     id="path3598"
-     style="fill:none;stroke:#000000;stroke-width:0.04804632;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.19218528, 0.19218528;stroke-dashoffset:0" />
-  <path
-     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
-     transform="matrix(14.370746,0,0,14.370746,-1917.3182,-2812.7999)"
-     id="path3600"
-     style="fill:none;stroke:#000000;stroke-width:0.13917162;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.55668645, 0.55668645;stroke-dashoffset:0" />
-  <path
-     d="m 165.19783,210.36971 a 3.4029515,3.4029515 0 1 1 -6.80591,0 3.4029515,3.4029515 0 1 1 6.80591,0 z"
-     transform="matrix(41.626498,0,0,41.626498,-6327.1592,-8546.5844)"
-     id="path3602"
-     style="fill:none;stroke:#000000;stroke-width:0.04804632;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.19218528, 0.19218528;stroke-dashoffset:0" />
-  <text
-     x="163.96039"
-     y="200.77957"
-     id="text3604"
-     xml:space="preserve"
-     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
-       x="163.96039"
-       y="200.77957"
-       id="tspan3606">+</tspan></text>
-  <text
-     x="407.73544"
-     y="200.77957"
-     id="text3608"
-     xml:space="preserve"
-     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
-       x="407.73544"
-       y="200.77957"
-       id="tspan3610">+</tspan></text>
-  <text
-     x="287.73544"
-     y="202.77957"
-     id="text3612"
-     xml:space="preserve"
-     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
-       x="287.73544"
-       y="202.77957"
-       id="tspan3614">-</tspan></text>
-  <text
-     x="153.44217"
-     y="39.294048"
-     id="text3616"
-     xml:space="preserve"
-     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
-       x="153.44217"
-       y="39.294048"
-       id="tspan3618">shared electron</tspan></text>
-  <text
-     x="264.81149"
-     y="387.63257"
-     id="text3620"
-     xml:space="preserve"
-     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
-       x="264.81149"
-       y="387.63257"
-       id="tspan3622">orbit overlap</tspan></text>
-  <path
-     d="m 284.8125,140.0625 c -11.87426,20.72175 -18.65625,44.71768 -18.65625,70.3125 0,25.59541 6.78149,49.59043 18.65625,70.3125 11.87012,-20.7191 18.625,-44.72248 18.625,-70.3125 0,-25.58935 -6.75546,-49.59378 -18.625,-70.3125 z"
-     id="path3624"
-     style="fill:#000000;fill-opacity:0.1254902;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8.00000017, 8.00000017;stroke-dashoffset:0" />
-  <path
-     d="M 207.88939,46.718687 282.75433,202.63573"
-     id="path3629"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-  <path
-     d="M 300.69716,363.50253 285.2292,247.18346"
-     id="path4265"
-     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="413" width="578" version="1.1">
+ <defs id="defs6">
+  <marker id="Arrow1Lend" refY="0" refX="0" overflow="visible" orient="auto">
+   <path id="path3637" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.8 0 0 -.8 -10 0)" stroke="#000" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <path id="path2818" d="m165.2 210.37a3.403 3.403 0 1 1 -6.8059 0 3.403 3.403 0 1 1 6.8059 0z"/>
+ <path id="path3592" d="m165.2 210.37a3.403 3.403 0 1 1 -6.8059 0 3.403 3.403 0 1 1 6.8059 0z" transform="translate(126)"/>
+ <path id="path3594" d="m165.2 210.37a3.403 3.403 0 1 1 -6.8059 0 3.403 3.403 0 1 1 6.8059 0z" transform="translate(246)"/>
+ <path id="path3596" d="m165.2 210.37a3.403 3.403 0 1 1 -6.8059 0 3.403 3.403 0 1 1 6.8059 0z" transform="matrix(14.371 0 0 14.371 -2163.3 -2812.8)" stroke="#000" stroke-dasharray="0.55668645, 0.55668645" stroke-width=".13917" fill="none"/>
+ <path id="path3598" d="m165.2 210.37a3.403 3.403 0 1 1 -6.8059 0 3.403 3.403 0 1 1 6.8059 0z" transform="matrix(41.626 0 0 41.626 -6573.2 -8546.6)" stroke="#000" stroke-dasharray="0.19218528, 0.19218528" stroke-width=".048046" fill="none"/>
+ <path id="path3600" d="m165.2 210.37a3.403 3.403 0 1 1 -6.8059 0 3.403 3.403 0 1 1 6.8059 0z" transform="matrix(14.371 0 0 14.371 -1917.3 -2812.8)" stroke="#000" stroke-dasharray="0.55668645, 0.55668645" stroke-width=".13917" fill="none"/>
+ <path id="path3602" d="m165.2 210.37a3.403 3.403 0 1 1 -6.8059 0 3.403 3.403 0 1 1 6.8059 0z" transform="matrix(41.626 0 0 41.626 -6327.2 -8546.6)" stroke="#000" stroke-dasharray="0.19218528, 0.19218528" stroke-width=".048046" fill="none"/>
+ <text id="text3604" xml:space="preserve" font-size="24px" y="200.77957" x="163.96039" font-family="Arial" fill="#000000">
+    <tspan id="tspan3606" y="200.77957" x="163.96039">+</tspan>
+  </text>
+ <text id="text3608" xml:space="preserve" font-size="24px" y="200.77957" x="407.73544" font-family="Arial" fill="#000000">
+    <tspan id="tspan3610" y="200.77957" x="407.73544">+</tspan>
+  </text>
+ <text id="text3612" xml:space="preserve" font-size="24px" y="202.77957" x="287.73544" font-family="Arial" fill="#000000">
+    <tspan id="tspan3614" y="202.77957" x="287.73544">-</tspan>
+  </text>
+ <text id="text3616" xml:space="preserve" font-size="24px" y="39.294048" x="153.44217" font-family="Arial" fill="#000000">
+    <tspan id="tspan3618" y="39.294048" x="153.44217">shared electron</tspan>
+  </text>
+ <text id="text3620" xml:space="preserve" font-size="24px" y="387.63257" x="264.81149" font-family="Arial" fill="#000000">
+    <tspan id="tspan3622" y="387.63257" x="264.81149">orbit overlap</tspan>
+  </text>
+ <path id="path3624" d="m284.81 140.06c-11.874 20.722-18.656 44.718-18.656 70.312 0 25.595 6.7815 49.59 18.656 70.312 11.87-20.719 18.625-44.722 18.625-70.312 0-25.589-6.7555-49.594-18.625-70.312z" fill-opacity=".12549" stroke="#000" stroke-dasharray="8.00000017, 8.00000017" stroke-width="2"/>
+ <path id="path3629" marker-end="url(#Arrow1Lend)" d="m207.89 46.719 74.86 155.92" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path4265" d="m300.7 363.5-15.47-116.32" stroke="#000" stroke-width="1px" fill="none"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://openclipart.org/">
+      <dc:title>Openclipart</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
 </svg>

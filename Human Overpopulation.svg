@@ -1,56 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="550"
-   height="325"
-   viewBox="0 0 550 325"
-   preserveAspectRatio="none"
-   version="1.1"
-   id="svg3075"
-   inkscape:version="0.48.0 r9654"
-   sodipodi:docname="Population_curve.svg">
-  <metadata
-     id="metadata3163">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1024"
-     inkscape:window-height="537"
-     id="namedview3161"
-     showgrid="false"
-     inkscape:zoom="3.0920618"
-     inkscape:cx="478.76811"
-     inkscape:cy="295.1301"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g3087" />
-  <style
-     type="text/css"
-     id="style3077">
-text {
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg3075" height="325" width="550" version="1.1" preserveAspectRatio="none" viewBox="0 0 550 325">
+ <style id="style3077" type="text/css">text {
 	font-family : Verdana, Tahoma, sans-serif;
 	font-size : 11px;
 	fill : black;
@@ -62,295 +12,76 @@ text {
 }
 #x_axis_numbers text {
 	text-anchor : middle;
-}
-</style>
-  <desc
-     id="desc3079">Usage share of Netscape Navigator</desc>
-  <defs
-     id="defs3081">
-    <!-- The lines in the graph are scaled significantly. Make sure the stroke width is set appropriately. -->
-    <line
-       id="horizontal_line"
-       x1="-10000"
-       x2="2000"
-       y1="0"
-       y2="0"
-       style="stroke-width:25" />
-    <line
-       id="vertical_line"
-       x1="0"
-       x2="0"
-       y1="100"
-       y2="-100"
-       style="stroke-width:25" />
-  </defs>
-  <!--
-	ORDER OF TRANSFORMATIONS:
-	(1)	Shift origin from (x, y) to (0, 0) (e.g., from [2004, 0] to [0, 0])
-	(2)	Scale as appropriate
-	(3)	Shift back to viewport's origin
-	(4)	Shift away from edge as desired
-	
-	In working out your calculations, opt for a number that divides nicely into 100s (e.g., 1, 2, 2.5, 5, 10, 20, 25, etc.)
-	
-	CALCULATIONS:
-	Horizontal	=	Width/Range
-				=	500/(2000-(-10000))
-				~	0.04
-	Vertical	=	[-1 * Height]/Range
-				=	-250/(6070 - 0)
-				~	-0.04
--->
-  <g
-     transform="translate(55,50)"
-     id="g3085">
-    <g
-       transform="matrix(0.04,0,0,-0.04,400,250)"
-       id="g3087">
-      <!-- X-axis -->
-      <use
-         xlink:href="#horizontal_line"
-         x="0"
-         y="0"
-         id="use3089"
-         style="stroke:#000000"
-         width="550"
-         height="275" />
-      <!-- Horizontal gridlines -->
-      <g
-         id="g3091"
-         style="stroke:#cccccc">
-        <use
-           xlink:href="#horizontal_line"
-           x="0"
-           y="0"
-           id="use3093"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#horizontal_line"
-           x="0"
-           y="1000"
-           id="use3095"
-           style="stroke-dasharray:100"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#horizontal_line"
-           x="0"
-           y="2000"
-           id="use3097"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#horizontal_line"
-           x="0"
-           y="3000"
-           id="use3099"
-           style="stroke-dasharray:100"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#horizontal_line"
-           x="0"
-           y="4000"
-           id="use3101"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#horizontal_line"
-           x="0"
-           y="5000"
-           id="use3103"
-           style="stroke-dasharray:100"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#horizontal_line"
-           x="0"
-           y="6000"
-           id="use3105"
-           width="550"
-           height="275" />
-        <use
-           id="use3167"
-           y="5000"
-           x="0"
-           xlink:href="#horizontal_line"
-           transform="translate(0,2000)"
-           style="stroke-dasharray:100"
-           width="550"
-           height="275" />
-      </g>
-      <!-- Vertical ticks -->
-      <g
-         id="g3107"
-         style="stroke:#000000">
-        <use
-           xlink:href="#vertical_line"
-           x="-10000"
-           y="0"
-           id="use3109"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#vertical_line"
-           x="-8000"
-           y="0"
-           id="use3111"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#vertical_line"
-           x="-6000"
-           y="0"
-           id="use3113"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#vertical_line"
-           x="-4000"
-           y="0"
-           id="use3115"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#vertical_line"
-           x="-2000"
-           y="0"
-           id="use3117"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#vertical_line"
-           x="0"
-           y="0"
-           transform="scale(1,1.5)"
-           id="use3119"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#vertical_line"
-           x="1000"
-           y="0"
-           id="use3121"
-           width="550"
-           height="275" />
-        <use
-           xlink:href="#vertical_line"
-           x="2000"
-           y="0"
-           id="use3123"
-           width="550"
-           height="275" />
-      </g>
-      <!-- Plot -->
-      <path
-         d="m -10000,0 0,4 2000,1 1000,0 1000,0 1000,0 1000,2 1000,7 1000,13 1000,23 250,10 250,40 100,60 200,-10 201,20 199,20 200,0 100,0 100,10 100,10 100,10 100,6 100,84 100,-9 100,59 50,40 50,-40 40,83 60,-93 100,75 100,120 50,-75 50,130 50,190 50,190 50,280 50,390 10,100 10,110 10,210 10,230 10,100 10,620 10,680 4,300 6,430 7,570 3,260 10,810 0.5,430 0.25,247.5 0.45,252.5 0.1,0.025 L 2001.3,0 z"
-         id="path3125"
-         inkscape:connector-curvature="0"
-         style="fill:#555555;stroke:#000000;stroke-width:20"
-         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
-    </g>
-    <!-- Text can't be scaled or it goes strange. Its location must be calculated directly. -->
-    <!-- Y-axis label -->
-    <text
-       transform="matrix(0,-1,1,0,-160,120)"
-       x="0"
-       y="125"
-       id="text3127"
-       style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">World population, billions</text>
-    <!-- Y-axis -->
-    <g
-       id="percentage_numbers"
-       transform="translate(-10,2)"
-       style="text-anchor:end">
-      <text
-         x="0"
-         y="250"
-         id="text3130"
-         style="font-size:11px;text-anchor:end;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">0</text>
-      <text
-         x="0"
-         y="210"
-         id="text3132"
-         style="font-size:11px;text-anchor:end;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">1</text>
-      <text
-         x="0"
-         y="170"
-         id="text3134"
-         style="font-size:11px;text-anchor:end;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">2</text>
-      <text
-         x="0"
-         y="130"
-         id="text3136"
-         style="font-size:11px;text-anchor:end;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">3</text>
-      <text
-         x="0"
-         y="90"
-         id="text3138"
-         style="font-size:11px;text-anchor:end;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">4</text>
-      <text
-         x="0"
-         y="50"
-         id="text3140"
-         style="font-size:11px;text-anchor:end;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">5</text>
-      <text
-         x="0"
-         y="10"
-         id="text3142"
-         style="font-size:11px;text-anchor:end;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">6</text>
-      <text
-         id="text3165"
-         y="-30.000277"
-         x="0"
-         style="font-size:11px;text-anchor:end;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">7</text>
-    </g>
-    <!-- X-axis -->
-    <g
-       id="x_axis_numbers"
-       transform="translate(0,20)"
-       style="text-anchor:middle">
-      <text
-         x="0"
-         y="250"
-         id="text3145"
-         style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">10,000 BC</text>
-      <text
-         x="80"
-         y="250"
-         id="text3147"
-         style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">8000</text>
-      <text
-         x="160"
-         y="250"
-         id="text3149"
-         style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">6000</text>
-      <text
-         x="240"
-         y="250"
-         id="text3151"
-         style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">4000</text>
-      <text
-         x="320"
-         y="250"
-         id="text3153"
-         style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">2000</text>
-      <text
-         x="400"
-         y="250"
-         id="text3155"
-         style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">AD 1</text>
-      <text
-         x="440"
-         y="250"
-         id="text3157"
-         style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">1000</text>
-      <text
-         x="480"
-         y="250"
-         id="text3159"
-         style="font-size:11px;text-anchor:middle;fill:#000000;stroke:none;font-family:'Verdana, Tahoma, sans-serif'">2000</text>
-    </g>
+}</style>
+ <desc id="desc3079">Usage share of Netscape Navigator</desc>
+ <defs id="defs3081">
+  <line id="horizontal_line" stroke-width="25" x2="2e3" x1="-1e4"/>
+  <line id="vertical_line" stroke-width="25" y2="-100" y1="100" x2="0"/>
+ </defs>
+ <g id="g3085" transform="translate(55,50)">
+  <g id="g3087" transform="matrix(.04 0 0 -.04 400 250)">
+   <use id="use3089" xlink:href="#horizontal_line" height="275" width="550" stroke="#000000" y="0" x="0"/>
+   <g id="g3091" stroke="#ccc">
+    <use id="use3093" xlink:href="#horizontal_line" height="275" width="550" y="0" x="0"/>
+    <use id="use3095" xlink:href="#horizontal_line" height="275" width="550" stroke-dasharray="100" y="1000" x="0"/>
+    <use id="use3097" xlink:href="#horizontal_line" height="275" width="550" y="2000" x="0"/>
+    <use id="use3099" xlink:href="#horizontal_line" height="275" width="550" stroke-dasharray="100" y="3000" x="0"/>
+    <use id="use3101" xlink:href="#horizontal_line" height="275" width="550" y="4000" x="0"/>
+    <use id="use3103" xlink:href="#horizontal_line" height="275" width="550" stroke-dasharray="100" y="5000" x="0"/>
+    <use id="use3105" xlink:href="#horizontal_line" height="275" width="550" y="6000" x="0"/>
+    <use id="use3167" xlink:href="#horizontal_line" transform="translate(0 2e3)" height="275" width="550" stroke-dasharray="100" y="5000" x="0"/>
+   </g>
+   <g id="g3107" stroke="#000">
+    <use id="use3109" xlink:href="#vertical_line" height="275" width="550" y="0" x="-10000"/>
+    <use id="use3111" xlink:href="#vertical_line" height="275" width="550" y="0" x="-8000"/>
+    <use id="use3113" xlink:href="#vertical_line" height="275" width="550" y="0" x="-6000"/>
+    <use id="use3115" xlink:href="#vertical_line" height="275" width="550" y="0" x="-4000"/>
+    <use id="use3117" xlink:href="#vertical_line" height="275" width="550" y="0" x="-2000"/>
+    <use id="use3119" xlink:href="#vertical_line" transform="scale(1,1.5)" height="275" width="550" y="0" x="0"/>
+    <use id="use3121" xlink:href="#vertical_line" height="275" width="550" y="0" x="1000"/>
+    <use id="use3123" xlink:href="#vertical_line" height="275" width="550" y="0" x="2000"/>
+   </g>
+   <path id="path3125" d="m-1e4 0v4l2e3 1h1e3 1e3 1e3l1e3 2 1e3 7 1e3 13 1e3 23 250 10 250 40 100 60 200-10 201 20 199 20h200 100l100 10 100 10 100 10 100 6 100 84 100-9 100 59 50 40 50-40 40 83 60-93 100 75 100 120 50-75 50 130 50 190 50 190 50 280 50 390 10 100 10 110 10 210 10 230 10 100 10 620 10 680 4 300 6 430 7 570 3 260 10 810 0.5 430 0.25 247.5 0.45 252.5 0.1 0.025v-7e3z" stroke="#000" stroke-width="20" fill="#555"/>
   </g>
+  <text id="text3127" style="text-anchor:middle" transform="matrix(0,-1,1,0,-160,120)" font-size="11px" y="125" x="0" font-family="'Verdana, Tahoma, sans-serif'" fill="#000000">World population, billions</text>
+  <g id="percentage_numbers" style="text-anchor:end" font-size="11px" transform="translate(-10,2)" font-family="'Verdana, Tahoma, sans-serif'" fill="#000000">
+   <text id="text3130" style="text-anchor:end" y="250" x="0">0</text>
+   <text id="text3132" style="text-anchor:end" y="210" x="0">1</text>
+   <text id="text3134" style="text-anchor:end" y="170" x="0">2</text>
+   <text id="text3136" style="text-anchor:end" y="130" x="0">3</text>
+   <text id="text3138" style="text-anchor:end" y="90" x="0">4</text>
+   <text id="text3140" style="text-anchor:end" y="50" x="0">5</text>
+   <text id="text3142" style="text-anchor:end" y="10" x="0">6</text>
+   <text id="text3165" style="text-anchor:end" y="-30.000277" x="0">7</text>
+  </g>
+  <g id="x_axis_numbers" style="text-anchor:middle" font-size="11px" transform="translate(0,20)" font-family="'Verdana, Tahoma, sans-serif'" fill="#000000">
+   <text id="text3145" style="text-anchor:middle" y="250" x="0">10,000 BC</text>
+   <text id="text3147" style="text-anchor:middle" y="250" x="80">8000</text>
+   <text id="text3149" style="text-anchor:middle" y="250" x="160">6000</text>
+   <text id="text3151" style="text-anchor:middle" y="250" x="240">4000</text>
+   <text id="text3153" style="text-anchor:middle" y="250" x="320">2000</text>
+   <text id="text3155" style="text-anchor:middle" y="250" x="400">AD 1</text>
+   <text id="text3157" style="text-anchor:middle" y="250" x="440">1000</text>
+   <text id="text3159" style="text-anchor:middle" y="250" x="480">2000</text>
+  </g>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://openclipart.org/">
+      <dc:title>Openclipart</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
 </svg>

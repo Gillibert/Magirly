@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Created with Inkscape (http://www.inkscape.org/) --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="884"><text x="159.41449" y="122.8845" id="O" style="font-size:100px;font-family:Arial">O</text><text x="959.50092" y="271.01877" style="font-size:100px;font-family:Arial">N</text><use transform="translate(500.66561,565.72265)" xlink:href="#O" /><path d="M 1346.6441,391.0236 L 1207.4453,352.3242 L 1103.9463,453.4227 L 978.8474,381.1238 M 978.8474,381.1238 L 854.6485,455.2227 L 719.3497,404.5234 M 560.0512,459.1226 L 485.3519,404.8234 M 719.3497,404.5234 L 644.9504,458.8226 M 674.6501,267.1254 L 530.0514,267.4254 M 529.7515,267.4254 L 485.3519,404.8234 M 500.9517,273.7253 L 465.852,382.6237 M 275.9537,321.7246 L 352.7531,406.9234 M 291.5536,190.0266 L 247.154,327.7245 L 344.0531,435.123 L 485.3519,404.8234 M 291.5536,190.0266 L 433.1523,160.027 L 530.0514,267.4254 M 311.6534,211.9262 L 423.8524,187.9266 M 674.6501,267.1254 L 719.3497,404.5234 M 656.9503,295.325 L 688.45,392.2236 M 992.0473,283.3252 L 978.8474,381.1238 M 955.7476,193.6265 L 898.1481,133.3274 L 754.1494,146.5272 L 674.6501,267.1254 M 291.5536,190.0266 L 235.7541,128.2275 M 150.2549,92.228 L 53.3558,112.9277 M 840.2486,610.6204 L 746.6495,649.0198 M 835.4487,598.6206 L 905.0481,652.3198 M 943.7477,732.7186 L 930.5478,830.2171 M 830.6487,586.9207 L 737.0496,625.3201 M 821.2449,585.9707 L 852.1561,590.2052 M 826.7964,565.3396 L 852.3575,568.8409 M 832.3476,544.7084 L 852.5588,547.4771 M 837.8989,524.0775 L 852.7602,526.113 M 843.153,503.4055 L 853.2586,504.7898 M 848.7043,482.7745 L 853.46,483.4259 M 853.2155,462.0009 L 854.7014,462.2045" style="fill:none;stroke:#000;stroke-width:7.5" /><path d="M 1055.5361,382.0813 L 1013.5971,389.5541 L 1007.8782,435.3438 L 1048.1016,437.0595 L 1055.5361,382.0813 z" fill="#fff" /><path d="M 1024.7265,281.9772 L 1021.289,283.7896 L 1030.5078,322.4459 L 1012.6952,456.0709 L 903.5078,518.8834 L 856.2578,454.0396 L 852.789,455.9772 L 892.539,554.2584 L 1024.1328,478.1959 L 1142.0702,546.2272 L 1159.664,528.6334 L 1105.6015,452.2584 L 1102.0702,454.0396 L 1118.6952,503.9772 L 1037.7265,457.1959 L 1056.5702,317.7584 L 1024.7265,281.9772 z" fill="#000" /><text x="566.00018" y="527.53149" style="font-size:100px;font-family:Arial">N<tspan x="566.00018" y="611.53149">H</tspan></text><use transform="translate(750.82145,594.79799)" xlink:href="#O" /></svg>
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" height="884" width="1400">
+ <text id="O" font-size="100px" y="122.8845" x="159.41449" font-family="Arial">O</text>
+ <text y="271.01877" x="959.50092" font-family="Arial" font-size="100px">N</text>
+ <use xlink:href="#O" transform="translate(500.67 565.72)"/>
+ <path stroke-width="7.5" d="m1346.6 391.02l-139.2-38.7-103.5 101.1-125.05-72.3-124.2 74.1-135.3-50.7m-159.3 54.6l-74.7-54.3m234-0.3l-74.4 54.3m29.7-191.69l-144.6 0.3m-0.3 0l-44.4 137.39m15.6-131.09l-35.1 108.89m-189.9-60.9l76.8 85.2m-61.2-216.89l-44.4 137.69 96.9 107.4 141.3-30.3m-193.8-214.79l141.6-30 96.9 107.4m-218.4-55.5l112.2-24m250.8 79.2l44.7 137.39m-62.4-109.2l31.5 96.9m303.6-108.89l-13.2 97.79m-23.1-187.49l-57.6-60.3-144 13.2-79.5 120.6m-383.1-77.1l-55.8-61.8m-85.5-36.002l-96.894 20.702m786.89 497.69l-93.6 38.4m88.8-50.4l69.6 53.7m38.7 80.4l-13.2 97.5m-99.9-243.3l-93.6 38.4m84.19-39.35l30.92 4.24m-25.36-24.87l25.56 3.5m-20.01-24.13l20.21 2.77m-14.66-23.4l14.86 2.03m-9.61-22.7l10.11 1.38m-4.56-22.02l4.76 0.66m-0.24-21.43l1.48 0.2" stroke="#000" fill="none"/>
+ <path d="m1055.5 382.08l-41.9 7.47-5.7 45.79 40.2 1.72 7.4-54.98z" fill="#fff"/>
+ <path d="m1024.7 281.98l-3.4 1.81 9.2 38.66-17.8 133.62-109.19 62.81-47.25-64.84-3.47 1.94 39.75 98.28 131.56-76.06 118 68.03 17.6-17.6-54.1-76.37-3.5 1.78 16.6 49.94-81-46.78 18.9-139.44-31.9-35.78z"/>
+ <text y="527.53149" x="566.00018" font-family="Arial" font-size="100px">N
+  <tspan y="611.53149" x="566.00018">H</tspan>
+ </text>
+ <use xlink:href="#O" transform="translate(750.82 594.8)"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://openclipart.org/">
+      <dc:title>Openclipart</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+</svg>

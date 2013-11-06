@@ -1,534 +1,151 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="700"
-   height="463"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="0.46"
-   version="1.0"
-   sodipodi:docbase="F:\WP images\SCHEMA 1"
-   sodipodi:docname="MaxwellBoltzmann-en.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
-  <defs
-     id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 231.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="667 : 231.5 : 1"
-       inkscape:persp3d-origin="333.5 : 154.33333 : 1"
-       id="perspective101" />
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="390.45664"
-     inkscape:cy="368.91113"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer6"
-     width="667px"
-     height="463px"
-     showgrid="true"
-     inkscape:window-width="1152"
-     inkscape:window-height="809"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="grey"
-     style="display: inline;">
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 108.85714,349 L 582.85714,349"
-       id="path2258" />
-    <path
-       style="fill: rgb(153, 153, 153); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(153, 153, 153); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 108.86143,316 L 582.86143,316"
-       id="path3241" />
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 108.35714,282 L 582.35714,282"
-       id="path3245" />
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(153, 153, 153); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 109.35714,249 L 583.35714,249"
-       id="path3247" />
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 109.35714,216 L 583.35714,216"
-       id="path3249" />
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(153, 153, 153); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 109.35714,183 L 583.35714,183"
-       id="path3251" />
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 109.35714,149 L 583.35713,149"
-       id="path3253" />
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(153, 153, 153); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 109.35713,116 L 583.35714,116"
-       id="path3255" />
-    <path
-       id="path3265"
-       d="M 487.85714,381 L 487.85714,83"
-       style="fill: none; fill-rule: evenodd; stroke: rgb(153, 153, 153); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(153, 153, 153); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 392.85714,381 L 392.85714,83"
-       id="path3267" />
-    <path
-       id="path3269"
-       d="M 298.85714,381 L 298.85714,83"
-       style="fill: none; fill-rule: evenodd; stroke: rgb(153, 153, 153); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(153, 153, 153); stroke-width: 1.00104px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 203.85714,381.65679 L 203.85714,83.033881"
-       id="path3271" />
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 109.35714,83 L 583.35715,83"
-       id="path3257" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(153, 153, 153); stroke-width: 1.00084px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 582.85714,380.99916 L 582.85714,82.500836"
-       id="path3263" />
-    <path
-       id="path3273"
-       d="M 563.85714,381 L 563.85714,83"
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 544.85714,381 L 544.85714,83"
-       id="path3275" />
-    <path
-       id="path3277"
-       d="M 525.85714,381 L 525.85714,83"
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 506.85714,381 L 506.85714,83"
-       id="path3279" />
-    <path
-       id="path3281"
-       d="M 468.85714,381 L 468.85714,83"
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 449.85714,381 L 449.85714,83"
-       id="path3283" />
-    <path
-       id="path3285"
-       d="M 430.85714,381 L 430.85714,83"
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 411.85714,381 L 411.85714,83"
-       id="path3287" />
-    <path
-       id="path3289"
-       d="M 373.85714,381 L 373.85714,83"
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 354.85714,381 L 354.85714,83"
-       id="path3291" />
-    <path
-       id="path3293"
-       d="M 336.85714,381 L 336.85714,83"
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 279.85714,381 L 279.85714,83"
-       id="path3295" />
-    <path
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 317.85714,381 L 317.85714,83"
-       id="path3297" />
-    <path
-       id="path3299"
-       d="M 260.85714,381 L 260.85714,83"
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 241.85714,381 L 241.85714,83"
-       id="path3301" />
-    <path
-       id="path3303"
-       d="M 222.85714,381 L 222.85714,83"
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 184.85714,381 L 184.85714,83"
-       id="path3305" />
-    <path
-       id="path3307"
-       d="M 165.85714,381 L 165.85714,83"
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-    <path
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 146.85714,381 L 146.85714,83"
-       id="path3309" />
-    <path
-       id="path3311"
-       d="M 127.85714,381 L 127.85714,83"
-       style="fill: rgb(204, 204, 204); fill-opacity: 1; fill-rule: evenodd; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="tracer"
-     style="display: inline;">
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(255, 204, 0); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
-       d="M 116.42857,381.21429 C 149.51404,353.58927 171.4151,270.45594 202.85714,270.5 C 237.51348,269.47263 273.27854,382.18202 363.15116,380.6894"
-       id="path3317"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(0, 255, 255); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
-       d="M 108.41518,381.95536 C 134.97752,379.87137 148.0527,225.35529 175.6922,224.98281 C 189.78432,225.26312 198.5992,259.73735 216.64408,300.43613 C 235.96956,344.02321 251.53687,378.38203 294.32199,380.67256"
-       id="path3321"
-       sodipodi:nodetypes="ccsc" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 255); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
-       d="M 111.07143,382.28571 C 198.57792,374.87412 247.13197,332.15917 317.34091,331.65809 C 385.61454,331.91807 480.19994,372.25507 581.74107,377.28571"
-       id="path3319"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill: none; fill-opacity: 1; fill-rule: evenodd; stroke: rgb(102, 0, 153); stroke-width: 3; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
-       d="M 581.875,380.99107 C 581.875,380.99107 237.2824,380.68196 218.75,380.5 C 180.58007,378.63216 178.28666,298.02521 168.86338,237.82449 C 158.18605,167.95446 155.08005,97.886119 145.57904,97.812454 C 130.08027,97.991327 123.83512,381.71039 108.57143,381.92857"
-       id="path3314"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       id="path3338"
-       d="M 582.85714,381.55271 L 582.85714,82.500836"
-       style="fill: none; fill-rule: evenodd; stroke: rgb(153, 153, 153); stroke-width: 1.00084px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1; display: inline;"
-       sodipodi:nodetypes="cc" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="eff">
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(255, 255, 255); stroke-width: 2; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
-       d="M 105.85714,383 L 124.85714,383"
-       id="path3332" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(255, 255, 255); stroke-width: 2; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1;"
-       d="M 105.63393,380.85715 L 108.5625,381.125"
-       id="path3334"
-       sodipodi:nodetypes="cc" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="1"
-     style="display: inline;">
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 102.85714,382 L 582.85714,382 L 582.85714,388"
-       id="path2237" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 487.85714,388 L 487.85714,382"
-       id="path2239" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 392.85714,388 L 392.85714,382"
-       id="path2241" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 298.85714,388 L 298.85714,382"
-       id="path2243" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 203.85714,388 L 203.85714,382"
-       id="path2245" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1.00082px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 108.85714,388.40097 L 108.85714,82.500816"
-       id="path2247"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 102.85714,116 L 108.85714,116"
-       id="path2249" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 102.85714,183 L 108.85714,183"
-       id="path2251" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 102.85714,249 L 108.85714,249"
-       id="path2253" />
-    <path
-       style="fill: none; fill-rule: evenodd; stroke: rgb(0, 0, 0); stroke-width: 1px; stroke-linecap: butt; stroke-linejoin: miter; stroke-opacity: 1;"
-       d="M 102.85714,316 L 108.85714,316"
-       id="path2255" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Texte"
-     style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold'"
-       x="18.82061"
-       y="44.435299"
-       id="text3342"><tspan
-         sodipodi:role="line"
-         id="tspan3344"
-         x="18.82061"
-         y="44.435299">Maxwell-Boltzmann Molecular Speed Distribution for Noble Gases</tspan></text>
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3346"
-       width="88.506226"
-       height="101.2678"
-       x="605.45111"
-       y="181.16743" />
-    <path
-       style="fill:#0000ff;fill-rule:evenodd;stroke:#0000ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 610.61342,195.05704 L 634.3418,195.05704"
-       id="path3348" />
-    <path
-       id="path3350"
-       d="M 610.61342,220.057 L 634.3418,220.057"
-       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#ffcc00;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:#00ffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 610.61342,244.957 L 634.3418,244.957"
-       id="path3352" />
-    <path
-       id="path3354"
-       d="M 610.61342,269.957 L 634.3418,269.957"
-       style="fill:#990099;fill-opacity:1;fill-rule:evenodd;stroke:#990099;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="653.05402"
-       y="196.32001"
-       id="text3356"><tspan
-         sodipodi:role="line"
-         id="tspan3358"
-         x="653.05402"
-         y="196.32001">4</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold'"
-       x="663.73608"
-       y="203.39101"
-       id="text3360"><tspan
-         sodipodi:role="line"
-         id="tspan3362"
-         x="663.73608"
-         y="203.39101">He</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="645.55798"
-       y="219.68401"
-       id="text3364"><tspan
-         sodipodi:role="line"
-         id="tspan3366"
-         x="645.55798"
-         y="219.68401">20</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold'"
-       x="664.19507"
-       y="227.76601"
-       id="text3368"><tspan
-         sodipodi:role="line"
-         id="tspan3370"
-         x="664.19507"
-         y="227.76601">Ne</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="647.07397"
-       y="245.42799"
-       id="text3372"><tspan
-         sodipodi:role="line"
-         id="tspan3374"
-         x="647.07397"
-         y="245.42799">40</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold'"
-       x="664.06708"
-       y="252.31599"
-       id="text3376"><tspan
-         sodipodi:role="line"
-         id="tspan3378"
-         x="664.06708"
-         y="252.31599">Ar</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="637.09802"
-       y="268.67401"
-       id="text3380"><tspan
-         sodipodi:role="line"
-         id="tspan3382"
-         x="637.09802"
-         y="268.67401">132</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold'"
-       x="664.06812"
-       y="277.76599"
-       id="text3384"><tspan
-         sodipodi:role="line"
-         id="tspan3386"
-         x="664.06812"
-         y="277.76599">Xe</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="-348.67001"
-       y="29.8694"
-       id="text3388"
-       transform="matrix(2.09308e-3,-0.999998,0.999998,2.09308e-3,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3390"
-         x="-348.67001"
-         y="29.8694">Probability density (s/m)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="284.28299"
-       y="446.83801"
-       id="text3392"><tspan
-         sodipodi:role="line"
-         id="tspan3394"
-         x="284.28299"
-         y="446.83801">Speed (m/s)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="103.466"
-       y="404.53699"
-       id="text2239"><tspan
-         sodipodi:role="line"
-         id="tspan2241"
-         x="103.466"
-         y="404.53699">0</tspan></text>
-    <text
-       id="text2243"
-       y="404.53699"
-       x="187.166"
-       style="font-size:20px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       xml:space="preserve"><tspan
-         y="404.53699"
-         x="187.166"
-         id="tspan2245"
-         sodipodi:role="line">500</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="276.26599"
-       y="404.53699"
-       id="text2247"><tspan
-         sodipodi:role="line"
-         id="tspan2249"
-         x="276.26599"
-         y="404.53699">1000</tspan></text>
-    <text
-       id="text2251"
-       y="404.53699"
-       x="370.16599"
-       style="font-size:20px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       xml:space="preserve"><tspan
-         y="404.53699"
-         x="370.16599"
-         id="tspan2253"
-         sodipodi:role="line">1500</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="465.866"
-       y="404.53699"
-       id="text2255"><tspan
-         sodipodi:role="line"
-         id="tspan2257"
-         x="465.866"
-         y="404.53699">2000</tspan></text>
-    <text
-       id="text2259"
-       y="404.53699"
-       x="560.86603"
-       style="font-size:20px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       xml:space="preserve"><tspan
-         y="404.53699"
-         x="560.86603"
-         id="tspan2261"
-         sodipodi:role="line">2500</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:bold;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="48.5714"
-       y="121.571"
-       id="text2474"><tspan
-         sodipodi:role="line"
-         id="tspan2476"
-         x="48.5714"
-         y="121.571">0.004</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="45.714298"
-       y="188.714"
-       id="text2478"><tspan
-         sodipodi:role="line"
-         id="tspan2480"
-         x="45.714298"
-         y="188.714">0.003</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="44.285702"
-       y="254.429"
-       id="text2482"><tspan
-         sodipodi:role="line"
-         id="tspan2484"
-         x="44.285702"
-         y="254.429">0.002</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:DejaVu Sans Condensed;-inkscape-font-specification:'DejaVu Sans Condensed, Bold';font-stretch:normal;font-variant:normal"
-       x="44.285702"
-       y="321.57101"
-       id="text2486"><tspan
-         sodipodi:role="line"
-         id="tspan2488"
-         x="44.285702"
-         y="321.57101">0.001</tspan></text>
-  </g>
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="463" width="700" version="1.0">
+ <g id="layer3">
+  <path id="path2258" d="m108.86 349h474" stroke="#ccc" stroke-width="1px" fill="none"/>
+  <path id="path3241" d="m108.86 316h474" fill-rule="evenodd" stroke="#999" stroke-width="1px" fill="#999"/>
+  <path id="path3245" d="m108.36 282h474" stroke="#ccc" stroke-width="1px" fill="none"/>
+  <path id="path3247" d="m109.36 249h474" stroke="#999" stroke-width="1px" fill="none"/>
+  <path id="path3249" d="m109.36 216h474" stroke="#ccc" stroke-width="1px" fill="none"/>
+  <path id="path3251" d="m109.36 183h474" stroke="#999" stroke-width="1px" fill="none"/>
+  <path id="path3253" d="m109.36 149h474" stroke="#ccc" stroke-width="1px" fill="none"/>
+  <path id="path3255" d="m109.36 116h474" stroke="#999" stroke-width="1px" fill="none"/>
+  <path id="path3265" d="m487.86 381v-298" stroke="#999" stroke-width="1px" fill="none"/>
+  <path id="path3267" d="m392.86 381v-298" stroke="#999" stroke-width="1px" fill="none"/>
+  <path id="path3269" d="m298.86 381v-298" stroke="#999" stroke-width="1px" fill="none"/>
+  <path id="path3271" d="m203.86 381.66v-298.63" stroke="#999" stroke-width="1.001px" fill="none"/>
+  <path id="path3257" d="m109.36 83h474" stroke="#ccc" stroke-width="1px" fill="none"/>
+  <path id="path3263" d="m582.86 381v-298.5" stroke="#999" stroke-width="1.0008px" fill="none"/>
+  <path id="path3273" d="m563.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3275" d="m544.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3277" d="m525.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3279" d="m506.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3281" d="m468.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3283" d="m449.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3285" d="m430.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3287" d="m411.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3289" d="m373.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3291" d="m354.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3293" d="m336.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3295" d="m279.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3297" d="m317.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3299" d="m260.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3301" d="m241.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3303" d="m222.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3305" d="m184.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3307" d="m165.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3309" d="m146.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+  <path id="path3311" d="m127.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
+ </g>
+ <g id="layer4" fill="none">
+  <path id="path3317" d="m116.43 381.21c33.08-27.62 54.99-110.75 86.43-110.71 34.65-1.03 70.42 111.68 160.29 110.19" stroke="#fc0" stroke-linecap="round" stroke-width="3"/>
+  <path id="path3321" d="m108.42 381.96c26.56-2.09 39.63-156.6 67.27-156.98 14.09 0.28 22.91 34.76 40.95 75.46 19.33 43.58 34.9 77.94 77.68 80.23" stroke="#0ff" stroke-linecap="round" stroke-width="3"/>
+  <path id="path3319" d="m111.07 382.29c87.51-7.42 136.06-50.13 206.27-50.63 68.27 0.26 162.86 40.6 264.4 45.63" stroke="#00f" stroke-linecap="round" stroke-width="3"/>
+  <path id="path3314" d="m581.88 380.99s-344.6-0.31-363.13-0.49c-38.17-1.87-40.46-82.47-49.89-142.68-10.67-69.87-13.78-139.93-23.28-140.01-15.5 0.181-21.74 283.9-37.01 284.12" stroke="#609" stroke-linecap="round" stroke-width="3"/>
+  <path id="path3338" d="m582.86 381.55v-299.05" stroke="#999" stroke-width="1.0008px"/>
+ </g>
+ <g id="layer5" stroke="#fff" stroke-width="2" fill="none">
+  <path id="path3332" d="m105.86 383h19"/>
+  <path id="path3334" d="m105.63 380.86l2.93 0.26"/>
+ </g>
+ <g id="layer2" stroke="#000" fill="none">
+  <path id="path2237" d="m102.86 382h480v6" stroke-width="1px"/>
+  <path id="path2239" d="m487.86 388v-6" stroke-width="1px"/>
+  <path id="path2241" d="m392.86 388v-6" stroke-width="1px"/>
+  <path id="path2243" d="m298.86 388v-6" stroke-width="1px"/>
+  <path id="path2245" d="m203.86 388v-6" stroke-width="1px"/>
+  <path id="path2247" d="m108.86 388.4v-305.9" stroke-width="1.0008px"/>
+  <path id="path2249" d="m102.86 116h6" stroke-width="1px"/>
+  <path id="path2251" d="m102.86 183h6" stroke-width="1px"/>
+  <path id="path2253" d="m102.86 249h6" stroke-width="1px"/>
+  <path id="path2255" d="m102.86 316h6" stroke-width="1px"/>
+ </g>
+ <g id="layer6">
+  <text id="text3342" font-weight="bold" xml:space="preserve" font-size="20px" y="44.435299" x="18.82061" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3344" x="18.82061" y="44.435299">Maxwell-Boltzmann Molecular Speed Distribution for Noble Gases</tspan>
+    </text>
+  <rect id="rect3346" stroke-linejoin="round" height="101.27" width="88.506" stroke="#000" stroke-linecap="round" y="181.17" x="605.45" stroke-width="2" fill="none"/>
+  <path id="path3348" d="m610.61 195.06h23.73" fill-rule="evenodd" stroke="#00f" stroke-width="3" fill="#00f"/>
+  <path id="path3350" d="m610.61 220.06h23.73" fill-rule="evenodd" stroke="#fc0" stroke-width="3" fill="#fc0"/>
+  <path id="path3352" d="m610.61 244.96h23.73" fill-rule="evenodd" stroke="#0ff" stroke-width="3" fill="#0ff"/>
+  <path id="path3354" d="m610.61 269.96h23.73" fill-rule="evenodd" stroke="#909" stroke-width="3" fill="#909"/>
+  <text id="text3356" font-weight="bold" xml:space="preserve" font-size="14px" y="196.32001" x="653.05402" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3358" x="653.05402" y="196.32001">4</tspan>
+    </text>
+  <text id="text3360" font-weight="bold" xml:space="preserve" font-size="20px" y="203.39101" x="663.73608" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3362" x="663.73608" y="203.39101">He</tspan>
+    </text>
+  <text id="text3364" font-weight="bold" xml:space="preserve" font-size="14px" y="219.68401" x="645.55798" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3366" x="645.55798" y="219.68401">20</tspan>
+    </text>
+  <text id="text3368" font-weight="bold" xml:space="preserve" font-size="20px" y="227.76601" x="664.19507" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3370" x="664.19507" y="227.76601">Ne</tspan>
+    </text>
+  <text id="text3372" font-weight="bold" xml:space="preserve" font-size="14px" y="245.42799" x="647.07397" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3374" x="647.07397" y="245.42799">40</tspan>
+    </text>
+  <text id="text3376" font-weight="bold" xml:space="preserve" font-size="20px" y="252.31599" x="664.06708" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3378" x="664.06708" y="252.31599">Ar</tspan>
+    </text>
+  <text id="text3380" font-weight="bold" xml:space="preserve" font-size="14px" y="268.67401" x="637.09802" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3382" x="637.09802" y="268.67401">132</tspan>
+    </text>
+  <text id="text3384" font-weight="bold" xml:space="preserve" font-size="20px" y="277.76599" x="664.06812" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3386" x="664.06812" y="277.76599">Xe</tspan>
+    </text>
+  <text id="text3388" font-weight="bold" xml:space="preserve" transform="rotate(-90)" font-size="20px" y="29.8694" x="-348.67001" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3390" x="-348.67001" y="29.8694">Probability density (s/m)</tspan>
+    </text>
+  <text id="text3392" font-weight="bold" xml:space="preserve" font-size="20px" y="446.83801" x="284.28299" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan3394" x="284.28299" y="446.83801">Speed (m/s)</tspan>
+    </text>
+  <text id="text2239" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="103.466" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan2241" x="103.466" y="404.53699">0</tspan>
+    </text>
+  <text id="text2243" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="187.166" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan2245" y="404.53699" x="187.166">500</tspan>
+    </text>
+  <text id="text2247" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="276.26599" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan2249" x="276.26599" y="404.53699">1000</tspan>
+    </text>
+  <text id="text2251" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="370.16599" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan2253" y="404.53699" x="370.16599">1500</tspan>
+    </text>
+  <text id="text2255" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="465.866" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan2257" x="465.866" y="404.53699">2000</tspan>
+    </text>
+  <text id="text2259" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="560.86603" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan2261" y="404.53699" x="560.86603">2500</tspan>
+    </text>
+  <text id="text2474" font-weight="bold" xml:space="preserve" font-size="18px" y="121.571" x="48.5714" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan2476" x="48.5714" y="121.571">0.004</tspan>
+    </text>
+  <text id="text2478" font-weight="bold" xml:space="preserve" font-size="18px" y="188.714" x="45.714298" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan2480" x="45.714298" y="188.714">0.003</tspan>
+    </text>
+  <text id="text2482" font-weight="bold" xml:space="preserve" font-size="18px" y="254.429" x="44.285702" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan2484" x="44.285702" y="254.429">0.002</tspan>
+    </text>
+  <text id="text2486" font-weight="bold" xml:space="preserve" font-size="18px" y="321.57101" x="44.285702" font-family="DejaVu Sans Condensed" fill="#000000">
+      <tspan id="tspan2488" x="44.285702" y="321.57101">0.001</tspan>
+    </text>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://openclipart.org/">
+      <dc:title>Openclipart</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
 </svg>

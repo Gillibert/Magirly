@@ -1,164 +1,48 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="0.43"
-   width="370"
-   height="350"
-   sodipodi:docbase="D:\wiki_svg"
-   sodipodi:docname="Ammonia_lone_electron_pair.PNG.svg"
-   version="1.0">
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs5" />
-  <sodipodi:namedview
-     inkscape:window-height="656"
-     inkscape:window-width="756"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="32.004767"
-     inkscape:cy="217.42539"
-     inkscape:window-x="30"
-     inkscape:window-y="59"
-     inkscape:current-layer="svg2" />
-  <text
-     xml:space="preserve"
-     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
-     x="197.48616"
-     y="176.7516"
-     id="text1316"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan1318"
-       x="197.48616"
-       y="176.7516">N</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
-     x="36.795364"
-     y="258.05243"
-     id="text1320"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan1322"
-       x="36.795364"
-       y="258.05243">H</tspan></text>
-  <use
-     x="0"
-     y="0"
-     xlink:href="#text1320"
-     id="use1324"
-     transform="translate(62,76)"
-     width="400"
-     height="400" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#text1320"
-     id="use1328"
-     transform="translate(299,23)"
-     width="400"
-     height="400" />
-  <path
-     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 197.85786,32.786797 L 197.85786,124.2868"
-     id="path1330" />
-  <path
-     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 258.85508,210.44561 C 237.24292,242.00814 194.08664,250.08379 162.52412,228.47162 C 162.23752,228.27537 161.99633,228.10768 161.71255,227.90737"
-     id="path2341"
-     sodipodi:nodetypes="csc" />
-  <path
-     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 305.35786,240.2868 L 220.85786,182.7868"
-     id="path1332" />
-  <path
-     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 182.85786,192.2868 L 127.85786,287.7868 L 115.10786,277.2868 L 182.85786,192.2868 z "
-     id="path1334" />
-  <path
-     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 165.85786,174.0368 L 170.60786,182.0368"
-     id="path1448" />
-  <path
-     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 151.85786,179.7868 L 157.60786,190.0368"
-     id="path1450" />
-  <path
-     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 138.10786,186.7868 L 143.60786,196.7868"
-     id="path1452" />
-  <path
-     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 123.35786,193.2868 L 130.60786,205.2868"
-     id="path1454" />
-  <path
-     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 109.35786,199.0368 L 117.10786,212.7868"
-     id="path1456" />
-  <path
-     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 95.607864,205.7868 L 103.35786,220.2868"
-     id="path1458" />
-  <path
-     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 81.357864,210.7868 L 89.607864,228.2868"
-     id="path1460" />
-  <path
-     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 65.857864,215.7868 L 77.107864,237.0368"
-     id="path1462" />
-  <path
-     sodipodi:type="arc"
-     style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.20000005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path1464"
-     sodipodi:cx="199"
-     sodipodi:cy="37.875"
-     sodipodi:rx="4.5"
-     sodipodi:ry="4.5"
-     d="M 203.5 37.875 A 4.5 4.5 0 1 1  194.5,37.875 A 4.5 4.5 0 1 1  203.5 37.875 z"
-     transform="translate(-10.14214,-19.2132)" />
-  <use
-     x="0"
-     y="0"
-     xlink:href="#path1464"
-     id="use2339"
-     transform="translate(18,3e-6)"
-     width="400"
-     height="400" />
-  <text
-     xml:space="preserve"
-     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
-     x="222.35876"
-     y="275.13571"
-     id="text2344"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan2346"
-       x="222.35876"
-       y="275.13571">107°</tspan></text>
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" sodipodi:docname="Ammonia_lone_electron_pair.PNG.svg" sodipodi:version="0.32" height="350" width="370" version="1.0" sodipodi:docbase="D:\wiki_svg">
+ <sodipodi:namedview id="base" bordercolor="#666666" pagecolor="#ffffff" borderopacity="1.0"/>
+ <text id="text1316" style="text-anchor:middle;text-align:center" line-height="125%" xml:space="preserve" font-size="64px" y="176.7516" x="197.48616" font-family="Verdana" sodipodi:linespacing="125%" fill="#000000">
+    <tspan id="tspan1318" sodipodi:role="line" x="197.48616" y="176.7516">N</tspan>
+  </text>
+ <text id="text1320" style="text-anchor:middle;text-align:center" line-height="125%" xml:space="preserve" font-size="64px" y="258.05243" x="36.795364" font-family="Verdana" sodipodi:linespacing="125%" fill="#000000">
+    <tspan id="tspan1322" sodipodi:role="line" x="36.795364" y="258.05243">H</tspan>
+  </text>
+ <use id="use1324" xlink:href="#text1320" transform="translate(62,76)" height="400" width="400" y="0" x="0"/>
+ <use id="use1328" xlink:href="#text1320" transform="translate(299,23)" height="400" width="400" y="0" x="0"/>
+ <path id="path1330" d="m197.86 32.787v91.503" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path2341" d="m258.86 210.45c-21.62 31.56-64.77 39.63-96.34 18.02-0.28-0.19-0.52-0.36-0.81-0.56" sodipodi:nodetypes="csc" stroke="#f00" stroke-width="5" fill="none"/>
+ <path id="path1332" d="m305.36 240.29l-84.5-57.5" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1334" stroke-linejoin="round" d="m182.86 192.29l-55 95.5-12.75-10.5 67.75-85z" fill-rule="evenodd" stroke="#000" stroke-width="2.5"/>
+ <path id="path1448" d="m165.86 174.04l4.75 8" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1450" d="m151.86 179.79l5.75 10.25" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1452" d="m138.11 186.79l5.5 10" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1454" d="m123.36 193.29l7.25 12" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1456" d="m109.36 199.04l7.75 13.75" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1458" d="m95.608 205.79l7.752 14.5" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1460" d="m81.358 210.79l8.25 17.5" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1462" d="m65.858 215.79l11.25 21.25" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1464" sodipodi:rx="4.5" sodipodi:ry="4.5" sodipodi:type="arc" d="m203.5 37.875a4.5 4.5 0 1 1 -9 0 4.5 4.5 0 1 1 9 0z" fill-rule="evenodd" transform="translate(-10.142 -19.213)" sodipodi:cy="37.875" sodipodi:cx="199"/>
+ <use id="use2339" xlink:href="#path1464" transform="translate(18,3e-6)" height="400" width="400" y="0" x="0"/>
+ <text id="text2344" style="text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" xml:space="preserve" font-size="28px" y="275.13571" x="222.35876" font-family="Arial" sodipodi:linespacing="125%" fill="#ff0000">
+    <tspan id="tspan2346" sodipodi:role="line" x="222.35876" y="275.13571">107&#xB0;</tspan>
+  </text>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://openclipart.org/">
+      <dc:title>Openclipart</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
 </svg>

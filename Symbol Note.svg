@@ -1,89 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="180"
-   height="185"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="0.45.1"
-   sodipodi:docname="Symbol_note.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docbase="C:\Documents and Settings\Kitsu\Desktop\temp\complete">
-  <metadata
-     id="metadata2463">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     inkscape:window-height="579"
-     inkscape:window-width="748"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     inkscape:zoom="2.0432432"
-     inkscape:cx="90"
-     inkscape:cy="92.5"
-     inkscape:window-x="215"
-     inkscape:window-y="325"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4" />
-  <g
-     transform="translate(0,85)"
-     id="g3601">
-    <path
-       d="M 164.07126,-2.787404 C 170.78504,45.128306 140.3785,89.025206 96.156367,95.259066 C 51.934216,101.49294 10.642499,67.703116 3.9287293,19.787416 C -2.7850407,-28.128303 27.621486,-72.025205 71.843626,-78.259068 C 116.06576,-84.49293 157.35749,-50.703115 164.07126,-2.787404 z "
-       style="fill:#000000;fill-opacity:0.19607843;fill-rule:evenodd"
-       id="path1367" />
-    <g
-       transform="matrix(1.601426,-0.225748,0.243127,1.735181,3.772378,-68.97163)"
-       id="g3561">
-      <path
-         d="M 99.999977,49.999997 C 99.999977,77.614235 77.614219,100 49.999989,100 C 22.385758,100 4.5122006e-007,77.614235 4.5122006e-007,49.999997 C 4.5122006e-007,22.385759 22.385758,-5.4625399e-006 49.999989,-5.4625399e-006 C 77.614219,-5.4625399e-006 99.999977,22.385759 99.999977,49.999997 z "
-         style="fill:#6f66ff;fill-opacity:1;fill-rule:evenodd"
-         id="path1306" />
-      <path
-         d="M 90.000044,50.000022 C 90.000044,72.091406 72.091439,90.000011 50.000054,90.000011 C 27.908665,90.000011 10.000063,72.091406 10.000063,50.000022 C 10.000063,27.908639 27.908665,10.000034 50.000054,10.000034 C 72.091439,10.000034 90.000044,27.908639 90.000044,50.000022 L 90.000044,50.000022 z "
-         style="fill:#e4e4e4;fill-opacity:1;fill-rule:evenodd"
-         id="path1308" />
-      <g
-         transform="translate(0,2.5)"
-         id="g2105">
-        <rect
-           width="8"
-           height="50"
-           x="46"
-           y="15"
-           style="fill:#6f66ff;fill-opacity:1;fill-rule:evenodd"
-           id="rect1374" />
-        <rect
-           width="8"
-           height="8"
-           x="46"
-           y="72"
-           style="fill:#6f66ff;fill-opacity:1;fill-rule:evenodd"
-           id="rect2103" />
-      </g>
-    </g>
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="185" width="180" version="1.0">
+ <g id="g3601" fill-rule="evenodd" transform="translate(0,85)">
+  <path id="path1367" d="m164.07-2.7874c6.72 47.915-23.69 91.812-67.914 98.046-44.222 6.231-85.514-27.556-92.227-75.472-6.714-47.915 23.692-91.812 67.915-98.046 44.226-6.234 85.516 27.556 92.226 75.472z" fill-opacity=".19608"/>
+  <g id="g3561" transform="matrix(1.6014 -.22575 .24313 1.7352 3.7724 -68.972)">
+   <path id="path1306" d="m100 50c0 27.614-22.386 50-50 50s-50-22.386-50-50c4.5122e-7 -27.614 22.386-50 50-50 27.614-0.0000054625 50 22.386 50 50z" fill="#6f66ff"/>
+   <path id="path1308" d="m90 50c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40z" fill="#e4e4e4"/>
+   <g id="g2105" fill="#6f66ff" transform="translate(0,2.5)">
+    <rect id="rect1374" height="50" width="8" y="15" x="46"/>
+    <rect id="rect2103" height="8" width="8" y="72" x="46"/>
+   </g>
   </g>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+    <dc:publisher>
+     <cc:Agent rdf:about="http://openclipart.org/">
+      <dc:title>Openclipart</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
 </svg>
