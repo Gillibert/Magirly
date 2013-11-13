@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="1164.3" width="1483.7" version="1.0">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 2131.4 1055" version="1.0">
  <defs id="defs4">
   <linearGradient id="linearGradient3733">
    <stop id="stop3735" offset="0"/>
@@ -9,88 +9,56 @@
    <stop id="stop12759" offset="0"/>
    <stop id="stop12761" stop-color="red" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient12777" y2="1038.6" xlink:href="#linearGradient12757" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(-.49452 -1.3643 -.86917 .77621 1016.8 1700.1)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient2904" y2="1038.6" xlink:href="#linearGradient12757" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(-.49452 -1.3616 -.86917 .77471 1048.3 1699.2)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient2918" y2="1038.6" xlink:href="#linearGradient12757" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(-1.4132 .28271 .20497 -1.1431 1125 1512.8)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient2920" y2="1038.6" xlink:href="#linearGradient12757" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(-1.4132 .28271 .20497 -1.1431 1141.4 1539.7)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3755" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(.91669 -.068114 -.31616 -.74808 -1177.1 1506.7)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3759" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(.91669 .068114 -.31616 .74808 -1177.1 110.63)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3763" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(.12732 .78149 1.3984 -.26953 -2317.9 243.28)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3767" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(.12732 -.78635 1.3984 .27121 -2317.9 1375.1)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3745" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(.077146 .46786 .84727 -.16136 -1693.4 470.83)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3764" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(-.83966 -.11202 .28959 -1.2303 98.432 2022.2)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3768" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(.87078 -.12178 -.30033 -1.3375 -791.66 2142.3)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3772" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(-.55485 -.56487 -.98670 1.0269 1387.5 314.02)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3776" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(-.83966 -.098714 .28959 -1.0842 270.43 2174.5)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3780" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(.52033 -.66845 .91614 .87073 -1782.4 283.3)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3820" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(.83966 -.098714 -.28959 -1.0842 -597.49 2174.5)" y1="967.48" x1="1065.9"/>
-  <linearGradient id="linearGradient3824" y2="1038.6" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" x2="948.51" gradientTransform="matrix(.12732 .78635 1.3984 -.27121 -2317.9 543.12)" y1="967.48" x1="1065.9"/>
+  <linearGradient id="linearGradient12777" x1="1065.9" xlink:href="#linearGradient12757" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(-.49452 -1.3643 -.86917 .77621 1016.8 1700.1)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient2904" x1="1065.9" xlink:href="#linearGradient12757" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(-.49452 -1.3616 -.86917 .77471 1048.3 1699.2)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient2918" x1="1065.9" xlink:href="#linearGradient12757" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(-1.4132 .28271 .20497 -1.1431 1125 1512.8)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient2920" x1="1065.9" xlink:href="#linearGradient12757" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(-1.4132 .28271 .20497 -1.1431 1141.4 1539.7)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3755" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(.91669 -.068114 -.31616 -.74808 -1177.1 1506.7)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3759" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(.91669 .068114 -.31616 .74808 -1177.1 110.63)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3763" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(.12732 .78149 1.3984 -.26953 -2317.9 243.28)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3767" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(.12732 -.78635 1.3984 .27121 -2317.9 1375.1)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3745" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(.077146 .46786 .84727 -.16136 -1693.4 470.83)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3764" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(-.83966 -.11202 .28959 -1.2303 98.432 2022.2)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3768" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(.87078 -.12178 -.30033 -1.3375 -791.66 2142.3)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3772" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(-.55485 -.56487 -.9867 1.0269 1387.5 314.02)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3776" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(-.83966 -.098714 .28959 -1.0842 270.43 2174.5)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3780" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(.52033 -.66845 .91614 .87073 -1782.4 283.3)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3820" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(.83966 -.098714 -.28959 -1.0842 -597.49 2174.5)" x2="948.51" y2="1038.6"/>
+  <linearGradient id="linearGradient3824" x1="1065.9" xlink:href="#linearGradient3733" gradientUnits="userSpaceOnUse" y1="967.48" gradientTransform="matrix(.12732 .78635 1.3984 -.27121 -2317.9 543.12)" x2="948.51" y2="1038.6"/>
  </defs>
- <g id="layer1" transform="translate(1124.6 -219.93)">
-  <path id="path5449" d="m-335.52 1015l-176.91-104.05 0.37-203.99" stroke="#000" stroke-width="10" fill="none"/>
-  <path id="path12775" d="m-353.14 1007.6l0.02 194" stroke="url(#linearGradient12777)" stroke-width="10" fill="none"/>
-  <path id="path2902" d="m-321.64 1007.9l0.02 193.7" stroke="url(#linearGradient2904)" stroke-width="10" fill="none"/>
-  <text id="text2906" style="text-anchor:middle;text-align:center" line-height="100%" transform="scale(1,-1)" font-size="154px" y="-1225.76" x="-337.64276" font-family="Arial" xml:space="preserve" fill="red">
-      <tspan id="tspan2908" y="-1225.76" x="-337.64276">O</tspan>
-    </text>
-  <path id="path2910" d="m-174.97 701.08l164.35-100.22" stroke="url(#linearGradient2918)" stroke-width="10" fill="none"/>
-  <path id="path2912" d="m-159.45 728.22l165.24-100.47" stroke="url(#linearGradient2920)" stroke-width="10" fill="none"/>
-  <text id="text2914" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" y="632.92847" x="64.470436" font-family="Arial" line-height="100%" fill="red">
-      <tspan id="tspan2916" x="64.470436" y="632.92847">O</tspan>
-    </text>
-  <text id="text1953" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" y="991.69739" x="-688.19775" font-family="Arial" line-height="100%" fill="blue">
-      <tspan id="tspan1955" y="991.69739" x="-688.19775" fill="blue">N</tspan>
-    </text>
-  <path id="path3753" d="m-511.97 706.95l-117.81-38.39" stroke="url(#linearGradient3755)" stroke-width="10" fill="none"/>
-  <path id="path3757" d="m-511.97 910.39l-117.81 38.39" stroke="url(#linearGradient3759)" stroke-width="10" fill="none"/>
-  <path id="path3761" d="m-822.95 810.28l71.77-100.43" stroke="url(#linearGradient3763)" stroke-width="10" fill="none"/>
-  <path id="path3765" d="m-822.95 804.6l71.77 101.06" stroke="url(#linearGradient3767)" stroke-width="10" fill="none"/>
-  <text id="text3739" style="text-anchor:middle;text-align:center" line-height="100%" font-size="154px" y="737.69739" x="-688.19775" font-family="Arial" xml:space="preserve" fill="blue">
-      <tspan id="tspan3741" y="737.69739" x="-688.19775" fill="blue">N</tspan>
-    </text>
-  <path id="path3743" d="m-787.59 810.28l43.48-60.12" stroke="url(#linearGradient3745)" stroke-width="10" fill="none"/>
+ <g id="layer1" transform="translate(1153.5 -278.25)">
+  <path id="path5449" d="m-335.52 1015-176.91-104.05 0.37-203.99" stroke="#000" stroke-width="10" fill="none"/>
+  <path id="path12775" d="m-353.14 1007.6 0.02 194" stroke="url(#linearGradient12777)" stroke-width="10" fill="none"/>
+  <path id="path2902" d="m-321.64 1007.9 0.02 193.7" stroke="url(#linearGradient2904)" stroke-width="10" fill="none"/>
+  <text id="text2906" style="text-anchor:middle;text-align:center" xml:space="preserve" transform="scale(1,-1)" line-height="100%" font-size="154px" y="-1225.76" x="-337.64276" font-family="Arial" fill="#ff0000">       <tspan id="tspan2908" y="-1225.76" x="-337.64276">O</tspan>     </text>
+  <path id="path2910" d="m-174.97 701.08 164.35-100.22" stroke="url(#linearGradient2918)" stroke-width="10" fill="none"/>
+  <path id="path2912" d="m-159.45 728.22 165.24-100.47" stroke="url(#linearGradient2920)" stroke-width="10" fill="none"/>
+  <text id="text2914" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" line-height="100%" y="632.92847" x="64.470436" font-family="Arial" fill="#ff0000">       <tspan id="tspan2916" y="632.92847" x="64.470436">O</tspan>     </text>
+  <text id="text1953" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" line-height="100%" y="991.69739" x="-688.19775" font-family="Arial" fill="#0000ff">       <tspan id="tspan1955" y="991.69739" x="-688.19775" fill="#0000ff">N</tspan>     </text>
+  <path id="path3753" d="m-511.97 706.95-117.81-38.39" stroke="url(#linearGradient3755)" stroke-width="10" fill="none"/>
+  <path id="path3757" d="m-511.97 910.39-117.81 38.39" stroke="url(#linearGradient3759)" stroke-width="10" fill="none"/>
+  <path id="path3761" d="m-822.95 810.28 71.77-100.43" stroke="url(#linearGradient3763)" stroke-width="10" fill="none"/>
+  <path id="path3765" d="m-822.95 804.6 71.77 101.06" stroke="url(#linearGradient3767)" stroke-width="10" fill="none"/>
+  <text id="text3739" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" line-height="100%" y="737.69739" x="-688.19775" font-family="Arial" fill="#0000ff">       <tspan id="tspan3741" y="737.69739" x="-688.19775" fill="#0000ff">N</tspan>     </text>
+  <path id="path3743" d="m-787.59 810.28 43.48-60.12" stroke="url(#linearGradient3745)" stroke-width="10" fill="none"/>
   <path id="path3747" d="m-484.52 888.73v-159.1" stroke="#000" stroke-width="10" fill="none"/>
   <path id="path3749" d="m-574.32 882.36c0.23 0 0.47 0 0 0z" stroke="#000" stroke-width="1px" fill="none"/>
-  <text id="text3754" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" y="675.69739" x="-339.69778" font-family="Arial" line-height="100%" fill="blue">
-      <tspan id="tspan3756" y="675.69739" x="-339.69778" fill="blue">N</tspan>
-    </text>
-  <text id="text3758" style="text-anchor:middle;text-align:center" line-height="100%" font-size="154px" y="971.69739" x="-161.6978" font-family="Arial" xml:space="preserve" fill="blue">
-      <tspan id="tspan3760" y="971.69739" x="-161.6978" fill="blue">N</tspan>
-    </text>
-  <path id="path3762" d="m-513.4 708.45l110.53-64.64" stroke="url(#linearGradient3764)" stroke-width="10" fill="none"/>
-  <path id="path3766" d="m-159 712.7l-112.78-68.89" stroke="url(#linearGradient3768)" stroke-width="10" fill="none"/>
-  <path id="path3770" d="m-161.35 708.6l-0.05 128.18" stroke="url(#linearGradient3772)" stroke-width="10" fill="none"/>
-  <path id="path3774" d="m-340.19 1014.7l109.32-54.89" stroke="url(#linearGradient3776)" stroke-width="10" fill="none"/>
-  <path id="path3778" d="m-339.41 417.86l0.05 128.04" stroke="url(#linearGradient3780)" stroke-width="10" fill="none"/>
-  <text id="text3782" style="text-anchor:middle;text-align:center" line-height="100%" font-size="154px" y="385.78363" x="-285.5607" font-family="Arial" xml:space="preserve" fill="black">
-      <tspan id="tspan3784" y="385.78363" x="-285.5607" fill="black">CH<tspan id="tspan3786" font-family="Georgia" fill="black"/></tspan>
-    </text>
-  <text id="text3788" xml:space="preserve" font-size="120px" y="413.78363" x="-175.56071" font-family="Arial" fill="black">
-      <tspan id="tspan3790" font-size="120px" y="413.78363" x="-175.56071" font-family="Arial" fill="black">
-        <tspan id="tspan3792" font-family="Arial" font-size="120px" fill="black">3</tspan>
-      </tspan>
-    </text>
-  <text id="text3794" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" y="1095.7188" x="135.47795" font-family="Arial" line-height="100%" fill="black">
-      <tspan id="tspan3796" y="1095.7188" x="135.47795" fill="black">CH<tspan id="tspan3798" font-family="Georgia" fill="black"/></tspan>
-    </text>
-  <text id="text3800" xml:space="preserve" font-size="120px" y="1123.7188" x="245.47794" font-family="Arial" fill="black">
-      <tspan id="tspan3802" font-size="120px" y="1123.7188" x="245.47794" font-family="Arial" fill="black">
-        <tspan id="tspan3804" font-family="Arial" font-size="120px" fill="black">3</tspan>
-      </tspan>
-    </text>
-  <text id="text3806" style="text-anchor:middle;text-align:center" line-height="100%" font-size="154px" y="1253.1156" x="-825.36377" font-family="Arial" xml:space="preserve" fill="black">
-      <tspan id="tspan3808" y="1253.1156" x="-825.36377" fill="black">C</tspan>
-    </text>
-  <text id="text3812" xml:space="preserve" font-size="120px" y="1290.4293" x="-946.36584" font-family="Arial" fill="black">
-      <tspan id="tspan3814" font-size="120px" y="1290.4293" x="-946.36584" font-family="Arial" fill="black">
-        <tspan id="tspan3816" font-family="Arial" font-size="120px" fill="black">3</tspan>
-      </tspan>
-    </text>
-  <path id="path3818" d="m13.129 1014.7l-109.32-54.89" stroke="url(#linearGradient3820)" stroke-width="10" fill="none"/>
-  <path id="path3822" d="m-822.95 1113.7l71.77-101.1" stroke="url(#linearGradient3824)" stroke-width="10" fill="none"/>
-  <text id="text1954" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" y="1253.9441" x="-1004.0401" font-family="Arial" line-height="100%" fill="black">
-      <tspan id="tspan1956" y="1253.9441" x="-1004.0401" fill="black">H</tspan>
-    </text>
+  <text id="text3754" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" line-height="100%" y="675.69739" x="-339.69778" font-family="Arial" fill="#0000ff">       <tspan id="tspan3756" y="675.69739" x="-339.69778" fill="#0000ff">N</tspan>     </text>
+  <text id="text3758" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" line-height="100%" y="971.69739" x="-161.6978" font-family="Arial" fill="#0000ff">       <tspan id="tspan3760" y="971.69739" x="-161.6978" fill="#0000ff">N</tspan>     </text>
+  <path id="path3762" d="m-513.4 708.45 110.53-64.64" stroke="url(#linearGradient3764)" stroke-width="10" fill="none"/>
+  <path id="path3766" d="m-159 712.7-112.78-68.89" stroke="url(#linearGradient3768)" stroke-width="10" fill="none"/>
+  <path id="path3770" d="m-161.35 708.6-0.05 128.18" stroke="url(#linearGradient3772)" stroke-width="10" fill="none"/>
+  <path id="path3774" d="m-340.19 1014.7 109.32-54.89" stroke="url(#linearGradient3776)" stroke-width="10" fill="none"/>
+  <path id="path3778" d="m-339.41 417.86 0.05 128.04" stroke="url(#linearGradient3780)" stroke-width="10" fill="none"/>
+  <text id="text3782" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" line-height="100%" y="385.78363" x="-285.5607" font-family="Arial" fill="#000000">       <tspan id="tspan3784" y="385.78363" x="-285.5607" fill="#000000">CH<tspan id="tspan3786" font-family="Georgia" fill="#000000"/></tspan>     </text>
+  <text id="text3788" xml:space="preserve" font-size="120px" y="413.78363" x="-175.56071" font-family="Arial" fill="#000000">       <tspan id="tspan3790" font-size="120px" y="413.78363" x="-175.56071" font-family="Arial" fill="#000000">         <tspan id="tspan3792" font-size="120px" font-family="Arial" fill="#000000">3</tspan>       </tspan>     </text>
+  <text id="text3794" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" line-height="100%" y="1095.7188" x="135.47795" font-family="Arial" fill="#000000">       <tspan id="tspan3796" y="1095.7188" x="135.47795" fill="#000000">CH<tspan id="tspan3798" font-family="Georgia" fill="#000000"/></tspan>     </text>
+  <text id="text3800" xml:space="preserve" font-size="120px" y="1123.7188" x="245.47794" font-family="Arial" fill="#000000">       <tspan id="tspan3802" font-size="120px" y="1123.7188" x="245.47794" font-family="Arial" fill="#000000">         <tspan id="tspan3804" font-size="120px" font-family="Arial" fill="#000000">3</tspan>       </tspan>     </text>
+  <text id="text3806" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" line-height="100%" y="1253.1156" x="-825.36377" font-family="Arial" fill="#000000">       <tspan id="tspan3808" y="1253.1156" x="-825.36377" fill="#000000">C</tspan>     </text>
+  <text id="text3812" xml:space="preserve" font-size="120px" y="1290.4293" x="-946.36584" font-family="Arial" fill="#000000">       <tspan id="tspan3814" font-size="120px" y="1290.4293" x="-946.36584" font-family="Arial" fill="#000000">         <tspan id="tspan3816" font-size="120px" font-family="Arial" fill="#000000">3</tspan>       </tspan>     </text>
+  <path id="path3818" d="m13.129 1014.7-109.32-54.89" stroke="url(#linearGradient3820)" stroke-width="10" fill="none"/>
+  <path id="path3822" d="m-822.95 1113.7 71.77-101.1" stroke="url(#linearGradient3824)" stroke-width="10" fill="none"/>
+  <text id="text1954" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="154px" line-height="100%" y="1253.9441" x="-1004.0401" font-family="Arial" fill="#000000">       <tspan id="tspan1956" y="1253.9441" x="-1004.0401" fill="#000000">H</tspan>     </text>
  </g>
  <metadata>
   <rdf:RDF>

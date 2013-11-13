@@ -1,132 +1,94 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2876" height="1711" width="3247" version="1.1">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2876" viewBox="0 0 3190.8 1673.6" version="1.1">
  <defs id="defs2880">
-  <marker id="Arrow1Lend" refY="0" refX="0" overflow="visible" orient="auto">
+  <marker id="Arrow1Lend" refY="0" refX="0" orient="auto" overflow="visible">
    <path id="path4137" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.8 0 0 -.8 -10 0)" stroke="#000" stroke-width="1pt"/>
   </marker>
  </defs>
- <path id="path2933-3-9-2-6-9" d="m1661.5 1394v94.5" stroke="#000" stroke-width="6" fill="none"/>
- <text id="text4635-93-6-9" xml:space="preserve" font-size="10px" y="1569.2205" x="1624.0977" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-7-8-9" font-size="100px" y="1569.2205" x="1624.0977" fill="#000000">NH&#x2082;</tspan>
-  </text>
- <path id="path2933" d="m170.5 196v94.5" stroke="#000" stroke-width="6" fill="none"/>
- <g id="g2965" stroke="#000" fill="none">
-  <path id="path2935" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397 0 0 1.0396 -10.933 -12.528)" stroke-linecap="square" stroke-width="5.7711"/>
-  <path id="path2937" d="m165.67 317.79 108.77 63.355" stroke-width="6"/>
-  <path id="path2961" d="m72.427 371.25v125.75" stroke-width="6"/>
-  <path id="path2963" d="m165.69 551.93 108.5-62.65" stroke-width="6"/>
+ <path id="path2933-3-9-2-6-9" d="m1619.1 1376.8v94.5" stroke="#000" stroke-width="6" fill="none"/>
+ <text id="text4635-93-6-9" xml:space="preserve" font-size="10px" y="1552.0378" x="1581.6581" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-7-8-9" font-size="100px" y="1552.0378" x="1581.6581" fill="#000000">NH&#x2082;</tspan>   </text>
+ <path id="path2933" d="m128.06 178.82v94.5" stroke="#000" stroke-width="6" fill="none"/>
+ <g id="g2965" fill="none" stroke="#000" transform="translate(-42.44 -17.183)">
+  <path id="path2935" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397,0,0,1.0396,-10.933,-12.528)" stroke-linecap="square" stroke-width="5.7711"/>
+  <path id="path2937" stroke-width="6" d="m165.67 317.79 108.77 63.355"/>
+  <path id="path2961" stroke-width="6" d="m72.427 371.25v125.75"/>
+  <path id="path2963" stroke-width="6" d="m165.69 551.93 108.5-62.65"/>
  </g>
- <path id="path2933-3" d="m1498.5 196v94.5" stroke="#000" stroke-width="6" fill="none"/>
- <g id="g2965-8" transform="translate(1328)" stroke="#000" fill="none">
-  <path id="path2935-2" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397 0 0 1.0396 -10.933 -12.528)" stroke-linecap="square" stroke-width="5.7711"/>
-  <path id="path2937-3" d="m165.67 317.79 108.77 63.355" stroke-width="6"/>
-  <path id="path2961-0" d="m72.427 371.25v125.75" stroke-width="6"/>
-  <path id="path2963-7" d="m165.69 551.93 108.5-62.65" stroke-width="6"/>
+ <path id="path2933-3" d="m1456.1 178.82v94.5" stroke="#000" stroke-width="6" fill="none"/>
+ <g id="g2965-8" fill="none" stroke="#000" transform="translate(1285.6 -17.183)">
+  <path id="path2935-2" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397,0,0,1.0396,-10.933,-12.528)" stroke-linecap="square" stroke-width="5.7711"/>
+  <path id="path2937-3" stroke-width="6" d="m165.67 317.79 108.77 63.355"/>
+  <path id="path2961-0" stroke-width="6" d="m72.427 371.25v125.75"/>
+  <path id="path2963-7" stroke-width="6" d="m165.69 551.93 108.5-62.65"/>
  </g>
- <path id="path3008" d="m1621.6 363.08 80.166-46.284" stroke="#000" stroke-width="6" fill="none"/>
- <path id="path2933-3-9" d="m2443.6 108v94.5" stroke="#000" stroke-width="6" fill="none"/>
- <g id="g2965-8-8" transform="translate(2273.1 -88)" stroke="#000" fill="none">
-  <path id="path2935-2-1" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397 0 0 1.0396 -10.933 -12.528)" stroke-linecap="square" stroke-width="5.7711"/>
-  <path id="path2937-3-0" d="m165.67 317.79 108.77 63.355" stroke-width="6"/>
-  <path id="path2961-0-7" d="m72.427 371.25v125.75" stroke-width="6"/>
-  <path id="path2963-7-6" d="m165.69 551.93 108.5-62.65" stroke-width="6"/>
+ <path id="path3008" d="m1579.2 345.9 80.166-46.284" stroke="#000" stroke-width="6" fill="none"/>
+ <path id="path2933-3-9" d="m2401.2 90.817v94.503" stroke="#000" stroke-width="6" fill="none"/>
+ <g id="g2965-8-8" fill="none" stroke="#000" transform="translate(2230.7 -105.18)">
+  <path id="path2935-2-1" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397,0,0,1.0396,-10.933,-12.528)" stroke-linecap="square" stroke-width="5.7711"/>
+  <path id="path2937-3-0" stroke-width="6" d="m165.67 317.79 108.77 63.355"/>
+  <path id="path2961-0-7" stroke-width="6" d="m72.427 371.25v125.75"/>
+  <path id="path2963-7-6" stroke-width="6" d="m165.69 551.93 108.5-62.65"/>
  </g>
- <path id="path2933-3-9-2" d="m2443.6 492v94.5" stroke="#000" stroke-width="6" fill="none"/>
- <path id="path2933-3-9-3" d="m170.5 1010v94.5" stroke="#000" stroke-width="6" fill="none"/>
- <g id="g2965-8-8-8" transform="translate(0,814)" stroke="#000" fill="none">
-  <path id="path2935-2-1-6" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397 0 0 1.0396 -10.933 -12.528)" stroke-linecap="square" stroke-width="5.7711"/>
-  <path id="path2937-3-0-0" d="m165.67 317.79 108.77 63.355" stroke-width="6"/>
-  <path id="path2961-0-7-3" d="m72.427 371.25v125.75" stroke-width="6"/>
-  <path id="path2963-7-6-3" d="m165.69 551.93 108.5-62.65" stroke-width="6"/>
+ <path id="path2933-3-9-2" d="m2401.2 474.82v94.5" stroke="#000" stroke-width="6" fill="none"/>
+ <path id="path2933-3-9-3" d="m128.06 992.82v94.5" stroke="#000" stroke-width="6" fill="none"/>
+ <g id="g2965-8-8-8" fill="none" stroke="#000" transform="translate(-42.44 796.82)">
+  <path id="path2935-2-1-6" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397,0,0,1.0396,-10.933,-12.528)" stroke-linecap="square" stroke-width="5.7711"/>
+  <path id="path2937-3-0-0" stroke-width="6" d="m165.67 317.79 108.77 63.355"/>
+  <path id="path2961-0-7-3" stroke-width="6" d="m72.427 371.25v125.75"/>
+  <path id="path2963-7-6-3" stroke-width="6" d="m165.69 551.93 108.5-62.65"/>
  </g>
- <path id="path2933-3-9-2-6" d="m170.5 1394v94.5" stroke="#000" stroke-width="6" fill="none"/>
- <path id="path2933-3-9-3-3" d="m1661.5 1010v94.5" stroke="#000" stroke-width="6" fill="none"/>
- <g id="g2965-8-8-8-5" transform="translate(1491,814)" stroke="#000" fill="none">
-  <path id="path2935-2-1-6-8" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397 0 0 1.0396 -10.933 -12.528)" stroke-linecap="square" stroke-width="5.7711"/>
-  <path id="path2937-3-0-0-5" d="m165.67 317.79 108.77 63.355" stroke-width="6"/>
-  <path id="path2961-0-7-3-0" d="m72.427 371.25v125.75" stroke-width="6"/>
-  <path id="path2963-7-6-3-9" d="m165.69 551.93 108.5-62.65" stroke-width="6"/>
+ <path id="path2933-3-9-2-6" d="m128.06 1376.8v94.5" stroke="#000" stroke-width="6" fill="none"/>
+ <path id="path2933-3-9-3-3" d="m1619.1 992.82v94.5" stroke="#000" stroke-width="6" fill="none"/>
+ <g id="g2965-8-8-8-5" fill="none" stroke="#000" transform="translate(1448.6 796.82)">
+  <path id="path2935-2-1-6-8" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397,0,0,1.0396,-10.933,-12.528)" stroke-linecap="square" stroke-width="5.7711"/>
+  <path id="path2937-3-0-0-5" stroke-width="6" d="m165.67 317.79 108.77 63.355"/>
+  <path id="path2961-0-7-3-0" stroke-width="6" d="m72.427 371.25v125.75"/>
+  <path id="path2963-7-6-3-9" stroke-width="6" d="m165.69 551.93 108.5-62.65"/>
  </g>
- <path id="path2933-3-9-3-3-9" d="m2990.5 914v94.5" stroke="#000" stroke-width="6" fill="none"/>
- <g id="g2965-8-8-8-5-0" transform="matrix(-1,0,0,1,3161,718)" stroke="#000" fill="none">
-  <path id="path2935-2-1-6-8-1" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397 0 0 1.0396 -10.933 -12.528)" stroke-linecap="square" stroke-width="5.7711"/>
-  <path id="path2937-3-0-0-5-2" d="m165.67 317.79 108.77 63.355" stroke-width="6"/>
-  <path id="path2961-0-7-3-0-0" d="m72.427 371.25v125.75" stroke-width="6"/>
-  <path id="path2963-7-6-3-9-0" d="m165.69 551.93 108.5-62.65" stroke-width="6"/>
+ <path id="path2933-3-9-3-3-9" d="m2948.1 896.82v94.5" stroke="#000" stroke-width="6" fill="none"/>
+ <g id="g2965-8-8-8-5-0" fill="none" stroke="#000" transform="matrix(-1 0 0 1 3118.6 700.82)">
+  <path id="path2935-2-1-6-8-1" d="m294.78 499.44-120.28 69.45-120.28-69.45v-138.89l120.28-69.44 120.28 69.443v138.89z" transform="matrix(1.0397,0,0,1.0396,-10.933,-12.528)" stroke-linecap="square" stroke-width="5.7711"/>
+  <path id="path2937-3-0-0-5-2" stroke-width="6" d="m165.67 317.79 108.77 63.355"/>
+  <path id="path2961-0-7-3-0-0" stroke-width="6" d="m72.427 371.25v125.75"/>
+  <path id="path2963-7-6-3-9-0" stroke-width="6" d="m165.69 551.93 108.5-62.65"/>
  </g>
- <path id="path2933-3-9-2-6-9-6" d="m2990.5 1298v94.5" stroke="#000" stroke-width="6" fill="none"/>
- <g id="g4929" stroke="#000" stroke-width="6" fill="none">
+ <path id="path2933-3-9-2-6-9-6" d="m2948.1 1280.8v94.5" stroke="#000" stroke-width="6" fill="none"/>
+ <g id="g4929" transform="translate(-42.44 -17.183)" stroke="#000" stroke-width="6" fill="none">
   <path id="path3242" d="m2107 1193.5 112.84-65.147 70.323 40.601"/>
   <path id="path3266" d="m2232.5 1135v-96"/>
   <path id="path3266-2" d="m2208.5 1135v-96"/>
  </g>
- <g id="g4968" stroke="#000" stroke-width="6" fill="none">
+ <g id="g4968" transform="translate(-42.44 -17.183)" stroke="#000" stroke-width="6" fill="none">
   <path id="path3242-3" d="m2564.2 1193.5-112.9-65.1-70.3 40.6"/>
   <path id="path3266-3" d="m2438.7 1135v-96"/>
   <path id="path3266-2-6" d="m2462.7 1135v-96"/>
  </g>
- <g id="g5057" stroke="#000" stroke-width="6" fill="none">
+ <g id="g5057" transform="translate(-42.44 -17.183)" stroke="#000" stroke-width="6" fill="none">
   <path id="path3242-38" d="m3230.2 1447-112.9 65.1-70.3-40.6"/>
   <path id="path3266-5" d="m3104.7 1505.5v96"/>
   <path id="path3266-2-5" d="m3128.7 1505.5v96"/>
  </g>
- <path id="path3357" marker-end="url(#Arrow1Lend)" d="m447 358.5h791.28" stroke="#000" stroke-width="6" fill="none"/>
- <path id="path3357-5" marker-end="url(#Arrow1Lend)" d="m447 1260.5h791.28" stroke="#000" stroke-width="6" fill="none"/>
- <path id="path3357-5-4" marker-end="url(#Arrow1Lend)" d="m1939 1260.5h791.28" stroke="#000" stroke-width="6" fill="none"/>
- <text id="text4635" xml:space="preserve" font-size="10px" y="180.01331" x="131.14453" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637" font-size="100px" y="180.01331" x="131.14453" fill="#000000">OH</tspan>
-  </text>
- <text id="text4635-7" xml:space="preserve" font-size="10px" y="264.81555" x="841.44586" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-9" style="text-anchor:middle;text-align:center" font-size="100px" y="264.81555" x="841.44586" fill="#000000">dil. H&#x2082;SO&#x2084;</tspan>
-  </text>
- <text id="text4635-7-1" xml:space="preserve" font-size="10px" y="512.81555" x="840.24957" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-9-7" style="text-anchor:middle;text-align:center" font-size="100px" y="512.81555" x="840.24957" fill="#000000">NaNO&#x2083;</tspan>
-  </text>
- <text id="text4635-9" xml:space="preserve" font-size="10px" y="180.01335" x="1459.1445" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-0" font-size="100px" y="180.01335" x="1459.1445" fill="#000000">OH</tspan>
-  </text>
- <text id="text4635-93" xml:space="preserve" font-size="10px" y="992.51343" x="131.14453" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-7" font-size="100px" y="992.51343" x="131.14453" fill="#000000">OH</tspan>
-  </text>
- <text id="text4635-93-6" xml:space="preserve" font-size="10px" y="1569.2205" x="133.09766" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-7-8" font-size="100px" y="1569.2205" x="133.09766" fill="#000000">NO&#x2082;</tspan>
-  </text>
- <text id="text4635-93-9" xml:space="preserve" font-size="10px" y="992.51343" x="1622.1445" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-7-6" font-size="100px" y="992.51343" x="1622.1445" fill="#000000">OH</tspan>
-  </text>
- <text id="text4635-9-1" xml:space="preserve" font-size="10px" y="323.90137" x="1707.5303" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-0-6" font-size="100px" y="323.90137" x="1707.5303" fill="#000000">NO&#x2082;</tspan>
-  </text>
- <text id="text4635-9-14" xml:space="preserve" font-size="10px" y="91.401367" x="2404.2053" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-0-9" font-size="100px" y="91.401367" x="2404.2053" fill="#000000">OH</tspan>
-  </text>
- <text id="text4635-9-14-8" xml:space="preserve" font-size="10px" y="667.40137" x="2406.1584" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-0-9-7" font-size="100px" y="667.40137" x="2406.1584" fill="#000000">NO&#x2082;</tspan>
-  </text>
- <text id="text4635-93-9-4" xml:space="preserve" font-size="10px" y="1227.5981" x="2296.2249" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-7-6-4" font-size="100px" y="1227.5981" x="2296.2249" fill="#000000">O</tspan>
-  </text>
- <text id="text4635-93-9-4-6" xml:space="preserve" font-size="10px" y="1024.5164" x="2181.1445" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-7-6-4-2" font-size="100px" y="1024.5164" x="2181.1445" fill="#000000">O</tspan>
-  </text>
- <text id="text4635-93-9-4-6-2" xml:space="preserve" font-size="10px" y="1024.5164" x="2411.3052" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-7-6-4-2-2" font-size="100px" y="1024.5164" x="2411.3052" fill="#000000">O</tspan>
-  </text>
- <text id="text4635-93-9-3" xml:space="preserve" font-size="10px" y="900.0448" x="2951.1445" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-7-6-1" font-size="100px" y="900.0448" x="2951.1445" fill="#000000">OH</tspan>
-  </text>
- <text id="text4635-93-9-3-7" xml:space="preserve" font-size="10px" y="1475.772" x="3027.9023" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-7-6-1-2" style="text-anchor:end;text-align:end" font-size="100px" y="1475.772" x="3027.9023" fill="#000000">HN</tspan>
-  </text>
- <text id="text4635-93-9-3-8" xml:space="preserve" font-size="10px" y="1689.4014" x="3077.3052" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-7-6-1-25" font-size="100px" y="1689.4014" x="3077.3052" fill="#000000">O</tspan>
-  </text>
- <text id="text4635-7-1-7" xml:space="preserve" font-size="10px" y="1166.1514" x="839.29742" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-9-7-2" style="text-anchor:middle;text-align:center" font-size="100px" y="1166.1514" x="839.29742" fill="#000000">NaBH&#x2084;</tspan>
-  </text>
- <text id="text4635-9-0" xml:space="preserve" font-size="10px" y="402.61151" x="2003.4307" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4637-0-4" font-size="144px" y="402.61151" x="2003.4307" fill="#000000">+</tspan>
-  </text>
+ <path id="path3357" marker-end="url(#Arrow1Lend)" d="m404.56 341.32h791.24" stroke="#000" stroke-width="6" fill="none"/>
+ <path id="path3357-5" marker-end="url(#Arrow1Lend)" d="m404.56 1243.3h791.24" stroke="#000" stroke-width="6" fill="none"/>
+ <path id="path3357-5-4" marker-end="url(#Arrow1Lend)" d="m1896.6 1243.3h791.28" stroke="#000" stroke-width="6" fill="none"/>
+ <text id="text4635" xml:space="preserve" font-size="10px" y="162.83069" x="88.704956" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637" font-size="100px" y="162.83069" x="88.704956" fill="#000000">OH</tspan>   </text>
+ <text id="text4635-7" xml:space="preserve" font-size="10px" y="247.63293" x="799.00629" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-9" style="text-anchor:middle;text-align:center" font-size="100px" y="247.63293" x="799.00629" fill="#000000">dil. H&#x2082;SO&#x2084;</tspan>   </text>
+ <text id="text4635-7-1" xml:space="preserve" font-size="10px" y="495.63293" x="797.81" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-9-7" style="text-anchor:middle;text-align:center" font-size="100px" y="495.63293" x="797.81" fill="#000000">NaNO&#x2083;</tspan>   </text>
+ <text id="text4635-9" xml:space="preserve" font-size="10px" y="162.83073" x="1416.705" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-0" font-size="100px" y="162.83073" x="1416.705" fill="#000000">OH</tspan>   </text>
+ <text id="text4635-93" xml:space="preserve" font-size="10px" y="975.33081" x="88.704956" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-7" font-size="100px" y="975.33081" x="88.704956" fill="#000000">OH</tspan>   </text>
+ <text id="text4635-93-6" xml:space="preserve" font-size="10px" y="1552.0378" x="90.658081" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-7-8" font-size="100px" y="1552.0378" x="90.658081" fill="#000000">NO&#x2082;</tspan>   </text>
+ <text id="text4635-93-9" xml:space="preserve" font-size="10px" y="975.33081" x="1579.705" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-7-6" font-size="100px" y="975.33081" x="1579.705" fill="#000000">OH</tspan>   </text>
+ <text id="text4635-9-1" xml:space="preserve" font-size="10px" y="306.71875" x="1665.0907" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-0-6" font-size="100px" y="306.71875" x="1665.0907" fill="#000000">NO&#x2082;</tspan>   </text>
+ <text id="text4635-9-14" xml:space="preserve" font-size="10px" y="74.21875" x="2361.7659" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-0-9" font-size="100px" y="74.21875" x="2361.7659" fill="#000000">OH</tspan>   </text>
+ <text id="text4635-9-14-8" xml:space="preserve" font-size="10px" y="650.21875" x="2363.719" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-0-9-7" font-size="100px" y="650.21875" x="2363.719" fill="#000000">NO&#x2082;</tspan>   </text>
+ <text id="text4635-93-9-4" xml:space="preserve" font-size="10px" y="1210.4155" x="2253.7854" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-7-6-4" font-size="100px" y="1210.4155" x="2253.7854" fill="#000000">O</tspan>   </text>
+ <text id="text4635-93-9-4-6" xml:space="preserve" font-size="10px" y="1007.3337" x="2138.7051" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-7-6-4-2" font-size="100px" y="1007.3337" x="2138.7051" fill="#000000">O</tspan>   </text>
+ <text id="text4635-93-9-4-6-2" xml:space="preserve" font-size="10px" y="1007.3337" x="2368.8657" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-7-6-4-2-2" font-size="100px" y="1007.3337" x="2368.8657" fill="#000000">O</tspan>   </text>
+ <text id="text4635-93-9-3" xml:space="preserve" font-size="10px" y="882.86218" x="2908.7051" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-7-6-1" font-size="100px" y="882.86218" x="2908.7051" fill="#000000">OH</tspan>   </text>
+ <text id="text4635-93-9-3-7" xml:space="preserve" font-size="10px" y="1458.5894" x="2985.4629" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-7-6-1-2" style="text-anchor:end;text-align:end" font-size="100px" y="1458.5894" x="2985.4629" fill="#000000">HN</tspan>   </text>
+ <text id="text4635-93-9-3-8" xml:space="preserve" font-size="10px" y="1672.2188" x="3034.8657" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-7-6-1-25" font-size="100px" y="1672.2188" x="3034.8657" fill="#000000">O</tspan>   </text>
+ <text id="text4635-7-1-7" xml:space="preserve" font-size="10px" y="1148.9688" x="796.85785" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-9-7-2" style="text-anchor:middle;text-align:center" font-size="100px" y="1148.9688" x="796.85785" fill="#000000">NaBH&#x2084;</tspan>   </text>
+ <text id="text4635-9-0" xml:space="preserve" font-size="10px" y="385.42889" x="1960.9911" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan4637-0-4" font-size="144px" y="385.42889" x="1960.9911" fill="#000000">+</tspan>   </text>
  <metadata>
   <rdf:RDF>
    <cc:Work>

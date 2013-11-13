@@ -1,50 +1,32 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="235" width="330" version="1.0">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 301.11 186.83" version="1.0">
  <defs id="defs3">
   <marker id="Arrow1Mend" refY="0" refX="0" orient="auto" overflow="visible">
-   <path id="path3311" d="m0 0l5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.4 0 0 -.4 -4 0)" stroke="#000" stroke-width="1pt"/>
+   <path id="path3311" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.4 0 0 -.4 -4 0)" stroke="#000" stroke-width="1pt"/>
   </marker>
-  <linearGradient id="linearGradient3222" y2="237.37" gradientUnits="userSpaceOnUse" x2="142.5" y1="227.41" x1="142.5">
+  <linearGradient id="linearGradient3222" y2="237.37" gradientUnits="userSpaceOnUse" y1="227.41" x2="142.5" x1="142.5">
    <stop id="stop3218" stop-color="#45fdff" offset="0"/>
    <stop id="stop3220" offset="1"/>
   </linearGradient>
  </defs>
- <g id="layer1" transform="translate(-105.98 -182.26)">
-  <path id="path3297" marker-end="url(#Arrow1Mend)" d="m130 212.36v30h45" transform="translate(25.981 24.724)" stroke="#000" fill="none"/>
-  <path id="path2516" marker-end="url(#Arrow1Mend)" d="m245 242.36h30" transform="translate(25.981 24.724)" stroke="#000" marker="none" fill="none"/>
-  <rect id="rect3293" height="10" stroke="#000" stroke-linecap="square" stroke-width=".23102" fill="#800000" transform="matrix(4.6665 0 0 4.0153 -429 -665.84)" width="15" stroke-miterlimit="6.2" stroke-dashoffset="3.6326" y="227.36" x="135"/>
-  <path id="path2518" marker-end="url(#Arrow1Mend)" d="m345 227.36h25v-35" transform="translate(25.981 39.724)" stroke="#000" marker="none" fill="none"/>
-  <rect id="rect3295" height="10" stroke="#000" stroke-linecap="square" stroke-width=".23102" fill="url(#linearGradient3222)" transform="matrix(4.6665 0 0 4.0153 -329 -665.84)" width="15" stroke-miterlimit="6.2" stroke-dashoffset="3.6326" y="227.36" x="135"/>
-  <path id="path2520" marker-end="url(#Arrow1Mend)" d="m310 262.36v90" transform="translate(25.981 24.724)" stroke="#000" marker="none" fill="none"/>
-  <path id="path2524" marker-end="url(#Arrow1Mend)" d="m270 292.36h-115v-50" transform="translate(25.981 24.724)" stroke="#000" marker="none" fill="none"/>
-  <path id="path2526" marker-end="url(#Arrow1Mend)" d="m310 302.36h-40" transform="translate(25.981 14.724)" stroke="#000" marker="none" fill="none"/>
-  <text id="text2528" style="text-anchor:middle;text-align:center" xml:space="preserve" transform="translate(25.186 30.02)" font-size="12px" y="202.06628" x="130.30968" font-family="Bitstream Vera Sans" fill="#000000">
-      <tspan id="tspan2530" font-size="10px" y="202.06628" x="130.30968">Raw Water</tspan>
-    </text>
-  <text id="text2532" font-size="10px" xml:space="preserve" fill="#000000" style="block-progression:tb;text-anchor:middle;text-indent:0;text-transform:none;text-align:center" transform="translate(24.281 12.061)" font-family="Bitstream Vera Sans" line-height="normal" y="315.20337" x="221.47594">
-      <tspan id="tspan2534" x="221.47594" y="315.20337">Recycle Sludge</tspan>
-    </text>
-  <text id="text2536" font-size="10px" xml:space="preserve" fill="#000000" style="block-progression:tb;text-anchor:middle;text-indent:0;text-transform:none;text-align:center" transform="translate(181.9 -50.388)" font-family="Bitstream Vera Sans" line-height="normal" y="267.47366" x="54.043159">
-      <tspan id="tspan2538" x="54.043159" y="267.47366">Air</tspan>
-    </text>
-  <text id="text2540" font-size="10px" xml:space="preserve" fill="#000000" style="block-progression:tb;text-anchor:middle;text-indent:0;text-transform:none;text-align:center" transform="translate(192.43 -13.319)" font-weight="bold" font-family="Bitstream Vera Sans" line-height="normal" y="310.40515" x="43.436558">
-      <tspan id="tspan2542" x="43.436558" y="310.40515">Aeration Tank</tspan>
-    </text>
-  <text id="text2544" font-size="10px" xml:space="preserve" fill="#000000" style="block-progression:tb;text-anchor:middle;text-indent:0;text-transform:none;text-align:center" transform="translate(293.33 -105.19)" font-weight="bold" font-family="Bitstream Vera Sans" line-height="normal" y="347.2757" x="42.426407">
-      <tspan id="tspan2546" x="42.426407" y="347.2757">Clarifier-Settler</tspan>
-    </text>
-  <text id="text2548" font-size="10px" xml:space="preserve" fill="#000000" style="block-progression:tb;text-anchor:middle;text-indent:0;text-transform:none;text-align:center" transform="translate(377.26 -151.53)" font-family="Bitstream Vera Sans" line-height="normal" y="366.4686" x="19.192898">
-      <tspan id="tspan2550" x="19.192898" y="366.4686">Treated</tspan>
-      <tspan id="tspan2552" x="19.192898" y="378.9686">Water</tspan>
-    </text>
-  <text id="text2554" font-size="10px" xml:space="preserve" fill="#000000" style="block-progression:tb;text-anchor:middle;text-indent:0;text-transform:none;text-align:center" transform="matrix(0 -1 1 0 -70.498 372.1)" font-family="Bitstream Vera Sans" line-height="normal" y="402.83411" x="27.274118">
-      <tspan id="tspan2556" x="27.274118" y="402.83411">Waste</tspan>
-      <tspan id="tspan2558" x="27.274118" y="415.33411">Sludge</tspan>
-    </text>
-  <text id="text2560" font-size="10px" xml:space="preserve" fill="#000000" style="block-progression:tb;text-anchor:middle;text-indent:0;text-transform:none;text-align:center" transform="translate(300.76 -52.669)" font-family="Bitstream Vera Sans" line-height="normal" y="444.75543" x="35.355339">
-      <tspan id="tspan2562" x="35.355339" y="444.75543">To Sludge Treatment</tspan>
-    </text>
-  <path id="rect2568" stroke="#800000" stroke-linecap="square" fill="#f00" transform="translate(25.981 24.902)" stroke-miterlimit="6.2" d="m205 197.36h10v34.82l5 0.18-10 10-10-10 5-0.18v-34.82z" stroke-dashoffset="15.724"/>
+ <g id="layer1" transform="translate(-121.93 -207.34)">
+  <path id="path3297" marker-end="url(#Arrow1Mend)" d="m130 212.36v30h45" transform="translate(25.981,24.724)" stroke="#000" fill="none"/>
+  <path id="path2516" marker-end="url(#Arrow1Mend)" d="m245 242.36h30" transform="translate(25.981,24.724)" stroke="#000" marker="none" fill="none"/>
+  <rect id="rect3293" stroke-dashoffset="3.6326" transform="matrix(4.6665,0,0,4.0153,-429,-665.84)" height="10" width="15" stroke="#000" stroke-linecap="square" stroke-miterlimit="6.2" y="227.36" x="135" stroke-width=".23102" fill="#800000"/>
+  <path id="path2518" marker-end="url(#Arrow1Mend)" d="m345 227.36h25v-35" transform="translate(25.981,39.724)" stroke="#000" marker="none" fill="none"/>
+  <rect id="rect3295" stroke-dashoffset="3.6326" transform="matrix(4.6665,0,0,4.0153,-329,-665.84)" height="10" width="15" stroke="#000" stroke-linecap="square" stroke-miterlimit="6.2" y="227.36" x="135" stroke-width=".23102" fill="url(#linearGradient3222)"/>
+  <path id="path2520" marker-end="url(#Arrow1Mend)" d="m310 262.36v90" transform="translate(25.981,24.724)" stroke="#000" marker="none" fill="none"/>
+  <path id="path2524" marker-end="url(#Arrow1Mend)" d="m270 292.36h-115v-50" transform="translate(25.981,24.724)" stroke="#000" marker="none" fill="none"/>
+  <path id="path2526" marker-end="url(#Arrow1Mend)" d="m310 302.36h-40" transform="translate(25.981,14.724)" stroke="#000" marker="none" fill="none"/>
+  <text id="text2528" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" transform="translate(25.186,30.02)" y="202.06628" x="130.30968" font-family="Bitstream Vera Sans" fill="#000000">       <tspan id="tspan2530" y="202.06628" x="130.30968" font-size="10px">Raw Water</tspan>     </text>
+  <text id="text2532" font-size="10px" transform="translate(24.281,12.061)" xml:space="preserve" style="block-progression:tb;text-align:center;text-transform:none;text-anchor:middle;text-indent:0" y="315.20337" x="221.47594" font-family="Bitstream Vera Sans" line-height="normal" fill="#000000">       <tspan id="tspan2534" y="315.20337" x="221.47594">Recycle Sludge</tspan>     </text>
+  <text id="text2536" font-size="10px" transform="translate(181.9,-50.388)" xml:space="preserve" style="block-progression:tb;text-align:center;text-transform:none;text-anchor:middle;text-indent:0" y="267.47366" x="54.043159" font-family="Bitstream Vera Sans" line-height="normal" fill="#000000">       <tspan id="tspan2538" y="267.47366" x="54.043159">Air</tspan>     </text>
+  <text id="text2540" font-size="10px" line-height="normal" font-family="Bitstream Vera Sans" xml:space="preserve" style="block-progression:tb;text-align:center;text-transform:none;text-anchor:middle;text-indent:0" transform="translate(192.43,-13.319)" y="310.40515" x="43.436558" font-weight="bold" fill="#000000">       <tspan id="tspan2542" y="310.40515" x="43.436558">Aeration Tank</tspan>     </text>
+  <text id="text2544" font-size="10px" line-height="normal" font-family="Bitstream Vera Sans" xml:space="preserve" style="block-progression:tb;text-align:center;text-transform:none;text-anchor:middle;text-indent:0" transform="translate(293.33,-105.19)" y="347.2757" x="42.426407" font-weight="bold" fill="#000000">       <tspan id="tspan2546" y="347.2757" x="42.426407">Clarifier-Settler</tspan>     </text>
+  <text id="text2548" font-size="10px" transform="translate(377.26,-151.53)" xml:space="preserve" style="block-progression:tb;text-align:center;text-transform:none;text-anchor:middle;text-indent:0" y="366.4686" x="19.192898" font-family="Bitstream Vera Sans" line-height="normal" fill="#000000">       <tspan id="tspan2550" y="366.4686" x="19.192898">Treated</tspan>       <tspan id="tspan2552" y="378.9686" x="19.192898">Water</tspan>     </text>
+  <text id="text2554" font-size="10px" transform="matrix(0,-1,1,0,-70.498,372.1)" xml:space="preserve" style="block-progression:tb;text-align:center;text-transform:none;text-anchor:middle;text-indent:0" y="402.83411" x="27.274118" font-family="Bitstream Vera Sans" line-height="normal" fill="#000000">       <tspan id="tspan2556" y="402.83411" x="27.274118">Waste</tspan>       <tspan id="tspan2558" y="415.33411" x="27.274118">Sludge</tspan>     </text>
+  <text id="text2560" font-size="10px" transform="translate(300.76,-52.669)" xml:space="preserve" style="block-progression:tb;text-align:center;text-transform:none;text-anchor:middle;text-indent:0" y="444.75543" x="35.355339" font-family="Bitstream Vera Sans" line-height="normal" fill="#000000">       <tspan id="tspan2562" y="444.75543" x="35.355339">To Sludge Treatment</tspan>     </text>
+  <path id="rect2568" d="m205 197.36h10v34.82l5 0.18-10 10-10-10 5-0.18v-34.82z" stroke-dashoffset="15.724" transform="translate(25.981,24.902)" stroke="#800000" stroke-linecap="square" stroke-miterlimit="6.2" fill="#f00"/>
  </g>
  <metadata>
   <rdf:RDF>

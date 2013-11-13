@@ -1,95 +1,84 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="350" width="500" version="1.0">
- <g id="layer1">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 453 322.21" version="1.0">
+ <g id="layer1" transform="translate(-8,-8.9989)">
   <path id="path4200" d="m175.17 125.51h284.32" stroke="#009" stroke-width="2" fill="none"/>
-  <path id="path2162" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(314 -53.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2162" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(314,-53.993)" stroke="#000" stroke-width="2" fill="#000080"/>
   <path id="path4131" d="m170.5 10.164h10v110.35h-10v-110.35z" stroke="#000" stroke-width="2" fill="none"/>
   <path id="path4133" d="m170 129.95h10v50.06h-10v-50.06z" stroke="#000" stroke-width="2" fill="none"/>
   <path id="path4135" d="m170 190.01h10v109.94h-10v-109.94z" stroke="#000" stroke-width="2" fill="none"/>
   <path id="path4198" d="m300 9.9989h10v289.98h-10v-289.98z" stroke="#000" stroke-width="2" fill="none"/>
   <rect id="rect5191" height="289.95" width="120" stroke="#000" y="10.007" x="340" stroke-width="2" fill="none"/>
-  <text id="text8228" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" y="317.96677" x="303.62668" font-family="Verdana" line-height="100%" fill="#000000">
-      <tspan id="tspan8230" x="303.62668" y="317.96677">optical</tspan>
-      <tspan id="tspan8232" x="303.62668" y="329.96677">screen</tspan>
-    </text>
-  <text id="text8234" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" y="317.62402" x="400.76294" font-family="Verdana" line-height="100%" fill="#000000">
-      <tspan id="tspan8238" x="400.76294" y="317.62402">optical screen</tspan>
-      <tspan id="tspan8242" x="400.76294" y="329.62402">(front view)</tspan>
-    </text>
-  <text id="text8244" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" y="318" x="174.85645" font-family="Verdana" line-height="100%" fill="#000000">
-      <tspan id="tspan8246" style="text-anchor:middle;text-align:center" line-height="100%" y="318" x="174.85645">screen with</tspan>
-      <tspan id="tspan8248" style="text-anchor:middle;text-align:center" line-height="100%" y="330" x="174.85645">two slits</tspan>
-    </text>
-  <text id="text8250" xml:space="preserve" font-size="12px" y="240" x="60" font-family="Verdana" line-height="100%" fill="#000000">
-      <tspan id="tspan2449" x="60" y="240">particles</tspan>
-    </text>
+  <text id="text8228" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" line-height="100%" y="317.96677" x="303.62668" font-family="Verdana" fill="#000000">       <tspan id="tspan8230" y="317.96677" x="303.62668">optical</tspan>       <tspan id="tspan8232" y="329.96677" x="303.62668">screen</tspan>     </text>
+  <text id="text8234" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" line-height="100%" y="317.62402" x="400.76294" font-family="Verdana" fill="#000000">       <tspan id="tspan8238" y="317.62402" x="400.76294">optical screen</tspan>       <tspan id="tspan8242" y="329.62402" x="400.76294">(front view)</tspan>     </text>
+  <text id="text8244" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" line-height="100%" y="318" x="174.85645" font-family="Verdana" fill="#000000">       <tspan id="tspan8246" y="318" x="174.85645" style="text-anchor:middle;text-align:center" line-height="100%">screen with</tspan>       <tspan id="tspan8248" y="330" x="174.85645" style="text-anchor:middle;text-align:center" line-height="100%">two slits</tspan>     </text>
+  <text id="text8250" font-size="12px" xml:space="preserve" line-height="100%" y="240" x="60" font-family="Verdana" fill="#000000">       <tspan id="tspan2449" y="240" x="60">particles</tspan>     </text>
   <path id="path2453" d="m175.68 185.01h284.32" stroke="#009" stroke-width="2" fill="none"/>
-  <path id="path2455" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(321 -40.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2457" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(334 -53.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2459" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(359 -63.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2461" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(359 -48.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2463" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(346 -45.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2465" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(371 -55.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2467" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(384 -48.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2469" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(399 -53.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2471" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(386 -60.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2473" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(396 -40.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2475" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(398 1.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2477" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(398 16.507)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2479" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(378 1.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2481" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(378 16.507)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2483" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(363 1.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2485" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(353 6.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2487" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(341 3.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2491" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(327 2.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2493" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(318 11.507)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2499" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(308 1.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2501" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(298 16.507)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2503" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(308 21.507)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2505" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(328 21.507)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2507" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(343 16.507)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2509" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(353 16.507)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2511" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(366 13.507)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2513" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(387 7.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2515" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(325 -62.493)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2517" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(306 -40.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2519" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(334 -38.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2521" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(371 -40.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2523" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(299 -53.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2525" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(345 -60.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2527" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-34 -30.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2529" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-16 1.0073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2531" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(1 14.007)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2533" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(66 -45.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2535" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(19 -8.9927)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2537" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(42 -41.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2541" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(90 -34.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2543" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(104 -48.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2545" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(82 -56.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2547" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(76 -20.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2549" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(19 -63.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2551" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-11 -28.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2553" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(41 -20.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2555" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(61 9.0073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2557" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(9 -43.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2559" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(51 -60.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2561" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-1 -8.9927)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2563" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-29 -5.9927)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2565" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-30 20.007)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2567" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(75 20.007)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2571" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(63 -22.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2573" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(33 12.007)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2577" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(21 -25.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2579" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(53 -2.9927)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path2581" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(95 -19.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2455" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(321,-40.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2457" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(334,-53.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2459" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(359,-63.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2461" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(359,-48.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2463" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(346,-45.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2465" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(371,-55.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2467" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(384,-48.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2469" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(399,-53.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2471" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(386,-60.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2473" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(396,-40.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2475" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(398,1.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2477" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(398,16.507)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2479" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(378,1.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2481" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(378,16.507)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2483" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(363,1.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2485" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(353,6.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2487" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(341,3.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2491" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(327,2.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2493" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(318,11.507)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2499" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(308,1.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2501" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(298,16.507)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2503" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(308,21.507)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2505" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(328,21.507)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2507" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(343,16.507)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2509" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(353,16.507)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2511" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(366,13.507)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2513" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(387,7.5073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2515" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(325,-62.493)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2517" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(306,-40.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2519" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(334,-38.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2521" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(371,-40.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2523" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(299,-53.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2525" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(345,-60.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2527" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-34,-30.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2529" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-16,1.0073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2531" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(1,14.007)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2533" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(66,-45.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2535" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(19,-8.9927)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2537" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(42,-41.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2541" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(90,-34.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2543" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(104,-48.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2545" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(82,-56.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2547" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(76,-20.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2549" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(19,-63.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2551" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-11,-28.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2553" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(41,-20.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2555" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(61,9.0073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2557" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(9,-43.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2559" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(51,-60.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2561" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-1,-8.9927)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2563" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-29,-5.9927)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2565" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-30,20.007)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2567" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(75,20.007)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2571" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(63,-22.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2573" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(33,12.007)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2577" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(21,-25.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2579" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(53,-2.9927)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2581" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(95,-19.993)" stroke="#000" stroke-width="2" fill="#000080"/>
   <path id="path2583" d="m40 225.01h95" stroke="#000" stroke-width="2" fill="none"/>
-  <path id="path2585" d="m140 225.01l-15-5v10l15-5z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
-  <path id="path6463" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-11 -48.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path6465" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(24 -48.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path6467" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-36 -58.993)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path6469" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(89 6.0073)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path6471" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(109 11.007)" stroke="#000" stroke-width="2" fill="#000080"/>
-  <path id="path6473" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(69 -3.9927)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path2585" d="m140 225.01-15-5v10l15-5z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+  <path id="path6463" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-11,-48.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path6465" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(24,-48.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path6467" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(-36,-58.993)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path6469" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(89,6.0073)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path6471" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(109,11.007)" stroke="#000" stroke-width="2" fill="#000080"/>
+  <path id="path6473" d="m55 175a5 5 0 1 1 -10 0 5 5 0 1 1 10 0z" transform="translate(69,-3.9927)" stroke="#000" stroke-width="2" fill="#000080"/>
  </g>
  <metadata>
   <rdf:RDF>

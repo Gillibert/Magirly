@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" height="328px" width="243px">
- <desc>Created with Chemtool 1.6.9</desc>
- <line stroke-width="2" y2="88" x2="76" stroke="#000" stroke-linecap="round" y1="120" x1="21"/>
- <line stroke-width="2" y2="120" x2="131" stroke="#000" stroke-linecap="round" y1="88" x1="76"/>
- <line stroke-width="2" y2="184" x2="131" stroke="#000" stroke-linecap="round" y1="120" x1="131"/>
- <line stroke-width="2" y2="216" x2="76" stroke="#000" stroke-linecap="round" y1="184" x1="131"/>
- <line stroke-width="2" y2="184" x2="21" stroke="#000" stroke-linecap="round" y1="216" x1="76"/>
- <line stroke-width="2" y2="120" x2="21" stroke="#000" stroke-linecap="round" y1="184" x1="21"/>
- <circle r="39" stroke-linecap="round" stroke="#000" cy="152" cx="76" stroke-width="2" fill="none"/>
- <line stroke-width="2" y2="36" x2="76" stroke="#000" stroke-linecap="round" y1="88" x1="76"/>
- <line stroke-width="2" y2="110" x2="145" stroke="#00f" stroke-linecap="round" y1="85" x1="181"/>
- <polygon stroke-linecap="round" stroke="#00f" points="137 116 148 115 143 106" fill="#00f"/>
- <line stroke-width="2" y2="191" x2="144" stroke="#00f" stroke-linecap="round" y1="213" x1="181"/>
- <polygon stroke-linecap="round" stroke="#00f" points="136 186 142 195 147 186" fill="#00f"/>
- <line stroke-width="2" y2="233" x2="76" stroke="#00f" stroke-linecap="round" y1="274" x1="76"/>
- <polygon stroke-linecap="round" stroke="#00f" points="76 223 70 233 81 233" fill="#00f"/>
- <text font-size="18pt" y="32" x="68" font-family="FreeSans" fill="#0000ff">
-  <tspan>R</tspan>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 214.64 285.31" version="1.1">
+ <desc id="desc4">Created with Chemtool 1.6.9</desc>
+ <line id="line6" stroke-width="2" y2="72.402" y1="104.4" stroke="#000" stroke-linecap="round" x2="56" x1="1"/>
+ <line id="line8" stroke-width="2" y2="104.4" y1="72.402" stroke="#000" stroke-linecap="round" x2="111" x1="56"/>
+ <line id="line10" stroke-width="2" y2="168.4" y1="104.4" stroke="#000" stroke-linecap="round" x2="111" x1="111"/>
+ <line id="line12" stroke-width="2" y2="200.4" y1="168.4" stroke="#000" stroke-linecap="round" x2="56" x1="111"/>
+ <line id="line14" stroke-width="2" y2="168.4" y1="200.4" stroke="#000" stroke-linecap="round" x1="56"/>
+ <line id="line16" stroke-width="2" y2="104.4" y1="168.4" stroke="#000" stroke-linecap="round" x1="1"/>
+ <circle id="circle18" stroke-width="2" stroke-linecap="round" cy="152" transform="translate(-20 -15.598)" stroke="#000" cx="76" r="39" fill="none"/>
+ <line id="line20" stroke-width="2" y2="20.402" y1="72.402" stroke="#000" stroke-linecap="round" x2="56" x1="56"/>
+ <line id="line22" stroke-width="2" y2="94.402" y1="69.402" stroke="#00f" stroke-linecap="round" x2="125" x1="161"/>
+ <polygon id="polygon24" stroke-linecap="round" transform="translate(-20 -15.598)" stroke="#00f" points="137 116 148 115 143 106" fill="#00f"/>
+ <line id="line26" stroke-width="2" y2="175.4" y1="197.4" stroke="#00f" stroke-linecap="round" x2="124" x1="161"/>
+ <polygon id="polygon28" stroke-linecap="round" transform="translate(-20 -15.598)" stroke="#00f" points="136 186 142 195 147 186" fill="#00f"/>
+ <line id="line30" stroke-width="2" y2="217.4" y1="258.4" stroke="#00f" stroke-linecap="round" x2="56" x1="56"/>
+ <polygon id="polygon32" stroke-linecap="round" transform="translate(-20 -15.598)" stroke="#00f" points="76 223 70 233 81 233" fill="#00f"/>
+ <text id="text34" font-size="22.5px" y="16.4025" x="48" font-family="FreeSans" fill="#0000ff">
+  <tspan id="tspan36">R</tspan>
  </text>
- <text font-size="18pt" y="86" x="183" font-family="FreeSans" fill="#0000ff">
-  <tspan>ortho</tspan>
+ <text id="text38" font-size="22.5px" y="70.402496" x="163" font-family="FreeSans" fill="#0000ff">
+  <tspan id="tspan40">ortho</tspan>
  </text>
- <text font-size="18pt" y="225" x="186" font-family="FreeSans" fill="#0000ff">
-  <tspan>meta</tspan>
+ <text id="text42" font-size="22.5px" y="209.4025" x="166" font-family="FreeSans" fill="#0000ff">
+  <tspan id="tspan44">meta</tspan>
  </text>
- <text font-size="18pt" y="296" x="71" font-family="FreeSans" fill="#0000ff">
-  <tspan>para</tspan>
+ <text id="text46" font-size="22.5px" y="280.4025" x="51" font-family="FreeSans" fill="#0000ff">
+  <tspan id="tspan48">para</tspan>
  </text>
  <metadata>
   <rdf:RDF>

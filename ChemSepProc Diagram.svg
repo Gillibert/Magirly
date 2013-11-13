@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="509.5" width="658.1" version="1.0">
- <g id="layer1" transform="translate(-39,-221.5)">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 642.8 495.8" version="1.0">
+ <g id="layer1" transform="translate(-45.5,-226.2)">
   <rect id="rect2252" rx="37" ry="37" height="280" width="150.4" stroke="#000" y="345.5" x="178.2" stroke-width="5" fill="none"/>
   <path id="path3235" d="m475.89 682h198.11m-424.4-56.5v56.5h151.03" stroke="#000" stroke-width="5" fill="none"/>
   <path id="path5175" d="m438.5 644.12v-74.32l-99.5 0.2" stroke="#000" stroke-width="5" fill="none"/>
   <path id="path8096" d="m438.5 303.47v136.73m-188.9-94.7v-78.9h151.52" stroke="#000" stroke-width="5" fill="none"/>
   <path id="path9067" d="m342.3 452.3h332.8" stroke="#000" stroke-width="5" fill="none"/>
   <path id="path10051" d="m48 484h118" stroke="#000" stroke-width="5" fill="none"/>
-  <path id="path11044" d="m156 474l20.3 10-20.3 10 3-10-3-10z"/>
+  <path id="path11044" d="m156 474 20.3 10-20.3 10 3-10-3-10z"/>
   <use id="use11054" xlink:href="#path11044" transform="translate(512,197.8)" height="1052.3" width="744" y="0" x="0"/>
   <use id="use11056" xlink:href="#path11044" transform="translate(512,-31.6)" height="1052.3" width="744" y="0" x="0"/>
   <use id="use11058" xlink:href="#path11044" transform="matrix(-1,0,0,1,506.8,-31.6)" height="1052.3" width="744" y="0" x="0"/>
@@ -15,8 +15,8 @@
   <use id="use11062" xlink:href="#path11044" transform="matrix(0,1,-1,0,922.5,274)" height="1052.3" width="744" y="0" x="0"/>
   <g id="g11415">
    <path id="path6146" d="m476 682a37.5 37.5 0 1 1 -75 0 37.5 37.5 0 1 1 75 0z" stroke="#000" stroke-width="5" fill="none"/>
-   <path id="path7117" d="m399.2 719.1l29.7-51.4 7.1 27.1 42.2-71.4" stroke="#000" stroke-width="5" fill="none"/>
-   <use id="use11066" xlink:href="#path11044" transform="matrix(.53340 -.84586 .84586 .53340 -16.1 500.8)" height="1052.3" width="744" y="0" x="0"/>
+   <path id="path7117" d="m399.2 719.1 29.7-51.4 7.1 27.1 42.2-71.4" stroke="#000" stroke-width="5" fill="none"/>
+   <use id="use11066" xlink:href="#path11044" transform="matrix(.5334 -.84586 .84586 .5334 -16.1 500.8)" height="1052.3" width="744" y="0" x="0"/>
   </g>
   <use id="use11420" xlink:href="#g11415" transform="matrix(-1,0,0,-1,877.6,948.2)" height="1052.3" width="744" y="0" x="0"/>
  </g>

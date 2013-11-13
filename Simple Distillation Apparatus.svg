@@ -1,64 +1,64 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="520" width="392" version="1.0">
- <g id="g2026" transform="translate(11.809 -52.355)" stroke="red" fill="none">
-  <path id="path16000" d="m56.896 287.53v-130.39" stroke-width="1px"/>
-  <path id="path15029" d="m57.005 287.87v16.43" stroke-linecap="round" stroke-width="5"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 395.2 504.88" version="1.0">
+ <g id="g2026" fill="none" stroke="#f00" transform="translate(13.246 -58.414)">
+  <path id="path16000" stroke-width="1px" d="m56.896 287.53v-130.39"/>
+  <path id="path15029" stroke-width="5" stroke-linecap="round" d="m57.005 287.87v16.43"/>
  </g>
- <path id="path6311" stroke-linejoin="round" d="m71.448 235.46s0.976-0.54 0.976-2.05v-221.17c0-7.7187-7.185-7.5365-7.185 0.333v220.84c0 1.62 1.162 2.05 1.162 2.05m-6.409 37.25h6.341l-4.076 4.08m-2.265 7.7h6.341l-4.076 4.08m-2.265 6.79h6.341l-4.076 4.08m13.734-21.06h-6.341l4.077 4.07m2.264 7.7h-6.341l4.077 4.08m2.264 6.79h-6.341l4.077 4.08m-8.257-261.23h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7.004h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m7.148 154.78v-68.48c0-2.29 0.89-8.72 4.546-7.65l11.65 3.88m-32.668 72.25v-119.01c0-4.4 2.164-6.29 3.54-6.29v-18.41c-2.422 0-2.568-4.6 0.758-4.6m34.205 60.25l-14.74-5.84c-4.9-1.93-6.196-7.73-6.143-11.96v-13.15c0-4.34-2.017-6.29-3.528-6.29v-18.41c2.707 0 2.755-4.6-0.542-4.6" stroke="#000" stroke-linecap="round" fill="none"/>
- <path id="path2030" stroke-linejoin="round" d="m324.23 326.82c12.5 5.34 30.24 7.84 30.24 20.95 0 3.37 1.48 7.8 4.15 8.36s5.84 0 5.84 0c1.97-2.05 3.37-1.03 4.66 0.58 1.48-1.43 2.96-1.71 4.43 0.55 1.4-1 2.8-1.78 4.2 0.52 1.48-1.13 2.74-0.73 3.89 0.49v3.91c-1.31 1.75-2.62 0.89-3.93 0.38-1.57 3.06-2.79 1.56-4.03 0.38-1.55 2.44-3.11 1.67-4.66 0.45-1.48 1.72-2.96 1.74-4.43 0.43l-6.05 0.05c-1.83 0-2.5 0.54-2.5 2.5v5.62m-19.78 0.24v-18.37c0-7.8-8.56-9.02-17.19-13.28m35.32 9.69l-7.38 7.38v53.57l-3.56-2.05v-51.52l-9.14-9.14" stroke="#000" stroke-linecap="round" fill="none"/>
- <g id="g3911">
-  <path id="path3024" d="m382.6 441.81v21.63c0 2.87-2.31 5.18-5.18 5.18h-61.53c-2.87 0-5.18-2.31-5.18-5.18v-21.63" fill="aqua"/>
+ <path id="path6311" stroke-linejoin="round" d="m72.885 229.4s0.976-0.54 0.976-2.05v-221.17c0-7.7187-7.185-7.5365-7.185 0.333v220.84c0 1.62 1.162 2.05 1.162 2.05m-6.409 37.25h6.341l-4.076 4.08m-2.265 7.7h6.341l-4.076 4.08m-2.265 6.79h6.341l-4.076 4.08m13.734-21.06h-6.341l4.077 4.07m2.264 7.7h-6.341l4.077 4.08m2.264 6.79h-6.341l4.077 4.08m-8.257-261.23h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7.004h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m-3.791 7h3.791m7.148 154.78v-68.48c0-2.29 0.89-8.72 4.546-7.65l11.65 3.88m-32.668 72.25v-119.01c0-4.4 2.164-6.29 3.54-6.29v-18.41c-2.422 0-2.568-4.6 0.758-4.6m34.205 60.25-14.74-5.84c-4.9-1.93-6.196-7.73-6.143-11.96v-13.15c0-4.34-2.017-6.29-3.528-6.29v-18.41c2.707 0 2.755-4.6-0.542-4.6" stroke="#000" stroke-linecap="round" fill="none"/>
+ <path id="path2030" stroke-linejoin="round" d="m325.67 320.76c12.5 5.34 30.24 7.84 30.24 20.95 0 3.37 1.48 7.8 4.15 8.36s5.84 0 5.84 0c1.97-2.05 3.37-1.03 4.66 0.58 1.48-1.43 2.96-1.71 4.43 0.55 1.4-1 2.8-1.78 4.2 0.52 1.48-1.13 2.74-0.73 3.89 0.49v3.91c-1.31 1.75-2.62 0.89-3.93 0.38-1.57 3.06-2.79 1.56-4.03 0.38-1.55 2.44-3.11 1.67-4.66 0.45-1.48 1.72-2.96 1.74-4.43 0.43l-6.05 0.05c-1.83 0-2.5 0.54-2.5 2.5v5.62m-19.78 0.24v-18.37c0-7.8-8.56-9.02-17.19-13.28m35.32 9.69-7.38 7.38v53.57l-3.56-2.05v-51.52l-9.14-9.14" stroke="#000" stroke-linecap="round" fill="none"/>
+ <g id="g3911" transform="translate(1.4366 -6.0593)">
+  <path id="path3024" fill="#0ff" d="m382.6 441.81v21.63c0 2.87-2.31 5.18-5.18 5.18h-61.53c-2.87 0-5.18-2.31-5.18-5.18v-21.63"/>
   <path id="rect2133" d="m382.6 389.22v74.22c0 2.87-2.31 5.18-5.18 5.18h-61.53c-2.87 0-5.18-2.31-5.18-5.18v-69.04c0-2.87-2.38-5.18-2.38-5.18" stroke="#000" stroke-linecap="round" fill="none"/>
  </g>
- <g id="g2084">
+ <g id="g2084" transform="translate(1.4366 -6.0593)">
   <g id="g2065">
-   <g id="g11394" transform="translate(141.4 294.88)">
+   <g id="g11394" transform="translate(141.4,294.88)">
     <g id="g12381">
      <g id="g12432">
       <path id="path12377" stroke-linejoin="round" d="m196.41 110.54v8.41m17.68-0.06v-8.61" stroke="#000" stroke-linecap="round" fill="none"/>
      </g>
     </g>
    </g>
-   <path id="path11388" stroke-linejoin="round" d="m57.152 147.82c-2.751 9.82-12.016 16.67-22.639 16.74-10.624 0.08-19.989-6.65-22.886-16.44" transform="translate(312.38 292.8)" stroke="#000" stroke-linecap="round" fill="#fdff62"/>
-   <path id="path11390" stroke-linejoin="round" d="m39.822 144.85c11.89 0.44 18.975 2.12 15.861 3.77-3.115 1.64-15.261 2.63-27.188 2.21s-19.158-2.09-16.186-3.74 15.031-2.66 26.993-2.26" transform="translate(312.73 292.8)" stroke="#000" stroke-linecap="round" fill="#fdff62"/>
-   <path id="path2311" stroke-linejoin="round" d="m43.072 120.96c10.498 4 16.568 14.55 14.478 25.18s-11.753 18.35-23.052 18.42c-11.298 0.07-21.065-7.53-23.299-18.13-2.2338-10.6 3.692-21.23 14.136-25.36" transform="translate(312.38 292.8)" stroke="#000" stroke-linecap="round" fill="none"/>
+   <path id="path11388" stroke-linejoin="round" d="m57.152 147.82c-2.751 9.82-12.016 16.67-22.639 16.74-10.624 0.08-19.989-6.65-22.886-16.44" transform="translate(312.38,292.8)" stroke="#000" stroke-linecap="round" fill="#fdff62"/>
+   <path id="path11390" stroke-linejoin="round" d="m39.822 144.85c11.89 0.44 18.975 2.12 15.861 3.77-3.115 1.64-15.261 2.63-27.188 2.21s-19.158-2.09-16.186-3.74 15.031-2.66 26.993-2.26" transform="translate(312.73,292.8)" stroke="#000" stroke-linecap="round" fill="#fdff62"/>
+   <path id="path2311" stroke-linejoin="round" d="m43.072 120.96c10.498 4 16.568 14.55 14.478 25.18s-11.753 18.35-23.052 18.42c-11.298 0.07-21.065-7.53-23.299-18.13-2.2338-10.6 3.692-21.23 14.136-25.36" transform="translate(312.38,292.8)" stroke="#000" stroke-linecap="round" fill="none"/>
   </g>
   <g id="g2059" stroke-linejoin="round" fill-opacity=".86667" stroke="#000" stroke-linecap="round" fill="#f0f0f0">
-   <g id="g11382" transform="translate(312.38 342.8)">
+   <g id="g11382" transform="translate(312.38,342.8)">
     <path id="path11384" d="m23.486 38.422h21.466l-2.652 23.991h-16.289l-2.525-23.991z"/>
     <rect id="rect11386" ry=".84193" height="4.5457" width="24.875" y="34.128" x="21.592"/>
    </g>
    <rect id="rect2038" ry=".94712" height="4.4819" width="23.975" y="372.31" x="334.35"/>
   </g>
  </g>
- <g id="g2109">
+ <g id="g2109" transform="translate(1.4366 -6.0593)">
   <g id="g2179" transform="matrix(-.34507 .93858 .93858 .34507 81.363 305.48)">
-   <path id="path2854" d="m-62.489 199.44l-2.679 0.19c-3.561 0-6.427-2.87-6.427-6.43v-4.63c0-3.46-10.285-3.81-16.62-3.81-1.476 1.31-2.951 1.29-4.427-0.43-1.555 1.22-3.11 1.99-4.665-0.45-1.243 1.18-2.46 2.68-4.033-0.38-1.3 0.51-2.61 1.37-3.92-0.38v-3.91c1.14-1.22 2.4-1.62 3.88-0.49 1.403-2.3 2.801-1.52 4.2-0.52 1.477-2.26 2.953-1.98 4.429-0.55 1.297-1.61 2.699-2.63 4.662-0.58 5.534 0 16.494 1.19 16.494-3.63v-120.39c0-3.523-9.021-3.416-16.62-3.416-1.476 1.311-2.951 1.293-4.427-0.425-1.555 1.215-3.11 1.99-4.665-0.448-1.243 1.172-2.46 2.679-4.033-0.387-1.3 0.509-2.61 1.376-3.92-0.376v-3.915c1.14-1.212 2.4-1.622 3.88-0.483 1.403-2.303 2.801-1.526 4.2-0.522 1.477-2.262 2.953-1.981 4.429-0.551 1.297-1.608 2.699-2.634 4.662-0.58 7.633 0 16.494 0.749 16.494-3.48v-3.987c0-3.561 2.866-6.427 6.427-6.427l2.679 0.195v171.19zm15.211 0.19c-3.56 0-2.678-0.19-2.678-0.19v-171.19l2.678-0.197c3.561 0 6.427 2.866 6.427 6.427v158.72c0 3.56-2.866 6.43-6.427 6.43z" fill="aqua"/>
-   <path id="path10737" d="m-122.02 176.32l13.13 4.81-13.13 4.84c0.63-0.87 1.06-1.85 1.31-2.84h-11.65v-4h11.65c-0.25-1-0.68-1.95-1.31-2.81z" fill-rule="evenodd" fill="aqua"/>
-   <path id="path12895" d="m-118.84 41.307l-13.13 4.812 13.13 4.844c-0.63-0.871-1.06-1.849-1.31-2.844h11.65v-4h-11.65c0.24-0.996 0.67-1.951 1.31-2.812z" fill-rule="evenodd" fill="aqua"/>
+   <path id="path2854" fill="#0ff" d="m-62.489 199.44-2.679 0.19c-3.561 0-6.427-2.87-6.427-6.43v-4.63c0-3.46-10.285-3.81-16.62-3.81-1.476 1.31-2.951 1.29-4.427-0.43-1.555 1.22-3.11 1.99-4.665-0.45-1.243 1.18-2.46 2.68-4.033-0.38-1.3 0.51-2.61 1.37-3.92-0.38v-3.91c1.14-1.22 2.4-1.62 3.88-0.49 1.403-2.3 2.801-1.52 4.2-0.52 1.477-2.26 2.953-1.98 4.429-0.55 1.297-1.61 2.699-2.63 4.662-0.58 5.534 0 16.494 1.19 16.494-3.63v-120.39c0-3.523-9.021-3.416-16.62-3.416-1.476 1.311-2.951 1.293-4.427-0.425-1.555 1.215-3.11 1.99-4.665-0.448-1.243 1.172-2.46 2.679-4.033-0.387-1.3 0.509-2.61 1.376-3.92-0.376v-3.915c1.14-1.212 2.4-1.622 3.88-0.483 1.403-2.303 2.801-1.526 4.2-0.522 1.477-2.262 2.953-1.981 4.429-0.551 1.297-1.608 2.699-2.634 4.662-0.58 7.633 0 16.494 0.749 16.494-3.48v-3.987c0-3.561 2.866-6.427 6.427-6.427l2.679 0.195v171.19zm15.211 0.19c-3.56 0-2.678-0.19-2.678-0.19v-171.19l2.678-0.197c3.561 0 6.427 2.866 6.427 6.427v158.72c0 3.56-2.866 6.43-6.427 6.43z"/>
+   <path id="path10737" fill-rule="evenodd" fill="#0ff" d="m-122.02 176.32 13.13 4.81-13.13 4.84c0.63-0.87 1.06-1.85 1.31-2.84h-11.65v-4h11.65c-0.25-1-0.68-1.95-1.31-2.81z"/>
+   <path id="path12895" fill-rule="evenodd" fill="#0ff" d="m-118.84 41.307-13.13 4.812 13.13 4.844c-0.63-0.871-1.06-1.849-1.31-2.844h11.65v-4h-11.65c0.24-0.996 0.67-1.951 1.31-2.812z"/>
    <path id="path2846" stroke-linejoin="round" d="m-47.002 199.54v2.15m-41.213-17.01c6.335 0 16.62 0.35 16.62 3.81v4.55c0 3.56 2.866 6.43 6.427 6.43h17.89c3.561 0 6.427-2.87 6.427-6.43v-158.56c0-3.561-2.866-6.427-6.427-6.427h-17.89c-3.561 0-6.427 2.866-6.427 6.427v3.858c0 4.23-8.861 3.481-16.494 3.481-1.963-2.055-3.365-1.028-4.662 0.58-1.476-1.43-2.952-1.711-4.429 0.551-1.399-1.004-2.797-1.782-4.2 0.522-1.48-1.139-2.74-0.73-3.88 0.483v3.914c1.31 1.752 2.62 0.885 3.92 0.377 1.573 3.065 2.79 1.558 4.033 0.387 1.555 2.437 3.11 1.663 4.665 0.447 1.476 1.718 2.951 1.737 4.427 0.425 7.599 0 16.62-0.107 16.62 3.414v120.44c0 4.82-10.96 3.63-16.494 3.63-1.963-2.05-3.365-1.03-4.662 0.58-1.476-1.43-2.952-1.71-4.429 0.55-1.399-1-2.797-1.78-4.2 0.53-1.48-1.14-2.74-0.73-3.88 0.48v3.91c1.31 1.75 2.62 0.89 3.92 0.38 1.573 3.07 2.79 1.56 4.033 0.39 1.555 2.43 3.11 1.66 4.665 0.44 1.476 1.72 2.951 1.74 4.427 0.43zm25.726 14.59v-171.02m12.533-0.002v171.02m-15.522 0.27v2.15" stroke="#000" stroke-linecap="round" fill="none"/>
   </g>
   <g id="g2074" stroke-linejoin="round" transform="matrix(.34764 -.93763 .93763 .34764 -178.97 517.86)" stroke="#000" stroke-linecap="round" fill="#f1f1f1">
-   <g id="g2076" transform="translate(312.38 342.8)">
+   <g id="g2076" transform="translate(312.38,342.8)">
     <path id="path2078" d="m23.486 38.422h21.466l-2.652 23.991h-16.289l-2.525-23.991z"/>
     <rect id="rect2080" ry=".84193" height="4.5457" width="24.875" y="34.128" x="21.592"/>
    </g>
    <rect id="rect2082" ry=".94712" height="4.4819" width="23.975" y="372.31" x="334.35"/>
   </g>
   <g id="g2099" stroke-linejoin="round" transform="matrix(.34764 -.93763 .93763 .34764 -373.55 446.12)" stroke="#000" stroke-linecap="round" fill="#f1f1f1">
-   <g id="g2101" transform="translate(312.38 342.8)">
+   <g id="g2101" transform="translate(312.38,342.8)">
     <path id="path2103" d="m23.486 38.422h21.466l-2.652 23.991h-16.289l-2.525-23.991z"/>
     <rect id="rect2105" ry=".84193" height="4.5457" width="24.875" y="34.128" x="21.592"/>
    </g>
    <rect id="rect2107" ry=".94712" height="4.4819" width="23.975" y="372.31" x="334.35"/>
   </g>
  </g>
- <g id="g3915" transform="matrix(1.2612 0 0 1 -369.56 -17.829)">
-  <path id="path3917" d="m382.6 441.81v21.63c0 2.87-2.31 5.18-5.18 5.18h-61.53c-2.87 0-5.18-2.31-5.18-5.18v-21.63" fill="#fc0"/>
+ <g id="g3915" transform="matrix(1.2612 0 0 1 -368.12 -23.888)">
+  <path id="path3917" fill="#fc0" d="m382.6 441.81v21.63c0 2.87-2.31 5.18-5.18 5.18h-61.53c-2.87 0-5.18-2.31-5.18-5.18v-21.63"/>
   <path id="path3919" d="m382.6 423.68v39.76c0 2.87-2.31 5.18-5.18 5.18h-61.53c-2.87 0-5.18-2.31-5.18-5.18v-39.76" stroke="#000" stroke-linecap="round" fill="none"/>
  </g>
- <g id="g2023" transform="translate(-31.543 -18.555)">
-  <g id="g3327" transform="translate(-106.12 268.61)">
+ <g id="g2023" transform="translate(-30.106 -24.614)">
+  <g id="g3327" transform="translate(-106.12,268.61)">
    <g id="g3329">
     <g id="g3331">
      <g id="g3333">
@@ -66,79 +66,47 @@
      </g>
     </g>
    </g>
-   <g id="g3337" stroke-linejoin="round" stroke="#000" stroke-linecap="round">
-    <g id="g3339" transform="translate(170.97 47.914)" fill="#f1f1f1">
+   <g id="g3337" stroke-linejoin="round" stroke-linecap="round" stroke="#000">
+    <g id="g3339" fill="#f1f1f1" transform="translate(170.97,47.914)">
      <path id="path3341" d="m23.486 38.422h21.466l-2.652 23.991h-16.289l-2.525-23.991z"/>
      <rect id="rect3343" ry="1.0089" height="4.5457" width="24.875" y="34.128" x="21.592"/>
     </g>
-    <path id="path3345" d="m69.597 151.41c-4.278 15.96-18.737 27.05-35.254 27.05-16.518 0-30.976-11.1-35.251-27.05" transform="translate(170.97 11.912)" fill="#d6d7a1"/>
-    <path id="path3347" d="m43.116 143.92c18.716 0.58 29.821 2.8 24.811 4.96-5.011 2.16-24.241 3.44-42.964 2.86-18.724-0.57-29.859-2.79-24.878-4.95s24.194-3.44 42.925-2.87" transform="translate(171.33 15.411)" fill="#d6d7a1"/>
-    <path id="path3351" d="m43.118 106.54c17.88 4.42 29.658 21.48 27.464 39.77s-17.673 32.08-36.093 32.15-34.007-13.59-36.345-31.86c-2.3384-18.28 9.3046-35.43 27.149-39.99" transform="translate(170.97 12.071)" fill="none"/>
+    <path id="path3345" d="m69.597 151.41c-4.278 15.96-18.737 27.05-35.254 27.05-16.518 0-30.976-11.1-35.251-27.05" transform="translate(170.97,11.912)" fill="#d6d7a1"/>
+    <path id="path3347" d="m43.116 143.92c18.716 0.58 29.821 2.8 24.811 4.96-5.011 2.16-24.241 3.44-42.964 2.86-18.724-0.57-29.859-2.79-24.878-4.95s24.194-3.44 42.925-2.87" transform="translate(171.33,15.411)" fill="#d6d7a1"/>
+    <path id="path3351" d="m43.118 106.54c17.88 4.42 29.658 21.48 27.464 39.77s-17.673 32.08-36.093 32.15-34.007-13.59-36.345-31.86c-2.3384-18.28 9.3046-35.43 27.149-39.99" transform="translate(170.97,12.071)" fill="none"/>
    </g>
   </g>
-  <path id="path7400" opacity=".65" d="m-452.87 458.63c-1.07 1.49-5.16 2.37-9.14 1.97s-6.34-1.93-5.28-3.42c1.07-1.49 5.16-2.38 9.13-1.98 3.98 0.4 6.35 1.93 5.29 3.42" transform="translate(559.19 -7.2721)" fill="#999"/>
+  <path id="path7400" opacity=".65" d="m-452.87 458.63c-1.07 1.49-5.16 2.37-9.14 1.97s-6.34-1.93-5.28-3.42c1.07-1.49 5.16-2.38 9.13-1.98 3.98 0.4 6.35 1.93 5.29 3.42" transform="translate(559.19,-7.2721)" fill="#999"/>
  </g>
- <rect id="rect3921" ry="0" height="3.2415" width="95.042" y="451.32" x="20.128" fill="red"/>
- <rect id="rect3923" ry="3.161" height="11.801" width="100.1" stroke="#000" stroke-linecap="round" y="455.09" x="17.599" fill="#b3b3b3"/>
- <path id="rect4812" d="m14.012 504.83c-0.97 0-1.54-0.75-1.277-1.69l9.728-34.56c0.263-0.93 1.255-1.69 2.226-1.69h85.921c0.97 0 1.96 0.76 2.22 1.69l9.73 34.56c0.27 0.94-0.3 1.69-1.27 1.69h-107.28z" stroke="#000" stroke-linecap="round" stroke-width="1.0192" fill="#2a7fff"/>
- <g id="g4857" fill="#80b3ff" transform="matrix(1.0843 0 0 1.0843 -3.051 -40.864)">
+ <rect id="rect3921" ry="0" height="3.2415" width="95.042" y="445.26" x="21.565" fill="#f00"/>
+ <rect id="rect3923" ry="3.161" height="11.801" width="100.1" stroke="#000" stroke-linecap="round" y="449.03" x="19.036" fill="#b3b3b3"/>
+ <path id="rect4812" d="m15.449 498.77c-0.97 0-1.54-0.75-1.277-1.69l9.728-34.56c0.263-0.93 1.255-1.69 2.226-1.69h85.921c0.97 0 1.96 0.76 2.22 1.69l9.73 34.56c0.27 0.94-0.3 1.69-1.27 1.69h-107.28z" stroke="#000" stroke-linecap="round" stroke-width="1.0192" fill="#2a7fff"/>
+ <g id="g4857" fill="#80b3ff" transform="matrix(1.0843 0 0 1.0843 -1.6144 -46.923)">
   <path id="path4853" d="m51.174 484.55c0 5.11-4.14 9.25-9.248 9.25s-9.248-4.14-9.248-9.25 4.14-9.25 9.248-9.25 9.248 4.14 9.248 9.25z" stroke="#000" stroke-linecap="round" fill="#80b3ff"/>
   <path id="path4855" d="m51.174 484.55c0 5.11-4.14 9.25-9.248 9.25s-9.248-4.14-9.248-9.25 4.14-9.25 9.248-9.25 9.248 4.14 9.248 9.25z" transform="translate(46.55)" stroke="#000" stroke-linecap="round" fill="#80b3ff"/>
-  <path id="path4958" d="m53.147 478.74c-1.454 0.13 0.558 2.76 0.654 1.06-0.147-0.4-0.235-0.87-0.654-1.06zm-4.283-4.99c-0.518-0.87-2.087-0.27-0.994 0.48 0.447 0.53 1.613 0.34 0.994-0.48zm5.144 12.44c-1.269 0.61 0.161 2.77 0.482 0.9 0.092-0.4 0.003-0.86-0.482-0.9zm-12.56-14.52c-0.974-0.43-2.048 1.05-0.582 0.96 0.62 0.1 1.38-0.45 0.582-0.96zm-7.363 2.58c-1.017 0.21-1.089 2.01 0.076 1.15 0.529-0.3 0.878-1.18-0.076-1.15zm-4.17 6.16c-1.106 0.3-0.435 2.63 0.305 1.23 0.143-0.43 0.385-1.15-0.305-1.23zm5.408 14.2c-0.478-0.82-1.995-0.46-1.045 0.43 0.406 0.57 1.782 0.46 1.045-0.43zm-5.198-6.65c-1.439 0 0.289 2.76 0.589 1.11-0.133-0.4-0.22-0.86-0.589-1.11z" fill="#000"/>
+  <path id="path4958" fill="#000" d="m53.147 478.74c-1.454 0.13 0.558 2.76 0.654 1.06-0.147-0.4-0.235-0.87-0.654-1.06zm-4.283-4.99c-0.518-0.87-2.087-0.27-0.994 0.48 0.447 0.53 1.613 0.34 0.994-0.48zm5.144 12.44c-1.269 0.61 0.161 2.77 0.482 0.9 0.092-0.4 0.003-0.86-0.482-0.9zm-12.56-14.52c-0.974-0.43-2.048 1.05-0.582 0.96 0.62 0.1 1.38-0.45 0.582-0.96zm-7.363 2.58c-1.017 0.21-1.089 2.01 0.076 1.15 0.529-0.3 0.878-1.18-0.076-1.15zm-4.17 6.16c-1.106 0.3-0.435 2.63 0.305 1.23 0.143-0.43 0.385-1.15-0.305-1.23zm5.408 14.2c-0.478-0.82-1.995-0.46-1.045 0.43 0.406 0.57 1.782 0.46 1.045-0.43zm-5.198-6.65c-1.439 0 0.289 2.76 0.589 1.11-0.133-0.4-0.22-0.86-0.589-1.11z"/>
   <use id="use5886" xlink:href="#path4958" transform="translate(46.376)" height="520" width="392" y="0" x="0"/>
  </g>
- <g id="g4866" transform="translate(-1.9919)" stroke="#000" stroke-linecap="round" fill="#916f6f">
+ <g id="g4866" transform="translate(-.55528 -6.0593)" stroke="#000" stroke-linecap="round" fill="#916f6f">
   <path id="rect4861" d="m34.527 505.12v3.76c0 0.86-0.699 1.56-1.567 1.56h-9.813c-0.868 0-1.567-0.7-1.567-1.56v-3.76"/>
   <path id="path4864" d="m117.7 505.12v3.76c0 0.86-0.7 1.56-1.57 1.56h-9.81c-0.87 0-1.57-0.7-1.57-1.56v-3.76"/>
  </g>
- <text id="text4894" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="16px" y="461.02167" x="11.297751" font-family="Sans" fill="black">
-    <tspan id="tspan4896" y="461.02167" x="11.297751">1</tspan>
-  </text>
- <text id="text4898" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="16px" y="373.38345" x="34.210526" font-family="Sans" fill="black">
-    <tspan id="tspan4900" y="373.38345" x="34.210526">2</tspan>
-  </text>
- <text id="text4902" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" y="429.49701" x="78.15406" font-family="Sans" fill="black">
-    <tspan id="tspan4904" y="429.49701" x="78.15406">15</tspan>
-  </text>
- <text id="text4906" xml:space="preserve" font-size="16px" y="440.82706" x="116.31579" font-family="Sans" fill="black">
-    <tspan id="tspan4908" y="440.82706" x="116.31579">14</tspan>
-  </text>
- <text id="text4910" xml:space="preserve" font-size="16px" y="489.69925" x="126.09023" font-family="Sans" fill="black">
-    <tspan id="tspan4912" y="489.69925" x="126.09023">13</tspan>
-  </text>
- <text id="text4914" xml:space="preserve" font-size="16px" y="264.88721" x="47.894737" font-family="Sans" fill="black">
-    <tspan id="tspan4916" y="264.88721" x="47.894737">3</tspan>
-  </text>
- <text id="text4918" xml:space="preserve" font-size="16px" y="111.42857" x="52.781956" font-family="Sans" fill="black">
-    <tspan id="tspan4920" y="111.42857" x="52.781956">4</tspan>
-  </text>
- <text id="text4922" xml:space="preserve" font-size="16px" y="322.5564" x="202.33083" font-family="Sans" fill="black">
-    <tspan id="tspan4924" y="322.5564" x="202.33083">5</tspan>
-  </text>
- <text id="text4926" xml:space="preserve" font-size="16px" y="254.13535" x="303.98495" font-family="Sans" fill="black">
-    <tspan id="tspan4928" y="254.13535" x="303.98495">6</tspan>
-  </text>
- <text id="text4930" xml:space="preserve" font-size="16px" y="210.15038" x="176.9173" font-family="Sans" fill="black">
-    <tspan id="tspan4932" y="210.15038" x="176.9173">7</tspan>
-  </text>
- <text id="text4934" xml:space="preserve" font-size="16px" y="430.0752" x="344.06015" font-family="Sans" fill="black">
-    <tspan id="tspan4936" y="430.0752" x="344.06015">8</tspan>
-  </text>
- <text id="text4938" xml:space="preserve" font-size="16px" y="348.94736" x="373.38345" font-family="Sans" fill="black">
-    <tspan id="tspan4940" y="348.94736" x="373.38345">9</tspan>
-  </text>
- <text id="text4942" xml:space="preserve" font-size="16px" y="326.46616" x="340.15039" font-family="Sans" fill="black">
-    <tspan id="tspan4944" y="326.46616" x="340.15039">10</tspan>
-  </text>
- <text id="text4946" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" y="488.922" x="42.308254" font-family="Sans" fill="black">
-    <tspan id="tspan4948" y="488.922" x="42.308254">11</tspan>
-  </text>
- <text id="text4950" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="16px" y="489.0011" x="92.83107" font-family="Sans" fill="black">
-    <tspan id="tspan4952" y="489.0011" x="92.83107" font-size="12px">12</tspan>
-  </text>
- <text id="text4954" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="16px" y="461.35339" x="297.14285" font-family="Sans" fill="black">
-    <tspan id="tspan4956" y="461.35339" x="297.14285">16</tspan>
-  </text>
+ <text id="text4894" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="16px" y="454.96234" x="12.734375" font-family="Sans" fill="#000000">     <tspan id="tspan4896" y="454.96234" x="12.734375">1</tspan>   </text>
+ <text id="text4898" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="16px" y="367.32413" x="35.647148" font-family="Sans" fill="#000000">     <tspan id="tspan4900" y="367.32413" x="35.647148">2</tspan>   </text>
+ <text id="text4902" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" y="423.43768" x="79.590683" font-family="Sans" fill="#000000">     <tspan id="tspan4904" y="423.43768" x="79.590683">15</tspan>   </text>
+ <text id="text4906" xml:space="preserve" font-size="16px" y="434.76773" x="117.75241" font-family="Sans" fill="#000000">     <tspan id="tspan4908" y="434.76773" x="117.75241">14</tspan>   </text>
+ <text id="text4910" xml:space="preserve" font-size="16px" y="483.63992" x="127.52686" font-family="Sans" fill="#000000">     <tspan id="tspan4912" y="483.63992" x="127.52686">13</tspan>   </text>
+ <text id="text4914" xml:space="preserve" font-size="16px" y="258.82788" x="49.33136" font-family="Sans" fill="#000000">     <tspan id="tspan4916" y="258.82788" x="49.33136">3</tspan>   </text>
+ <text id="text4918" xml:space="preserve" font-size="16px" y="105.36925" x="54.218578" font-family="Sans" fill="#000000">     <tspan id="tspan4920" y="105.36925" x="54.218578">4</tspan>   </text>
+ <text id="text4922" xml:space="preserve" font-size="16px" y="316.49707" x="203.76746" font-family="Sans" fill="#000000">     <tspan id="tspan4924" y="316.49707" x="203.76746">5</tspan>   </text>
+ <text id="text4926" xml:space="preserve" font-size="16px" y="248.07602" x="305.42157" font-family="Sans" fill="#000000">     <tspan id="tspan4928" y="248.07602" x="305.42157">6</tspan>   </text>
+ <text id="text4930" xml:space="preserve" font-size="16px" y="204.09105" x="178.35393" font-family="Sans" fill="#000000">     <tspan id="tspan4932" y="204.09105" x="178.35393">7</tspan>   </text>
+ <text id="text4934" xml:space="preserve" font-size="16px" y="424.01587" x="345.49677" font-family="Sans" fill="#000000">     <tspan id="tspan4936" y="424.01587" x="345.49677">8</tspan>   </text>
+ <text id="text4938" xml:space="preserve" font-size="16px" y="342.88803" x="374.82007" font-family="Sans" fill="#000000">     <tspan id="tspan4940" y="342.88803" x="374.82007">9</tspan>   </text>
+ <text id="text4942" xml:space="preserve" font-size="16px" y="320.40683" x="341.58701" font-family="Sans" fill="#000000">     <tspan id="tspan4944" y="320.40683" x="341.58701">10</tspan>   </text>
+ <text id="text4946" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="12px" y="482.86267" x="43.744877" font-family="Sans" fill="#000000">     <tspan id="tspan4948" y="482.86267" x="43.744877">11</tspan>   </text>
+ <text id="text4950" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="16px" y="482.94177" x="94.267693" font-family="Sans" fill="#000000">     <tspan id="tspan4952" y="482.94177" x="94.267693" font-size="12px">12</tspan>   </text>
+ <text id="text4954" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="16px" y="455.29407" x="298.57947" font-family="Sans" fill="#000000">     <tspan id="tspan4956" y="455.29407" x="298.57947">16</tspan>   </text>
  <metadata>
   <rdf:RDF>
    <cc:Work>

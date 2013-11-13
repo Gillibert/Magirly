@@ -1,58 +1,39 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="799.62" width="751.53" version="1.0">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 805.11 799.62" version="1.0">
  <defs id="defs4">
   <marker id="Arrow2Lend" refY="0" refX="0" orient="auto" overflow="visible">
-   <path id="path3278" stroke-linejoin="round" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7355 5.6174 0 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke-width=".625"/>
+   <path id="path3278" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7355 5.6174 0 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke-width=".625"/>
   </marker>
  </defs>
  <g id="layer1" transform="translate(-27.031 -27.481)">
   <g id="g3271">
-   <rect id="rect2493" transform="translate(45.002 45.317)" height="797.62" width="749.53" stroke="#fff" y="-16.836" x="-16.971" stroke-width="2" fill="#fff"/>
+   <rect id="rect2493" transform="translate(45.002,45.317)" height="797.62" width="749.53" stroke="#fff" y="-16.836" x="-16.971" stroke-width="2" fill="#fff"/>
    <g id="g2455">
     <rect id="rect2396" opacity=".8" stroke-opacity=".87097" height="426.72" width="492.89" stroke="#000" y="262.46" x="67.367" stroke-width="44.731" fill="none"/>
     <rect id="rect3184" opacity=".8" height="294.66" width="327.65" y="332.88" x="141.45" fill="#0080dc"/>
-    <path id="path3168" d="m184.78 82.668l2.24 448.42-26.84-6.71c-14.9 12.43-6.51 17.08 0 22.37l51.44-24.6c6.15 7.83 8.61 15.65 1.12 23.48l-27.96-15.65" stroke="#0000a6" stroke-width="11.183" fill="none"/>
-    <path id="path3170" d="m228.54 369.16l0.28 226.17 171.66-0.28 0.28-225.89" stroke="#000" stroke-width="2.2365px" fill="none"/>
-    <path id="path3172" d="m141.47 320.2l-0.06 307.46 329.65-0.4-2.24-306.4-327.35-0.66z" stroke="#000" stroke-width="2.2365px" fill="none"/>
+    <path id="path3168" d="m184.78 82.668 2.24 448.42-26.84-6.71c-14.9 12.43-6.51 17.08 0 22.37l51.44-24.6c6.15 7.83 8.61 15.65 1.12 23.48l-27.96-15.65" stroke="#0000a6" stroke-width="11.183" fill="none"/>
+    <path id="path3170" d="m228.54 369.16 0.28 226.17 171.66-0.28 0.28-225.89" stroke="#000" stroke-width="2.2365px" fill="none"/>
+    <path id="path3172" d="m141.47 320.2-0.06 307.46 329.65-0.4-2.24-306.4-327.35-0.66z" stroke="#000" stroke-width="2.2365px" fill="none"/>
     <rect id="rect3216" opacity="0.96" fill-opacity=".47451" height="225.89" width="171.37" y="369.72" x="228.82" fill="#ffe7ec"/>
-    <path id="path3174" d="m244.2 484.35l43.61 62.62h48.09l34.66-53.68" stroke="#c80000" stroke-width="2.2365px" fill="none"/>
-    <path id="path3178" d="m430.92 79.057l0.29 274.66 9.16 0.16 0.61-274.81-10.06-0.013z" stroke="#000" stroke-width="2.5973px" fill="none"/>
-    <path id="path3182" opacity=".8" d="m324.47 136.55a36.5 26.75 0 1 1 -0.02 -0.08" transform="matrix(.18740 0 0 .45190 381.96 299.41)" stroke="#000" stroke-width="7.6854" fill="#f00"/>
-    <path id="path3186" d="m267.68 517.61l20.27 29.36 47.95 0.14 20.13-30.89c-33.13-36.96-61.15-25.32-88.35 1.39z" fill-rule="evenodd" fill-opacity=".47451" stroke="#000" stroke-width=".89461"/>
+    <path id="path3174" d="m244.2 484.35 43.61 62.62h48.09l34.66-53.68" stroke="#c80000" stroke-width="2.2365px" fill="none"/>
+    <path id="path3178" d="m430.92 79.057 0.29 274.66 9.16 0.16 0.61-274.81-10.06-0.013z" stroke="#000" stroke-width="2.5973px" fill="none"/>
+    <path id="path3182" opacity=".8" d="m324.47 136.55a36.5 26.75 0 1 1 -0.02 -0.08" transform="matrix(.1874 0 0 .4519 381.96 299.41)" stroke="#000" stroke-width="7.6854" fill="#f00"/>
+    <path id="path3186" d="m267.68 517.61 20.27 29.36 47.95 0.14 20.13-30.89c-33.13-36.96-61.15-25.32-88.35 1.39z" fill-rule="evenodd" fill-opacity=".47451" stroke="#000" stroke-width=".89461"/>
     <path id="path3188" d="m435.9 352.76c0.07-36.27-0.21-198.1-0.21-198.1" stroke="#f00" stroke-width="2.2365px" fill="none"/>
     <path id="path3190" d="m283.34 158.37c0.56 0.56 0 355.05 0 355.05" stroke="#000" stroke-width="2.2365px" fill="none"/>
     <path id="path3192" d="m341.49 158.37c0.56 0.56 0 355.05 0 355.05" stroke="#000" stroke-width="2.2365px" fill="none"/>
     <path id="path3214" d="m283.62 513.42c0.28-0.46 0.56-0.93 0.84-1.4 1.06-1.76 3.05-3.05 4.47-4.47 1.15-1.15 4.24-1.18 5.59-0.84 2.01 0.5 2.45 1.89 2.8 3.64 0.37 1.86-0.72 3.69-1.12 5.31-0.29 1.14-2.32 2.27-3.36 2.79-1.72 0.87-3.63-0.59-3.63-2.23 0-2.58 2.14-4.38 3.91-6.15 1.58-1.58 3.26-2.29 5.32-2.8 2.15-0.54 3.9-0.58 4.75 1.12 0.97 1.95 1.4 3.07 1.4 5.31 0 1.51-1.83 2.56-2.52 3.08-1.52 1.14-2.9 0.45-3.91-0.56-1.62-1.62 1.31-5.48 2.23-6.71 1.21-1.62 2.57-1.76 4.48-2.24 1.89-0.47 3.89 0.27 5.31 0.84 1.74 0.7 0.8 4.65 0.56 5.87-0.44 2.19-0.16 2.87-2.24 3.91-1.77 0.89-3.39-0.97-3.91-1.67-1.33-1.77 2.23-5.59 3.35-6.43 1.89-1.42 3.16-1.7 5.31-2.24 1.92-0.48 2.74-0.18 4.48 1.12 1.11 0.84 1.39 3.18 1.39 4.47 0 1.76-0.92 2.81-1.95 4.2-0.9 1.19-3.06 0.29-4.2-0.28-1.98-1 0.24-4.87 0.84-5.88 0.96-1.59 4.23-3.35 6.15-3.35 2.75 0 4.09-0.36 6.43 1.4 2.22 1.66 1.03 3.99 0.56 5.87-0.47 1.86-1.3 2.33-2.79 3.07-1.91 0.96-3.07-1.91-3.36-3.07-0.51-2.04 3-4.4 4.19-5.59 1.34-1.33 2.47-1.4 4.48-1.4 1.11 0 2.66 2.15 3.35 3.07 0.84 1.13 0.02 4.13-0.28 5.32-0.43 1.71-0.73 2.91-2.51 3.35-2.18 0.55-2.71-0.68-3.08-2.51-0.3-1.49 2.06-4.02 3.08-5.04 1.55-1.55 3.31-2.57 5.31-3.07 2.17-0.54 2.36-1.06 4.47 0 0.49 0.24 0.78 2.55 0.84 2.79 0.29 1.17-1.59 3.33-2.24 4.2-1.07 1.43-2.74 1.12-4.47 1.12-1.66 0 1.44-3.68 1.68-3.92 1.3-1.3 2.94-2.03 4.47-2.79 0.62-0.31 0.73-0.37 1.12-0.56" stroke="#f80000" stroke-width="2.2365px" fill="none"/>
     <path id="path3218" d="m221.83 389.29c0.14-0.14 0-22.36 0-22.36h185.64v20.13" stroke="#002aab" stroke-miterlimit="3.9" stroke-width="6.7096" fill="none"/>
-    <text id="text3220" xml:space="preserve" font-size="23.863px" y="63.447277" x="142.83781" font-family="Bitstream Vera Sans" fill="#000000">
-          <tspan id="tspan3222" font-size="23.863px" y="63.447277" x="142.83781">R&#xFC;hrer</tspan>
-        </text>
-    <text id="text3224" xml:space="preserve" font-size="23.863px" y="111.1732" x="240.67595" font-family="Bitstream Vera Sans" fill="#000000">
-          <tspan id="tspan3226" y="111.1732" x="240.67595">elektrische </tspan>
-          <tspan id="tspan3228" y="141.00191" x="240.67595">Z&#xFC;nddr&#xE4;hte</tspan>
-        </text>
-    <text id="text3230" xml:space="preserve" font-size="23.863px" y="63.447277" x="355.21817" font-family="Bitstream Vera Sans" fill="#000000">
-          <tspan id="tspan3232" font-size="23.863px" y="63.447277" x="355.21817">Thermometer</tspan>
-        </text>
-    <text id="text3234" xml:space="preserve" font-size="23.863px" y="698.20209" x="215.61984" font-family="Bitstream Vera Sans" fill="#ffffff">
-          <tspan id="tspan3236" font-size="23.863px" y="698.20209" x="215.61984" fill="#ffffff">Au&#xDF;enisolierung</tspan>
-        </text>
-    <text id="text3238" xml:space="preserve" font-size="23.863px" y="621.84058" x="141.64467" font-family="Bitstream Vera Sans" fill="#ffffff">
-          <tspan id="tspan3240" font-size="23.863px" y="621.84058" x="141.64467" fill="#ffffff">Wasser</tspan>
-        </text>
-    <text id="text3242" xml:space="preserve" font-size="23.863px" y="770.60858" x="410.30893" font-family="Bitstream Vera Sans" fill="#000000">
-          <tspan id="tspan3244" y="770.60858" x="410.30893">Verbrennungsbeh&#xE4;lter</tspan>
-          <tspan id="tspan3246" y="800.43726" x="410.30893">mit reinem Sauerstoff</tspan>
-        </text>
-    <text id="text3248" xml:space="preserve" font-size="47.726px" y="657.63501" x="237.09651" font-family="Bitstream Vera Sans" fill="#000000">
-          <tspan id="tspan3250" font-size="23.863px" y="657.63501" x="237.09651" fill="#000000">Luftsolierung</tspan>
-        </text>
+    <text id="text3220" xml:space="preserve" font-size="23.863px" y="63.447277" x="142.83781" font-family="Bitstream Vera Sans" fill="#000000">           <tspan id="tspan3222" y="63.447277" x="142.83781" font-size="23.863px">R&#xFC;hrer</tspan>         </text>
+    <text id="text3224" xml:space="preserve" font-size="23.863px" y="111.1732" x="240.67595" font-family="Bitstream Vera Sans" fill="#000000">           <tspan id="tspan3226" y="111.1732" x="240.67595">elektrische </tspan>           <tspan id="tspan3228" y="141.00191" x="240.67595">Z&#xFC;nddr&#xE4;hte</tspan>         </text>
+    <text id="text3230" xml:space="preserve" font-size="23.863px" y="63.447277" x="355.21817" font-family="Bitstream Vera Sans" fill="#000000">           <tspan id="tspan3232" y="63.447277" x="355.21817" font-size="23.863px">Thermometer</tspan>         </text>
+    <text id="text3234" xml:space="preserve" font-size="23.863px" y="698.20209" x="215.61984" font-family="Bitstream Vera Sans" fill="#ffffff">           <tspan id="tspan3236" font-size="23.863px" y="698.20209" x="215.61984" fill="#ffffff">Au&#xDF;enisolierung</tspan>         </text>
+    <text id="text3238" xml:space="preserve" font-size="23.863px" y="621.84058" x="141.64467" font-family="Bitstream Vera Sans" fill="#ffffff">           <tspan id="tspan3240" font-size="23.863px" y="621.84058" x="141.64467" fill="#ffffff">Wasser</tspan>         </text>
+    <text id="text3242" xml:space="preserve" font-size="23.863px" y="770.60858" x="410.30893" font-family="Bitstream Vera Sans" fill="#000000">           <tspan id="tspan3244" y="770.60858" x="410.30893">Verbrennungsbeh&#xE4;lter</tspan>           <tspan id="tspan3246" y="800.43726" x="410.30893">mit reinem Sauerstoff</tspan>         </text>
+    <text id="text3248" xml:space="preserve" font-size="47.726px" y="657.63501" x="237.09651" font-family="Bitstream Vera Sans" fill="#000000">           <tspan id="tspan3250" font-size="23.863px" y="657.63501" x="237.09651" fill="#000000">Luftsolierung</tspan>         </text>
     <path id="path3252" marker-end="url(#Arrow2Lend)" d="m541.37 735.4c1.46 2.98-168.51-163.28-168.51-163.28" stroke="#000" stroke-dasharray="3.5794443, 1.1931481" stroke-width="1.1931" fill="none"/>
     <path id="path4547" marker-end="url(#Arrow2Lend)" d="m620.57 203.4c1.46 0.15-247.71 270.88-247.71 270.88" stroke="#000" stroke-dasharray="3.5794443, 1.1931481" stroke-width="1.1931" fill="none"/>
-    <text id="text4549" xml:space="preserve" font-size="23.863px" y="159.85303" x="553.14453" font-family="Bitstream Vera Sans" fill="#000000">
-          <tspan id="tspan4553" y="159.85303" x="553.14453">zu verbrennende</tspan>
-          <tspan id="tspan4557" y="189.68173" x="553.14453">Substanz</tspan>
-        </text>
+    <text id="text4549" xml:space="preserve" font-size="23.863px" y="159.85303" x="553.14453" font-family="Bitstream Vera Sans" fill="#000000">           <tspan id="tspan4553" y="159.85303" x="553.14453">zu verbrennende</tspan>           <tspan id="tspan4557" y="189.68173" x="553.14453">Substanz</tspan>         </text>
    </g>
   </g>
  </g>

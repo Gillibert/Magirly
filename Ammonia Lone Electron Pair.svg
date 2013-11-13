@@ -1,31 +1,24 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" sodipodi:docname="Ammonia_lone_electron_pair.PNG.svg" sodipodi:version="0.32" height="350" width="370" version="1.0" sodipodi:docbase="D:\wiki_svg">
- <sodipodi:namedview id="base" bordercolor="#666666" pagecolor="#ffffff" borderopacity="1.0"/>
- <text id="text1316" style="text-anchor:middle;text-align:center" line-height="125%" xml:space="preserve" font-size="64px" y="176.7516" x="197.48616" font-family="Verdana" sodipodi:linespacing="125%" fill="#000000">
-    <tspan id="tspan1318" sodipodi:role="line" x="197.48616" y="176.7516">N</tspan>
-  </text>
- <text id="text1320" style="text-anchor:middle;text-align:center" line-height="125%" xml:space="preserve" font-size="64px" y="258.05243" x="36.795364" font-family="Verdana" sodipodi:linespacing="125%" fill="#000000">
-    <tspan id="tspan1322" sodipodi:role="line" x="36.795364" y="258.05243">H</tspan>
-  </text>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 489.75 319.89" version="1.0">
+ <text id="text1316" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="64px" line-height="125%" y="162.5896" x="256.0658" font-family="Verdana" fill="#000000">     <tspan id="tspan1318" x="266.2533" y="162.5896">N</tspan>   </text>
+ <text id="text1320" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="64px" line-height="125%" y="243.89043" x="95.375" font-family="Verdana" fill="#000000">     <tspan id="tspan1322" x="105.5625" y="243.89043">H</tspan>   </text>
  <use id="use1324" xlink:href="#text1320" transform="translate(62,76)" height="400" width="400" y="0" x="0"/>
  <use id="use1328" xlink:href="#text1320" transform="translate(299,23)" height="400" width="400" y="0" x="0"/>
- <path id="path1330" d="m197.86 32.787v91.503" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
- <path id="path2341" d="m258.86 210.45c-21.62 31.56-64.77 39.63-96.34 18.02-0.28-0.19-0.52-0.36-0.81-0.56" sodipodi:nodetypes="csc" stroke="#f00" stroke-width="5" fill="none"/>
- <path id="path1332" d="m305.36 240.29l-84.5-57.5" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
- <path id="path1334" stroke-linejoin="round" d="m182.86 192.29l-55 95.5-12.75-10.5 67.75-85z" fill-rule="evenodd" stroke="#000" stroke-width="2.5"/>
- <path id="path1448" d="m165.86 174.04l4.75 8" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
- <path id="path1450" d="m151.86 179.79l5.75 10.25" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
- <path id="path1452" d="m138.11 186.79l5.5 10" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
- <path id="path1454" d="m123.36 193.29l7.25 12" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
- <path id="path1456" d="m109.36 199.04l7.75 13.75" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
- <path id="path1458" d="m95.608 205.79l7.752 14.5" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
- <path id="path1460" d="m81.358 210.79l8.25 17.5" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
- <path id="path1462" d="m65.858 215.79l11.25 21.25" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
- <path id="path1464" sodipodi:rx="4.5" sodipodi:ry="4.5" sodipodi:type="arc" d="m203.5 37.875a4.5 4.5 0 1 1 -9 0 4.5 4.5 0 1 1 9 0z" fill-rule="evenodd" transform="translate(-10.142 -19.213)" sodipodi:cy="37.875" sodipodi:cx="199"/>
+ <path id="path1330" d="m256.44 18.625v91.503" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path2341" d="m317.44 196.29c-21.62 31.56-64.77 39.63-96.34 18.02-0.28-0.19-0.52-0.36-0.81-0.56" stroke="#f00" stroke-width="5" fill="none"/>
+ <path id="path1332" d="m363.94 226.13-84.5-57.5" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1334" stroke-linejoin="round" d="m241.44 178.13-55 95.5-12.75-10.5 67.75-85z" fill-rule="evenodd" stroke="#000" stroke-width="2.5"/>
+ <path id="path1448" d="m224.44 159.88 4.75 8" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1450" d="m210.44 165.63 5.75 10.25" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1452" d="m196.69 172.63 5.5 10" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1454" d="m181.94 179.13 7.25 12" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1456" d="m167.94 184.88 7.75 13.75" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1458" d="m154.19 191.63 7.752 14.5" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1460" d="m139.94 196.63 8.25 17.5" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1462" d="m124.44 201.63 11.25 21.25" stroke="#000" stroke-linecap="round" stroke-width="5" fill="none"/>
+ <path id="path1464" d="m203.5 37.875a4.5 4.5 0 1 1 -9 0 4.5 4.5 0 1 1 9 0z" fill-rule="evenodd" transform="translate(48.438 -33.375)"/>
  <use id="use2339" xlink:href="#path1464" transform="translate(18,3e-6)" height="400" width="400" y="0" x="0"/>
- <text id="text2344" style="text-anchor:middle;text-align:center" line-height="125%" font-weight="bold" xml:space="preserve" font-size="28px" y="275.13571" x="222.35876" font-family="Arial" sodipodi:linespacing="125%" fill="#ff0000">
-    <tspan id="tspan2346" sodipodi:role="line" x="222.35876" y="275.13571">107&#xB0;</tspan>
-  </text>
+ <text id="text2344" style="text-anchor:middle;text-align:center" font-family="Arial" xml:space="preserve" font-size="28px" line-height="125%" y="260.97372" x="280.93842" font-weight="bold" fill="#ff0000">     <tspan id="tspan2346" x="284.82123" y="260.97372">107&#xB0;</tspan>   </text>
  <metadata>
   <rdf:RDF>
    <cc:Work>

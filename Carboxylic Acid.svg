@@ -1,21 +1,13 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="743" width="927" version="1.0">
- <line id="C=O(1)" stroke-width="12" y2="369" x2="415" stroke="#000" y1="222" x1="415"/>
- <line id="C=O(2)" stroke-width="12" x1="378" y1="222" stroke="#000" x2="378" y2="369"/>
- <line id="C-R" stroke-width="12" x1="205.7" y1="557.3" stroke="#000" x2="333.01" y2="483.8"/>
- <line id="C-OH" stroke-width="12" y2="483.8" x2="460.4" stroke="#000" y1="557.3" x1="587.71"/>
- <text id="O" xml:space="preserve" font-size="188px" y="212" x="258">
-    <tspan id="tspan2309" y="212" x="322" font-family="Arial">O</tspan>
-  </text>
- <text id="C" xml:space="preserve" font-size="188px" y="515" x="322">
-    <tspan id="tspan2180" y="515" x="325" font-family="Arial">C</tspan>
-  </text>
- <text id="R" xml:space="preserve" font-size="188px" y="666" x="65">
-    <tspan id="tspan2251" y="666" x="65" font-family="Arial">R</tspan>
-  </text>
- <text id="OH" xml:space="preserve" font-size="188px" y="666" x="587">
-    <tspan id="tspan2186" y="666" x="587" font-family="Arial">OH</tspan>
-  </text>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 923.7 587.11" version="1.0">
+ <line id="C=O(1)" stroke-width="12" y2="288.27" y1="141.27" stroke="#000" x2="350" x1="350"/>
+ <line id="C=O(2)" stroke-width="12" y2="288.27" x2="313" stroke="#000" y1="141.27" x1="313"/>
+ <line id="C-R" stroke-width="12" y2="403.07" x2="268.01" stroke="#000" y1="476.57" x1="140.7"/>
+ <line id="C-OH" stroke-width="12" y2="403.07" y1="476.57" stroke="#000" x2="395.4" x1="522.71"/>
+ <text id="O" xml:space="preserve" font-size="188px" y="131.26953" x="193">     <tspan id="tspan2309" y="131.26953" x="257" font-family="Arial">O</tspan>   </text>
+ <text id="C" xml:space="preserve" font-size="188px" y="434.26953" x="257">     <tspan id="tspan2180" y="434.26953" x="260" font-family="Arial">C</tspan>   </text>
+ <text id="R" xml:space="preserve" font-size="188px" y="585.26953" x="0">     <tspan id="tspan2251" y="585.26953" x="0" font-family="Arial">R</tspan>   </text>
+ <text id="OH" xml:space="preserve" font-size="188px" y="585.26953" x="522">     <tspan id="tspan2186" y="585.26953" x="522" font-family="Arial">OH</tspan>   </text>
  <metadata>
   <rdf:RDF>
    <cc:Work>

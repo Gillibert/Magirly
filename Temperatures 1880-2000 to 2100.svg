@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg3397" height="368.41" width="595.18" version="1.0">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg3397" viewBox="0 0 621.89 368.55" version="1.0">
  <defs id="defs3399">
   <marker id="Arrow2Mstart" refY="0" refX="0" orient="auto" overflow="visible">
-   <path id="path3414" stroke-linejoin="round" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7355 5.6174 0 8.0354z" fill-rule="evenodd" transform="scale(.6)" stroke-width=".625"/>
+   <path id="path3414" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7355 5.6174 0 8.0354z" fill-rule="evenodd" transform="scale(.6)" stroke-width=".625"/>
   </marker>
  </defs>
  <g id="layer1" transform="translate(-77.411 -348.16)">
-  <path id="path3183" d="m340.52 619.66c-0.42-0.68 7.66-9.29 8.32-9.98 0.55-0.59 1.15-0.86 1.88-1.78s1.66-1.65 2.07-1.49c1.09-0.13 1.48-0.21 1.31-1.03 0.6 0 1.28-0.43 2.12-0.96 1.22-0.76 1.44-1.13 3.54-2.87 1.47-1.22 2.8-1.91 4.84-1.47 2.28 0.51 1.53 1.51 2.8 3.6 1.46 1.54 0.4 1.78 1.19 3.08 0.24 0.73 0.67 0.95 1.65 1.98 0.51 0.54 2.28 2.05 2.52 2.43 0.32 0.5-3.06 1.08-4.37 1.47-0.89 0.26-0.95 0.41-2.17 0.83-1.56 0.52-2.91 0.66-4.54 1.06-2.8 0.68-5.71 1.3-7.23 1.75-2.44 0.71-7.69 3.32-8.38 2.21l-5.55 1.17z" fill-opacity=".47982" fill="#f00"/>
-  <path id="path3188" d="m246.86 644.43c-0.41-0.68 0.08-8.44 0.14-9.4 0.06-1.17-0.58-1.48-0.46-2.65 0.14-1.51 0.87-3.4 1.28-3.25 1.1-0.13 0.76-0.06 0.58-0.88 0.61 0 0.46-0.49 1.3-1.01 1.22-0.76-0.64-0.87 2.07-1.12 1.65-0.14 3.96 4.25 5.73 5.36 1.65 1.04 1.29 0.62 4.26 1.55 1.46 1.54 2.06-0.66 2.84 0.65 0.25 0.72 2.13 0.17 3.11 1.2 0.51 0.53 2.77 2.34 3.01 2.72 0.32 0.49-1.3 0.98-2.61 1.37-0.89 0.26-1.93 0.22-3.15 0.63-1.56 0.52-2.91 0.66-4.54 1.06-2.8 0.69-4.24 1.21-5.77 1.65-2.43 0.71-3.59 0.99-4.86 1.44l-2.93 0.68z" fill-opacity=".47982" fill="#f00"/>
-  <path id="path3191" d="m278.6 636.07c-0.41-0.67 0.55-1.68 1.21-2.37 0.55-0.59 0.56-1.35 1.29-2.27s0.49-1.45 1-2.27c0.71-1.11 1.34-1.72 2.04-1.85 0.61 0 0.95 0.68 1.79 0.15 2.21 1.12 2.35 2.22 3.09 3.64 0.51 0.54 0.82 1.56 1.06 1.94l-11.48 3.03z" fill-opacity=".47982" fill="#f00"/>
-  <path id="path3194" d="m291.36 633.4c-0.42-0.68 2.44 4.41 4.62 5.52 1.13 0.57 8.38 0.25 9.38-0.35 1.22-0.73 3.61-1.91 4.12-2.72 0.71-1.11 5.04-4.65 5.75-4.78 0.6 0 4.74-0.3 5.58-0.82 0.65 0.64 4.35-3.21 8.69-5.58 2.06-1.13 5.18-0.72 6.49-1.58 3.83-2.53 1.57-2.29 2.93-2.36l-47.56 12.67z" fill-opacity=".47982" fill="#00f"/>
-  <path id="path3196" d="m374.66 610.8c-0.42-0.67 1.79 0.93 7.54 0.65 1.27-0.06 7.6-2.74 8.61-3.34 1.22-0.73 2.44-1.26 3.72-1.2 1.52 2.77 3.67 5.41 8.58 8.38 1.68 0.2 5.13-1.95 5.98-2.47 2.45-1.25 6.34-0.17 11.12-1 1.46-0.25 3.03-3.64 3.95-5.38 2.15-4.06 5.47-9.89 6.84-9.97l-56.34 14.33z" fill-opacity=".47982" fill="#00f"/>
-  <path id="path3199" d="m438.37 594.03c1.92-3.02 5.52-6.75 6.17-7.45 0.56-0.59 2.91-1.64 4.42-2.95 0.89-0.77 1.46-1.25 1.87-1.1 1.1-0.13 2.02-0.74 1.85-1.56 0.6 0 1.53-1.66 2.37-2.18 1.22-0.77 0.07-1.91 2.17-3.65 1.47-1.22 4.2-1.59 7.18-1.86 0.41 4.83 0.56 9.22 0.25 14.16-1.55 0.53-3.49 1.06-5.12 1.46-2.8 0.68-5.71 1.3-7.23 1.74-2.44 0.71-4.76 1.57-8.38 2.22l-5.55 1.17z" fill-opacity=".47982" fill="#f00"/>
-  <path id="path3201" d="m489.55 558.67c-2.65 1.6-7.25 4.6-10.3 6.32-2.91 1.65-5.77 3.12-6.62 3.61-3.95 2.25-9.36 4.87-7.4 3.75 1.35-0.78-1.69-2.83-0.31-4.28 1.47-1.56 7.82-10.78 10.99-15.59 3.3-4.54 5.37-7.88 12.21-17.28 4.68-7.46 9.76-15.27 16.02-25.8 2.91-4.89 6.08-10.37 9.57-16.66 8.63-15.56 16.6-33.46 23.74-49.44 4.7-10.52 9.2-19.89 12.75-28.31 9.47-22.52 22.13-64.99 25.12-65.25 22.46-0.14 53.29-0.5 69.52-1.08-1 12.66 0.54 92.17-1.09 92.57-1.33 0.33-9.2 6.41-18.76 14-10.49 8.33-23.01 18.48-31.13 24.86-7.95 6.24-17.59 13.98-27.48 21.58-5.66 4.35-11.56 8.46-16.97 12.62-4.68 3.59-11.33 8.42-17.45 12.85-5.57 4.03-9.59 7.71-12.35 9.81-6.92 5.13-10.37 7.78-15.56 11.68-5.51 4.15-10.37 7.19-14.5 10.04z" fill-opacity=".3361" fill="#ff8fa1"/>
-  <path id="path3203" d="m464.73 587.43c1.92-3.01 0-12.12-0.03-13.92-0.02-0.97 5.77-0.48 7.77-0.44 2.41 0.06 3.81 0.31 6.84 0.74 2.45 0.19 4.62 0.98 7.21 1.8 2.16 0.85 5.26 1.68 8.52 3.76-3.73 1.15-6.07 2.16-9.15 2.93-2.8 0.69-5.71 1.31-7.23 1.75-2.43 0.71-4.76 1.57-8.37 2.21l-5.56 1.17z" fill-opacity=".47982" fill="#f00"/>
-  <path id="path3207" d="m525.02 589.35c8.02-5.74 13.55-12.9 18.09-22.26-15.07 3.8-30.33 8.13-47.26 12.03 5.69 4.15 7.68 5.85 12.16 8.14 2.69 1.37 7.58 4.72 17.01 2.09z" fill-opacity=".47982" fill="#00f"/>
-  <path id="path3209" d="m624.57 562.66c8.02-5.73 16.03-12.15 17.97-22.05-15.06 3.8-31.92 9.1-48.85 13.01 5.68 4.14 9.13 4.87 13.77 7.05 2.85 1.33 7.14 3.37 17.11 1.99z" fill-opacity=".47982" fill="#00f"/>
-  <path id="path3215" d="m543.32 567.15c2.7-8.08 5.59-11.74 8.64-16.64 2.6-3.41 6.23-8.18 11.35-7.95 5.47 0.5 8.95 1.15 15.88 3.12 5.92 2.85 8.72 4.43 14.34 7.89l-50.21 13.58z" fill-opacity=".47982" fill="#f00"/>
-  <path id="path3220" d="m205.62 482.25c1.19-4.22 3.01-6.91 6.31-9.41-0.09 3.11-0.06 5.92-0.08 9.47l-6.23-0.06z" fill-opacity=".47982" fill="#f00"/>
-  <path id="path3223" d="m196.66 494.2c6.65-3.39 8.73-9.54 8.32-11.86-10.51-0.19-16.52 0.19-30.83 0.1 1.55 5.53 2.58 6.95 6.24 10.07 2.29 1.96 6.84 4.32 16.27 1.69z" fill-opacity=".47982" fill="#00f"/>
-  <path id="path3225" d="m128.22 495.3c6.64-3.39 7.48-10.78 7.08-13.09-4.58-0.06 7.19 0.05-7.12-0.04-0.08 5.05 0.32 7.85 0.04 13.13z" fill-opacity=".47982" fill="#00f"/>
-  <path id="path3218" d="m135.18 481.85c3.95-8.08 1.04-1.48 3.65-6.47 3.7-3.41 6.66-5.39 11.78-6.34 5.63-0.32 9.81-0.49 15.96 2.65 3.97 4.02 6.91 3.5 7.26 10.55l-38.65-0.39z" fill-opacity=".47982" fill="#f00"/>
-  <path id="path3162" d="m464.51 587.65c1.09-0.4 55.76-14.89 104.34-27.73 38.7-10.22 73.53-19.4 74.32-19.57" stroke-dashoffset="0pt" stroke="#000" stroke-dasharray="3, 3" fill="none"/>
+  <path id="path3183" fill-opacity=".47982" fill="#f00" d="m340.52 619.66c-0.42-0.68 7.66-9.29 8.32-9.98 0.55-0.59 1.15-0.86 1.88-1.78s1.66-1.65 2.07-1.49c1.09-0.13 1.48-0.21 1.31-1.03 0.6 0 1.28-0.43 2.12-0.96 1.22-0.76 1.44-1.13 3.54-2.87 1.47-1.22 2.8-1.91 4.84-1.47 2.28 0.51 1.53 1.51 2.8 3.6 1.46 1.54 0.4 1.78 1.19 3.08 0.24 0.73 0.67 0.95 1.65 1.98 0.51 0.54 2.28 2.05 2.52 2.43 0.32 0.5-3.06 1.08-4.37 1.47-0.89 0.26-0.95 0.41-2.17 0.83-1.56 0.52-2.91 0.66-4.54 1.06-2.8 0.68-5.71 1.3-7.23 1.75-2.44 0.71-7.69 3.32-8.38 2.21l-5.55 1.17z"/>
+  <path id="path3188" fill-opacity=".47982" fill="#f00" d="m246.86 644.43c-0.41-0.68 0.08-8.44 0.14-9.4 0.06-1.17-0.58-1.48-0.46-2.65 0.14-1.51 0.87-3.4 1.28-3.25 1.1-0.13 0.76-0.06 0.58-0.88 0.61 0 0.46-0.49 1.3-1.01 1.22-0.76-0.64-0.87 2.07-1.12 1.65-0.14 3.96 4.25 5.73 5.36 1.65 1.04 1.29 0.62 4.26 1.55 1.46 1.54 2.06-0.66 2.84 0.65 0.25 0.72 2.13 0.17 3.11 1.2 0.51 0.53 2.77 2.34 3.01 2.72 0.32 0.49-1.3 0.98-2.61 1.37-0.89 0.26-1.93 0.22-3.15 0.63-1.56 0.52-2.91 0.66-4.54 1.06-2.8 0.69-4.24 1.21-5.77 1.65-2.43 0.71-3.59 0.99-4.86 1.44l-2.93 0.68z"/>
+  <path id="path3191" fill-opacity=".47982" fill="#f00" d="m278.6 636.07c-0.41-0.67 0.55-1.68 1.21-2.37 0.55-0.59 0.56-1.35 1.29-2.27s0.49-1.45 1-2.27c0.71-1.11 1.34-1.72 2.04-1.85 0.61 0 0.95 0.68 1.79 0.15 2.21 1.12 2.35 2.22 3.09 3.64 0.51 0.54 0.82 1.56 1.06 1.94l-11.48 3.03z"/>
+  <path id="path3194" fill-opacity=".47982" fill="#00f" d="m291.36 633.4c-0.42-0.68 2.44 4.41 4.62 5.52 1.13 0.57 8.38 0.25 9.38-0.35 1.22-0.73 3.61-1.91 4.12-2.72 0.71-1.11 5.04-4.65 5.75-4.78 0.6 0 4.74-0.3 5.58-0.82 0.65 0.64 4.35-3.21 8.69-5.58 2.06-1.13 5.18-0.72 6.49-1.58 3.83-2.53 1.57-2.29 2.93-2.36l-47.56 12.67z"/>
+  <path id="path3196" fill-opacity=".47982" fill="#00f" d="m374.66 610.8c-0.42-0.67 1.79 0.93 7.54 0.65 1.27-0.06 7.6-2.74 8.61-3.34 1.22-0.73 2.44-1.26 3.72-1.2 1.52 2.77 3.67 5.41 8.58 8.38 1.68 0.2 5.13-1.95 5.98-2.47 2.45-1.25 6.34-0.17 11.12-1 1.46-0.25 3.03-3.64 3.95-5.38 2.15-4.06 5.47-9.89 6.84-9.97l-56.34 14.33z"/>
+  <path id="path3199" fill-opacity=".47982" fill="#f00" d="m438.37 594.03c1.92-3.02 5.52-6.75 6.17-7.45 0.56-0.59 2.91-1.64 4.42-2.95 0.89-0.77 1.46-1.25 1.87-1.1 1.1-0.13 2.02-0.74 1.85-1.56 0.6 0 1.53-1.66 2.37-2.18 1.22-0.77 0.07-1.91 2.17-3.65 1.47-1.22 4.2-1.59 7.18-1.86 0.41 4.83 0.56 9.22 0.25 14.16-1.55 0.53-3.49 1.06-5.12 1.46-2.8 0.68-5.71 1.3-7.23 1.74-2.44 0.71-4.76 1.57-8.38 2.22l-5.55 1.17z"/>
+  <path id="path3201" fill-opacity=".33610" fill="#ff8fa1" d="m489.55 558.67c-2.65 1.6-7.25 4.6-10.3 6.32-2.91 1.65-5.77 3.12-6.62 3.61-3.95 2.25-9.36 4.87-7.4 3.75 1.35-0.78-1.69-2.83-0.31-4.28 1.47-1.56 7.82-10.78 10.99-15.59 3.3-4.54 5.37-7.88 12.21-17.28 4.68-7.46 9.76-15.27 16.02-25.8 2.91-4.89 6.08-10.37 9.57-16.66 8.63-15.56 16.6-33.46 23.74-49.44 4.7-10.52 9.2-19.89 12.75-28.31 9.47-22.52 22.13-64.99 25.12-65.25 22.46-0.14 53.29-0.5 69.52-1.08-1 12.66 0.54 92.17-1.09 92.57-1.33 0.33-9.2 6.41-18.76 14-10.49 8.33-23.01 18.48-31.13 24.86-7.95 6.24-17.59 13.98-27.48 21.58-5.66 4.35-11.56 8.46-16.97 12.62-4.68 3.59-11.33 8.42-17.45 12.85-5.57 4.03-9.59 7.71-12.35 9.81-6.92 5.13-10.37 7.78-15.56 11.68-5.51 4.15-10.37 7.19-14.5 10.04z"/>
+  <path id="path3203" fill-opacity=".47982" fill="#f00" d="m464.73 587.43c1.92-3.01 0-12.12-0.03-13.92-0.02-0.97 5.77-0.48 7.77-0.44 2.41 0.06 3.81 0.31 6.84 0.74 2.45 0.19 4.62 0.98 7.21 1.8 2.16 0.85 5.26 1.68 8.52 3.76-3.73 1.15-6.07 2.16-9.15 2.93-2.8 0.69-5.71 1.31-7.23 1.75-2.43 0.71-4.76 1.57-8.37 2.21l-5.56 1.17z"/>
+  <path id="path3207" fill-opacity=".47982" fill="#00f" d="m525.02 589.35c8.02-5.74 13.55-12.9 18.09-22.26-15.07 3.8-30.33 8.13-47.26 12.03 5.69 4.15 7.68 5.85 12.16 8.14 2.69 1.37 7.58 4.72 17.01 2.09z"/>
+  <path id="path3209" fill-opacity=".47982" fill="#00f" d="m624.57 562.66c8.02-5.73 16.03-12.15 17.97-22.05-15.06 3.8-31.92 9.1-48.85 13.01 5.68 4.14 9.13 4.87 13.77 7.05 2.85 1.33 7.14 3.37 17.11 1.99z"/>
+  <path id="path3215" fill-opacity=".47982" fill="#f00" d="m543.32 567.15c2.7-8.08 5.59-11.74 8.64-16.64 2.6-3.41 6.23-8.18 11.35-7.95 5.47 0.5 8.95 1.15 15.88 3.12 5.92 2.85 8.72 4.43 14.34 7.89l-50.21 13.58z"/>
+  <path id="path3220" fill-opacity=".47982" fill="#f00" d="m205.62 482.25c1.19-4.22 3.01-6.91 6.31-9.41-0.09 3.11-0.06 5.92-0.08 9.47l-6.23-0.06z"/>
+  <path id="path3223" fill-opacity=".47982" fill="#00f" d="m196.66 494.2c6.65-3.39 8.73-9.54 8.32-11.86-10.51-0.19-16.52 0.19-30.83 0.1 1.55 5.53 2.58 6.95 6.24 10.07 2.29 1.96 6.84 4.32 16.27 1.69z"/>
+  <path id="path3225" fill-opacity=".47982" fill="#00f" d="m128.22 495.3c6.64-3.39 7.48-10.78 7.08-13.09-4.58-0.06 7.19 0.05-7.12-0.04-0.08 5.05 0.32 7.85 0.04 13.13z"/>
+  <path id="path3218" fill-opacity=".47982" fill="#f00" d="m135.18 481.85c3.95-8.08 1.04-1.48 3.65-6.47 3.7-3.41 6.66-5.39 11.78-6.34 5.63-0.32 9.81-0.49 15.96 2.65 3.97 4.02 6.91 3.5 7.26 10.55l-38.65-0.39z"/>
+  <path id="path3162" d="m464.51 587.65c1.09-0.4 55.76-14.89 104.34-27.73 38.7-10.22 73.53-19.4 74.32-19.57" stroke="#000" stroke-dasharray="3, 3" fill="none"/>
   <path id="path3251" d="m174.19 692.49c0.03-0.64 0-2.43 0-3.08" stroke="#000" stroke-width="1px" fill="none"/>
   <path id="path3253" d="m210.59 692.35c0.03-0.64-0.01-2.43 0-3.08" stroke="#000" stroke-width="1px" fill="none"/>
   <path id="path3255" d="m246.57 692.49c0.04-0.64 0-2.43 0-3.08" stroke="#000" stroke-width="1px" fill="none"/>
@@ -34,35 +34,21 @@
   <path id="path3285" d="m638.96 399.13c0.55 0.02 4.26-0.04 4.85-0.03" stroke="#000" stroke-width="1.0106px" fill="none"/>
   <path id="path3287" d="m639.03 356.95c0.55 0.01 4.26-0.05 4.85-0.04" stroke="#000" stroke-width="1.0106px" fill="none"/>
   <path id="path3289" d="m244.31 608.1c0.55 0.01 4.26-0.04 4.85-0.04" stroke="#000" stroke-width="1.0106px" fill="none"/>
-  <path id="path3385" d="m483.49 570.23h4.77 4.52 4.25 3.45" marker-start="url(#Arrow2Mstart)" stroke="#000" stroke-width="1px" fill="none"/>
-  <text id="text8805" xml:space="preserve" font-size="20px" y="570.209" x="644.652" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8807" font-size="8px" line-height="100%" y="570.209" x="644.652" font-family="Arial Black">+0,5&#xB0;C</tspan>
-    </text>
-  <text id="text8813" xml:space="preserve" font-size="20px" y="611.029" x="647.904" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8815" font-size="8px" line-height="100%" y="611.029" x="647.904" font-family="Arial Black">0&#xB0;C</tspan>
-    </text>
-  <text id="text8817" xml:space="preserve" font-size="20px" y="527.697" x="644.739" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8819" font-size="8px" line-height="100%" y="527.697" x="644.739" font-family="Arial Black">+1&#xB0;C</tspan>
-    </text>
-  <text id="text8821" xml:space="preserve" font-size="20px" y="485.705" x="644.75" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8823" font-size="8px" line-height="100%" y="485.705" x="644.75" font-family="Arial Black">+1,5&#xB0;C</tspan>
-    </text>
-  <text id="text8825" xml:space="preserve" font-size="20px" y="443.732" x="644.731" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8827" font-size="8px" line-height="100%" y="443.732" x="644.731" font-family="Arial Black">+2&#xB0;C</tspan>
-    </text>
-  <text id="text8829" xml:space="preserve" font-size="20px" y="402.089" x="644.796" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8831" font-size="8px" line-height="100%" y="402.089" x="644.796" font-family="Arial Black">+2,5&#xB0;C</tspan>
-    </text>
-  <text id="text8833" xml:space="preserve" font-size="20px" y="359.74" x="644.731" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8835" font-size="8px" line-height="100%" y="359.74" x="644.731" font-family="Arial Black">+3,0&#xB0;C</tspan>
-    </text>
-  <path id="path3160" d="m104.68 682.49c1.95-0.71 140.23-37.16 142-37.54" stroke-dashoffset="0pt" stroke="#000" stroke-dasharray="3, 3" fill="none"/>
+  <path id="path3385" d="m483.49 570.23h16.99" marker-start="url(#Arrow2Mstart)" stroke="#000" stroke-width="1px" fill="none"/>
+  <text id="text8805" font-size="20px" xml:space="preserve" line-height="100%" y="570.20898" x="644.65198" font-family="Arial Black" fill="#000000">       <tspan id="tspan8807" font-size="8px" line-height="100%" y="570.20898" x="644.65198" font-family="Arial Black">+0,5&#xB0;C</tspan>     </text>
+  <text id="text8813" font-size="20px" xml:space="preserve" line-height="100%" y="611.02899" x="647.90399" font-family="Arial Black" fill="#000000">       <tspan id="tspan8815" font-size="8px" line-height="100%" y="611.02899" x="647.90399" font-family="Arial Black">0&#xB0;C</tspan>     </text>
+  <text id="text8817" font-size="20px" xml:space="preserve" line-height="100%" y="527.69702" x="644.73901" font-family="Arial Black" fill="#000000">       <tspan id="tspan8819" font-size="8px" line-height="100%" y="527.69702" x="644.73901" font-family="Arial Black">+1&#xB0;C</tspan>     </text>
+  <text id="text8821" font-size="20px" xml:space="preserve" line-height="100%" y="485.70499" x="644.75" font-family="Arial Black" fill="#000000">       <tspan id="tspan8823" font-size="8px" line-height="100%" y="485.70499" x="644.75" font-family="Arial Black">+1,5&#xB0;C</tspan>     </text>
+  <text id="text8825" font-size="20px" xml:space="preserve" line-height="100%" y="443.73199" x="644.73102" font-family="Arial Black" fill="#000000">       <tspan id="tspan8827" font-size="8px" line-height="100%" y="443.73199" x="644.73102" font-family="Arial Black">+2&#xB0;C</tspan>     </text>
+  <text id="text8829" font-size="20px" xml:space="preserve" line-height="100%" y="402.08899" x="644.79602" font-family="Arial Black" fill="#000000">       <tspan id="tspan8831" font-size="8px" line-height="100%" y="402.08899" x="644.79602" font-family="Arial Black">+2,5&#xB0;C</tspan>     </text>
+  <text id="text8833" font-size="20px" xml:space="preserve" line-height="100%" y="359.73999" x="644.73102" font-family="Arial Black" fill="#000000">       <tspan id="tspan8835" font-size="8px" line-height="100%" y="359.73999" x="644.73102" font-family="Arial Black">+3,0&#xB0;C</tspan>     </text>
+  <path id="path3160" d="m104.68 682.49c1.95-0.71 140.23-37.16 142-37.54" stroke="#000" stroke-dasharray="3, 3" fill="none"/>
   <path id="path3164" d="m246.66 644.81c1.96-0.72 216.47-56.67 218.24-57.05" stroke="#000" stroke-width="1px" fill="none"/>
-  <path id="path3211" d="m464.77 570.1c102.56-70.91 141.25-147.83 179.16-210.28" stroke-dashoffset="0pt" stroke="#fe0001" stroke-dasharray="3, 3" fill="none"/>
-  <path id="path3213" d="m465.57 572.72c16.6 1.12 21.47 2.12 29.7 6.54 8.98 4.83 16.07 12.97 26.54 11.02 9.09-1.69 17.35-16.22 20.96-22.58 2.17-3.83 8.7-22.99 18.74-24.58 11.48-1.81 21.98 4.42 31.36 10.17 11.01 6.75 22.26 11.54 30.08 9.1 8.85-2.76 16.02-11.71 20.11-21.75" stroke-dashoffset="0pt" stroke="#fe0000" stroke-dasharray="3, 3" fill="none"/>
+  <path id="path3211" d="m464.77 570.1c102.56-70.91 141.25-147.83 179.16-210.28" stroke="#fe0001" stroke-dasharray="3, 3" fill="none"/>
+  <path id="path3213" d="m465.57 572.72c16.6 1.12 21.47 2.12 29.7 6.54 8.98 4.83 16.07 12.97 26.54 11.02 9.09-1.69 17.35-16.22 20.96-22.58 2.17-3.83 8.7-22.99 18.74-24.58 11.48-1.81 21.98 4.42 31.36 10.17 11.01 6.75 22.26 11.54 30.08 9.1 8.85-2.76 16.02-11.71 20.11-21.75" stroke="#fe0000" stroke-dasharray="3, 3" fill="none"/>
   <path id="path3228" d="m80.001 692.44c1.82-0.06 562.17 0.85 563.94 0.47" stroke="#000" stroke-width="1px" fill="none"/>
   <path id="path3230" d="m644.33 348.66c0.39 58.55-1.83 345.01-0.07 344.63" stroke="#000" stroke-width="1px" fill="none"/>
-  <path id="path3232" d="m128.58 494.91c4.12-2.04 6.7-6.33 6.56-13.28 2.56-7.36 8.59-12.77 19.37-12.74 10.62 0.02 19.14 5.68 19.89 13.64 0.85 9.03 9.44 13.29 16.09 12.59 9.29-0.97 12.72-6.11 14.95-12.66 2.45-7.2 0.61-3.46 5.34-9.24" stroke-dashoffset="0pt" stroke="#fe0000" stroke-dasharray="2.64221, 2.64221" stroke-width=".88074" fill="none"/>
+  <path id="path3232" d="m128.58 494.91c4.12-2.04 6.7-6.33 6.56-13.28 2.56-7.36 8.59-12.77 19.37-12.74 10.62 0.02 19.14 5.68 19.89 13.64 0.85 9.03 9.44 13.29 16.09 12.59 9.29-0.97 12.72-6.11 14.95-12.66 2.45-7.2 0.61-3.46 5.34-9.24" stroke="#fe0000" stroke-dasharray="2.64221, 2.64221" stroke-width=".88074" fill="none"/>
   <path id="path3245" d="m355.79 692.88c0.04-0.64 0-2.43 0.01-3.08" stroke="#000" stroke-width="1px" fill="none"/>
   <path id="path3247" d="m140.17 692.55c0.04-0.64 0-2.43 0-3.08" stroke="#000" stroke-width="1px" fill="none"/>
   <path id="path3249" d="m104.05 692.34c0.03-0.64 0-2.43 0-3.08" stroke="#000" stroke-width="1px" fill="none"/>
@@ -75,97 +61,40 @@
   <path id="path3271" d="m572.25 693.17c0.03-0.64-0.01-2.43 0-3.08" stroke="#000" stroke-width="1px" fill="none"/>
   <path id="path3273" d="m607.82 693.31c0.03-0.64-0.01-2.44 0-3.08" stroke="#000" stroke-width="1px" fill="none"/>
   <rect id="rect8904" fill-opacity=".91928" height="11.515" width="26.026" y="641.82" x="209.64" fill="#fff"/>
-  <path id="path2387" d="m301.35 639.29c2.14 0 1.89 0.51 3.31-0.55 0.36-0.28 2.19-0.53 1.74-0.64-0.27-0.07 0.79-0.79 1.29-1.02 2.05-0.94 1.6-0.06 1.93-1.38 0.24-0.95 1.24-1.48 2.21-2.2 1.23-0.93 2.02-2.28 3.03-2.48 1.55-0.31 4.07 0.18 4.69 0 1.39-0.42 2.11-1.16 3.58-2.07 1.11-0.69 2.02-1.82 2.21-2.07 0.51-0.68 2.72-1.28 3.58-1.93 0.42-0.31 0.57-0.51 0.71-0.66 0.26-0.3 0.44-0.45 2.32-0.99 1.57-0.46 3.07 0.12 4.42-0.55 1.13-0.57 2.06-1.24 2.75-1.93 0.97-0.97 1.59-1.94 2.21-2.76 0.78-1.05 1.81-1.4 2.62-2.21 0.96-0.96 1.96-2.12 2.48-3.17 0.77-1.54 0.69-1.24 1.79-2.34 0.76-0.76 1.3-1.53 2.21-2.21 1.4-1.05 2.79-2.08 4.13-2.76 1.37-0.68 1.94-1.11 3.04-1.93 1.46-1.1 1.53-2.14 3.31-3.03 0.8-0.4 2.72-0.55 2.89-0.55 1.43 0 3.55 3.24 4 4.14 0.55 1.09 0.55 0.1 1.38 2.75 0.34 1.11 1.18 2.11 1.93 2.48 0.57 0.29-0.27 1.66 2.76 1.66 1.06 0 1.73 0.83 3.3 0.83h2.35c1.42 0 3.07-0.27 3.86-0.42 1.11-0.21 1.46-0.17 2.2-0.41 1.43-0.46 1.3-0.64 1.8-0.97 2.11-1.37 1.19-0.59 1.65-0.82 1.73-0.87 0.42-0.44 2.76-1.52 1.29-0.6 0.99-1.33 2.48-0.28 1.27 0.9 1.94 2.24 2.76 3.59 0.73 1.22 2.13 1.95 2.76 2.48 1.11 0.93 1.93 1.43 2.75 1.79 1.23 0.54 1.97 0.3 3.17 0 1.33-0.33 1.79-0.99 3.31-2.2 0.93-0.74 2.48-1.21 3.17-1.24 1.75-0.08 2.13 0.55 3.59 0.55 1.19 0 1.4 0.8 2.62 1.1 2.78 0 1.73-0.64 3.44-1.93 0.94-0.7 1.64-2.46 2.21-3.03 0.44-0.44 0.29-1.96 0.83-3.04 0.67-1.34 2.03-2.58 2.75-3.31 0.44-0.43 1.23-0.78 1.38-1.37 0.15-0.57 0.41-0.97 0.83-1.38 1.29-1.29 2.53-1.74 4.41-2.21 1.43-0.36 2.3-0.86 3.31-2.2 0.86-1.15 1.77-2.05 2.76-3.04 0.95-0.95 1.47-1.6 2.07-2.62 0.95-1.62 1.12-1.27 2.62-2.34 0.54-0.39 0.43-0.44 3.03-1.93 2.32-1.33 0.13 0.41 2.62-1.38 2.14-1.55 1.33-1.19 2.07-1.38 1.46-0.36 1.21-1.33 1.65-2.2 0.77-1.53 1.01-1.13 1.93-3.17 0.69-1.53 1.95-2.35 3.03-2.62 1.19-0.3 2.48-0.56 4.14-0.56h0.83" stroke="#f00" fill="none"/>
-  <text id="text3297" xml:space="preserve" font-size="20px" y="701.759" x="95.9889" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3299" font-size="6px" line-height="100%" y="701.759" x="95.9889" font-family="Arial Black">1800</tspan>
-    </text>
-  <text id="text3301" xml:space="preserve" font-size="20px" y="701.517" x="131.394" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3303" font-size="6px" line-height="100%" y="701.517" x="131.394" font-family="Arial Black">1820</tspan>
-    </text>
-  <text id="text3317" xml:space="preserve" font-size="20px" y="701.251" x="166.439" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3319" font-size="6px" line-height="100%" y="701.251" x="166.439" font-family="Arial Black">1840</tspan>
-    </text>
-  <text id="text3321" xml:space="preserve" font-size="20px" y="701.517" x="205.465" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3323" font-size="6px" line-height="100%" y="701.517" x="205.465" font-family="Arial Black">1860</tspan>
-    </text>
-  <text id="text8837" xml:space="preserve" font-size="20px" y="651.738" x="210.518" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8839" font-size="8px" line-height="100%" y="651.738" x="210.518" font-family="Arial Black">-0,5&#xB0;C</tspan>
-    </text>
-  <text id="text8841" xml:space="preserve" font-size="20px" y="612.141" x="221.435" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8843" font-size="8px" line-height="100%" y="612.141" x="221.435" font-family="Arial Black">0&#xB0;C</tspan>
-    </text>
-  <text id="text8845" xml:space="preserve" font-size="20px" y="568.776" x="209.754" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8847" font-size="8px" line-height="100%" y="568.776" x="209.754" font-family="Arial Black">+0,5&#xB0;C</tspan>
-    </text>
-  <text id="text3333" xml:space="preserve" font-size="20px" y="701.968" x="239.412" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3335" font-size="6px" line-height="100%" y="701.968" x="239.412" font-family="Arial Black">1880</tspan>
-    </text>
-  <text id="text3337" xml:space="preserve" font-size="20px" y="701.726" x="274.817" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3339" font-size="6px" line-height="100%" y="701.726" x="274.817" font-family="Arial Black">1900</tspan>
-    </text>
-  <text id="text3341" xml:space="preserve" font-size="20px" y="701.461" x="310.392" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3343" font-size="6px" line-height="100%" y="701.461" x="310.392" font-family="Arial Black">1920</tspan>
-    </text>
-  <text id="text3345" xml:space="preserve" font-size="20px" y="701.461" x="346.764" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3347" font-size="6px" line-height="100%" y="701.461" x="346.764" font-family="Arial Black">1940</tspan>
-    </text>
-  <text id="text3349" xml:space="preserve" font-size="20px" y="701.703" x="383.305" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3351" font-size="6px" line-height="100%" y="701.703" x="383.305" font-family="Arial Black">1960</tspan>
-    </text>
-  <text id="text3353" xml:space="preserve" font-size="20px" y="701.726" x="418.446" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3355" font-size="6px" line-height="100%" y="701.726" x="418.446" font-family="Arial Black">1980</tspan>
-    </text>
-  <text id="text3357" xml:space="preserve" font-size="20px" y="701.461" x="454.286" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3359" font-size="6px" line-height="100%" y="701.461" x="454.286" font-family="Arial Black">2000</tspan>
-    </text>
-  <text id="text3361" xml:space="preserve" font-size="20px" y="701.726" x="492.782" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3363" font-size="6px" line-height="100%" y="701.726" x="492.782" font-family="Arial Black">2020</tspan>
-    </text>
-  <text id="text3365" xml:space="preserve" font-size="20px" y="701.703" x="527.465" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3367" font-size="6px" line-height="100%" y="701.703" x="527.465" font-family="Arial Black">2040</tspan>
-    </text>
-  <text id="text3369" xml:space="preserve" font-size="20px" y="701.726" x="563.667" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3371" font-size="6px" line-height="100%" y="701.726" x="563.667" font-family="Arial Black">2060</tspan>
-    </text>
-  <text id="text3373" xml:space="preserve" font-size="20px" y="701.726" x="599.508" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3375" font-size="6px" line-height="100%" y="701.726" x="599.508" font-family="Arial Black">2080</tspan>
-    </text>
-  <text id="text3377" xml:space="preserve" font-size="20px" y="701.726" x="635.614" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3379" font-size="6px" line-height="100%" y="701.726" x="635.614" font-family="Arial Black">2100</tspan>
-    </text>
-  <text id="text8907" xml:space="preserve" font-size="10px" y="716.567" x="357.247" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8909" x="357.247" y="716.567">Ann&#xE9;es</tspan>
-    </text>
-  <text id="text8911" xml:space="preserve" font-size="10px" y="603.07202" x="77.881302" font-family="Arial Black" line-height="100%" fill="#000000">
-      <tspan id="tspan8913" x="77.881302" y="603.07202">Fin du petit</tspan>
-      <tspan id="tspan3348" x="77.881302" y="613.07202">&#xE2;ge glaciaire</tspan>
-    </text>
-  <text id="text8915" xml:space="preserve" font-size="20px" y="663.252" x="268.371" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8917" font-size="10px" line-height="100%" y="663.252" x="268.371" font-family="Arial Black">P&#xE9;riode d'observation directe</tspan>
-    </text>
-  <text id="text8929" xml:space="preserve" font-size="10px" y="512.4906" x="170.38243" font-family="Arial Black" line-height="100%" fill="#000000">
-      <tspan id="tspan8933" style="text-anchor:middle;text-align:center" line-height="100%" y="512.4906" x="172.05235">Oscillation </tspan>
-      <tspan id="tspan3386" style="text-anchor:middle;text-align:center" line-height="100%" y="522.4906" x="170.38243">multi-d&#xE9;cennale</tspan>
-      <tspan id="tspan3384" line-height="100%" y="532.4906" x="170.38243"/>
-    </text>
-  <text id="text8935" xml:space="preserve" font-size="14px" y="417.678" x="552.608" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan8937" style="text-anchor:middle;text-align:center" line-height="100%" y="417.678" x="554.946">Pr&#xE9;diction </tspan>
-      <tspan id="tspan3360" style="text-anchor:middle;text-align:center" line-height="100%" y="431.678" x="554.946">du GIEC </tspan>
-    </text>
+  <path id="path2387" fill="none" stroke="#f00" d="m301.35 639.29c2.14 0 1.89 0.51 3.31-0.55 0.36-0.28 2.19-0.53 1.74-0.64-0.27-0.07 0.79-0.79 1.29-1.02 2.05-0.94 1.6-0.06 1.93-1.38 0.24-0.95 1.24-1.48 2.21-2.2 1.23-0.93 2.02-2.28 3.03-2.48 1.55-0.31 4.07 0.18 4.69 0 1.39-0.42 2.11-1.16 3.58-2.07 1.11-0.69 2.02-1.82 2.21-2.07 0.51-0.68 2.72-1.28 3.58-1.93 0.42-0.31 0.57-0.51 0.71-0.66 0.26-0.3 0.44-0.45 2.32-0.99 1.57-0.46 3.07 0.12 4.42-0.55 1.13-0.57 2.06-1.24 2.75-1.93 0.97-0.97 1.59-1.94 2.21-2.76 0.78-1.05 1.81-1.4 2.62-2.21 0.96-0.96 1.96-2.12 2.48-3.17 0.77-1.54 0.69-1.24 1.79-2.34 0.76-0.76 1.3-1.53 2.21-2.21 1.4-1.05 2.79-2.08 4.13-2.76 1.37-0.68 1.94-1.11 3.04-1.93 1.46-1.1 1.53-2.14 3.31-3.03 0.8-0.4 2.72-0.55 2.89-0.55 1.43 0 3.55 3.24 4 4.14 0.55 1.09 0.55 0.1 1.38 2.75 0.34 1.11 1.18 2.11 1.93 2.48 0.57 0.29-0.27 1.66 2.76 1.66 1.06 0 1.73 0.83 3.3 0.83h2.35c1.42 0 3.07-0.27 3.86-0.42 1.11-0.21 1.46-0.17 2.2-0.41 1.43-0.46 1.3-0.64 1.8-0.97 2.11-1.37 1.19-0.59 1.65-0.82 1.73-0.87 0.42-0.44 2.76-1.52 1.29-0.6 0.99-1.33 2.48-0.28 1.27 0.9 1.94 2.24 2.76 3.59 0.73 1.22 2.13 1.95 2.76 2.48 1.11 0.93 1.93 1.43 2.75 1.79 1.23 0.54 1.97 0.3 3.17 0 1.33-0.33 1.79-0.99 3.31-2.2 0.93-0.74 2.48-1.21 3.17-1.24 1.75-0.08 2.13 0.55 3.59 0.55 1.19 0 1.4 0.8 2.62 1.1 2.78 0 1.73-0.64 3.44-1.93 0.94-0.7 1.64-2.46 2.21-3.03 0.44-0.44 0.29-1.96 0.83-3.04 0.67-1.34 2.03-2.58 2.75-3.31 0.44-0.43 1.23-0.78 1.38-1.37 0.15-0.57 0.41-0.97 0.83-1.38 1.29-1.29 2.53-1.74 4.41-2.21 1.43-0.36 2.3-0.86 3.31-2.2 0.86-1.15 1.77-2.05 2.76-3.04 0.95-0.95 1.47-1.6 2.07-2.62 0.95-1.62 1.12-1.27 2.62-2.34 0.54-0.39 0.43-0.44 3.03-1.93 2.32-1.33 0.13 0.41 2.62-1.38 2.14-1.55 1.33-1.19 2.07-1.38 1.46-0.36 1.21-1.33 1.65-2.2 0.77-1.53 1.01-1.13 1.93-3.17 0.69-1.53 1.95-2.35 3.03-2.62 1.19-0.3 2.48-0.56 4.14-0.56h0.83"/>
+  <text id="text3297" font-size="20px" xml:space="preserve" line-height="100%" y="701.75897" x="95.988899" font-family="Arial Black" fill="#000000">       <tspan id="tspan3299" font-size="6px" line-height="100%" y="701.75897" x="95.988899" font-family="Arial Black">1800</tspan>     </text>
+  <text id="text3301" font-size="20px" xml:space="preserve" line-height="100%" y="701.51703" x="131.394" font-family="Arial Black" fill="#000000">       <tspan id="tspan3303" font-size="6px" line-height="100%" y="701.51703" x="131.394" font-family="Arial Black">1820</tspan>     </text>
+  <text id="text3317" font-size="20px" xml:space="preserve" line-height="100%" y="701.25098" x="166.439" font-family="Arial Black" fill="#000000">       <tspan id="tspan3319" font-size="6px" line-height="100%" y="701.25098" x="166.439" font-family="Arial Black">1840</tspan>     </text>
+  <text id="text3321" font-size="20px" xml:space="preserve" line-height="100%" y="701.51703" x="205.465" font-family="Arial Black" fill="#000000">       <tspan id="tspan3323" font-size="6px" line-height="100%" y="701.51703" x="205.465" font-family="Arial Black">1860</tspan>     </text>
+  <text id="text8837" font-size="20px" xml:space="preserve" line-height="100%" y="651.73798" x="210.51801" font-family="Arial Black" fill="#000000">       <tspan id="tspan8839" font-size="8px" line-height="100%" y="651.73798" x="210.51801" font-family="Arial Black">-0,5&#xB0;C</tspan>     </text>
+  <text id="text8841" font-size="20px" xml:space="preserve" line-height="100%" y="612.14099" x="221.435" font-family="Arial Black" fill="#000000">       <tspan id="tspan8843" font-size="8px" line-height="100%" y="612.14099" x="221.435" font-family="Arial Black">0&#xB0;C</tspan>     </text>
+  <text id="text8845" font-size="20px" xml:space="preserve" line-height="100%" y="568.776" x="209.754" font-family="Arial Black" fill="#000000">       <tspan id="tspan8847" font-size="8px" line-height="100%" y="568.776" x="209.754" font-family="Arial Black">+0,5&#xB0;C</tspan>     </text>
+  <text id="text3333" font-size="20px" xml:space="preserve" line-height="100%" y="701.96802" x="239.412" font-family="Arial Black" fill="#000000">       <tspan id="tspan3335" font-size="6px" line-height="100%" y="701.96802" x="239.412" font-family="Arial Black">1880</tspan>     </text>
+  <text id="text3337" font-size="20px" xml:space="preserve" line-height="100%" y="701.72601" x="274.81699" font-family="Arial Black" fill="#000000">       <tspan id="tspan3339" font-size="6px" line-height="100%" y="701.72601" x="274.81699" font-family="Arial Black">1900</tspan>     </text>
+  <text id="text3341" font-size="20px" xml:space="preserve" line-height="100%" y="701.461" x="310.392" font-family="Arial Black" fill="#000000">       <tspan id="tspan3343" font-size="6px" line-height="100%" y="701.461" x="310.392" font-family="Arial Black">1920</tspan>     </text>
+  <text id="text3345" font-size="20px" xml:space="preserve" line-height="100%" y="701.461" x="346.76401" font-family="Arial Black" fill="#000000">       <tspan id="tspan3347" font-size="6px" line-height="100%" y="701.461" x="346.76401" font-family="Arial Black">1940</tspan>     </text>
+  <text id="text3349" font-size="20px" xml:space="preserve" line-height="100%" y="701.703" x="383.30499" font-family="Arial Black" fill="#000000">       <tspan id="tspan3351" font-size="6px" line-height="100%" y="701.703" x="383.30499" font-family="Arial Black">1960</tspan>     </text>
+  <text id="text3353" font-size="20px" xml:space="preserve" line-height="100%" y="701.72601" x="418.44601" font-family="Arial Black" fill="#000000">       <tspan id="tspan3355" font-size="6px" line-height="100%" y="701.72601" x="418.44601" font-family="Arial Black">1980</tspan>     </text>
+  <text id="text3357" font-size="20px" xml:space="preserve" line-height="100%" y="701.461" x="454.28601" font-family="Arial Black" fill="#000000">       <tspan id="tspan3359" font-size="6px" line-height="100%" y="701.461" x="454.28601" font-family="Arial Black">2000</tspan>     </text>
+  <text id="text3361" font-size="20px" xml:space="preserve" line-height="100%" y="701.72601" x="492.78201" font-family="Arial Black" fill="#000000">       <tspan id="tspan3363" font-size="6px" line-height="100%" y="701.72601" x="492.78201" font-family="Arial Black">2020</tspan>     </text>
+  <text id="text3365" font-size="20px" xml:space="preserve" line-height="100%" y="701.703" x="527.46503" font-family="Arial Black" fill="#000000">       <tspan id="tspan3367" font-size="6px" line-height="100%" y="701.703" x="527.46503" font-family="Arial Black">2040</tspan>     </text>
+  <text id="text3369" font-size="20px" xml:space="preserve" line-height="100%" y="701.72601" x="563.66699" font-family="Arial Black" fill="#000000">       <tspan id="tspan3371" font-size="6px" line-height="100%" y="701.72601" x="563.66699" font-family="Arial Black">2060</tspan>     </text>
+  <text id="text3373" font-size="20px" xml:space="preserve" line-height="100%" y="701.72601" x="599.508" font-family="Arial Black" fill="#000000">       <tspan id="tspan3375" font-size="6px" line-height="100%" y="701.72601" x="599.508" font-family="Arial Black">2080</tspan>     </text>
+  <text id="text3377" font-size="20px" xml:space="preserve" line-height="100%" y="701.72601" x="635.61401" font-family="Arial Black" fill="#000000">       <tspan id="tspan3379" font-size="6px" line-height="100%" y="701.72601" x="635.61401" font-family="Arial Black">2100</tspan>     </text>
+  <text id="text8907" font-size="10px" xml:space="preserve" line-height="100%" y="716.56702" x="357.24701" font-family="Arial Black" fill="#000000">       <tspan id="tspan8909" y="716.56702" x="357.24701">Ann&#xE9;es</tspan>     </text>
+  <text id="text8911" font-size="10px" xml:space="preserve" line-height="100%" y="603.07202" x="77.881302" font-family="Arial Black" fill="#000000">       <tspan id="tspan8913" y="603.07202" x="77.881302">Fin du petit</tspan>       <tspan id="tspan3348" y="613.07202" x="77.881302">&#xE2;ge glaciaire</tspan>     </text>
+  <text id="text8915" font-size="20px" xml:space="preserve" line-height="100%" y="663.25201" x="268.371" font-family="Arial Black" fill="#000000">       <tspan id="tspan8917" font-size="10px" line-height="100%" y="663.25201" x="268.371" font-family="Arial Black">P&#xE9;riode d'observation directe</tspan>     </text>
+  <text id="text8929" font-size="10px" xml:space="preserve" line-height="100%" y="512.4906" x="170.38243" font-family="Arial Black" fill="#000000">       <tspan id="tspan8933" y="512.4906" x="172.05235" style="text-anchor:middle;text-align:center" line-height="100%">Oscillation </tspan>       <tspan id="tspan3386" y="522.4906" x="170.38243" style="text-anchor:middle;text-align:center" line-height="100%">multi-d&#xE9;cennale</tspan>       <tspan id="tspan3384" y="532.4906" x="170.38243" line-height="100%"/>     </text>
+  <text id="text8935" font-size="14px" xml:space="preserve" line-height="100%" y="417.67801" x="552.60797" font-family="Arial Black" fill="#000000">       <tspan id="tspan8937" y="417.67801" x="554.94598" style="text-anchor:middle;text-align:center" line-height="100%">Pr&#xE9;diction </tspan>       <tspan id="tspan3360" y="431.67801" x="554.94598" style="text-anchor:middle;text-align:center" line-height="100%">du GIEC </tspan>     </text>
   <path id="path3166" d="m418.28 613.19c2.78 0 1.73-0.65 3.44-1.93 0.94-0.7 1.64-2.46 2.21-3.04 0.44-0.43 0.29-1.95 0.83-3.03 0.67-1.35 2.03-2.58 2.75-3.31 0.44-0.43 1.23-0.78 1.38-1.38 0.15-0.57 0.41-0.96 0.83-1.37 1.29-1.29 2.53-1.74 4.41-2.21 1.43-0.36 2.3-0.86 3.31-2.21 0.86-1.15 1.77-2.04 2.76-3.03 0.95-0.95 1.47-1.6 2.07-2.62 0.95-1.63 1.12-1.27 2.62-2.34 0.54-0.39 0.43-0.45 3.03-1.93 2.32-1.33 0.13 0.41 2.62-1.38 2.14-1.55 1.33-1.2 2.07-1.38 1.46-0.37 1.21-1.33 1.65-2.21 0.77-1.53 1.01-1.12 1.93-3.17 0.69-1.53 1.95-2.35 3.03-2.62 1.19-0.29 2.48-0.55 4.14-0.55h0.83" stroke="#f00" stroke-linecap="round" stroke-width="3" fill="none"/>
-  <rect id="rect3173" rx="0" stroke-dashoffset="0pt" height="84.371" width="218.38" stroke="#000" stroke-linecap="round" y="566.31" x="246.61" stroke-width="1.5038" fill="none"/>
-  <rect id="rect3234" rx="0" stroke-dashoffset="0pt" height="33.636" width="84.923" stroke="#000" stroke-linecap="round" y="464.56" x="128.6" stroke-width=".904" fill="none"/>
-  <rect id="rect3236" fill-opacity=".47982" rx="0" stroke-dashoffset="0pt" height="4.4179" width="89.344" stroke="#000" stroke-linecap="round" y="622.83" x="77.858" stroke-width=".89409" fill="#00d4ff"/>
-  <rect id="rect3240" fill-opacity=".47982" rx="0" stroke-dashoffset="0pt" height="4.4078" width="10.198" stroke="#000" stroke-linecap="round" y="622.84" x="170.51" stroke-width=".904" fill="#00d4ff"/>
-  <rect id="rect3242" fill-opacity=".47982" rx="0" stroke-dashoffset="0pt" height="4.4077" width="4.9594" stroke="#000" stroke-linecap="round" y="622.72" x="185.48" stroke-width=".904" fill="#00d4ff"/>
-  <path id="path3286" d="m411.43 255.64a2.1429 1.6071 0 1 1 -4.29 0 2.1429 1.6071 0 1 1 4.29 0z" transform="matrix(.45772 0 0 .49918 290.7 442.44)" stroke-dashoffset="0pt" stroke="#f00" stroke-linecap="round" stroke-width="4.1" fill="#f00"/>
-  <path id="path3345" d="m246.79 629.81c1.08-0.19 2.71-1.88 3.59-2.75 1.19-1.19 2.49-0.26 2.75 0.27 0.19 0.37 1.83 1.55 2.21 1.93 0.84 0.84 1.22 1.5 1.93 2.21 0.82 0.82 1.39 1.03 2.76 1.38 0.78 0.19 2.52 0.63 3.31 0.82 1.37 0.35 2.74 0.41 3.58 0.83 1.32 0.66 1.66 0.83 2.48 1.66 0.33 0.32 0.51 0.77 0.83 1.1 0.22 0.22 1.22 0.79 2.48 1.1 1.16 0.29 1.51 0.93 3.04 0.55 1.23-0.31 2.4-0.94 3.03-2.2 0.7-1.4 0.71-1.24 1.1-1.93 0.68-1.2 0.28-1.93 1.38-2.76 0.93-0.7 1.23-1.63 1.52-2.76 0.33-1.33 2.3-1.65 3.44-1.65 1.34 0 1.9 0.76 2.48 1.93 0.62 1.23 1.48 2.13 1.93 3.03 0.38 0.76 1.42 1.81 1.66 2.76 0.16 0.65 2.72 2.94 3.19 3.21 2.5 1.49 5.56 0.5 7.83 0.65" stroke="#0030ff" fill="none"/>
-  <text id="text3350" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="582.765" x="587.196" font-family="Arial Black" line-height="100%" fill="rgb(0, 0, 0)">
-      <tspan id="tspan3352" style="text-anchor:middle;text-align:center" line-height="100%" y="582.765" x="588.866">Prolongement </tspan>
-      <tspan id="tspan3354" style="text-anchor:middle;text-align:center" line-height="100%" y="592.765" x="587.196">du r&#xE9;chauffement</tspan>
-      <tspan id="tspan3358" style="text-anchor:middle;text-align:center" line-height="100%" y="602.765" x="587.196">naturel</tspan>
-      <tspan id="tspan3356" style="text-anchor:middle;text-align:center" line-height="100%" y="612.765" x="587.196"/>
-    </text>
+  <rect id="rect3173" rx="0" height="84.371" width="218.38" stroke="#000" stroke-linecap="round" y="566.31" x="246.61" stroke-width="1.5038" fill="none"/>
+  <rect id="rect3234" rx="0" height="33.636" width="84.923" stroke="#000" stroke-linecap="round" y="464.56" x="128.6" stroke-width="0.904" fill="none"/>
+  <rect id="rect3236" fill-opacity=".47982" rx="0" height="4.4179" width="89.344" stroke="#000" stroke-linecap="round" y="622.83" x="77.858" stroke-width=".89409" fill="#00d4ff"/>
+  <rect id="rect3240" fill-opacity=".47982" rx="0" height="4.4078" width="10.198" stroke="#000" stroke-linecap="round" y="622.84" x="170.51" stroke-width="0.904" fill="#00d4ff"/>
+  <rect id="rect3242" fill-opacity=".47982" rx="0" height="4.4077" width="4.9594" stroke="#000" stroke-linecap="round" y="622.72" x="185.48" stroke-width="0.904" fill="#00d4ff"/>
+  <path id="path3286" d="m411.43 255.64a2.145 1.6087 0 1 1 -4.29 0 2.145 1.6087 0 1 1 4.29 0z" transform="matrix(.45772 0 0 .49918 290.7 442.44)" stroke="#f00" stroke-linecap="round" stroke-width="4.1" fill="#f00"/>
+  <path id="path3345" fill="none" stroke="#0030ff" d="m246.79 629.81c1.08-0.19 2.71-1.88 3.59-2.75 1.19-1.19 2.49-0.26 2.75 0.27 0.19 0.37 1.83 1.55 2.21 1.93 0.84 0.84 1.22 1.5 1.93 2.21 0.82 0.82 1.39 1.03 2.76 1.38 0.78 0.19 2.52 0.63 3.31 0.82 1.37 0.35 2.74 0.41 3.58 0.83 1.32 0.66 1.66 0.83 2.48 1.66 0.33 0.32 0.51 0.77 0.83 1.1 0.22 0.22 1.22 0.79 2.48 1.1 1.16 0.29 1.51 0.93 3.04 0.55 1.23-0.31 2.4-0.94 3.03-2.2 0.7-1.4 0.71-1.24 1.1-1.93 0.68-1.2 0.28-1.93 1.38-2.76 0.93-0.7 1.23-1.63 1.52-2.76 0.33-1.33 2.3-1.65 3.44-1.65 1.34 0 1.9 0.76 2.48 1.93 0.62 1.23 1.48 2.13 1.93 3.03 0.38 0.76 1.42 1.81 1.66 2.76 0.16 0.65 2.72 2.94 3.19 3.21 2.5 1.49 5.56 0.5 7.83 0.65"/>
+  <text id="text3350" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" line-height="100%" y="582.76501" x="587.19598" font-family="Arial Black" fill="#000000">       <tspan id="tspan3352" y="582.76501" x="588.86603" style="text-anchor:middle;text-align:center" line-height="100%">Prolongement </tspan>       <tspan id="tspan3354" y="592.76501" x="587.19598" style="text-anchor:middle;text-align:center" line-height="100%">du r&#xE9;chauffement</tspan>       <tspan id="tspan3358" y="602.76501" x="587.19598" style="text-anchor:middle;text-align:center" line-height="100%">naturel</tspan>       <tspan id="tspan3356" y="612.76501" x="587.19598" style="text-anchor:middle;text-align:center" line-height="100%"/>     </text>
  </g>
  <metadata>
   <rdf:RDF>

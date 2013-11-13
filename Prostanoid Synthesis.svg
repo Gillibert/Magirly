@@ -1,220 +1,88 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="1519.9" width="1611.6" version="1.0">
- <text id="text7220" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.576px" font-style="italic" y="942.02374" x="519.59729" font-family="Arial" fill="#000000">
-    <tspan id="tspan7222" style="text-anchor:middle;text-align:center" line-height="125%" y="942.02374" x="519.59729">Prostacyclin</tspan>
-    <tspan id="tspan7224" style="text-anchor:middle;text-align:center" line-height="125%" dy="-2.4975171" y="972.74316" x="519.59729">synthase</tspan>
-  </text>
- <text id="text7301" style="text-anchor:middle;text-align:center" xml:space="preserve" transform="scale(1.0001 .99985)" font-style="italic" line-height="125%" font-size="24.576px" y="1191.8568" x="612.50336" font-family="Arial" fill="#000000">
-    <tspan id="tspan7303" style="text-anchor:middle;text-align:center" line-height="125%" y="1191.8568" x="612.50336">Thromboxane-A</tspan>
-    <tspan id="tspan7305" style="text-anchor:middle;text-align:center" line-height="125%" dy="-2.4975171" y="1222.5764" x="612.50336">synthase</tspan>
-  </text>
- <text id="text7226" xml:space="preserve" transform="scale(1.0001 .99985)" font-style="italic" line-height="125%" font-size="24.576px" y="770.10553" x="840.77112" font-family="Arial" fill="#000000">
-    <tspan id="tspan7228" line-height="125%" y="770.10553" x="840.77112">PGD</tspan>
-    <tspan id="tspan7230" line-height="125%" dy="-2.4975171" y="800.82501" x="840.77112">synthase</tspan>
-  </text>
- <text id="text7317" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.649px" y="1143.0131" x="962.64655" font-family="Arial" fill="#0000ff">
-    <tspan id="tspan7321" style="text-anchor:end;text-align:end" font-weight="bold" font-size="30.06px" line-height="125%" y="1143.0131" x="962.64655" font-family="Arial" fill="#0000ff">Prostaglandin H</tspan>
-  </text>
- <path id="text7325" fill="#00f" d="m972.67 1150v2.5h-9.4c0.11-1 0.41-1.9 0.92-2.7 0.51-0.9 1.51-2 3.02-3.4 1.2-1.1 1.95-1.9 2.22-2.3 0.37-0.5 0.55-1.1 0.55-1.6 0-0.6-0.16-1.1-0.48-1.4s-0.76-0.5-1.33-0.5c-0.56 0-1.01 0.2-1.34 0.5-0.33 0.4-0.52 0.9-0.57 1.7l-2.67-0.2c0.16-1.5 0.66-2.6 1.5-3.2 0.84-0.7 1.89-1 3.15-1 1.38 0 2.46 0.4 3.25 1.1 0.79 0.8 1.18 1.7 1.18 2.8 0 0.6-0.11 1.2-0.34 1.8-0.22 0.6-0.58 1.2-1.07 1.8-0.32 0.4-0.91 1-1.75 1.8-0.85 0.8-1.39 1.3-1.61 1.5-0.23 0.3-0.41 0.5-0.55 0.8h5.32z"/>
- <text id="text7345" font-weight="bold" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.576px" y="675.9082" x="944.992" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan7347" y="675.9082" x="944.992">PGD</tspan>
-  </text>
- <text id="text14909" font-weight="bold" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.576px" y="294.58841" x="948.96545" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan14911" y="294.58841" x="948.96545">PGJ</tspan>
-  </text>
- <text id="text15041" font-weight="bold" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.576px" y="1466.7456" x="944.99194" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan15043" y="1466.7456" x="944.99194">PGB</tspan>
-  </text>
- <text id="text11196" xml:space="preserve" font-size="36px" y="1472.9473" x="814.15192" font-family="Arial" fill="#000000">
-    <tspan id="tspan11198" y="1472.9473" x="814.15192">OH</tspan>
-  </text>
- <text id="text11200" xml:space="preserve" font-size="36px" y="1244.6958" x="921.32983" font-family="Arial" fill="#000000">
-    <tspan id="tspan11202" y="1244.6958" x="921.32983">O</tspan>
-  </text>
- <text id="text11204" xml:space="preserve" font-size="36px" y="1306.8765" x="955.89447" font-family="Arial" fill="#000000">
-    <tspan id="tspan11206" y="1306.8765" x="955.89447">OH</tspan>
-  </text>
- <text id="text11208" xml:space="preserve" font-size="36px" y="1316.4858" x="654.35602" font-family="Arial" fill="#000000">
-    <tspan id="tspan11210" y="1316.4858" x="654.35602">O</tspan>
-  </text>
- <path id="path4906" d="m754.77 1045.1l3-4.8-37.2-18.3 34.2 23.1zm-70.2-85.23l-27 41.43h3.3 3l20.7-41.43zm0 82.83l-20.7-41.4h-3-3.3l27 41.4z" fill="#00f"/>
- <text id="text8024" xml:space="preserve" font-size="36px" y="1097.3925" x="814.20184" font-family="Arial" fill="#0000ff">
-    <tspan id="tspan8026" y="1097.3925" x="814.20184">OH</tspan>
-  </text>
- <text id="text8070" xml:space="preserve" font-size="36px" y="991.3573" x="634.8064" font-family="Arial" fill="#0000ff">
-    <tspan id="tspan8072" y="991.3573" x="634.8064">O</tspan>
-  </text>
- <text id="text8075" xml:space="preserve" font-size="36px" y="1036.7115" x="634.8064" font-family="Arial" fill="#0000ff">
-    <tspan id="tspan8077" y="1036.7115" x="634.8064">O</tspan>
-  </text>
- <text id="text8080" xml:space="preserve" font-size="36px" y="869.14093" x="921.37982" font-family="Arial" fill="#0000ff">
-    <tspan id="tspan8082" y="869.14093" x="921.37982">O</tspan>
-  </text>
- <text id="text8087" xml:space="preserve" font-size="36px" y="931.32159" x="955.94446" font-family="Arial" fill="#0000ff">
-    <tspan id="tspan8089" y="931.32159" x="955.94446">OH</tspan>
-  </text>
- <path id="path5051" d="m1007.4 1022l-35.74 20.7-36-20.7-35.7 20.7-36-20.7-35.7 20.7m-164.99-12.3l21.3 12.3 36-20.7v-41.44l-36-20.69-21.3 12.29m-14.4 35.44v-12.34m144.3 34.84l-33 19.2m68.09-6.6l-35.99-20.7-36 20.7m36.9-136.83l-30 17.4m194.39-12.9l-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-35.99-20.7-36 20.7v41.4m182.99-60.15v-28.65m-7.5 28.65v-28.65m-107.1 196.03h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.89-79.82l-3.6-6.23m-1.63 8.56l-3-5.2m-2.09 7.79l-2.7-4.68m-2.53 7.01l-2.1-3.64m-3.14 5.97l-1.5-2.6m-3.73 4.93l-0.9-1.56m-4.34 3.89l-0.3-0.52" stroke="#00f" stroke-width="2" fill="none"/>
- <text id="text16870" xml:space="preserve" font-size="36px" y="682.2254" x="814.15179" font-family="Arial" fill="#000000">
-    <tspan id="tspan16872" y="682.2254" x="814.15179">OH</tspan>
-  </text>
- <text id="text16874" xml:space="preserve" font-size="36px" y="453.97382" x="921.32977" font-family="Arial" fill="#000000">
-    <tspan id="tspan16876" y="453.97382" x="921.32977">O</tspan>
-  </text>
- <text id="text16878" xml:space="preserve" font-size="36px" y="516.15448" x="955.89435" font-family="Arial" fill="#000000">
-    <tspan id="tspan16880" y="516.15448" x="955.89435">OH</tspan>
-  </text>
- <text id="text17094" xml:space="preserve" font-size="36px" y="672.21149" x="654.35266" font-family="Arial" fill="#000000">
-    <tspan id="tspan17096" y="672.21149" x="654.35266">O</tspan>
-  </text>
- <text id="text17098" xml:space="preserve" font-size="36px" y="526.53546" x="628.33704" font-family="Arial" fill="#000000">
-    <tspan id="tspan17100" y="526.53546" x="628.33704">HO</tspan>
-  </text>
- <text id="text18044" xml:space="preserve" font-size="36px" y="300.9613" x="814.15179" font-family="Arial" fill="#000000">
-    <tspan id="tspan18046" y="300.9613" x="814.15179">OH</tspan>
-  </text>
- <text id="text18048" xml:space="preserve" font-size="36px" y="72.709839" x="921.32977" font-family="Arial" fill="#000000">
-    <tspan id="tspan18050" y="72.709839" x="921.32977">O</tspan>
-  </text>
- <text id="text18052" xml:space="preserve" font-size="36px" y="134.8905" x="955.89435" font-family="Arial" fill="#000000">
-    <tspan id="tspan18054" y="134.8905" x="955.89435">OH</tspan>
-  </text>
- <text id="text18100" xml:space="preserve" font-size="36px" y="290.98877" x="654.35181" font-family="Arial" fill="#000000">
-    <tspan id="tspan18102" y="290.98877" x="654.35181">O</tspan>
-  </text>
- <path id="path3271" fill="#f00" d="m1008.4 680.18v2.48h-9.41c0.1-0.93 0.4-1.82 0.91-2.66 0.5-0.84 1.5-1.96 3-3.35 1.2-1.12 2-1.88 2.2-2.28 0.4-0.55 0.6-1.1 0.6-1.63 0-0.6-0.2-1.06-0.5-1.38s-0.8-0.48-1.3-0.48c-0.6 0-1 0.17-1.4 0.51-0.3 0.33-0.5 0.89-0.5 1.67l-2.7-0.27c0.16-1.47 0.66-2.52 1.5-3.16 0.8-0.64 1.9-0.96 3.1-0.96 1.4 0 2.5 0.37 3.3 1.11s1.2 1.66 1.2 2.77c0 0.62-0.2 1.22-0.4 1.79s-0.6 1.16-1 1.78c-0.4 0.41-1 1.01-1.8 1.78s-1.4 1.29-1.6 1.54-0.4 0.5-0.5 0.74h5.3z"/>
- <path id="path3269" fill="#f00" d="m1008.4 298.92v2.48h-9.41c0.1-0.94 0.4-1.83 0.91-2.67 0.5-0.84 1.5-1.95 3-3.34 1.2-1.12 2-1.88 2.2-2.28 0.4-0.55 0.6-1.1 0.6-1.64 0-0.59-0.2-1.05-0.5-1.37s-0.8-0.48-1.3-0.48c-0.6 0-1 0.17-1.4 0.5-0.3 0.34-0.5 0.9-0.5 1.68l-2.7-0.27c0.16-1.47 0.66-2.53 1.5-3.17 0.8-0.64 1.9-0.96 3.1-0.96 1.4 0 2.5 0.37 3.3 1.11 0.8 0.75 1.2 1.67 1.2 2.77 0 0.63-0.2 1.23-0.4 1.79-0.2 0.57-0.6 1.17-1 1.79-0.4 0.41-1 1-1.8 1.78-0.8 0.77-1.4 1.28-1.6 1.54-0.2 0.25-0.4 0.5-0.5 0.74h5.3z"/>
- <path id="path3267" fill="#f00" d="m1008.4 1470.9v2.5h-9.41c0.1-1 0.4-1.8 0.91-2.7 0.5-0.8 1.5-1.9 3-3.3 1.2-1.1 2-1.9 2.2-2.3 0.4-0.6 0.6-1.1 0.6-1.6 0-0.6-0.2-1.1-0.5-1.4s-0.8-0.5-1.3-0.5c-0.6 0-1 0.2-1.4 0.5-0.3 0.3-0.5 0.9-0.5 1.7l-2.7-0.3c0.16-1.5 0.66-2.5 1.5-3.2 0.8-0.6 1.9-0.9 3.1-0.9 1.4 0 2.5 0.4 3.3 1.1s1.2 1.7 1.2 2.8c0 0.6-0.2 1.2-0.4 1.8-0.2 0.5-0.6 1.1-1 1.7-0.4 0.5-1 1-1.8 1.8s-1.4 1.3-1.6 1.6c-0.2 0.2-0.4 0.5-0.5 0.7h5.3z"/>
- <text id="text15515" font-weight="bold" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.576px" y="683.98053" x="328.55093" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan15517" y="683.98053" x="328.55093">6-keto-PGF1</tspan>
-  </text>
- <text id="text15613" font-weight="bold" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.576px" y="843.77289" x="429.87378" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan15615" y="843.77289" x="429.87378">PGI</tspan>
-  </text>
- <text id="text15623" font-weight="bold" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="19.481px" y="873.7431" x="355.03549" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan15625" y="873.7431" x="355.03549">(Prostacyclin)</tspan>
-  </text>
- <text id="text15726" font-weight="bold" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.576px" y="1466.7456" x="362.1532" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan15728" y="1466.7456" x="362.1532">TXA</tspan>
-  </text>
- <text id="text12308" xml:space="preserve" font-size="36px" y="1472.9473" x="228.73006" font-family="Arial" fill="#000000">
-    <tspan id="tspan12310" y="1472.9473" x="228.73006">OH</tspan>
-  </text>
- <text id="text12312" xml:space="preserve" font-size="36px" y="1244.6958" x="335.90799" font-family="Arial" fill="#000000">
-    <tspan id="tspan12314" y="1244.6958" x="335.90799">O</tspan>
-  </text>
- <text id="text12316" xml:space="preserve" font-size="36px" y="1306.8765" x="370.47263" font-family="Arial" fill="#000000">
-    <tspan id="tspan12318" y="1306.8765" x="370.47263">OH</tspan>
-  </text>
- <text id="text12728" xml:space="preserve" font-size="36px" y="1431.0192" x="85.257141" font-family="Arial" fill="#000000">
-    <tspan id="tspan12730" y="1431.0192" x="85.257141">O</tspan>
-  </text>
- <text id="text12735" xml:space="preserve" font-size="36px" y="1390.7742" x="85.257141" font-family="Arial" fill="#000000">
-    <tspan id="tspan12737" y="1390.7742" x="85.257141">O</tspan>
-  </text>
- <text id="text16166" xml:space="preserve" font-size="36px" y="1097.3925" x="228.73007" font-family="Arial" fill="#000000">
-    <tspan id="tspan16168" y="1097.3925" x="228.73007">OH</tspan>
-  </text>
- <text id="text16170" xml:space="preserve" font-size="36px" y="1086.6069" x="42.918709" font-family="Arial" fill="#000000">
-    <tspan id="tspan16172" y="1086.6069" x="42.918709">HO</tspan>
-  </text>
- <text id="text16402" xml:space="preserve" font-size="36px" y="939.60968" x="81.844261" font-family="Arial" fill="#000000">
-    <tspan id="tspan16404" y="939.60968" x="81.844261">O</tspan>
-  </text>
- <text id="text16459" xml:space="preserve" font-size="36px" y="830.72345" x="227.63013" font-family="Arial" fill="#000000">
-    <tspan id="tspan16461" y="830.72345" x="227.63013">O</tspan>
-  </text>
- <text id="text16479" xml:space="preserve" font-size="36px" y="878.49304" x="175.03268" font-family="Arial" fill="#000000">
-    <tspan id="tspan16481" y="878.49304" x="175.03268">OH</tspan>
-  </text>
- <text id="text20490" xml:space="preserve" font-size="36px" y="682.2254" x="228.73346" font-family="Arial" fill="#000000">
-    <tspan id="tspan20492" y="682.2254" x="228.73346">OH</tspan>
-  </text>
- <text id="text20494" xml:space="preserve" font-size="36px" y="453.97379" x="335.91141" font-family="Arial" fill="#000000">
-    <tspan id="tspan20496" y="453.97379" x="335.91141">O</tspan>
-  </text>
- <text id="text20498" xml:space="preserve" font-size="36px" y="516.15442" x="370.47598" font-family="Arial" fill="#000000">
-    <tspan id="tspan20500" y="516.15442" x="370.47598">OH</tspan>
-  </text>
- <text id="text20536" xml:space="preserve" font-size="36px" y="526.53546" x="42.918713" font-family="Arial" fill="#000000">
-    <tspan id="tspan20538" y="526.53546" x="42.918713">HO</tspan>
-  </text>
- <text id="text20552" xml:space="preserve" font-size="36px" y="671.46466" x="42.943981" font-family="Arial" fill="#000000">
-    <tspan id="tspan20554" y="671.46466" x="42.943981">HO</tspan>
-  </text>
- <text id="text20698" xml:space="preserve" font-size="36px" y="494.05496" x="121.69237" font-family="Arial" fill="#000000">
-    <tspan id="tspan20700" y="494.05496" x="121.69237">O</tspan>
-  </text>
- <path id="path3263" fill="#f00" d="m482.09 671.14h2.89c-0.46 0.93-0.84 2.11-1.15 3.56-0.31 1.44-0.46 2.45-0.46 3.03 0 0.74 0.14 1.71 0.42 2.91s0.63 2.28 1.06 3.24h-2.84c-0.04-0.16-0.11-0.38-0.21-0.67-0.17-0.48-0.31-0.96-0.43-1.44-0.99 1.6-2.39 2.4-4.22 2.4-1.72 0-3.07-0.7-4.06-2.09-0.99-1.4-1.48-3.03-1.48-4.89 0-1.76 0.49-3.26 1.48-4.49 0.98-1.23 2.35-1.85 4.1-1.85 1.73 0 3.12 0.83 4.19 2.48 0.14-0.58 0.38-1.31 0.71-2.19"/>
- <path id="path3261" fill="#fff" d="m475.07 677.55c0 1.17 0.24 2.13 0.74 2.86s1.16 1.1 1.96 1.1c0.76 0 1.39-0.33 1.88-0.98 0.49-0.64 0.73-1.64 0.73-2.98 0-1.32-0.26-2.32-0.78-3s-1.15-1.02-1.88-1.02c-0.77 0-1.41 0.35-1.91 1.05-0.5 0.71-0.74 1.69-0.74 2.97"/>
- <path id="path3259" fill="#f00" d="m482.95 848.02v2.49h-9.37c0.1-0.94 0.4-1.83 0.91-2.67s1.51-1.96 3.01-3.35c1.2-1.12 1.94-1.88 2.21-2.28 0.37-0.55 0.55-1.1 0.55-1.63 0-0.6-0.16-1.06-0.48-1.38s-0.76-0.48-1.32-0.48-1 0.17-1.33 0.51c-0.33 0.33-0.52 0.89-0.58 1.67l-2.66-0.27c0.16-1.47 0.66-2.52 1.49-3.16 0.84-0.64 1.89-0.96 3.14-0.96 1.38 0 2.46 0.37 3.25 1.11 0.78 0.74 1.18 1.66 1.18 2.77 0 0.62-0.12 1.22-0.34 1.79-0.23 0.57-0.58 1.16-1.07 1.78-0.32 0.41-0.91 1.01-1.75 1.78s-1.38 1.29-1.6 1.54c-0.23 0.25-0.41 0.5-0.55 0.74h5.31z"/>
- <path id="path3257" fill="#f00" d="m422.94 1470.9v2.5h-9.37c0.1-1 0.4-1.8 0.91-2.7 0.51-0.8 1.51-1.9 3.01-3.3 1.2-1.1 1.94-1.9 2.21-2.3 0.37-0.6 0.56-1.1 0.56-1.6 0-0.6-0.16-1.1-0.49-1.4-0.32-0.3-0.76-0.5-1.32-0.5s-1 0.2-1.33 0.5-0.52 0.9-0.57 1.7l-2.67-0.3c0.16-1.5 0.66-2.5 1.49-3.2 0.84-0.6 1.89-0.9 3.14-0.9 1.38 0 2.46 0.4 3.25 1.1 0.78 0.7 1.18 1.7 1.18 2.8 0 0.6-0.11 1.2-0.34 1.8-0.22 0.5-0.58 1.1-1.07 1.7-0.32 0.5-0.91 1-1.75 1.8s-1.38 1.3-1.6 1.6c-0.23 0.2-0.41 0.5-0.55 0.7h5.31z"/>
- <text id="text7259" xml:space="preserve" transform="scale(1.0001 .99985)" font-style="italic" line-height="125%" font-size="24.576px" y="771.29272" x="1389.8014" font-family="Arial" fill="#000000">
-    <tspan id="tspan7261" line-height="125%" y="771.29272" x="1389.8014">PGE</tspan>
-    <tspan id="tspan7263" line-height="125%" y="802.01227" x="1389.8014">9-ketoreductase</tspan>
-  </text>
- <text id="text15269" font-weight="bold" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.576px" y="1091.136" x="1496.302" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan15271" y="1091.136" x="1496.302">PGE</tspan>
-  </text>
- <text id="text9379" xml:space="preserve" font-size="36px" y="1097.3925" x="1365.5422" font-family="Arial" fill="#000000">
-    <tspan id="tspan9381" y="1097.3925" x="1365.5422">OH</tspan>
-  </text>
- <text id="text9383" xml:space="preserve" font-size="36px" y="869.14087" x="1472.7202" font-family="Arial" fill="#000000">
-    <tspan id="tspan9385" y="869.14087" x="1472.7202">O</tspan>
-  </text>
- <text id="text9387" xml:space="preserve" font-size="36px" y="931.32153" x="1507.2848" font-family="Arial" fill="#000000">
-    <tspan id="tspan9389" y="931.32153" x="1507.2848">OH</tspan>
-  </text>
- <text id="text10638" xml:space="preserve" font-size="36px" y="940.93091" x="1205.7465" font-family="Arial" fill="#000000">
-    <tspan id="tspan10640" y="940.93091" x="1205.7465">O</tspan>
-  </text>
- <text id="text10646" xml:space="preserve" font-size="36px" y="1086.6069" x="1179.7308" font-family="Arial" fill="#000000">
-    <tspan id="tspan10648" y="1086.6069" x="1179.7308">HO</tspan>
-  </text>
- <text id="text17399" xml:space="preserve" font-size="36px" y="682.2254" x="1365.5422" font-family="Arial" fill="#000000">
-    <tspan id="tspan17401" y="682.2254" x="1365.5422">OH</tspan>
-  </text>
- <text id="text17403" xml:space="preserve" font-size="36px" y="453.97382" x="1472.7202" font-family="Arial" fill="#000000">
-    <tspan id="tspan17405" y="453.97382" x="1472.7202">O</tspan>
-  </text>
- <text id="text17407" xml:space="preserve" font-size="36px" y="516.15448" x="1507.2848" font-family="Arial" fill="#000000">
-    <tspan id="tspan17409" y="516.15448" x="1507.2848">OH</tspan>
-  </text>
- <text id="text17453" xml:space="preserve" font-size="36px" y="526.53546" x="1179.7275" font-family="Arial" fill="#000000">
-    <tspan id="tspan17455" y="526.53546" x="1179.7275">HO</tspan>
-  </text>
- <text id="text17524" xml:space="preserve" font-size="36px" y="671.46466" x="1179.7528" font-family="Arial" fill="#000000">
-    <tspan id="tspan17526" y="671.46466" x="1179.7528">HO</tspan>
-  </text>
- <text id="text15428" font-weight="bold" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.576px" y="675.90814" x="1487.9457" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan15430" y="675.90814" x="1487.9457" fill="#ff0000">PGF</tspan>
-  </text>
- <path id="path3265" fill="#f00" d="m1559.8 1095.3v2.5h-9.4c0.1-0.9 0.4-1.8 0.9-2.6 0.5-0.9 1.5-2 3-3.4 1.2-1.1 1.9-1.9 2.2-2.3 0.4-0.5 0.6-1.1 0.6-1.6 0-0.6-0.2-1.1-0.5-1.4s-0.8-0.5-1.3-0.5c-0.6 0-1 0.2-1.4 0.6-0.3 0.3-0.5 0.8-0.5 1.6l-2.7-0.2c0.2-1.5 0.6-2.6 1.5-3.2 0.8-0.6 1.9-1 3.1-1 1.4 0 2.5 0.4 3.3 1.1 0.8 0.8 1.2 1.7 1.2 2.8 0 0.6-0.2 1.2-0.4 1.8s-0.6 1.2-1.1 1.8c-0.3 0.4-0.9 1-1.7 1.8-0.9 0.7-1.4 1.3-1.6 1.5-0.2 0.3-0.4 0.5-0.6 0.7h5.4z"/>
- <text id="text15086" font-weight="bold" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="24.576px" y="1466.7456" x="1496.3018" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan15088" y="1466.7456" x="1496.3018">PGA</tspan>
-  </text>
- <path id="path16832" d="m754.72 629.89l3-4.8-37.2-18.3 34.2 23.1zm0-381.26l3-4.8-37.2-18.3 34.2 23.1zm-585.43 1172l3-4.8-37.2-18.3 34.2 23.1zm0-375.5l3-4.8-37.19-18.3 34.19 23.1zm0.01-415.21l3-4.8-37.2-18.3 34.2 23.1zm1136.8 415.21l3-4.8-37.2-18.3 34.2 23.1zm0-415.21l3-4.8-37.2-18.3 34.2 23.1zm0 790.71l3-4.8-37.2-18.3 34.2 23.1z"/>
- <text id="text10915" xml:space="preserve" font-size="36px" y="1472.9473" x="1365.5422" font-family="Arial" fill="#000000">
-    <tspan id="tspan10917" y="1472.9473" x="1365.5422">OH</tspan>
-  </text>
- <text id="text10919" xml:space="preserve" font-size="36px" y="1244.6958" x="1472.7202" font-family="Arial" fill="#000000">
-    <tspan id="tspan10921" y="1244.6958" x="1472.7202">O</tspan>
-  </text>
- <text id="text10923" xml:space="preserve" font-size="36px" y="1306.8765" x="1507.2848" font-family="Arial" fill="#000000">
-    <tspan id="tspan10925" y="1306.8765" x="1507.2848">OH</tspan>
-  </text>
- <text id="text10927" xml:space="preserve" font-size="36px" y="1316.4858" x="1205.7463" font-family="Arial" fill="#000000">
-    <tspan id="tspan10929" y="1316.4858" x="1205.7463">O</tspan>
-  </text>
- <path id="path3227" d="m681.22 552.5l-24.3 33.57 24.3 33.62 39.3-12.9v-41.37l-39.3-12.92zm326.08 54.29l-35.69 20.7-36-20.7-35.7 20.7-36-20.7-35.7 20.7m-71.99-381.26l36-20.7 35.99 20.7 35.7-20.7 36 20.7 35.7-20.7 36 20.7 35.69-20.7m-286.78 1130.6l-39.3-12.9-24.3 33.6 24.3 33.6 39.3-12.9m-35.23-52.7l-9-28.5m1.8 30.6l-8.87-28.3m51.3 78.9v-41.4m72.6 49.5l-33 19.2m33-143.4l-30 17.4m176.09-23.6v-28.6m-7.5 28.6v-28.6m-211.19 109.5l35.69-20.7 0.01-41.4 36-20.7 35.99 20.7 35.7-20.7 36 20.7 35.7-20.7 21.9 12.6m-236.99 111.6l35.69 20.7 36.01-20.7 35.99 20.7 35.7-20.7 36 20.7 35.7-20.7 36 20.7 35.69-20.7m-294.28-36.3v31.2m111.59 50.3h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-35.39-805.01l-33 19.2m68.09-6.6l-35.99-20.7-36 20.7m36.9-136.79l-30 17.4m194.39-12.9l-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-35.99-20.7-36 20.7v41.4m182.99-60.33v-28.46m-7.5 28.46v-28.46m-107.08 196.06h7.19m-6.29-5.7h5.39m-4.49-5.7h3.59m-2.69-5.7h1.8m-1.2-5.7h0.6m-72.9-79.86l-3.6-6.23m-1.63 8.56l-3-5.19m-2.09 7.78l-2.7-4.67m-2.53 7l-2.1-3.63m-3.14 5.96l-1.5-2.6m-3.73 4.93l-0.9-1.56m-4.34 3.89l-0.3-0.52m-38.75 55.01l-9.03 28.53m1.83-30.63l-8.9 28.33m8.07-115.46l-6.84 2.23m7.75 3.47l-5.14 1.67m6.04 4.03l-3.42 1.11m4.33 4.59l-1.71 0.55m2.9 5.05l-0.57 0.19m39.89-367.56l-39.3-12.89-24.3 33.6 24.3 33.6 39.3-12.91v-41.4zm72.6 49.49l-33 19.2m33-143.39l-30 17.4m194.39-12.9l-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-35.99-20.7-36 20.7v41.39m182.99-59.77v-29.018m-7.5 29.018v-29.018m-107.08 196.06h7.19m-6.29-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.9-79.86l-3.6-6.23m-1.63 8.56l-3-5.2m-2.09 7.79l-2.7-4.68m-2.53 7.01l-2.1-3.64m-3.14 5.97l-1.5-2.6m-3.73 4.93l-0.9-1.56m-4.34 3.89l-0.3-0.52m-38.8 55.2l-8.98 28.38m1.78-30.48l-8.85 28.19m-3.31-57.9l18.3-25.2m-599.21 1230.2l-21.6-12.6v-41.4l35.699-20.7 36.004 20.7v41.4l-21.6 12.6m308.39-12.6l-35.7 20.7-36-20.7-35.7 20.7-36-20.7-35.7 20.7m-72-375.5l36-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7m-286.69-41.47l-39.402-12.85-24.298 33.62 24.298 33.6 39.302-12.9v-41.44m35.7-353.07l36-20.7 36 20.7 35.7-20.7 35.99 20.7 35.7-20.7 36 20.7 35.7-20.7m-214.2 798.81l-33 19.2m68.1-6.6l-36-20.7-36 20.7m36.9-136.8l-30 17.4m194.4-12.9l-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-36-20.7-36 20.7v41.4m183-60.5v-28.3m-7.5 28.3v-28.3m-107.1 196.1h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-147.59-60.2h7.203m-6.303-5.7h5.403m-4.503-5.7h3.603m-2.703-5.7h1.799m-1.2-5.7h0.6m-15.158 52.7l-3.599-6.2m-1.786 8.3l-2.7-4.7m-2.686 6.8l-1.799-3.1m-3.586 5.1l-0.9-1.5m103.03-54.3l-3.6-6.2m-1.63 8.5l-3-5.1m-2.09 7.7l-2.7-4.6m-2.53 7l-2.1-3.7m-3.14 6l-1.5-2.6m-3.73 4.9l-0.9-1.5m-4.34 3.9l-0.3-0.6m-39.143-410.07h-7.2m6.3 5.7h-5.4m4.5 5.7h-3.9m3 5.7h-2.1m1.2 5.7h-0.3m39.593-53.1l-24.89 8.1m49.19 25.5l-24.3-33.6m-6.6-4.19l11.1-34.2m87.9-58.19l-29.07 6.43m30.59 1.04l-29.09 6.16m-6.93 20.86l8.1-25.2-27.6-30.59-40.5 8.4-12.89 39.59 27.89 30.6-12.9 39.29m72.49 116.77l-33 19.2m64.51 17.8h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-151.23 14.2l-6.847-2.2m7.752-3.5l-5.135-1.6m6.04-4.1l-3.423-1.1m4.329-4.6l-1.712-0.5m2.902-5.1l-0.57-0.1m65.6-84.41l-5.83-4.23m1.99 8.49l-4.85-3.52m1.26 7.96l-4.37-3.18m0.53 7.43l-3.39-2.47m-0.44 6.73l-2.43-1.76m-1.4 6.02l-1.46-1.06m-2.38 5.32l-0.48-0.36m70.14-361.77l-33 19.2m197.39-138.89l-21.9-12.6-35.7 20.7-35.99-20.7-35.7 20.7-36-20.7-36 20.7v41.4m182.99-60.22v-28.57m-7.5 28.57v-28.57m-107.08 196.06h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.9-79.86l-3.6-6.23m-1.63 8.56l-3-5.19m-2.09 7.78l-2.7-4.67m-2.53 7l-2.1-3.63m-3.14 5.96l-1.5-2.6m-3.73 4.93l-0.9-1.56m-4.33 3.89l-0.3-0.52m-3.56 2.38l-39.3-12.91-24.3 33.57 24.3 33.62 39.3-12.9v-41.38zm-43.226-36.6l-6.847 2.23m7.752 3.47l-5.135 1.67m6.04 4.03l-3.423 1.11m4.329 4.59l-1.712 0.55m2.902 5.05l-0.57 0.19m-3.311 91.7l-6.847-2.22m7.752-3.48l-5.135-1.67m6.041-4.03l-3.424-1.11m4.329-4.58l-1.712-0.56m2.903-5.05l-0.571-0.18m79.355-119.04l-25.1-14.67m21.5 20.96l-25.61-14.6m1087.2 474.51l39.3 12.9v41.42l-39.3 12.9-24.3-33.6 24.3-33.62zm326.1 54.32l-35.7 20.7-36-20.7-35.7 20.7-36-20.7-35.7 20.7m-72-415.21l36-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7m-321.9 362.7l-9.1-28.7m1.9 30.8l-9-28.5m123.9 87.01l-33 19.2m68.1-6.6l-36-20.7-36 20.7m36.9-136.83l-30 17.4m194.4-12.9l-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-36-20.7-36 20.7v41.4m183-60.04v-28.76m-7.5 28.76v-28.76m-107.1 196.03h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.9-79.82l-3.6-6.23m-1.6 8.56l-3-5.2m-2.1 7.79l-2.7-4.68m-2.5 7.01l-2.1-3.64m-3.2 5.97l-1.5-2.6m-3.7 4.93l-0.9-1.56m-4.3 3.89l-0.3-0.52m-46.8 80.3l-6.9-2.2m7.8-3.5l-5.1-1.6m6-4.1l-3.4-1.1m4.3-4.6l-1.7-0.5m2.9-5.1l-0.6-0.1m112.5-420.81l-33 19.2m33-143.39l-30 17.4m194.4-12.9l-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-36-20.7-36 20.7v41.4m183-60.22v-28.57m-7.5 28.57v-28.57m-107.1 196.06h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.9-79.86l-3.6-6.23m-1.6 8.56l-3-5.19m-2.1 7.78l-2.7-4.67m-2.5 7l-2.1-3.63m-3.2 5.96l-1.5-2.6m-3.7 4.93l-0.9-1.56m-4.3 3.89l-0.3-0.52m-3.6 2.38l-39.3-12.91-24.3 33.57 24.3 33.62 39.3-12.9v-41.38zm-43.2-36.6l-6.9 2.23m7.8 3.47l-5.1 1.67m6 4.03l-3.4 1.11m4.3 4.59l-1.7 0.55m2.9 5.05l-0.6 0.19m-3.3 91.7l-6.8-2.22m7.7-3.48l-5.1-1.67m6-4.03l-3.4-1.11m4.3-4.58l-1.7-0.56m2.9-5.05l-0.6-0.18m0.6 722.68l39.3 12.9v41.4l-39.3 12.9-24.3-33.6 24.3-33.6zm75 75l36-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7m-322-52.6l-9-28.6m1.8 30.7l-8.9-28.4m123.9 87l-33 19.2m33-143.4l-30 17.4m194.4-12.9l-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-36-20.7-36 20.7v41.4m183-60.3v-28.5m-7.5 28.5v-28.5m-265.8 129.9l18.3 25.2m140.4 41h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.9-79.9l-3.6-6.2m-1.6 8.6l-3-5.2m-2.1 7.7l-2.7-4.6m-2.5 7l-2.1-3.7m-3.2 6l-1.5-2.6m-3.7 4.9l-0.9-1.5m-4.3 3.9l-0.3-0.6" stroke="#000" stroke-width="2.0999px" fill="none"/>
- <path id="path3255" fill="#f00" d="m1559.8 1470.9v2.5h-9.4c0.1-1 0.4-1.8 0.9-2.7 0.5-0.8 1.5-1.9 3-3.3 1.2-1.1 1.9-1.9 2.2-2.3 0.4-0.6 0.6-1.1 0.6-1.6 0-0.6-0.2-1.1-0.5-1.4s-0.8-0.5-1.3-0.5c-0.6 0-1 0.2-1.4 0.5-0.3 0.3-0.5 0.9-0.5 1.7l-2.7-0.3c0.2-1.5 0.6-2.5 1.5-3.2 0.8-0.6 1.9-0.9 3.1-0.9 1.4 0 2.5 0.4 3.3 1.1s1.2 1.7 1.2 2.8c0 0.6-0.2 1.2-0.4 1.8-0.2 0.5-0.6 1.1-1.1 1.7-0.3 0.5-0.9 1-1.7 1.8-0.9 0.8-1.4 1.3-1.6 1.6-0.2 0.2-0.4 0.5-0.6 0.7h5.4z"/>
- <path id="path3253" fill="#f00" d="m1547.4 680.19v2.48h-9.3c0.1-0.94 0.4-1.82 0.9-2.66 0.5-0.85 1.5-1.96 3-3.35 1.2-1.12 1.9-1.88 2.2-2.28 0.4-0.55 0.5-1.1 0.5-1.64 0-0.59-0.1-1.05-0.4-1.37-0.4-0.32-0.8-0.48-1.4-0.48-0.5 0-1 0.17-1.3 0.5-0.3 0.34-0.5 0.9-0.6 1.68l-2.6-0.27c0.1-1.47 0.6-2.53 1.5-3.17 0.8-0.64 1.8-0.96 3.1-0.96 1.4 0 2.5 0.37 3.2 1.12 0.8 0.74 1.2 1.66 1.2 2.76 0 0.63-0.1 1.23-0.3 1.8-0.2 0.56-0.6 1.16-1.1 1.78-0.3 0.41-0.9 1-1.7 1.78-0.9 0.77-1.4 1.29-1.6 1.54-0.3 0.25-0.4 0.5-0.6 0.74h5.3z"/>
- <path id="path3251" fill="#f00" d="m1557.5 672.57h2.3c-0.4 0.74-0.7 1.68-1 2.82-0.2 1.15-0.3 1.95-0.3 2.4 0 0.59 0.1 1.36 0.3 2.31 0.2 0.96 0.5 1.81 0.8 2.57h-2.2c0-0.12-0.1-0.3-0.2-0.53l-0.3-1.14c-0.8 1.27-1.9 1.9-3.4 1.9-1.3 0-2.4-0.55-3.2-1.66-0.8-1.1-1.1-2.4-1.1-3.87 0-1.4 0.3-2.58 1.1-3.56s1.9-1.47 3.3-1.47c1.3 0 2.5 0.66 3.3 1.97 0.1-0.46 0.3-1.04 0.6-1.74z"/>
- <path id="text1360" fill="#fff" d="m1551.9 677.65c0 0.93 0.2 1.69 0.6 2.27s0.9 0.87 1.5 0.87 1.1-0.26 1.5-0.77 0.6-1.3 0.6-2.37c0-1.05-0.2-1.84-0.6-2.38s-0.9-0.8-1.5-0.8-1.1 0.27-1.5 0.83-0.6 1.34-0.6 2.35z"/>
- <text id="text7238" xml:space="preserve" transform="scale(1.0001 .99985)" line-height="125%" font-size="3.6031px" y="967.92053" x="1101.4677" font-family="Bitstream Vera Sans" fill="#000000">
-    <tspan id="tspan7242" style="text-anchor:middle;text-align:center" font-size="24.621px" font-style="italic" line-height="125%" y="967.92053" x="1101.4677" font-family="Arial">PGE synthase</tspan>
-  </text>
- <path id="path3669" style="color:#000000" d="m446.88 1222.6l-0.26-6-12.48 16.4 18.61-8.8-5.87-1.6 193.79-141.6m-190.07-95.66l3.55 4.8-20.01-4.87 20.01-4.87-3.55 4.94h154.95m216.83-254.07l-4.8 3.54 4.87-20 4.88 20-4.95-3.54v109.4m548.72-109.4l-4.8 3.54 4.9-20 4.9 20-5-3.54v109.4m-200 144.67l-3.5 4.8 20-4.87-20-4.87 3.5 4.94h-155" fill-rule="evenodd" stroke="#0084ff" stroke-width="1.5" fill="#0084ff"/>
- <path id="path3953" style="color:#000000" d="m299.19 740.25l-4.8 3.55 4.87-20 4.88 20-4.95-3.55v109.41m523.19-503.79l-4.8 3.46 4.87-19.52 4.88 19.52-4.95-3.46v106.78m563.92 780.35l-4.8-3.4 4.8 19.5 4.9-19.5-4.9 3.4v-106.8m-353.7 219.8l3.6 4.8-20.1-4.9 20.1-4.8-3.6 4.9h155" fill-rule="evenodd" stroke="#000" stroke-width="1.5"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 1538.3 1425.8" version="1.0">
+ <text id="text7220" font-size="24.575px" xml:space="preserve" transform="scale(1.0001 .99988)" line-height="125%" y="894.42114" x="476.67096" font-family="Arial" font-style="italic" fill="#000000">     <tspan id="tspan7222" y="894.42114" x="476.67096" style="text-anchor:middle;text-align:center" line-height="125%">Prostacyclin</tspan>     <tspan id="tspan7224" style="text-anchor:middle;text-align:center" line-height="125%" dy="-2.4974546" y="925.13977" x="476.67096">synthase</tspan>   </text>
+ <text id="text7301" style="text-anchor:middle;text-align:center" xml:space="preserve" transform="scale(1.0001 .99988)" line-height="125%" y="1144.2479" font-size="24.575px" x="569.57471" font-family="Arial" font-style="italic" fill="#000000">     <tspan id="tspan7303" y="1144.2479" x="569.57471" style="text-anchor:middle;text-align:center" line-height="125%">Thromboxane-A</tspan>     <tspan id="tspan7305" style="text-anchor:middle;text-align:center" line-height="125%" dy="-2.4974546" y="1174.9668" x="569.57471">synthase</tspan>   </text>
+ <text id="text7226" font-size="24.575px" xml:space="preserve" transform="scale(1.0001 .99988)" line-height="125%" y="722.5072" x="797.83673" font-family="Arial" font-style="italic" fill="#000000">     <tspan id="tspan7228" y="722.5072" x="797.83673" line-height="125%">PGD</tspan>     <tspan id="tspan7230" line-height="125%" dy="-2.4974546" y="753.22589" x="797.83673">synthase</tspan>   </text>
+ <text id="text7317" font-size="24.648px" xml:space="preserve" transform="scale(1.0001 .99988)" y="1095.4054" x="919.70911" font-family="Arial" line-height="125%" fill="#0000ff">     <tspan id="tspan7321" style="text-anchor:end;text-align:end" font-family="Arial" font-size="30.059px" line-height="125%" y="1095.4054" x="919.70911" font-weight="bold" fill="#0000ff">Prostaglandin H</tspan>   </text>
+ <path id="text7325" fill="#00f" d="m929.75 1102.4v2.5h-9.4c0.11-1 0.41-1.9 0.92-2.7 0.51-0.9 1.51-2 3.02-3.4 1.2-1.1 1.95-1.9 2.22-2.3 0.37-0.5 0.55-1.1 0.55-1.6 0-0.6-0.16-1.1-0.48-1.4s-0.76-0.5-1.33-0.5c-0.56 0-1.01 0.2-1.34 0.5-0.33 0.4-0.52 0.9-0.57 1.7l-2.67-0.2c0.16-1.5 0.66-2.6 1.5-3.2 0.84-0.7 1.89-1 3.15-1 1.38 0 2.46 0.4 3.25 1.1 0.79 0.8 1.18 1.7 1.18 2.8 0 0.6-0.11 1.2-0.34 1.8-0.22 0.6-0.58 1.2-1.07 1.8-0.32 0.4-0.91 1-1.75 1.8-0.85 0.8-1.39 1.3-1.61 1.5-0.23 0.3-0.41 0.5-0.55 0.8h5.32z"/>
+ <text id="text7345" font-size="24.575px" font-family="Arial" xml:space="preserve" transform="scale(1.0001 .99988)" y="628.31226" x="902.05505" font-weight="bold" line-height="125%" fill="#ff0000">     <tspan id="tspan7347" y="628.31226" x="902.05505">PGD</tspan>   </text>
+ <text id="text14909" font-size="24.575px" font-family="Arial" xml:space="preserve" transform="scale(1.0001 .99988)" y="247.00197" x="906.02838" font-weight="bold" line-height="125%" fill="#ff0000">     <tspan id="tspan14911" y="247.00197" x="906.02838">PGJ</tspan>   </text>
+ <text id="text15041" font-size="24.575px" font-family="Arial" xml:space="preserve" transform="scale(1.0001 .99988)" y="1419.1299" x="902.05499" font-weight="bold" line-height="125%" fill="#ff0000">     <tspan id="tspan15043" y="1419.1299" x="902.05499">PGB</tspan>   </text>
+ <text id="text11196" xml:space="preserve" font-size="36px" y="1425.3741" x="771.23322" font-family="Arial" fill="#000000">     <tspan id="tspan11198" y="1425.3741" x="771.23322">OH</tspan>   </text>
+ <text id="text11200" xml:space="preserve" font-size="36px" y="1197.1227" x="878.41113" font-family="Arial" fill="#000000">     <tspan id="tspan11202" y="1197.1227" x="878.41113">O</tspan>   </text>
+ <text id="text11204" xml:space="preserve" font-size="36px" y="1259.3033" x="912.97577" font-family="Arial" fill="#000000">     <tspan id="tspan11206" y="1259.3033" x="912.97577">OH</tspan>   </text>
+ <text id="text11208" xml:space="preserve" font-size="36px" y="1268.9127" x="611.43732" font-family="Arial" fill="#000000">     <tspan id="tspan11210" y="1268.9127" x="611.43732">O</tspan>   </text>
+ <path id="path4906" fill="#00f" d="m711.85 997.53 3-4.8-37.2-18.3 34.2 23.1zm-70.2-85.23-27 41.43h6.3l20.7-41.43zm0 82.83-20.7-41.4h-6.3l27 41.4z"/>
+ <text id="text8024" xml:space="preserve" font-size="36px" y="1049.8193" x="771.28314" font-family="Arial" fill="#0000ff">     <tspan id="tspan8026" y="1049.8193" x="771.28314">OH</tspan>   </text>
+ <text id="text8070" xml:space="preserve" font-size="36px" y="943.78418" x="591.8877" font-family="Arial" fill="#0000ff">     <tspan id="tspan8072" y="943.78418" x="591.8877">O</tspan>   </text>
+ <text id="text8075" xml:space="preserve" font-size="36px" y="989.13843" x="591.8877" font-family="Arial" fill="#0000ff">     <tspan id="tspan8077" y="989.13843" x="591.8877">O</tspan>   </text>
+ <text id="text8080" xml:space="preserve" font-size="36px" y="821.56781" x="878.46112" font-family="Arial" fill="#0000ff">     <tspan id="tspan8082" y="821.56781" x="878.46112">O</tspan>   </text>
+ <text id="text8087" xml:space="preserve" font-size="36px" y="883.74847" x="913.02576" font-family="Arial" fill="#0000ff">     <tspan id="tspan8089" y="883.74847" x="913.02576">OH</tspan>   </text>
+ <path id="path5051" d="m964.48 974.43-35.74 20.7-36-20.7-35.7 20.7-36-20.7-35.7 20.7m-164.99-12.3 21.3 12.3 36-20.7v-41.44l-36-20.69-21.3 12.29m-14.4 35.44v-12.34m144.3 34.84-33 19.2m68.09-6.6-35.99-20.7-36 20.7m36.9-136.83-30 17.4m194.39-12.9-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-35.99-20.7-36 20.7v41.4m182.99-60.15v-28.65m-7.5 28.65v-28.65m-107.1 196.03h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.89-79.82-3.6-6.23m-1.63 8.56-3-5.2m-2.09 7.79-2.7-4.68m-2.53 7.01-2.1-3.64m-3.14 5.97-1.5-2.6m-3.73 4.93-0.9-1.56m-4.34 3.89-0.3-0.52" stroke="#00f" stroke-width="2" fill="none"/>
+ <text id="text16870" xml:space="preserve" font-size="36px" y="634.65228" x="771.23309" font-family="Arial" fill="#000000">     <tspan id="tspan16872" y="634.65228" x="771.23309">OH</tspan>   </text>
+ <text id="text16874" xml:space="preserve" font-size="36px" y="406.4007" x="878.41107" font-family="Arial" fill="#000000">     <tspan id="tspan16876" y="406.4007" x="878.41107">O</tspan>   </text>
+ <text id="text16878" xml:space="preserve" font-size="36px" y="468.58136" x="912.97565" font-family="Arial" fill="#000000">     <tspan id="tspan16880" y="468.58136" x="912.97565">OH</tspan>   </text>
+ <text id="text17094" xml:space="preserve" font-size="36px" y="624.63837" x="611.43396" font-family="Arial" fill="#000000">     <tspan id="tspan17096" y="624.63837" x="611.43396">O</tspan>   </text>
+ <text id="text17098" xml:space="preserve" font-size="36px" y="478.96234" x="585.41833" font-family="Arial" fill="#000000">     <tspan id="tspan17100" y="478.96234" x="585.41833">HO</tspan>   </text>
+ <text id="text18044" xml:space="preserve" font-size="36px" y="253.38818" x="771.23309" font-family="Arial" fill="#000000">     <tspan id="tspan18046" y="253.38818" x="771.23309">OH</tspan>   </text>
+ <text id="text18048" xml:space="preserve" font-size="36px" y="25.136719" x="878.41107" font-family="Arial" fill="#000000">     <tspan id="tspan18050" y="25.136719" x="878.41107">O</tspan>   </text>
+ <text id="text18052" xml:space="preserve" font-size="36px" y="87.317383" x="912.97565" font-family="Arial" fill="#000000">     <tspan id="tspan18054" y="87.317383" x="912.97565">OH</tspan>   </text>
+ <text id="text18100" xml:space="preserve" font-size="36px" y="243.41565" x="611.43311" font-family="Arial" fill="#000000">     <tspan id="tspan18102" y="243.41565" x="611.43311">O</tspan>   </text>
+ <path id="path3271" fill="#f00" d="m965.48 632.61v2.48h-9.41c0.1-0.93 0.4-1.82 0.91-2.66 0.5-0.84 1.5-1.96 3-3.35 1.2-1.12 2-1.88 2.2-2.28 0.4-0.55 0.6-1.1 0.6-1.63 0-0.6-0.2-1.06-0.5-1.38s-0.8-0.48-1.3-0.48c-0.6 0-1 0.17-1.4 0.51-0.3 0.33-0.5 0.89-0.5 1.67l-2.7-0.27c0.16-1.47 0.66-2.52 1.5-3.16 0.8-0.64 1.9-0.96 3.1-0.96 1.4 0 2.5 0.37 3.3 1.11s1.2 1.66 1.2 2.77c0 0.62-0.2 1.22-0.4 1.79s-0.6 1.16-1 1.78c-0.4 0.41-1 1.01-1.8 1.78s-1.4 1.29-1.6 1.54-0.4 0.5-0.5 0.74h5.3z"/>
+ <path id="path3269" fill="#f00" d="m965.48 251.35v2.48h-9.41c0.1-0.94 0.4-1.83 0.91-2.67 0.5-0.84 1.5-1.95 3-3.34 1.2-1.12 2-1.88 2.2-2.28 0.4-0.55 0.6-1.1 0.6-1.64 0-0.59-0.2-1.05-0.5-1.37s-0.8-0.48-1.3-0.48c-0.6 0-1 0.17-1.4 0.5-0.3 0.34-0.5 0.9-0.5 1.68l-2.7-0.27c0.16-1.47 0.66-2.53 1.5-3.17 0.8-0.64 1.9-0.96 3.1-0.96 1.4 0 2.5 0.37 3.3 1.11 0.8 0.75 1.2 1.67 1.2 2.77 0 0.63-0.2 1.23-0.4 1.79-0.2 0.57-0.6 1.17-1 1.79-0.4 0.41-1 1-1.8 1.78-0.8 0.77-1.4 1.28-1.6 1.54-0.2 0.25-0.4 0.5-0.5 0.74h5.3z"/>
+ <path id="path3267" fill="#f00" d="m965.48 1423.3v2.5h-9.41c0.1-1 0.4-1.8 0.91-2.7 0.5-0.8 1.5-1.9 3-3.3 1.2-1.1 2-1.9 2.2-2.3 0.4-0.6 0.6-1.1 0.6-1.6 0-0.6-0.2-1.1-0.5-1.4s-0.8-0.5-1.3-0.5c-0.6 0-1 0.2-1.4 0.5-0.3 0.3-0.5 0.9-0.5 1.7l-2.7-0.3c0.16-1.5 0.66-2.5 1.5-3.2 0.8-0.6 1.9-0.9 3.1-0.9 1.4 0 2.5 0.4 3.3 1.1s1.2 1.7 1.2 2.8c0 0.6-0.2 1.2-0.4 1.8-0.2 0.5-0.6 1.1-1 1.7-0.4 0.5-1 1-1.8 1.8s-1.4 1.3-1.6 1.6c-0.2 0.2-0.4 0.5-0.5 0.7h5.3z"/>
+ <text id="text15515" font-size="24.575px" font-family="Arial" xml:space="preserve" transform="scale(1.0001 .99988)" y="636.38434" x="285.62936" font-weight="bold" line-height="125%" fill="#ff0000">     <tspan id="tspan15517" y="636.38434" x="285.62936">6-keto-PGF1</tspan>   </text>
+ <text id="text15613" font-size="24.575px" font-family="Arial" xml:space="preserve" transform="scale(1.0001 .99988)" y="796.17273" x="386.94968" font-weight="bold" line-height="125%" fill="#ff0000">     <tspan id="tspan15615" y="796.17273" x="386.94968">PGI</tspan>   </text>
+ <text id="text15623" font-size="19.481px" font-family="Arial" xml:space="preserve" transform="scale(1.0001 .99988)" y="826.14221" x="312.11328" font-weight="bold" line-height="125%" fill="#ff0000">     <tspan id="tspan15625" y="826.14221" x="312.11328">(Prostacyclin)</tspan>   </text>
+ <text id="text15726" font-size="24.575px" font-family="Arial" xml:space="preserve" transform="scale(1.0001 .99988)" y="1419.1299" x="319.2308" font-weight="bold" line-height="125%" fill="#ff0000">     <tspan id="tspan15728" y="1419.1299" x="319.2308">TXA</tspan>   </text>
+ <text id="text12308" xml:space="preserve" font-size="36px" y="1425.3741" x="185.81134" font-family="Arial" fill="#000000">     <tspan id="tspan12310" y="1425.3741" x="185.81134">OH</tspan>   </text>
+ <text id="text12312" xml:space="preserve" font-size="36px" y="1197.1227" x="292.98929" font-family="Arial" fill="#000000">     <tspan id="tspan12314" y="1197.1227" x="292.98929">O</tspan>   </text>
+ <text id="text12316" xml:space="preserve" font-size="36px" y="1259.3033" x="327.55392" font-family="Arial" fill="#000000">     <tspan id="tspan12318" y="1259.3033" x="327.55392">OH</tspan>   </text>
+ <text id="text12728" xml:space="preserve" font-size="36px" y="1383.446" x="42.338432" font-family="Arial" fill="#000000">     <tspan id="tspan12730" y="1383.446" x="42.338432">O</tspan>   </text>
+ <text id="text12735" xml:space="preserve" font-size="36px" y="1343.201" x="42.338432" font-family="Arial" fill="#000000">     <tspan id="tspan12737" y="1343.201" x="42.338432">O</tspan>   </text>
+ <text id="text16166" xml:space="preserve" font-size="36px" y="1049.8193" x="185.81137" font-family="Arial" fill="#000000">     <tspan id="tspan16168" y="1049.8193" x="185.81137">OH</tspan>   </text>
+ <text id="text16170" xml:space="preserve" font-size="36px" y="1039.0338" x="0" font-family="Arial" fill="#000000">     <tspan id="tspan16172" y="1039.0338" x="0">HO</tspan>   </text>
+ <text id="text16402" xml:space="preserve" font-size="36px" y="892.03656" x="38.925552" font-family="Arial" fill="#000000">     <tspan id="tspan16404" y="892.03656" x="38.925552">O</tspan>   </text>
+ <text id="text16459" xml:space="preserve" font-size="36px" y="783.15033" x="184.71143" font-family="Arial" fill="#000000">     <tspan id="tspan16461" y="783.15033" x="184.71143">O</tspan>   </text>
+ <text id="text16479" xml:space="preserve" font-size="36px" y="830.91992" x="132.11398" font-family="Arial" fill="#000000">     <tspan id="tspan16481" y="830.91992" x="132.11398">OH</tspan>   </text>
+ <text id="text20490" xml:space="preserve" font-size="36px" y="634.65228" x="185.81476" font-family="Arial" fill="#000000">     <tspan id="tspan20492" y="634.65228" x="185.81476">OH</tspan>   </text>
+ <text id="text20494" xml:space="preserve" font-size="36px" y="406.40067" x="292.99271" font-family="Arial" fill="#000000">     <tspan id="tspan20496" y="406.40067" x="292.99271">O</tspan>   </text>
+ <text id="text20498" xml:space="preserve" font-size="36px" y="468.5813" x="327.55728" font-family="Arial" fill="#000000">     <tspan id="tspan20500" y="468.5813" x="327.55728">OH</tspan>   </text>
+ <text id="text20536" xml:space="preserve" font-size="36px" y="478.96234" x="3.8146973e-06" font-family="Arial" fill="#000000">     <tspan id="tspan20538" y="478.96234" x="3.8146973e-06">HO</tspan>   </text>
+ <text id="text20552" xml:space="preserve" font-size="36px" y="623.89154" x="0.025272369" font-family="Arial" fill="#000000">     <tspan id="tspan20554" y="623.89154" x="0.025272369">HO</tspan>   </text>
+ <text id="text20698" xml:space="preserve" font-size="36px" y="446.48184" x="78.773659" font-family="Arial" fill="#000000">     <tspan id="tspan20700" y="446.48184" x="78.773659">O</tspan>   </text>
+ <path id="path3263" fill="#f00" d="m439.17 623.57h2.89c-0.46 0.93-0.84 2.11-1.15 3.56-0.31 1.44-0.46 2.45-0.46 3.03 0 0.74 0.14 1.71 0.42 2.91s0.63 2.28 1.06 3.24h-2.84c-0.04-0.16-0.11-0.38-0.21-0.67-0.17-0.48-0.31-0.96-0.43-1.44-0.99 1.6-2.39 2.4-4.22 2.4-1.72 0-3.07-0.7-4.06-2.09-0.99-1.4-1.48-3.03-1.48-4.89 0-1.76 0.49-3.26 1.48-4.49 0.98-1.23 2.35-1.85 4.1-1.85 1.73 0 3.12 0.83 4.19 2.48 0.14-0.58 0.38-1.31 0.71-2.19"/>
+ <path id="path3261" fill="#fff" d="m432.15 629.98c0 1.17 0.24 2.13 0.74 2.86s1.16 1.1 1.96 1.1c0.76 0 1.39-0.33 1.88-0.98 0.49-0.64 0.73-1.64 0.73-2.98 0-1.32-0.26-2.32-0.78-3s-1.15-1.02-1.88-1.02c-0.77 0-1.41 0.35-1.91 1.05-0.5 0.71-0.74 1.69-0.74 2.97"/>
+ <path id="path3259" fill="#f00" d="m440.03 800.45v2.49h-9.37c0.1-0.94 0.4-1.83 0.91-2.67s1.51-1.96 3.01-3.35c1.2-1.12 1.94-1.88 2.21-2.28 0.37-0.55 0.55-1.1 0.55-1.63 0-0.6-0.16-1.06-0.48-1.38s-0.76-0.48-1.32-0.48-1 0.17-1.33 0.51c-0.33 0.33-0.52 0.89-0.58 1.67l-2.66-0.27c0.16-1.47 0.66-2.52 1.49-3.16 0.84-0.64 1.89-0.96 3.14-0.96 1.38 0 2.46 0.37 3.25 1.11 0.78 0.74 1.18 1.66 1.18 2.77 0 0.62-0.12 1.22-0.34 1.79-0.23 0.57-0.58 1.16-1.07 1.78-0.32 0.41-0.91 1.01-1.75 1.78s-1.38 1.29-1.6 1.54c-0.23 0.25-0.41 0.5-0.55 0.74h5.31z"/>
+ <path id="path3257" fill="#f00" d="m380.02 1423.3v2.5h-9.37c0.1-1 0.4-1.8 0.91-2.7 0.51-0.8 1.51-1.9 3.01-3.3 1.2-1.1 1.94-1.9 2.21-2.3 0.37-0.6 0.56-1.1 0.56-1.6 0-0.6-0.16-1.1-0.49-1.4-0.32-0.3-0.76-0.5-1.32-0.5s-1 0.2-1.33 0.5-0.52 0.9-0.57 1.7l-2.67-0.3c0.16-1.5 0.66-2.5 1.49-3.2 0.84-0.6 1.89-0.9 3.14-0.9 1.38 0 2.46 0.4 3.25 1.1 0.78 0.7 1.18 1.7 1.18 2.8 0 0.6-0.11 1.2-0.34 1.8-0.22 0.5-0.58 1.1-1.07 1.7-0.32 0.5-0.91 1-1.75 1.8s-1.38 1.3-1.6 1.6c-0.23 0.2-0.41 0.5-0.55 0.7h5.31z"/>
+ <text id="text7259" font-size="24.575px" xml:space="preserve" transform="scale(1.0001 .99988)" line-height="125%" y="723.6944" x="1346.8533" font-family="Arial" font-style="italic" fill="#000000">     <tspan id="tspan7261" y="723.6944" x="1346.8533" line-height="125%">PGE</tspan>     <tspan id="tspan7263" y="754.41315" x="1346.8533" line-height="125%">9-ketoreductase</tspan>   </text>
+ <text id="text15269" font-size="24.575px" font-family="Arial" xml:space="preserve" transform="scale(1.0001 .99988)" y="1043.5297" x="1453.3512" font-weight="bold" line-height="125%" fill="#ff0000">     <tspan id="tspan15271" y="1043.5297" x="1453.3512">PGE</tspan>   </text>
+ <text id="text9379" xml:space="preserve" font-size="36px" y="1049.8193" x="1322.6235" font-family="Arial" fill="#000000">     <tspan id="tspan9381" y="1049.8193" x="1322.6235">OH</tspan>   </text>
+ <text id="text9383" xml:space="preserve" font-size="36px" y="821.56775" x="1429.8015" font-family="Arial" fill="#000000">     <tspan id="tspan9385" y="821.56775" x="1429.8015">O</tspan>   </text>
+ <text id="text9387" xml:space="preserve" font-size="36px" y="883.74841" x="1464.3661" font-family="Arial" fill="#000000">     <tspan id="tspan9389" y="883.74841" x="1464.3661">OH</tspan>   </text>
+ <text id="text10638" xml:space="preserve" font-size="36px" y="893.35779" x="1162.8278" font-family="Arial" fill="#000000">     <tspan id="tspan10640" y="893.35779" x="1162.8278">O</tspan>   </text>
+ <text id="text10646" xml:space="preserve" font-size="36px" y="1039.0338" x="1136.8121" font-family="Arial" fill="#000000">     <tspan id="tspan10648" y="1039.0338" x="1136.8121">HO</tspan>   </text>
+ <text id="text17399" xml:space="preserve" font-size="36px" y="634.65228" x="1322.6235" font-family="Arial" fill="#000000">     <tspan id="tspan17401" y="634.65228" x="1322.6235">OH</tspan>   </text>
+ <text id="text17403" xml:space="preserve" font-size="36px" y="406.4007" x="1429.8015" font-family="Arial" fill="#000000">     <tspan id="tspan17405" y="406.4007" x="1429.8015">O</tspan>   </text>
+ <text id="text17407" xml:space="preserve" font-size="36px" y="468.58136" x="1464.3661" font-family="Arial" fill="#000000">     <tspan id="tspan17409" y="468.58136" x="1464.3661">OH</tspan>   </text>
+ <text id="text17453" xml:space="preserve" font-size="36px" y="478.96234" x="1136.8088" font-family="Arial" fill="#000000">     <tspan id="tspan17455" y="478.96234" x="1136.8088">HO</tspan>   </text>
+ <text id="text17524" xml:space="preserve" font-size="36px" y="623.89154" x="1136.8341" font-family="Arial" fill="#000000">     <tspan id="tspan17526" y="623.89154" x="1136.8341">HO</tspan>   </text>
+ <text id="text15428" font-size="24.575px" font-family="Arial" xml:space="preserve" transform="scale(1.0001 .99988)" y="628.31219" x="1444.9951" font-weight="bold" line-height="125%" fill="#ff0000">     <tspan id="tspan15430" y="628.31219" x="1444.9951" fill="#ff0000">PGF</tspan>   </text>
+ <path id="path3265" fill="#f00" d="m1516.9 1047.7v2.5h-9.4c0.1-0.9 0.4-1.8 0.9-2.6 0.5-0.9 1.5-2 3-3.4 1.2-1.1 1.9-1.9 2.2-2.3 0.4-0.5 0.6-1.1 0.6-1.6 0-0.6-0.2-1.1-0.5-1.4s-0.8-0.5-1.3-0.5c-0.6 0-1 0.2-1.4 0.6-0.3 0.3-0.5 0.8-0.5 1.6l-2.7-0.2c0.2-1.5 0.6-2.6 1.5-3.2 0.8-0.6 1.9-1 3.1-1 1.4 0 2.5 0.4 3.3 1.1 0.8 0.8 1.2 1.7 1.2 2.8 0 0.6-0.2 1.2-0.4 1.8s-0.6 1.2-1.1 1.8c-0.3 0.4-0.9 1-1.7 1.8-0.9 0.7-1.4 1.3-1.6 1.5-0.2 0.3-0.4 0.5-0.6 0.7h5.4z"/>
+ <text id="text15086" font-size="24.575px" font-family="Arial" xml:space="preserve" transform="scale(1.0001 .99988)" y="1419.1299" x="1453.351" font-weight="bold" line-height="125%" fill="#ff0000">     <tspan id="tspan15088" y="1419.1299" x="1453.351">PGA</tspan>   </text>
+ <path id="path16832" d="m711.8 582.32 3-4.8-37.2-18.3 34.2 23.1zm0-381.26 3-4.8-37.2-18.3 34.2 23.1zm-585.43 1172 3-4.8-37.2-18.3 34.2 23.1zm0-375.5 3-4.8-37.19-18.3 34.19 23.1zm0.01-415.21 3-4.8-37.2-18.3 34.2 23.1zm1136.8 415.21 3-4.8-37.2-18.3 34.2 23.1zm0-415.21 3-4.8-37.2-18.3 34.2 23.1zm0 790.71 3-4.8-37.2-18.3 34.2 23.1z"/>
+ <text id="text10915" xml:space="preserve" font-size="36px" y="1425.3741" x="1322.6235" font-family="Arial" fill="#000000">     <tspan id="tspan10917" y="1425.3741" x="1322.6235">OH</tspan>   </text>
+ <text id="text10919" xml:space="preserve" font-size="36px" y="1197.1227" x="1429.8015" font-family="Arial" fill="#000000">     <tspan id="tspan10921" y="1197.1227" x="1429.8015">O</tspan>   </text>
+ <text id="text10923" xml:space="preserve" font-size="36px" y="1259.3033" x="1464.3661" font-family="Arial" fill="#000000">     <tspan id="tspan10925" y="1259.3033" x="1464.3661">OH</tspan>   </text>
+ <text id="text10927" xml:space="preserve" font-size="36px" y="1268.9127" x="1162.8276" font-family="Arial" fill="#000000">     <tspan id="tspan10929" y="1268.9127" x="1162.8276">O</tspan>   </text>
+ <path id="path3227" d="m638.3 504.93-24.3 33.57 24.3 33.62 39.3-12.9v-41.37l-39.3-12.92zm326.08 54.29-35.69 20.7-36-20.7-35.7 20.7-36-20.7-35.7 20.7m-71.99-381.26 36-20.7 35.99 20.7 35.7-20.7 36 20.7 35.7-20.7 36 20.7 35.69-20.7m-286.78 1130.6-39.3-12.9-24.3 33.6 24.3 33.6 39.3-12.9m-35.23-52.7-9-28.5m1.8 30.6-8.87-28.3m51.3 78.9v-41.4m72.6 49.5-33 19.2m33-143.4-30 17.4m176.09-23.6v-28.6m-7.5 28.6v-28.6m-211.19 109.5 35.69-20.7 0.01-41.4 36-20.7 35.99 20.7 35.7-20.7 36 20.7 35.7-20.7 21.9 12.6m-236.99 111.6 35.69 20.7 36.01-20.7 35.99 20.7 35.7-20.7 36 20.7 35.7-20.7 36 20.7 35.69-20.7m-294.28-36.3v31.2m111.59 50.3h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-35.39-805.01-33 19.2m68.09-6.6-35.99-20.7-36 20.7m36.9-136.79-30 17.4m194.39-12.9-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-35.99-20.7-36 20.7v41.4m182.99-60.33v-28.46m-7.5 28.46v-28.46m-107.08 196.06h7.19m-6.29-5.7h5.39m-4.49-5.7h3.59m-2.69-5.7h1.8m-1.2-5.7h0.6m-72.9-79.86-3.6-6.23m-1.63 8.56-3-5.19m-2.09 7.78-2.7-4.67m-2.53 7-2.1-3.63m-3.14 5.96-1.5-2.6m-3.73 4.93-0.9-1.56m-4.34 3.89-0.3-0.52m-38.75 55.01-9.03 28.53m1.83-30.63-8.9 28.33m8.07-115.46-6.84 2.23m7.75 3.47-5.14 1.67m6.04 4.03-3.42 1.11m4.33 4.59-1.71 0.55m2.9 5.05-0.57 0.19m39.89-367.56-39.3-12.89-24.3 33.6 24.3 33.6 39.3-12.91v-41.4zm72.6 49.49-33 19.2m33-143.39-30 17.4m194.39-12.9-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-35.99-20.7-36 20.7v41.39m182.99-59.77v-29.018m-7.5 29.018v-29.018m-107.08 196.06h7.19m-6.29-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.9-79.86-3.6-6.23m-1.63 8.56-3-5.2m-2.09 7.79-2.7-4.68m-2.53 7.01-2.1-3.64m-3.14 5.97-1.5-2.6m-3.73 4.93-0.9-1.56m-4.34 3.89-0.3-0.52m-38.8 55.2-8.98 28.38m1.78-30.48-8.85 28.19m-3.31-57.9 18.3-25.2m-599.21 1230.2l-21.6-12.6v-41.4l35.699-20.7 36.004 20.7v41.4l-21.6 12.6m308.39-12.6-35.7 20.7-36-20.7-35.7 20.7-36-20.7-35.7 20.7m-72-375.5 36-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7m-286.69-41.47-39.402-12.85-24.298 33.62 24.298 33.6 39.302-12.9v-41.44m35.7-353.07 36-20.7 36 20.7 35.7-20.7 35.99 20.7 35.7-20.7 36 20.7 35.7-20.7m-214.2 798.81-33 19.2m68.1-6.6-36-20.7-36 20.7m36.9-136.8-30 17.4m194.4-12.9-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-36-20.7-36 20.7v41.4m183-60.5v-28.3m-7.5 28.3v-28.3m-107.1 196.1h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-147.59-60.2h7.203m-6.303-5.7h5.403m-4.503-5.7h3.603m-2.703-5.7h1.799m-1.2-5.7h0.6m-15.158 52.7-3.599-6.2m-1.786 8.3-2.7-4.7m-2.686 6.8-1.799-3.1m-3.586 5.1-0.9-1.5m103.03-54.3-3.6-6.2m-1.63 8.5-3-5.1m-2.09 7.7-2.7-4.6m-2.53 7-2.1-3.7m-3.14 6-1.5-2.6m-3.73 4.9-0.9-1.5m-4.34 3.9-0.3-0.6m-39.143-410.07h-7.2m6.3 5.7h-5.4m4.5 5.7h-3.9m3 5.7h-2.1m1.2 5.7h-0.3m39.593-53.1-24.89 8.1m49.19 25.5-24.3-33.6m-6.6-4.19 11.1-34.2m87.9-58.19-29.07 6.43m30.59 1.04-29.09 6.16m-6.93 20.86 8.1-25.2-27.6-30.59-40.5 8.4-12.89 39.59 27.89 30.6-12.9 39.29m72.49 116.77-33 19.2m64.51 17.8h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-151.23 14.2-6.847-2.2m7.752-3.5-5.135-1.6m6.04-4.1-3.423-1.1m4.329-4.6-1.712-0.5m2.902-5.1-0.57-0.1m65.6-84.41-5.83-4.23m1.99 8.49-4.85-3.52m1.26 7.96-4.37-3.18m0.53 7.43-3.39-2.47m-0.44 6.73-2.43-1.76m-1.4 6.02-1.46-1.06m-2.38 5.32-0.48-0.36m70.14-361.77-33 19.2m197.39-138.89-21.9-12.6-35.7 20.7-35.99-20.7-35.7 20.7-36-20.7-36 20.7v41.4m182.99-60.22v-28.57m-7.5 28.57v-28.57m-107.08 196.06h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.9-79.86-3.6-6.23m-1.63 8.56-3-5.19m-2.09 7.78-2.7-4.67m-2.53 7-2.1-3.63m-3.14 5.96-1.5-2.6m-3.73 4.93-0.9-1.56m-4.33 3.89-0.3-0.52m-3.56 2.38-39.3-12.91-24.3 33.57 24.3 33.62 39.3-12.9v-41.38zm-43.226-36.6-6.847 2.23m7.752 3.47-5.135 1.67m6.04 4.03-3.423 1.11m4.329 4.59-1.712 0.55m2.902 5.05-0.57 0.19m-3.311 91.7-6.847-2.22m7.752-3.48-5.135-1.67m6.041-4.03-3.424-1.11m4.329-4.58-1.712-0.56m2.903-5.05-0.571-0.18m79.355-119.04-25.1-14.67m21.5 20.96-25.61-14.6m1087.2 474.51 39.3 12.9v41.42l-39.3 12.9-24.3-33.6 24.3-33.62zm326.1 54.32-35.7 20.7-36-20.7-35.7 20.7-36-20.7-35.7 20.7m-72-415.21 36-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7m-321.9 362.7-9.1-28.7m1.9 30.8-9-28.5m123.9 87.01-33 19.2m68.1-6.6-36-20.7-36 20.7m36.9-136.83-30 17.4m194.4-12.9-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-36-20.7-36 20.7v41.4m183-60.04v-28.76m-7.5 28.76v-28.76m-107.1 196.03h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.9-79.82-3.6-6.23m-1.6 8.56-3-5.2m-2.1 7.79-2.7-4.68m-2.5 7.01-2.1-3.64m-3.2 5.97-1.5-2.6m-3.7 4.93-0.9-1.56m-4.3 3.89-0.3-0.52m-46.8 80.3-6.9-2.2m7.8-3.5-5.1-1.6m6-4.1-3.4-1.1m4.3-4.6-1.7-0.5m2.9-5.1-0.6-0.1m112.5-420.81-33 19.2m33-143.39-30 17.4m194.4-12.9-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-36-20.7-36 20.7v41.4m183-60.22v-28.57m-7.5 28.57v-28.57m-107.1 196.06h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.9-79.86-3.6-6.23m-1.6 8.56-3-5.19m-2.1 7.78-2.7-4.67m-2.5 7-2.1-3.63m-3.2 5.96-1.5-2.6m-3.7 4.93-0.9-1.56m-4.3 3.89-0.3-0.52m-3.6 2.38-39.3-12.91-24.3 33.57 24.3 33.62 39.3-12.9v-41.38zm-43.2-36.6-6.9 2.23m7.8 3.47-5.1 1.67m6 4.03-3.4 1.11m4.3 4.59-1.7 0.55m2.9 5.05-0.6 0.19m-3.3 91.7-6.8-2.22m7.7-3.48-5.1-1.67m6-4.03-3.4-1.11m4.3-4.58-1.7-0.56m2.9-5.05-0.6-0.18m0.6 722.68 39.3 12.9v41.4l-39.3 12.9-24.3-33.6 24.3-33.6zm75 75 36-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7 36 20.7 35.7-20.7m-322-52.6-9-28.6m1.8 30.7-8.9-28.4m123.9 87-33 19.2m33-143.4-30 17.4m194.4-12.9-21.9-12.6-35.7 20.7-36-20.7-35.7 20.7-36-20.7-36 20.7v41.4m183-60.3v-28.5m-7.5 28.5v-28.5m-265.8 129.9 18.3 25.2m140.4 41h7.2m-6.3-5.7h5.4m-4.5-5.7h3.6m-2.7-5.7h1.8m-1.2-5.7h0.6m-72.9-79.9-3.6-6.2m-1.6 8.6-3-5.2m-2.1 7.7-2.7-4.6m-2.5 7-2.1-3.7m-3.2 6-1.5-2.6m-3.7 4.9-0.9-1.5m-4.3 3.9-0.3-0.6" stroke="#000" stroke-width="2.0999px" fill="none"/>
+ <path id="path3255" fill="#f00" d="m1516.9 1423.3v2.5h-9.4c0.1-1 0.4-1.8 0.9-2.7 0.5-0.8 1.5-1.9 3-3.3 1.2-1.1 1.9-1.9 2.2-2.3 0.4-0.6 0.6-1.1 0.6-1.6 0-0.6-0.2-1.1-0.5-1.4s-0.8-0.5-1.3-0.5c-0.6 0-1 0.2-1.4 0.5-0.3 0.3-0.5 0.9-0.5 1.7l-2.7-0.3c0.2-1.5 0.6-2.5 1.5-3.2 0.8-0.6 1.9-0.9 3.1-0.9 1.4 0 2.5 0.4 3.3 1.1s1.2 1.7 1.2 2.8c0 0.6-0.2 1.2-0.4 1.8-0.2 0.5-0.6 1.1-1.1 1.7-0.3 0.5-0.9 1-1.7 1.8-0.9 0.8-1.4 1.3-1.6 1.6-0.2 0.2-0.4 0.5-0.6 0.7h5.4z"/>
+ <path id="path3253" fill="#f00" d="m1504.5 632.62v2.48h-9.3c0.1-0.94 0.4-1.82 0.9-2.66 0.5-0.85 1.5-1.96 3-3.35 1.2-1.12 1.9-1.88 2.2-2.28 0.4-0.55 0.5-1.1 0.5-1.64 0-0.59-0.1-1.05-0.4-1.37-0.4-0.32-0.8-0.48-1.4-0.48-0.5 0-1 0.17-1.3 0.5-0.3 0.34-0.5 0.9-0.6 1.68l-2.6-0.27c0.1-1.47 0.6-2.53 1.5-3.17 0.8-0.64 1.8-0.96 3.1-0.96 1.4 0 2.5 0.37 3.2 1.12 0.8 0.74 1.2 1.66 1.2 2.76 0 0.63-0.1 1.23-0.3 1.8-0.2 0.56-0.6 1.16-1.1 1.78-0.3 0.41-0.9 1-1.7 1.78-0.9 0.77-1.4 1.29-1.6 1.54-0.3 0.25-0.4 0.5-0.6 0.74h5.3z"/>
+ <path id="path3251" fill="#f00" d="m1514.6 625h2.3c-0.4 0.74-0.7 1.68-1 2.82-0.2 1.15-0.3 1.95-0.3 2.4 0 0.59 0.1 1.36 0.3 2.31 0.2 0.96 0.5 1.81 0.8 2.57h-2.2c0-0.12-0.1-0.3-0.2-0.53l-0.3-1.14c-0.8 1.27-1.9 1.9-3.4 1.9-1.3 0-2.4-0.55-3.2-1.66-0.8-1.1-1.1-2.4-1.1-3.87 0-1.4 0.3-2.58 1.1-3.56s1.9-1.47 3.3-1.47c1.3 0 2.5 0.66 3.3 1.97 0.1-0.46 0.3-1.04 0.6-1.74z"/>
+ <path id="text1360" fill="#fff" d="m1509 630.08c0 0.93 0.2 1.69 0.6 2.27s0.9 0.87 1.5 0.87 1.1-0.26 1.5-0.77 0.6-1.3 0.6-2.37c0-1.05-0.2-1.84-0.6-2.38s-0.9-0.8-1.5-0.8-1.1 0.27-1.5 0.83-0.6 1.34-0.6 2.35z"/>
+ <text id="text7238" font-size="3.603px" xml:space="preserve" transform="scale(1.0001 .99988)" y="920.31726" x="1058.5267" font-family="Bitstream Vera Sans" line-height="125%" fill="#000000">     <tspan id="tspan7242" style="text-anchor:middle;text-align:center" font-size="24.62px" font-style="italic" y="920.31726" x="1058.5267" font-family="Arial" line-height="125%">PGE synthase</tspan>   </text>
+ <path id="path3669" style="color:#000000" d="m403.96 1175-0.26-6-12.48 16.4 18.61-8.8-5.87-1.6 193.79-141.6m-190.07-95.66 3.55 4.8-20.01-4.87 20.01-4.87-3.55 4.94h154.95m216.83-254.07-4.8 3.54 4.87-20 4.88 20-4.95-3.54v109.4m548.72-109.4-4.8 3.54 4.9-20 4.9 20-5-3.54v109.4m-200 144.67-3.5 4.8 20-4.87-20-4.87 3.5 4.94h-155.02" fill-rule="evenodd" stroke="#0084ff" stroke-width="1.5" fill="#0084ff"/>
+ <path id="path3953" style="color:#000000" d="m256.27 692.68-4.8 3.55 4.87-20 4.88 20-4.95-3.55v109.41m523.19-503.79-4.8 3.46 4.87-19.52 4.88 19.52-4.95-3.46v106.78m563.92 780.35-4.8-3.4 4.8 19.5 4.9-19.5-4.9 3.4v-106.8m-353.7 219.8 3.6 4.8-20.1-4.9 20.1-4.8-3.6 4.9h155" fill-rule="evenodd" stroke="#000" stroke-width="1.5"/>
  <metadata>
   <rdf:RDF>
    <cc:Work>

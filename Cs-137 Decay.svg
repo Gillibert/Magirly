@@ -1,61 +1,31 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="345.15" width="624.15" version="1.0">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 636.63 335.81" version="1.0">
  <defs id="defs4">
-  <marker id="Arrow2Lend" refY="0" refX="0" overflow="visible" orient="auto">
-   <path id="path3306" stroke-linejoin="round" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7355 5.6174 0 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke-width=".625"/>
+  <marker id="Arrow2Lend" refY="0" refX="0" orient="auto" overflow="visible">
+   <path id="path3306" stroke-linejoin="round" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7355 5.6174 0 8.0354z" fill-rule="evenodd" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" stroke-width=".625"/>
   </marker>
  </defs>
- <text id="text4121" style="block-progression:tb;text-indent:0;text-transform:none" font-family="Times New Roman" transform="matrix(.79523 .60630 -.60630 .79523 0 0)" line-height="100%" font-size="25px" y="-33.793682" x="278.77145" font-weight="400" xml:space="preserve" fill="#0066ff">
-    <tspan id="tspan4123" style="block-progression:tb;text-indent:0;text-transform:none" font-weight="normal" font-family="Arial" font-size="16px" line-height="100%" y="-33.793682" x="278.77145" stroke-width="0" fill="#0066ff">      94.6%</tspan>
-  </text>
- <text id="text2784" line-height="125%" transform="matrix(.84197 .53952 -.53952 .84197 0 0)" font-size="24px" y="-28.294907" x="151.23656" font-family="Arial" xml:space="preserve" fill="#0066ff">
-    <tspan id="tspan4093" x="151.23656" y="-28.294907">max 0.5120 MeV &#x3B2;-</tspan>
-  </text>
- <path id="path6212" d="m3.0327 41.272h198.73" stroke="#000" stroke-miterlimit="10.433" stroke-width="3.031" fill="none"/>
- <path id="path6812" d="m320.03 178.34h199.8" stroke="#000" stroke-miterlimit="10.433" stroke-width="3.031" fill="none"/>
- <path id="path6818" marker-end="url(#Arrow2Lend)" d="m361.81 180.82v138.51" stroke="#f90000" stroke-linecap="round" stroke-miterlimit="1" stroke-width="1.0251" fill="#f00"/>
- <path id="path6841" d="m320.03 321.34h199.8" stroke="#000" stroke-miterlimit="10.433" stroke-width="3.031" fill="none"/>
- <path id="path2510" marker-end="url(#Arrow2Lend)" d="m109.39 41.261 209 279.25" stroke="#06f" stroke-linecap="round" stroke-width=".97678px" fill="none"/>
- <path id="path4062" marker-end="url(#Arrow2Lend)" d="m109.87 42.007 208.69 135.01" stroke="#06f" stroke-linecap="round" marker="none" stroke-width=".93373" fill="none"/>
- <text id="text4104" style="block-progression:tb;text-indent:0;text-transform:none" font-family="Times New Roman" font-size="25px" line-height="125%" y="67.6577" x="2.906183" xml:space="preserve" fill="#000000">
-    <tspan id="tspan4106" font-size="28px" y="67.6577" x="2.906183" font-family="Arial">30.17 a</tspan>
-  </text>
- <text id="text4117" style="block-progression:tb;text-indent:0;text-transform:none" font-family="Times New Roman" transform="rotate(54.179)" line-height="100%" font-size="25px" y="-54.508942" x="382.81592" font-weight="400" xml:space="preserve" fill="#0066ff">
-    <tspan id="tspan4119" font-weight="normal" font-size="16px" y="-54.508942" x="382.81592" font-family="Arial" fill="#0066ff">   5.4%</tspan>
-  </text>
- <text id="text2788" line-height="125%" transform="matrix(.60748 .79433 -.79433 .60748 0 0)" font-size="24px" y="-62.458237" x="218.43829" font-family="Arial" xml:space="preserve" fill="#0066ff">
-    <tspan id="tspan2790" y="-62.458237" x="218.43829" fill="#0066ff">max 1.174 MeV &#x3B2;-</tspan>
-  </text>
- <text id="text2527" line-height="125%" font-size="18px" y="185.04085" x="523.58533" font-family="Arial" xml:space="preserve" fill="#000000">
-    <tspan id="tspan2529" y="185.04085" x="523.58533">0.6617 11/2-</tspan>
-  </text>
- <text id="text2531" line-height="125%" font-size="18px" y="326.65768" x="524.67383" font-family="Arial" xml:space="preserve" fill="#000000">
-    <tspan id="tspan2533" y="326.65768" x="524.67383">0           3/2+</tspan>
-  </text>
- <text id="text2535" line-height="125%" font-size="18px" y="47.287354" x="204.39532" font-family="Arial" xml:space="preserve" fill="#000000">
-    <tspan id="tspan2537" y="47.287354" x="204.39532">7/2+</tspan>
-  </text>
- <text id="text2761" line-height="125%" font-size="18px" y="26.208982" x="-1.4941409" font-family="Arial" xml:space="preserve" fill="#000000">
-    <tspan id="tspan2763" y="26.208982" x="-1.4941409" font-size="36px">55Cs137</tspan>
-  </text>
- <text id="text2796" xml:space="preserve" font-size="24px" line-height="100%" y="254.52917" x="365.64059" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan2832" y="254.52917" x="365.64059" fill="#ff0000">0.6617 MeV &#x3B3;</tspan>
-  </text>
- <text id="text2813" xml:space="preserve" font-size="18px" line-height="125%" y="305.40558" x="314.43179" font-family="Arial" fill="#ff0000">
-    <tspan id="tspan2815" font-size="16px" y="305.40558" x="314.43179" fill="#ff0000">85.1%</tspan>
-  </text>
- <text id="text2837" line-height="125%" font-size="18px" y="196.21754" x="393.30768" font-family="Arial" xml:space="preserve" fill="#000000">
-    <tspan id="tspan2839" y="196.21754" x="393.30768" font-size="16px">2.55m</tspan>
-  </text>
- <text id="text2945" line-height="125%" font-size="18px" y="170.85176" x="391.72583" font-family="Arial" xml:space="preserve" fill="#000000">
-    <tspan id="tspan2947" y="170.85176" x="391.72583" font-size="22px">56Ba137m</tspan>
-  </text>
- <text id="text2945-0" line-height="125%" font-size="18px" y="318.08121" x="390.7442" font-family="Arial" xml:space="preserve" fill="#000000">
-    <tspan id="tspan2947-6" y="318.08121" x="390.7442" font-size="22px">56Ba137</tspan>
-  </text>
- <text id="text2837-9" line-height="125%" font-size="18px" y="336.72443" x="391.93433" font-family="Arial" xml:space="preserve" fill="#000000">
-    <tspan id="tspan2839-5" y="336.72443" x="391.93433" font-size="16px">stable</tspan>
-  </text>
+ <text id="text4121" style="block-progression:tb;text-transform:none;text-indent:0" font-family="Times New Roman" transform="matrix(.79523 .60630 -.60630 .79523 0 0)" xml:space="preserve" font-size="25px" y="-35.552124" x="279.3082" font-weight="400" line-height="100%" fill="#0066ff">     <tspan id="tspan4123" style="block-progression:tb;text-transform:none;text-indent:0" stroke-width="0" font-family="Arial" font-size="16px" line-height="100%" y="-35.552124" x="279.3082" font-weight="normal" fill="#0066ff">      94.6%</tspan>   </text>
+ <text id="text2784" font-size="24px" xml:space="preserve" transform="matrix(.84197 .53952 -.53952 .84197 0 0)" line-height="125%" y="-30.003777" x="151.91573" font-family="Arial" fill="#0066ff">     <tspan id="tspan4093" y="-30.003777" x="151.91573">max 0.5120 MeV &#x3B2;-</tspan>   </text>
+ <path id="path6212" d="m4.5268 40.2h198.73" stroke="#000" stroke-miterlimit="10.433" stroke-width="3.031" fill="none"/>
+ <path id="path6812" d="m321.52 177.27h199.8" stroke="#000" stroke-miterlimit="10.433" stroke-width="3.031" fill="none"/>
+ <path id="path6818" marker-end="url(#Arrow2Lend)" d="m363.3 179.75v138.51" stroke="#f90000" stroke-linecap="round" stroke-miterlimit="1" stroke-width="1.0251" fill="#f00"/>
+ <path id="path6841" d="m321.52 320.27h199.8" stroke="#000" stroke-miterlimit="10.433" stroke-width="3.031" fill="none"/>
+ <path id="path2510" marker-end="url(#Arrow2Lend)" d="m110.88 40.189 209 279.25" stroke="#06f" stroke-linecap="round" stroke-width=".97678px" fill="none"/>
+ <path id="path4062" marker-end="url(#Arrow2Lend)" d="m111.36 40.935 208.69 135.01" stroke="#06f" stroke-linecap="round" marker="none" stroke-width=".93373" fill="none"/>
+ <text id="text4104" style="block-progression:tb;text-transform:none;text-indent:0" xml:space="preserve" font-size="25px" line-height="125%" y="66.585434" x="4.4003239" font-family="Times New Roman" fill="#000000">     <tspan id="tspan4106" font-size="28px" y="66.585434" x="4.4003239" font-family="Arial">30.17 a</tspan>   </text>
+ <text id="text4117" style="block-progression:tb;text-transform:none;text-indent:0" font-family="Times New Roman" transform="rotate(54.179)" xml:space="preserve" font-size="25px" y="-56.348011" x="382.82092" font-weight="400" line-height="100%" fill="#0066ff">     <tspan id="tspan4119" font-size="16px" font-family="Arial" y="-56.348011" x="382.82092" font-weight="normal" fill="#0066ff">   5.4%</tspan>   </text>
+ <text id="text2788" font-size="24px" xml:space="preserve" transform="matrix(.60748 .79433 -.79433 .60748 0 0)" line-height="125%" y="-64.296219" x="218.49336" font-family="Arial" fill="#0066ff">     <tspan id="tspan2790" y="-64.296219" x="218.49336" fill="#0066ff">max 1.174 MeV &#x3B2;-</tspan>   </text>
+ <text id="text2527" font-size="18px" xml:space="preserve" line-height="125%" y="183.96858" x="525.07947" font-family="Arial" fill="#000000">     <tspan id="tspan2529" y="183.96858" x="525.07947">0.6617 11/2-</tspan>   </text>
+ <text id="text2531" font-size="18px" xml:space="preserve" line-height="125%" y="325.58542" x="526.16797" font-family="Arial" fill="#000000">     <tspan id="tspan2533" y="325.58542" x="526.16797">0           3/2+</tspan>   </text>
+ <text id="text2535" font-size="18px" xml:space="preserve" line-height="125%" y="46.215088" x="205.88947" font-family="Arial" fill="#000000">     <tspan id="tspan2537" y="46.215088" x="205.88947">7/2+</tspan>   </text>
+ <text id="text2761" font-size="18px" xml:space="preserve" line-height="125%" y="25.136719" x="0" font-family="Arial" fill="#000000">     <tspan id="tspan2763" y="25.136719" x="0" font-size="36px">55Cs137</tspan>   </text>
+ <text id="text2796" font-size="24px" xml:space="preserve" line-height="100%" y="253.45691" x="367.13474" font-family="Arial" fill="#ff0000">     <tspan id="tspan2832" y="253.45691" x="367.13474" fill="#ff0000">0.6617 MeV &#x3B3;</tspan>   </text>
+ <text id="text2813" font-size="18px" xml:space="preserve" line-height="125%" y="304.33331" x="315.92593" font-family="Arial" fill="#ff0000">     <tspan id="tspan2815" font-size="16px" y="304.33331" x="315.92593" fill="#ff0000">85.1%</tspan>   </text>
+ <text id="text2837" font-size="18px" xml:space="preserve" line-height="125%" y="195.14528" x="394.80182" font-family="Arial" fill="#000000">     <tspan id="tspan2839" y="195.14528" x="394.80182" font-size="16px">2.55m</tspan>   </text>
+ <text id="text2945" font-size="18px" xml:space="preserve" line-height="125%" y="169.7795" x="393.21997" font-family="Arial" fill="#000000">     <tspan id="tspan2947" y="169.7795" x="393.21997" font-size="22px">56Ba137m</tspan>   </text>
+ <text id="text2945-0" font-size="18px" xml:space="preserve" line-height="125%" y="317.00894" x="392.23834" font-family="Arial" fill="#000000">     <tspan id="tspan2947-6" y="317.00894" x="392.23834" font-size="22px">56Ba137</tspan>   </text>
+ <text id="text2837-9" font-size="18px" xml:space="preserve" line-height="125%" y="335.65216" x="393.42847" font-family="Arial" fill="#000000">     <tspan id="tspan2839-5" y="335.65216" x="393.42847" font-size="16px">stable</tspan>   </text>
  <metadata>
   <rdf:RDF>
    <cc:Work>

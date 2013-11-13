@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="185" width="180" version="1.0">
- <g id="g3601" fill-rule="evenodd" transform="translate(0,85)">
-  <path id="path1367" d="m164.07-2.7874c6.72 47.915-23.69 91.812-67.914 98.046-44.222 6.231-85.514-27.556-92.227-75.472-6.714-47.915 23.692-91.812 67.915-98.046 44.226-6.234 85.516 27.556 92.226 75.472z" fill-opacity=".19608"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 174 177" version="1.0">
+ <g id="g3601" fill-rule="evenodd" transform="translate(-3.0002 81)">
+  <path id="path1367" fill-opacity=".19608" d="m164.07-2.7874c6.72 47.915-23.69 91.812-67.914 98.046-44.222 6.231-85.514-27.556-92.227-75.472-6.714-47.915 23.692-91.812 67.915-98.046 44.226-6.234 85.516 27.556 92.226 75.472z"/>
   <g id="g3561" transform="matrix(1.6014 -.22575 .24313 1.7352 3.7724 -68.972)">
-   <path id="path1306" d="m100 50c0 27.614-22.386 50-50 50s-50-22.386-50-50c4.5122e-7 -27.614 22.386-50 50-50 27.614-0.0000054625 50 22.386 50 50z" fill="#6f66ff"/>
-   <path id="path1308" d="m90 50c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40z" fill="#e4e4e4"/>
+   <path id="path1306" fill="#6f66ff" d="m100 50c0 27.614-22.386 50-50 50s-50-22.386-50-50c4.5122e-7 -27.614 22.386-50 50-50 27.614-0.0000054625 50 22.386 50 50z"/>
+   <path id="path1308" fill="#e4e4e4" d="m90 50c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40z"/>
    <g id="g2105" fill="#6f66ff" transform="translate(0,2.5)">
-    <rect id="rect1374" height="50" width="8" y="15" x="46"/>
-    <rect id="rect2103" height="8" width="8" y="72" x="46"/>
+    <rect id="rect1374" y="15" width="8" x="46" height="50"/>
+    <rect id="rect2103" y="72" width="8" x="46" height="8"/>
    </g>
   </g>
  </g>

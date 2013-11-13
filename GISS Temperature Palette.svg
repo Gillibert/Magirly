@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg4295" height="42.884" width="340.28" version="1.1">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg4295" viewBox="0 0 389.2 43.184" version="1.1">
  <defs id="defs4297">
-  <linearGradient id="linearGradient5266" y2="519.26" gradientUnits="userSpaceOnUse" x2="536.83" gradientTransform="translate(0 -6.2302)" y1="519.26" x1="280.58">
+  <linearGradient id="linearGradient5266" x1="280.58" gradientUnits="userSpaceOnUse" y1="519.26" gradientTransform="translate(0,-6.2302)" x2="536.83" y2="519.26">
    <stop id="stop5202" stop-color="#1e7bbb" offset="0"/>
    <stop id="stop5276" stop-color="#4ea6d0" offset=".125"/>
    <stop id="stop5268" stop-color="#a2d0e6" offset=".25"/>
@@ -13,33 +13,17 @@
    <stop id="stop5204" stop-color="#c42b36" offset="1"/>
   </linearGradient>
  </defs>
- <g id="layer1" transform="translate(-237.47 -489.64)">
-  <rect id="rect5300" transform="translate(237.47 489.64)" height="43.184" width="340.42" y="-.047564" x="0" fill="#fff"/>
-  <text id="text4314" style="word-spacing:0px;letter-spacing:0px" font-size="40px" line-height="125%" y="503.33212" x="333.02505" font-family="Liberation Sans" xml:space="preserve" fill="#000000">
-      <tspan id="tspan4316" font-size="12px" y="503.33212" x="333.02505" font-weight="bold">Temperature Anomaly <tspan id="tspan4318" font-weight="normal" font-size="12px">(&#xB0;C)</tspan></tspan>
-    </text>
-  <g id="g4461" font-size="40px" transform="translate(7.0711 -10.102)" font-family="Liberation Sans" fill="#000000">
-   <text id="text4331" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.50507" x="271.65405">
-        <tspan id="tspan4333" style="text-anchor:middle;text-align:center" font-size="12px" y="539.50507" x="271.65405">&#x2212;2.5</tspan>
-      </text>
-   <text id="text4331-6" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.44354" x="314.60071">
-        <tspan id="tspan4333-5" style="text-anchor:middle;text-align:center" font-size="12px" y="539.44354" x="314.60071">&#x2212;1.5</tspan>
-      </text>
-   <text id="text4331-6-0" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.50507" x="357.54736">
-        <tspan id="tspan4333-5-2" style="text-anchor:middle;text-align:center" font-size="12px" y="539.50507" x="357.54736">&#x2212;0.5</tspan>
-      </text>
-   <text id="text4331-6-0-8" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.50507" x="400.53796">
-        <tspan id="tspan4333-5-2-6" style="text-anchor:middle;text-align:center" font-size="12px" y="539.50507" x="400.53796">0</tspan>
-      </text>
-   <text id="text4331-6-0-0" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.50507" x="443.4436">
-        <tspan id="tspan4333-5-2-2" style="text-anchor:middle;text-align:center" font-size="12px" y="539.50507" x="443.4436">+0.5</tspan>
-      </text>
-   <text id="text4331-6-0-0-4" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.44354" x="486.39026">
-        <tspan id="tspan4333-5-2-2-8" style="text-anchor:middle;text-align:center" font-size="12px" y="539.44354" x="486.39026">+1.5</tspan>
-      </text>
-   <text id="text4331-6-0-0-4-6" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.50507" x="529.33691">
-        <tspan id="tspan4333-5-2-2-8-5" style="text-anchor:middle;text-align:center" font-size="12px" y="539.50507" x="529.33691">+2.5</tspan>
-      </text>
+ <g id="layer1" transform="translate(-237.47 -489.59)">
+  <rect id="rect5300" transform="translate(237.47,489.64)" height="43.184" width="340.42" y="-.047564" x="0" fill="#fff"/>
+  <text id="text4314" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="40px" line-height="125%" y="503.33212" x="333.02505" font-family="Liberation Sans" fill="#000000">       <tspan id="tspan4316" font-size="12px" y="503.33212" x="333.02505" font-weight="bold">Temperature Anomaly <tspan id="tspan4318" font-size="12px" font-weight="normal">(&#xB0;C)</tspan></tspan>     </text>
+  <g id="g4461" font-size="40px" transform="translate(7.0711,-10.102)" font-family="Liberation Sans">
+   <text id="text4331" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.50507" x="271.65405">         <tspan id="tspan4333" y="539.50507" x="271.65405" style="text-anchor:middle;text-align:center" font-size="12px">&#x2212;2.5</tspan>       </text>
+   <text id="text4331-6" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.44354" x="314.60071">         <tspan id="tspan4333-5" y="539.44354" x="314.60071" style="text-anchor:middle;text-align:center" font-size="12px">&#x2212;1.5</tspan>       </text>
+   <text id="text4331-6-0" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.50507" x="357.54736">         <tspan id="tspan4333-5-2" y="539.50507" x="357.54736" style="text-anchor:middle;text-align:center" font-size="12px">&#x2212;0.5</tspan>       </text>
+   <text id="text4331-6-0-8" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.50507" x="400.53796">         <tspan id="tspan4333-5-2-6" y="539.50507" x="400.53796" style="text-anchor:middle;text-align:center" font-size="12px">0</tspan>       </text>
+   <text id="text4331-6-0-0" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.50507" x="443.4436">         <tspan id="tspan4333-5-2-2" y="539.50507" x="443.4436" style="text-anchor:middle;text-align:center" font-size="12px">+0.5</tspan>       </text>
+   <text id="text4331-6-0-0-4" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.44354" x="486.39026">         <tspan id="tspan4333-5-2-2-8" y="539.44354" x="486.39026" style="text-anchor:middle;text-align:center" font-size="12px">+1.5</tspan>       </text>
+   <text id="text4331-6-0-0-4-6" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" line-height="125%" y="539.50507" x="529.33691">         <tspan id="tspan4333-5-2-2-8-5" y="539.50507" x="529.33691" style="text-anchor:middle;text-align:center" font-size="12px">+2.5</tspan>       </text>
   </g>
   <rect id="rect4690" height="11.25" width="256.25" y="507.4" x="280.58" fill="url(#linearGradient5266)"/>
  </g>

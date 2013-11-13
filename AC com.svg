@@ -1,24 +1,14 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2211" height="334" width="487" version="1.0">
- <path id="path2224" d="m79 148h47c81 0 72-83 119-83 54 1 60 171 164 171h52" stroke="#000" stroke-width="1px" fill="none"/>
- <path id="path2220" d="m40 252v-224m-10 18l10-20 9 20" stroke="#000" stroke-width="1px" fill="none"/>
- <path id="path2222" d="m82 295h341m-19 10l19-10-19-10" stroke="#000" stroke-width="1px" fill="none"/>
- <path id="path2236" d="m218 56h50m-50-6v13m50-13v13" stroke="#000" stroke-width="1px" fill="none"/>
- <text id="text2238" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="38" x="250" font-family="sans" fill="#000000">
-    <tspan id="tspan2240" y="38" x="250">activated complex</tspan>
-  </text>
- <text id="text2242" xml:space="preserve" font-size="20px" y="167" x="70" font-family="sans" fill="#000000">
-    <tspan id="tspan2244" y="167" x="70">reactants</tspan>
-  </text>
- <text id="text2246" style="text-anchor:end;text-align:end" xml:space="preserve" font-size="20px" y="253" x="463" font-family="sans" fill="#000000">
-    <tspan id="tspan2248" y="253" x="463">products</tspan>
-  </text>
- <text id="text2250" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="289" x="224" font-family="sans" fill="#000000">
-    <tspan id="tspan2252" y="289" x="224">reaction coordinate</tspan>
-  </text>
- <text id="text2254" style="text-anchor:middle;text-align:center" xml:space="preserve" transform="rotate(-90)" font-size="20px" y="32" x="-141" font-family="sans" fill="#000000">
-    <tspan id="tspan2256" y="32" x="-141">potential energy</tspan>
-  </text>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2211" viewBox="0 0 446.2 282.7" version="1.0">
+ <path id="path2224" d="m62.195 125.2h47c81 0 72-83 119-83 54 1 60 171 164 171h52" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path2220" d="m23.195 229.2v-224m-10 18 10-20 9 20" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path2222" d="m65.195 272.2h341m-19 10 19-10-19-10" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path2236" d="m201.2 33.195h50m-50-6v13m50-13v13" stroke="#000" stroke-width="1px" fill="none"/>
+ <text id="text2238" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="15.195312" x="233.19531" font-family="sans" fill="#000000">     <tspan id="tspan2240" y="15.195312" x="233.19531">activated complex</tspan>   </text>
+ <text id="text2242" xml:space="preserve" font-size="20px" y="144.19531" x="53.195312" font-family="sans" fill="#000000">     <tspan id="tspan2244" y="144.19531" x="53.195312">reactants</tspan>   </text>
+ <text id="text2246" style="text-anchor:end;text-align:end" xml:space="preserve" font-size="20px" y="230.19531" x="446.19531" font-family="sans" fill="#000000">     <tspan id="tspan2248" y="230.19531" x="446.19531">products</tspan>   </text>
+ <text id="text2250" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="266.19531" x="207.19531" font-family="sans" fill="#000000">     <tspan id="tspan2252" y="266.19531" x="207.19531">reaction coordinate</tspan>   </text>
+ <text id="text2254" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" transform="rotate(-90)" y="15.195312" x="-118.19531" font-family="sans" fill="#000000">     <tspan id="tspan2256" y="15.195312" x="-118.19531">potential energy</tspan>   </text>
  <metadata>
   <rdf:RDF>
    <cc:Work>

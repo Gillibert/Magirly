@@ -1,260 +1,154 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="1266" width="2198" version="1.1">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 2716.2 1267" version="1.1">
  <defs id="defs4">
   <linearGradient id="linearGradient3775">
    <stop id="stop4001" stop-color="#00b2ff" offset="0"/>
    <stop id="stop3779" stop-color="#f00" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3394" y2="-2" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(1.0059 0 0 1 -24.374 -8.1875)" y1="808">
+  <linearGradient id="linearGradient3394" gradientUnits="userSpaceOnUse" y1="808" gradientTransform="matrix(1.0059 0 0 1 -24.337 -7.215)" x2="0" y2="-2">
    <stop id="stop4057" stop-color="#007bae" offset="0"/>
    <stop id="stop4059" stop-color="#00c3d3" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3397" y2="593.59" gradientUnits="userSpaceOnUse" x2="1781.1" gradientTransform="translate(-24.344 -8.1875)" y1="642.8" x1="1780.8">
+  <linearGradient id="linearGradient3397" x1="1780.8" gradientUnits="userSpaceOnUse" y1="642.8" gradientTransform="translate(-24.307 -7.215)" x2="1781.1" y2="593.59">
    <stop id="stop3913" stop-color="#3c3c3c" stop-opacity=".90196" offset="0"/>
    <stop id="stop3915" stop-color="#800000" stop-opacity="0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3400" y2="367.9" gradientUnits="userSpaceOnUse" x2="1812.9" gradientTransform="translate(-24.344 -8.1875)" y1="363.01" x1="1004.2">
+  <linearGradient id="linearGradient3400" x1="1004.2" gradientUnits="userSpaceOnUse" y1="363.01" gradientTransform="translate(-24.307 -7.215)" x2="1812.9" y2="367.9">
    <stop id="stop3834" stop-color="#dcdddf" offset="0"/>
    <stop id="stop3836" stop-color="#f00" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3441" y2="891.64" gradientUnits="userSpaceOnUse" x2="2222.1" gradientTransform="translate(-24.344 -8.1875)" y1="891.64" x1="1749.4">
+  <linearGradient id="linearGradient3441" x1="1749.4" gradientUnits="userSpaceOnUse" y1="891.64" gradientTransform="translate(-24.307 -7.215)" x2="2222.1" y2="891.64">
    <stop id="stop4041" stop-color="#f00" offset="0"/>
    <stop id="stop4043" stop-color="#00b2ff" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3444" y2="950.61" gradientUnits="userSpaceOnUse" x2="2223.3" gradientTransform="translate(-24.344 -8.1875)" y1="950.61" x1="1853.8">
+  <linearGradient id="linearGradient3444" x1="1853.8" gradientUnits="userSpaceOnUse" y1="950.61" gradientTransform="translate(-24.307 -7.215)" x2="2223.3" y2="950.61">
    <stop id="stop3811" stop-color="#cd0027" offset="0"/>
    <stop id="stop3813" stop-color="#00b2ff" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient3447" y2="804.72" xlink:href="#linearGradient3775" gradientUnits="userSpaceOnUse" x2="1736.5" gradientTransform="translate(-24.344 -8.1875)" y1="804.72" x1="1152.6"/>
-  <linearGradient id="linearGradient3450" y2="891.8" xlink:href="#linearGradient3775" gradientUnits="userSpaceOnUse" x2="1767.2" gradientTransform="translate(-24.344 -8.1875)" y1="891.8" x1="1002.2"/>
+  <linearGradient id="linearGradient3447" x1="1152.6" xlink:href="#linearGradient3775" gradientUnits="userSpaceOnUse" y1="804.72" gradientTransform="translate(-24.307 -7.215)" x2="1736.5" y2="804.72"/>
+  <linearGradient id="linearGradient3450" x1="1002.2" xlink:href="#linearGradient3775" gradientUnits="userSpaceOnUse" y1="891.8" gradientTransform="translate(-24.307 -7.215)" x2="1767.2" y2="891.8"/>
  </defs>
- <path id="rect2997" fill="url(#linearGradient3394)" d="m0-0.96875v800.78h2195.2c1.9504 0 3.5626-1.3722 3.5626-3.0938v-797.69h-2198.8z"/>
- <path id="path3000" d="m97.876 479.46-15.669-27.578-18.803-54.529 28.205-36.979 5.6409-25.698 8.148-1.2535 12.535 8.7748 15.669-27.578 30.085-23.817 22.564-9.4015 50.141 8.148 30.085-8.7748h28.205l35.099 7.5212 28.205-5.6409 27.578-1.2535 69.571 31.965 26.951 28.205 1.8803 6.8944 14.416 12.535h16.923v11.909l-9.4015 7.5212-2.5071 24.444-16.923 15.669-27.578 49.515-16.296 11.909-27.578 5.6409-17.55 7.5212-18.803 22.564-25.698-3.1338-60.17 8.148-51.395 16.923-87.748-1.2535-39.486-38.233-4.3874-18.176z" stroke="#000" stroke-width="1px" fill="#dcdddf"/>
- <path id="path3770" d="m556.04 471.94 26.324 29.458 5.0142 20.683 17.55 6.2677 16.923-5.6409 20.057-1.8803 25.071-6.2677 13.789-11.282 23.817-0.62677 24.444 6.2677 27.578-8.148h46.381l24.444-8.7748 46.381-0.62677 26.951-6.8944 14.416 2.5071 38.86 1.8803 44.5-9.4015 14.416 3.7606 20.683 1.2535 20.056-5.0141 70.198-10.655 27.578 0.62677 22.564-6.2677 53.275-1.2535 47.008-12.535 75.839-0.62677 96.522-21.937h50.768l20.056 4.3874 26.324-8.7748 29.458 0.62677 24.444 5.0141 25.071 25.698 16.296 25.071 0.6267 6.8944 12.535 25.698 0.6268 31.965-3.7606 8.7748 5.0141 11.282-4.3874 11.909 12.535 15.042-8.148 16.923v13.789l6.8946 11.909-3.7608 21.31 4.3875 6.8944 178 1.8803-1.2535-12.535-5.6409-7.5212 2.507-22.564 18.803-54.529-10.028-50.141 3.1338-21.31 8.7748-26.951 6.8943-13.162 18.176-4.3874 17.55 5.6409 27.578-13.162 25.071-17.55 26.951-9.4015 27.578-38.86 21.31-14.416 23.19-28.831 0.6268-17.55-15.042-30.712-22.564-7.5212-41.994-9.4015h-64.557l-23.19-3.7606-52.649 1.2535-33.219-7.5212-25.698 12.535-40.113-1.2535-163.59-0.62677-72.705 4.3874-181.14-0.62677-43.874 6.8944-48.261-2.5071-47.634 3.1338-28.205-6.2677-55.156 7.5212-25.698-7.5212-38.86 5.6409-19.43-3.7606-144.16-3.1338-28.831-0.62676-31.965-5.0142-50.141 18.803-78.973-12.535-27.578 1.8803-42.62 11.909-20.057 11.909-0.62677 17.55-41.367 0.62677 5.0142-13.162-42.62 24.444 42.62 23.19-4.3874-11.282h39.486l-0.62677 6.8944-8.148 8.7748v26.951l3.7606 12.535-10.655 17.55-6.8944 15.042-2.5071 18.803-28.205 0.62677 4.3874-15.669-43.247 28.205 41.367 21.937-5.0142-11.282z" stroke="#000" stroke-width="1px" fill="url(#linearGradient3400)"/>
- <path id="path3770-1" d="m1658.1 585.41 4.1562 5-8.125 16.906v13.781l6.875 11.938-3.75 21.281 4.375 6.9062 178 1.875-1.25-12.531-5.625-7.5312 2.5-22.562 12.094-35.062h-189.25z" stroke-opacity="0" fill="url(#linearGradient3397)"/>
- <path id="path3784" d="m1385.7 450.81-148 76-16 32-39 29-59 55-17 10-26 37-14 4-28 26-28 18-14 13-21 12-9.5 9.5-13.5 5.5-11 11-24 9-31.5 2-33-6.5-16.5-7.5-26.5-10.5-4.25-15.5-66.75-22.5-18.5 0.5-31 10-70 7-65 64.5-45.5 56.5-78.5 37-47 15-113-4-105 5-54-4-43-11l-68.7-38.06v390.25h2199.6l-0.7813-753.03-62.281-16.656-33.906-16.688-29.188-14.094-39.5-2.9062-30.406 25.219-16.906 30.188-25.406 27.781-10.688 55.125-50.438 29.062-32.938 30.469-48.5 3.3438-43-9-59-3c-24.764 2.569-20.324-1.1059-74.281 7.7188l-21.875-11.688c-11.226-15.426-21.572-20.084-31.875-24.438-6.8418-14.391 3.8644-6.1963-20.531-43.156l-38.531-40.906-15.719-27.969-0.2187-19.625-12.281-9.7188-115.69-31.219zm687.78 14.719 15.344 1.125-17.469-2.1562 2.125 1.0312z" stroke-width="0" fill="#815636"/>
- <path id="path3786" d="m0 775.88v103.66l5.9688 3.5312 65.938 35.562 30.062 7.7188 33.969 4.2812h75.781l80.812-2.0312 92.719 2.7188 54.688-20.406 69.219-35.094 38.375-47.656 7.4062-43.844-63.094 0.1875-48.094 7.7812-60.094-9.1875-33.219 10.594-12.031-4.25-36.781 0.71875-80.594 2.125-59.44-1.44-67.87-7.06-12.75 5.66-18.375 1.4-57.281-14.84-5.344-0.12z" stroke-width="0" fill="#de6d29"/>
- <path id="path3790" d="m547.53 828.16 7.4158-43.837 11.713-18.515 5-9.5 17.5-16 13-7 23.5 0.5 11.5 1 18.5-4 61.5-3 6 5 7-7 13.5-4 23.5 1 8.5 6 24-0.5 6.5 5 8 5 7.5 1.5 10.5 16 6.3082 30.822-12.494-2.6694-15.814-8.6526-27-21-41-14-21-2-31.5 9.5-72.281 9.2634z" fill="#7f9fd2"/>
- <path id="path3810" d="m833.01 759.99 39.145 0.0726 13.75 3h23.75l13.75-5.75 9.5 5.25 42.375 0.625-9.125 9.125-13.5 5.5-11 11-24 9-31.5 2-33-6.5-14.692-6.6781z" stroke-width="0" fill="#de6d29"/>
- <path id="path3812" d="m1513.6 491.75 5.2899-0.11035 9.546 13.789 11.314 21.213 23.688 18.031 42.426 51.265 53.033 53.74 4.1307 6.6418-20.691 3.1979c-28.464-8.2001-35.828-24.073-53.736-36.111-6.8027-14.312-12.02-25.454-20.525-43.172l-38.525-40.889-15.718-27.96z" stroke-width="0" fill="#7f9fd2"/>
- <path id="path3814" d="m1841.8 662.21 19.337-28.441 35.002-32.88 13.435-15.203 15.203-8.8388 32.88-54.801 6.364-15.203 14.496-18.031 10.253 0.35356 8.6542 9.5562-10.806 19.311-25.414 27.778-10.707 55.111-50.425 29.071-32.929 30.464z" stroke-width="0" fill="#7f9fd2"/>
- <path id="path3831" d="m1679.8 1088.1-115.25 10.594-78.5 15.562-107.47 31.125-56.562 19.781-47.375 21.937-21.938 22.625-13.438 26.156 4 30.125h893.22l2.9375-22.344-5.6562-16.969-33.25-29.719-62.219-33.937-76.375-27.563-103.94-23.344-103.22-16.25-74.969-7.7813z" stroke-width="0" fill="#fae79a"/>
- <path id="path3829" d="m1673.4 1105.8-98.281 8.5-80.594 13.438-134.38 38.875-74.938 31.125-31.125 40.312 7.375 28h858.03l2.9374-29.406-27.594-25.469-64.344-33.25-88.375-29.688-111.03-24.031-86.25-14.156-71.438-4.25z" stroke-width="0" fill="#ea674b"/>
- <path id="path3882" d="m1127.7 1023.8 19-78 23-47 36-41 54-57 99-57 90-32 104-22 63-3 61 19 27 29 10 53-13 48-59 38-25 7-392 226-57-4-36-29z" stroke="#c8c8c8" stroke-dasharray="6, 12" stroke-width="6" fill="none"/>
- <path id="path3903" d="m1758.7 745.81 7-35 31-26 33-14 89 13 80 37 67 46 37 44 38 57 33 97 1 45-8 41-23 13-35 2-50-28-165-132-63-50-37-17-27-34-10-32z" stroke="#c8c8c8" stroke-dasharray="7, 14" stroke-width="7" fill="none"/>
- <rect id="rect3846" height="14.672" width="37.83" y="936.59" x="1785.3" stroke-width="0" fill="#ce2231"/>
- <rect id="rect3842" height="13.867" width="44.626" y="935.93" x="1648.5" stroke-width="0" fill="#e4131b"/>
- <path id="path3983" d="m987.18 763.62-0.8638 77.298c14.03 85.511 19.247 89.662 47.806 132.35 14.406 15.021 24.083 35.74 99.906 81.451 28.317 19.093 56.937 26.586 95.883 35.416 30.057 8.217 78.252 14.664 117.48 15.548 73.048-2.2158 107.48-26.069 152.89-49.237 41.968-21.471 63.331-34.638 101.93-69.105 54.357-49.94 89.527-79.121 115.75-127.84 6.5279-18.132 15.119-23.887 15.549-78.607l0.8638-119.35" stroke="url(#linearGradient3450)" stroke-width="17" fill="none"/>
- <path id="path4003" d="m1136.8 643.74 16.492 61.081c15.706 54.15 26.263 86.935 43.367 116.05 15.895 31.022 33.9 43.055 51.308 60.47 34.462 29.7 74.761 51.24 102 59.248 47.327 11.814 78.614 8.6806 117.89 7.3297 47.295-4.5807 84.246-13.398 118.5-24.432 33.678-10.183 55.066-17.241 120.61-45.428" stroke="url(#linearGradient3447)" stroke-width="17" fill="none"/>
- <path id="path4021" d="m2190.4 889.89-34.816 51.308c-10.758 12.134-21.484 24.272-43.367 34.816-17.001 7.5333-27.547 16.288-64.135 18.935-45.968-2.5678-68.414-9.5674-102.62-15.27l-111.17-23.211" stroke="url(#linearGradient3444)" stroke-width="17" fill="none"/>
- <path id="path4045" d="m2189.2 1007.8-38.481 48.864c-9.1689 9.202-15.934 19.748-35.427 27.486l-13.06 5.4148-15.991 4.3474-34.473 6.7295c-19.397 4.1104-37.787 3.9135-58.637 0-17.685-4.6859-35.333-12.906-56.194-30.54-35.422-29.525-64.288-68.785-98.951-110.56l-71.464-81.237c-9.4092-11.882-19.566-25.798-27.486-42.146-4.4471-12.741-5.7261-21.875-5.4973-42.146l0.9162-141.1" stroke="url(#linearGradient3441)" stroke-width="17" fill="none"/>
- <path id="path3817" d="m1215.7 1086.8-2.183-26.722 34.926 34.401-46.372 13.54z" stroke="#fff" stroke-width="1px" fill="#5279ad"/>
- <path id="path3819" d="m1488.6 1062.5-18.776-16.865 46.134 2.6315-22.164 40.991z" stroke="#fff" stroke-width="1px" fill="#ad3952"/>
- <path id="path3821" d="m1240.2 873.85 5.5016-18.451 15.242 36.522-39.429-6.2887z" stroke="#fff" stroke-width="1px" fill="#338ecc"/>
- <path id="path3823" d="m1444.3 948.84-8.8434-20.444 34.39 19.326-30.503 19.761z" stroke="#fff" stroke-width="1px" fill="#904e6f"/>
- <path id="path3825" d="m1705.2 912.2-13.173-20.947-23.971-11.877 47.942-15.549z" stroke="#fff" stroke-width="1px" fill="#fb0304"/>
- <path id="path3827" d="m1758.1 906.15 12.902-22.757 24.673-10.5-44.625-15.747z" stroke="#fff" stroke-width="1px" fill="#e90f16"/>
- <path id="path3830" d="m1733.6 767.43-26.622 7.9401 26.887-44.587 23.81 44.892z" stroke="#fff" stroke-width="1px" fill="#fa0405"/>
- <path id="path3832" d="m1873.7 1003.3-14.639 23.751-6.6813-49.945 44.551 19.405z" stroke="#fff" stroke-width="1px" fill="#b2364d"/>
- <path id="path3834" d="m1966.9 1008.4-3.9879-25.563 11.012-22.996-48.695 15.614z" stroke="#fff" stroke-width="1px" fill="#8a3a6d"/>
- <path id="path3836" d="m1977.9 1122.6 0.6279-26.776 16.78-20.867-43.074 6.7773z" stroke="#fff" stroke-width="1px" fill="#7b5c84"/>
- <path id="path3838" d="m2096.7 957.08-25.407 34.836 46.174 12.806-18.869-22.157z" stroke="#fff" stroke-width="1px" fill="#3d7dbe"/>
- <path id="path3844" d="m1687.2 942.6-4.9499-15.38 27.4 15.733-25.279 14.496z" stroke="#fff" stroke-width="1px" fill="#e4131b"/>
- <path id="path3848" d="m1765.7 941.01 27.931 18.208-4.9497-15.38 4.5962-15.91z" stroke="#fff" stroke-width="1px" fill="#ce2231"/>
- <path id="path3850" d="m1738.9 668.31 13 1.5 21.5-8.75 0.5-5.25" stroke="#f00" stroke-width="3" fill="none"/>
- <path id="path3852" d="m1773.2 661.13 7.4201-5.2755" stroke="#f00" stroke-width="3" fill="none"/>
- <path id="path3854" d="m1739.7 684.06 11.5-0.25 10-5.75 10.75-11.75 21.228-7.8418" stroke="#f00" stroke-width="3" fill="none"/>
- <path id="path3856" d="m1784.9 661.51-0.5536-4.87" stroke="#f00" stroke-width="3" fill="none"/>
- <path id="path3858" d="m1768.5 669.98 10.609 0.32848 10.5-6.5 6.2474 1.7955 1.4843-6.247" stroke="#f00" stroke-width="3" fill="none"/>
- <path id="path3860" d="m1741.7 696.56 20.5-4.75 16.75-11.25 3-6 15.785-10.01 7.4649 0.01 8.2983-1.8388" stroke="#f00" stroke-width="3" fill="none"/>
- <path id="path3978" d="m1669.1 658.4v-4.8864l4.8865-4.581h20.462l9.1621-3.6648 14.048-10.689 2.1378-3.3594 7.3297-5.8026 5.1918-24.127 6.1081-16.492 8.2459 2.7486-0.6108 9.7729 3.054 7.6351-2.4432 10.078 0.6108 9.7729 9.7729 18.324 18.071 12.275-12.252-0.80505-22.922-1.6969h-14.965l-30.846 5.8026z" stroke="#fff" stroke-width="1px"/>
- <path id="path3980" d="m1739.1 581.13 8.8567-1.8324 2.4431-3.3594 1.8324-9.7729 3.6649-4.581 0.3054-12.216 2.1378-9.7729 5.4972-11.3-2.1378-15.576-5.8026-8.2459-0.9163-7.3297 4.5811-3.6648 10.384-2.4432 1.2216-15.576-2.7486-6.4135 2.4432-10.384 13.132-11.605 8.2459-0.3054 10.689-5.4973 8.5513-19.851-9.4675-3.3594-20.462 8.2459-23.516-10.994-8.5513-0.3054-8.8567 8.2459-1.2217 5.4973-8.8567 0.9162-4.5809-4.2756-9.1621 0.30541-3.6649-3.054-9.4674-0.3054-1.2218 7.0243-3.054 0.3054-3.9702 11.605 1.2216 9.4675 17.103 7.9405 10.689 4.2756 5.8026 1.2216 0.3054 8.2459-2.7485 4.581 5.8026 13.438-3.6649 4.581 0.3054 7.6351 4.2756 3.054 3.0541 9.4675-1.8324 14.049-4.8865 3.6648-0.6108 8.2459 4.5812 4.581-0.9164 25.959z" stroke="#fff" stroke-width="1px" fill="#6c6c6c"/>
- <path id="path3867" d="m326.93 525.42v56.569" stroke="#fff" stroke-width="6" fill="none"/>
- <path id="path3869" d="m326.93 580.22 15.91-4.5962-15.203 25.809-14.496-26.517z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3877" d="m201.93 547.92v56.569" stroke="#fff" stroke-width="6" fill="none"/>
- <path id="path3879" d="m201.93 602.72 15.91-4.5962-15.203 25.809-14.496-26.517z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3883" d="m731.43 508.21v72.683" stroke="#fff" stroke-width="6.8011" fill="none"/>
- <path id="path3885" d="m731.43 579.72 15.91-4.5962-15.203 25.809-14.496-26.517z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3889" d="m891.45 486.86v72.683" stroke="#fff" stroke-width="6.8011" fill="none"/>
- <path id="path3891" d="m891.45 558.37 15.91-4.5962-15.203 25.809-14.496-26.517z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3893" d="m1038.3 483.31v72.683" stroke="#fff" stroke-width="6.8011" fill="none"/>
- <path id="path3895" d="m1038.3 554.82 15.91-4.5962-15.203 25.809-14.496-26.517z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3899" d="m377.61 231.88-46.511 32.199" stroke="#fff" stroke-width="6" fill="none"/>
- <path id="path3901" d="m332.55 263.07 12.835 10.465-29.874 2.191 13.551-27.012z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3905" d="m897.63 209.63-20.054 52.895" stroke="#fff" stroke-width="6" fill="none"/>
- <path id="path3907" d="m878.21 260.87 16.506 1.3425-23.365 18.744-4.154-29.933z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3911" d="m1300.7 191.35-26.553 65.619" stroke="#fff" stroke-width="7.6899" fill="none"/>
- <path id="path3913" d="m1274.9 254.92 21.856 1.6654-30.938 23.253-5.5003-37.134z" stroke="#fff" stroke-width="1.2816px" fill="#fff"/>
- <path id="path3917" d="m1756.5 174.17-34.874 79.002" stroke="#fff" stroke-width="9.6697" fill="none"/>
- <path id="path3919" d="m1722.7 250.7 28.704 2.0051-40.632 27.995-7.2238-44.707z" stroke="#fff" stroke-width="1.6116px" fill="#fff"/>
- <path id="path3921" d="m1494.5 589.96 218.18 0.32617" stroke="#fde85d" stroke-width="7.3202" fill="#fde85d"/>
- <path id="path3923" d="m1711.8 590.53-4.4109-15.962 25.631 15.502-26.683 14.186z" stroke="#fde85d" stroke-width="4" fill="#fde85d"/>
- <path id="path3925" d="m1899.2 544.53-124.2 77.19" stroke="#fde85d" stroke-width="7" fill="#fde85d"/>
- <path id="path3927" d="m1773.9 620.36 12.146 11.257-29.953 0.29317 15.236-26.098z" stroke="#fde85d" stroke-width="1px" fill="#fde85d"/>
- <path id="path3929" d="m1917.1 708.31-109.9-29.33" stroke="#fde85d" stroke-width="7" fill="#fde85d"/>
- <path id="path3931" d="m1809.8 680.64 0.4939 16.553-21.216-21.145 29.289-7.4437z" stroke="#fde85d" stroke-width="1px" fill="#fde85d"/>
- <path id="path3933" d="m1677.7 575.43c11.468 0.90189 16.484-1.4217 20.506-4.2426 7.3435-10.92 9.9773-19.484 13.789-28.638" stroke="#fff" stroke-width="4" fill="none"/>
- <path id="path3935" d="m1677 535.84c10.096 4.3307 16.172-0.38311 22.627-4.2426 6.6014-8.249 9.4409-17.752 13.435-26.87" stroke="#fff" stroke-width="4" fill="none"/>
- <path id="path3937" d="m1715.8 490.23c-2.3743-10.77-7.8422-14.724-14.496-21.213-7.4975-3.7615-15.583-1.9208-21.213 0.00001-13.3 10.034-11.443 15.562-13.789 31.466" stroke="#fff" stroke-width="4" fill="none"/>
- <path id="path3939" d="m1823.3 578.26c-4.0358 1.0534-2.0169 2.9134-16.263 1.4142-11.553-5.6536-13.968-20.445-20.506-31.113" stroke="#fff" stroke-width="4" fill="none"/>
- <path id="path3941" d="m1822.6 535.84c-2.9558 1.2354-1.0573 3.511-16.264 2.1213-16.92-10.689-13.322-18.203-19.799-29.698" stroke="#fff" stroke-width="4" fill="none"/>
- <path id="path3943" d="m1781.6 483.51c1.3805-12.332 8.8711-17.6 12.728-20.506 9.634-6.1416 17.504-3.2806 24.042-1.4142 13.959 14.494 9.9617 22.259 12.728 33.234" stroke="#fff" stroke-width="4" fill="none"/>
- <path id="path3945" d="m1657.5 495.88 6.7175 16.971 11.314-14.496-9.1923 1.7678z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3947" d="m1715.5 494.82-12.021 12.021 7.7782 0.7071 7.7781 3.8891z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3949" d="m1701.7 545.38 13.082-11.314 2.4748 16.263-6.364-4.9497z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3951" d="m1781.3 554.57 5.6568-4.5962h9.546l-13.435-12.728z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3953" d="m1779.8 512.5 6.364-4.5962h10.253l-14.496-13.435z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3955" d="m1822.3 490.93 10.253 15.203 7.071-17.678-8.4853 6.0104z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3957" d="m1038.2 707.24 131.22 165.65" stroke="#fff" stroke-width="7" fill="none"/>
- <path id="path3959" d="m1165.7 868.97 9.826-13.33 3.6468 29.731-27.641-12.216z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <path id="path3961" d="m1207.6 1152.5 83.959-36.194" stroke="#fff" stroke-width="7" fill="none"/>
- <path id="path3963" d="m1291.4 1118.3-10.208-13.041 29.62 4.4592-19.181 23.353z" stroke="#fff" stroke-width="1px" fill="#fff"/>
- <rect id="rect3905" stroke-linejoin="round" height="55.861" width="186.68" stroke="#000" y="33.083" x="1165" stroke-width="3" fill="#fff"/>
- <rect id="rect3907" stroke-linejoin="round" height="41.901" width="123.22" stroke="#000" y="400.33" x="1216.9" stroke-width="2.1109" fill="#fff"/>
- <rect id="rect3909" stroke-linejoin="round" height="44.045" width="114.76" stroke="#000" y="615.99" x="1385.2" stroke-width="2.0886" fill="#fff"/>
- <rect id="rect3911" stroke-linejoin="round" height="42.516" width="132.32" stroke="#000" y="1029" x="1672.3" stroke-width="2.2035" fill="#fff"/>
- <rect id="rect3913" stroke-linejoin="round" height="42.378" width="149.86" stroke="#000" y="725.01" x="1890.2" stroke-width="2.3412" fill="#fff"/>
- <rect id="rect3915" stroke-linejoin="round" height="42.41" width="145.65" stroke="#000" y="1185.3" x="1620" stroke-width="2.3089" fill="#fff"/>
- <text id="text3917" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="71.97361" x="1255.5195" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan3919" font-size="32px" y="71.97361" x="1255.5195" font-family="DejaVu Sans">2&#xB0;C</tspan>
-  </text>
- <text id="text3921" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="434.0123" x="1279.5612" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan3923" font-size="32px" y="434.0123" x="1279.5612" font-family="DejaVu Sans">2.05&#xB0;C</tspan>
-  </text>
- <text id="text3925" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="651.09412" x="1442.1957" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan3927" font-size="32px" y="651.09412" x="1442.1957" font-family="DejaVu Sans">350&#xB0;C</tspan>
-  </text>
- <text id="text3929" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="1062.6301" x="1737.0592" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan3931" font-size="32px" y="1062.6301" x="1737.0592" font-family="DejaVu Sans">400&#xB0;C</tspan>
-  </text>
- <text id="text3933" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="757.86719" x="1965.4547" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan3935" font-size="32px" y="757.86719" x="1965.4547" font-family="DejaVu Sans">2 - 60&#xB0;C</tspan>
-  </text>
- <text id="text3937" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="1219.6079" x="1691.0974" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan3939" font-size="32px" y="1219.6079" x="1691.0974" font-family="DejaVu Sans">1200&#xB0;C</tspan>
-  </text>
- <text id="text3941" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="125%" y="807.8125" x="687.65625" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3943" y="807.8125" x="687.65625" font-family="DejaVu Sans">Basalt</tspan>
-  </text>
- <text id="text3945" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" transform="matrix(.32697 .94503 -.94503 .32697 0 0)" line-height="125%" font-size="36px" y="-681.336" x="1172.7501" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3947" y="-681.336" x="1172.7501" font-family="DejaVu Sans">Seawater</tspan>
-  </text>
- <text id="text3949" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" transform="matrix(.32697 .94503 -.94503 .32697 0 0)" line-height="125%" font-size="36px" y="-882.91711" x="1086.9265" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3951" y="-882.91711" x="1086.9265" font-family="DejaVu Sans">Seawater</tspan>
-  </text>
- <text id="text3953" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" transform="rotate(-37.765)" line-height="125%" font-size="36px" y="1741.165" x="627.13446" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3955" y="1741.165" x="627.13446" font-family="DejaVu Sans">Seawater</tspan>
-  </text>
- <text id="text3957" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" transform="matrix(.96999 -.24313 .24313 .96999 0 0)" line-height="125%" font-size="36px" y="1387.2473" x="1092.7183" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3959" y="1387.2473" x="1092.7183" font-family="DejaVu Sans">Evolved</tspan>
-  </text>
- <text id="text3961" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="100%" y="950.90735" x="1740.5948" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3963" y="950.90735" x="1740.5948">HT</tspan>
-    <tspan id="tspan3965" y="986.90735" x="1740.5948">Reaction</tspan>
-    <tspan id="tspan3967" y="1022.9073" x="1740.5948">Zone</tspan>
-  </text>
- <text id="text3969" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="125%" y="1170.1104" x="1688.2688" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3971" y="1170.1104" x="1688.2688" font-family="DejaVu Sans">Magma</tspan>
-  </text>
- <text id="text3973" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="125%" y="621.81934" x="1254.2173" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3975" y="621.81934" x="1254.2173" font-family="DejaVu Sans">Basalt</tspan>
-  </text>
- <text id="text3977" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="100%" y="533.61743" x="1432.7427" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3979" y="533.61743" x="1432.7427">HOT</tspan>
-    <tspan id="tspan3981" y="569.61743" x="1432.7427">(focussed)</tspan>
-    <tspan id="tspan3983" y="605.61743" x="1432.7427">flow</tspan>
-  </text>
- <text id="text3985" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="100%" y="515.41901" x="2030.1917" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3987" y="515.41901" x="2030.1917">Precipitation</tspan>
-    <tspan id="tspan3989" y="551.41901" x="2030.1917">Chimney</tspan>
-    <tspan id="tspan3991" y="587.41901" x="2030.1917">(Black Smoker)</tspan>
-  </text>
- <text id="text3993" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="100%" y="646.85144" x="1970.4045" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3995" y="646.85144" x="1970.4045">WARM</tspan>
-    <tspan id="tspan3997" y="682.85144" x="1970.4045">(diffuse)</tspan>
-    <tspan id="tspan3999" y="718.85144" x="1970.4045">flow</tspan>
-  </text>
- <text id="text4001" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="36px" line-height="150%" y="993.8125" x="117.45215" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan4003" y="993.8125" x="117.45215">Metalliferous Sediments</tspan>
-    <tspan id="tspan4005" y="1047.8125" x="117.45215">Iron-Magnesium Crusts</tspan>
-  </text>
- <path id="path4007" stroke-linejoin="round" d="m107.66 980.31a31 15.5 0 0 1 -62 0 31 15.5 0 1 1 62 0z" stroke="#fff" stroke-width="5" fill="#de6d29"/>
- <path id="path4009" stroke-linejoin="round" d="m107.66 1034.3a31 15.5 0 0 1 -62 0 31 15.5 0 1 1 62 0z" stroke="#fff" stroke-width="5" fill="#7f9fd2"/>
- <text id="text4011" style="word-spacing:0px;letter-spacing:0px;text-align:center" xml:space="preserve" transform="scale(.98517 1.0151)" line-height="125%" font-size="44.332px" y="335.99292" x="591.7627" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan4015" y="335.99292" x="591.7627">&#xB3;He, Mn&#xB2;&#x207A;, H</tspan>
-    <tspan id="tspan3217" font-size="23.644px">4</tspan>
-    <tspan id="tspan181" font-size="44.332px">SiO</tspan>
-    <tspan id="tspan3219" font-size="23.644px">4</tspan>
-    <tspan id="tspan4019" style="letter-spacing:0px" font-size="44.332px">,</tspan>
-    <tspan id="tspan185" font-size="44.332px"> FeOOH, MnO</tspan>
-    <tspan id="tspan3221" font-size="23.644px">2</tspan>
-    <tspan id="tspan188" font-size="44.332px">, &#x394;T,</tspan>
-  </text>
- <text id="text5525" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="40px" line-height="125%" y="647.10065" x="930.31909" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan5527" y="647.10065" x="930.31909">Sub Seafloor</tspan>
-    <tspan id="tspan5529" y="697.10065" x="930.31909">Microbial Biosphere</tspan>
-  </text>
- <text id="text5531" style="word-spacing:0px;letter-spacing:0px;text-align:center" xml:space="preserve" transform="scale(.97086 1.03)" line-height="125%" font-size="42.718px" y="148.32639" x="772.05432" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan5537" y="148.32639" x="772.05432">Oxyanions, (HPO</tspan>
-    <tspan id="tspan3241" font-size="23.301px">4</tspan>
-    <tspan id="tspan190" font-size="43.689px">&#xB2;&#x207B;, HVO</tspan>
-    <tspan id="tspan3243" font-size="23.301px">4</tspan>
-    <tspan id="tspan193" font-size="43.689px">&#xB2;&#x207B;, CrO</tspan>
-    <tspan id="tspan3245" font-size="23.301px">4</tspan>
-    <tspan id="tspan196" font-size="43.689px">&#xB2;&#x207B;, HAsO</tspan>
-    <tspan id="tspan3247" font-size="23.301px">4</tspan>
-    <tspan id="tspan199" font-size="43.689px">&#xB2;&#x207B;), REE, Trace Metals</tspan>
-  </text>
- <text id="text5551" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="44px" line-height="125%" y="843.06897" x="911.10529" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan5553" y="843.06897" x="911.10529">Mg&#xB2;&#x207A;</tspan>
-    <tspan id="tspan5555" y="908.56934" x="911.10529">SO</tspan>
-    <tspan id="tspan3249" font-size="24px">4</tspan>
-    <tspan id="tspan207" font-size="45px">&#xB2;&#x207B;</tspan>
-  </text>
- <text id="text5561" style="word-spacing:0px;letter-spacing:0px;text-align:center" xml:space="preserve" font-size="44px" line-height="125%" y="1121.9276" x="542.23486" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan5563" y="1121.9276" x="542.23486">H&#x207A;, Cl&#x207B;, Fe&#xB2;&#x207A;, Mn&#xB2;&#x207A;,</tspan>
-    <tspan id="tspan5565" y="1176.9276" x="542.23486">H</tspan>
-    <tspan id="tspan3253" font-size="24px">4</tspan>
-    <tspan id="tspan213" font-size="45px">SiO</tspan>
-    <tspan id="tspan3251" font-size="24px">4</tspan>
-    <tspan id="tspan216" font-size="45px">, &#xB3;He, H</tspan>
-    <tspan id="tspan3255" font-size="24px">2</tspan>
-    <tspan id="tspan219" font-size="45px">S, CH</tspan>
-    <tspan id="tspan3257" font-size="24px">4</tspan>
-    <tspan id="tspan222" font-size="45px">, CO</tspan>
-    <tspan id="tspan3259" font-size="24px">2</tspan>
-    <tspan id="tspan225" font-size="45px">, H</tspan>
-    <tspan id="tspan3261" font-size="24px">2</tspan>
-    <tspan id="tspan228" font-size="45px">,</tspan>
-    <tspan id="tspan5567" y="1242.428" x="542.23486">Ca&#xB2;&#x207A;, K&#x207A;, Li&#x207A;, Cu&#xB2;&#x207A;, Zn&#xB2;&#x207A;, Pb&#xB2;&#x207A;</tspan>
-  </text>
- <path id="path5581" fill="#f3b07c" d="m1693.8 836.48v-39.025l-150.53-1.0136 10.137-20.78-90.214 41.053 89.707 39.532-10.136-20.78z"/>
- <path id="path5583" fill="#f3b07c" d="m1773.9 834.96 0.5069-36.491 132.28-1.5205-8.6159-19.766 80.078 39.532-80.078 39.532 8.6159-20.78z"/>
- <text id="text5585" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="125%" y="826.34387" x="1603.139" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan5587" y="826.34387" x="1603.139" font-family="DejaVu Sans">Spreading</tspan>
-  </text>
- <text id="text5589" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="125%" y="828.37115" x="1816.4313" font-family="DejaVu Sans" fill="#000000">
-    <tspan id="tspan5591" y="828.37115" x="1816.4313" font-family="DejaVu Sans">Axis</tspan>
-  </text>
- <path id="path5593" fill="#ee652f" d="m1715.6 74.728-1.0136-37.505-97.31 0.50682 6.0818-12.671-90.214 34.464 89.707 32.437-9.1228-16.725z"/>
- <path id="path5595" fill="#ee652f" d="m1751.1 74.221h53.723l-0.5069-36.998h-53.216z"/>
- <path id="path5597" fill="#ee652f" d="m1836.2 73.714-0.507-36.491 35.984-1.5205-6.5887-12.671 88.187 33.45-88.187 31.423 7.0955-13.684z"/>
- <text id="text5599" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="68.139145" x="1644.1121" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan5601" font-size="32px" y="68.139145" x="1644.1121" font-family="DejaVu Sans">0.1 cm/s</tspan>
-  </text>
- <text id="text3204" style="word-spacing:0px;letter-spacing:0px;text-align:center" xml:space="preserve" transform="scale(.96996 1.031)" line-height="125%" font-size="43.648px" y="329.77753" x="1432.077" font-family="DejaVu Sans" fill="#ffffff">
-    <tspan id="tspan3206" y="329.77753" x="1432.077">CH</tspan>
-    <tspan id="tspan3208" font-size="23.279px" fill="#ffffff">4</tspan>
-    <tspan id="tspan245" font-size="43.648px">, Fe&#xB2;&#x207A;, Fe</tspan>
-    <tspan id="tspan3210" font-size="23.279px" fill="#ffffff">x</tspan>
-    <tspan id="tspan248" font-size="43.648px">S</tspan>
-    <tspan id="tspan3212" font-size="23.279px" fill="#ffffff">y</tspan>
-    <tspan id="tspan251" font-size="43.648px">, &#xB2;&#xB2;&#xB2;Rn, H</tspan>
-    <tspan id="tspan3214" font-size="23.279px" fill="#ffffff">2</tspan>
-    <tspan id="tspan254" font-size="43.648px">, H</tspan>
-    <tspan id="tspan3216" font-size="23.279px" fill="#ffffff">2</tspan>
-    <tspan id="tspan257" font-size="43.648px">S</tspan>
-  </text>
+ <path id="rect2997" fill="url(#linearGradient3394)" d="m0.0374 0.0038v800.78h2195.2c1.9504 0 3.5626-1.3722 3.5626-3.0938v-797.69h-2198.8z"/>
+ <path id="path3000" d="m97.913 480.43-15.669-27.578-18.803-54.529 28.205-36.979 5.6409-25.698 8.148-1.2535 12.535 8.7748 15.669-27.578 30.085-23.817 22.564-9.4015 50.141 8.148 30.085-8.7748h28.205l35.099 7.5212 28.205-5.6409 27.578-1.2535 69.571 31.965 26.951 28.205 1.8803 6.8944 14.416 12.535h16.923v11.909l-9.4015 7.5212-2.5071 24.444-16.923 15.669-27.578 49.515-16.296 11.909-27.578 5.6409-17.55 7.5212-18.803 22.564-25.698-3.1338-60.17 8.148-51.395 16.923-87.748-1.2535-39.486-38.233-4.3874-18.176z" stroke="#000" stroke-width="1px" fill="#dcdddf"/>
+ <path id="path3770" d="m556.08 472.91 26.324 29.458 5.0142 20.683 17.55 6.2677 16.923-5.6409 20.057-1.8803 25.071-6.2677 13.789-11.282 23.817-0.62677 24.444 6.2677 27.578-8.148h46.381l24.444-8.7748 46.381-0.62677 26.951-6.8944 14.416 2.5071 38.86 1.8803 44.5-9.4015 14.416 3.7606 20.683 1.2535 20.056-5.0141 70.198-10.655 27.578 0.62677 22.564-6.2677 53.275-1.2535 47.008-12.535 75.839-0.62677 96.522-21.937h50.768l20.056 4.3874 26.324-8.7748 29.458 0.62677 24.444 5.0141 25.071 25.698 16.296 25.071 0.6267 6.8944 12.535 25.698 0.6268 31.965-3.7606 8.7748 5.0141 11.282-4.3874 11.909 12.535 15.042-8.148 16.923v13.789l6.8946 11.909-3.7608 21.31 4.3875 6.8944 178 1.8803-1.2535-12.535-5.6409-7.5212 2.507-22.564 18.803-54.529-10.028-50.141 3.1338-21.31 8.7748-26.951 6.8943-13.162 18.176-4.3874 17.55 5.6409 27.578-13.162 25.071-17.55 26.951-9.4015 27.578-38.86 21.31-14.416 23.19-28.831 0.6268-17.55-15.042-30.712-22.564-7.5212-41.994-9.4015h-64.557l-23.19-3.7606-52.649 1.2535-33.219-7.5212-25.698 12.535-40.113-1.2535-163.59-0.62677-72.705 4.3874-181.14-0.62677-43.874 6.8944-48.261-2.5071-47.634 3.1338-28.205-6.2677-55.156 7.5212-25.698-7.5212-38.86 5.6409-19.43-3.7606-144.16-3.1338-28.831-0.62676-31.965-5.0142-50.141 18.803-78.973-12.535-27.578 1.8803-42.62 11.909-20.057 11.909-0.62677 17.55-41.367 0.62677 5.0142-13.162-42.62 24.444 42.62 23.19-4.3874-11.282h39.486l-0.62677 6.8944-8.148 8.7748v26.951l3.7606 12.535-10.655 17.55-6.8944 15.042-2.5071 18.803-28.205 0.62677 4.3874-15.669-43.247 28.205 41.367 21.937-5.0142-11.282z" stroke="#000" stroke-width="1px" fill="url(#linearGradient3400)"/>
+ <path id="path3770-1" fill="url(#linearGradient3397)" stroke-opacity="0" d="m1658.1 586.38 4.1562 5-8.125 16.906v13.781l6.875 11.938-3.75 21.281 4.375 6.9062 178 1.875-1.25-12.531-5.625-7.5312 2.5-22.562 12.094-35.062h-189.25z"/>
+ <path id="path3784" stroke-width="0" fill="#815636" d="m1385.7 451.78-148 76-16 32-39 29-59 55-17 10-26 37-14 4-28 26-28 18-14 13-21 12-9.5 9.5-13.5 5.5-11 11-24 9-31.5 2-33-6.5-16.5-7.5-26.5-10.5-4.25-15.5-66.75-22.5-18.5 0.5-31 10-70 7-65 64.5-45.5 56.5-78.5 37-47 15-113-4-105 5-54-4-43-11-68.7-38.06v390.25h2199.6l-0.7813-753.03-62.281-16.656-33.906-16.688-29.188-14.094-39.5-2.9062-30.406 25.219-16.906 30.188-25.406 27.781-10.688 55.125-50.438 29.062-32.938 30.469-48.5 3.3438-43-9-59-3c-24.764 2.569-20.324-1.1059-74.281 7.7188l-21.875-11.688c-11.226-15.426-21.572-20.084-31.875-24.438-6.8418-14.391 3.8644-6.1963-20.531-43.156l-38.531-40.906-15.719-27.969-0.2187-19.625-12.281-9.7188-115.69-31.219zm687.78 14.719 15.344 1.125-17.469-2.1562 2.125 1.0312z"/>
+ <path id="path3786" stroke-width="0" fill="#de6d29" d="m0.0374 776.85v103.66l5.9688 3.5312 65.938 35.562 30.062 7.7188 33.969 4.2812h75.781l80.812-2.0312 92.719 2.7188 54.688-20.406 69.219-35.094 38.375-47.656 7.4062-43.844-63.094 0.1875-48.094 7.7812-60.094-9.1875-33.219 10.594-12.031-4.25-36.781 0.71875-80.594 2.125-59.44-1.44-67.87-7.06-12.75 5.66-18.375 1.4-57.281-14.84-5.344-0.12z"/>
+ <path id="path3790" fill="#7f9fd2" d="m547.57 829.13 7.4158-43.837 11.713-18.515 5-9.5 17.5-16 13-7 23.5 0.5 11.5 1 18.5-4 61.5-3 6 5 7-7 13.5-4 23.5 1 8.5 6 24-0.5 6.5 5 8 5 7.5 1.5 10.5 16 6.3082 30.822-12.494-2.6694-15.814-8.6526-27-21-41-14-21-2-31.5 9.5-72.281 9.2634z"/>
+ <path id="path3810" stroke-width="0" fill="#de6d29" d="m833.05 760.96 39.145 0.0726 13.75 3h23.75l13.75-5.75 9.5 5.25 42.375 0.625-9.125 9.125-13.5 5.5-11 11-24 9-31.5 2-33-6.5-14.692-6.6781z"/>
+ <path id="path3812" stroke-width="0" fill="#7f9fd2" d="m1513.6 492.72 5.2899-0.11035 9.546 13.789 11.314 21.213 23.688 18.031 42.426 51.265 53.033 53.74 4.1307 6.6418-20.691 3.1979c-28.464-8.2001-35.828-24.073-53.736-36.111-6.8027-14.312-12.02-25.454-20.525-43.172l-38.525-40.889-15.718-27.96z"/>
+ <path id="path3814" stroke-width="0" fill="#7f9fd2" d="m1841.8 663.18 19.337-28.441 35.002-32.88 13.435-15.203 15.203-8.8388 32.88-54.801 6.364-15.203 14.496-18.031 10.253 0.35356 8.6542 9.5562-10.806 19.311-25.414 27.778-10.707 55.111-50.425 29.071-32.929 30.464z"/>
+ <path id="path3831" stroke-width="0" fill="#fae79a" d="m1679.8 1089.1-115.25 10.594-78.5 15.562-107.47 31.125-56.562 19.781-47.375 21.937-21.938 22.625-13.438 26.156 4 30.125h893.22l2.9375-22.344-5.6562-16.969-33.25-29.719-62.219-33.937-76.375-27.563-103.94-23.344-103.22-16.25-74.969-7.7813z"/>
+ <path id="path3829" stroke-width="0" fill="#ea674b" d="m1673.4 1106.8-98.281 8.5-80.594 13.438-134.38 38.875-74.938 31.125-31.125 40.312 7.375 28h858.03l2.9374-29.406-27.594-25.469-64.344-33.25-88.375-29.688-111.03-24.031-86.25-14.156-71.438-4.25z"/>
+ <path id="path3882" d="m1127.7 1024.8 19-78 23-47 36-41 54-57 99-57 90-32 104-22 63-3 61 19 27 29 10 53-13 48-59 38-25 7-392 226-57-4-36-29z" stroke="#c8c8c8" stroke-dasharray="6, 12" stroke-width="6" fill="none"/>
+ <path id="path3903" d="m1758.7 746.78 7-35 31-26 33-14 89 13 80 37 67 46 37 44 38 57 33 97 1 45-8 41-23 13-35 2-50-28-165-132-63-50-37-17-27-34-10-32z" stroke="#c8c8c8" stroke-dasharray="7, 14" stroke-width="7" fill="none"/>
+ <rect id="rect3846" height="14.672" width="37.83" y="937.56" x="1785.3" stroke-width="0" fill="#ce2231"/>
+ <rect id="rect3842" height="13.867" width="44.626" y="936.9" x="1648.5" stroke-width="0" fill="#e4131b"/>
+ <path id="path3983" d="m987.22 764.59-0.8638 77.298c14.03 85.511 19.247 89.662 47.806 132.35 14.406 15.021 24.083 35.74 99.906 81.451 28.317 19.093 56.937 26.586 95.883 35.416 30.057 8.217 78.252 14.664 117.48 15.548 73.048-2.2158 107.48-26.069 152.89-49.237 41.968-21.471 63.331-34.638 101.93-69.105 54.357-49.94 89.527-79.121 115.75-127.84 6.5279-18.132 15.119-23.887 15.549-78.607l0.8638-119.35" stroke="url(#linearGradient3450)" stroke-width="17" fill="none"/>
+ <path id="path4003" d="m1136.8 644.71 16.492 61.081c15.706 54.15 26.263 86.935 43.367 116.05 15.895 31.022 33.9 43.055 51.308 60.47 34.462 29.7 74.761 51.24 102 59.248 47.327 11.814 78.614 8.6806 117.89 7.3297 47.295-4.5807 84.246-13.398 118.5-24.432 33.678-10.183 55.066-17.241 120.61-45.428" stroke="url(#linearGradient3447)" stroke-width="17" fill="none"/>
+ <path id="path4021" d="m2190.4 890.86-34.816 51.308c-10.758 12.134-21.484 24.272-43.367 34.816-17.001 7.5333-27.547 16.288-64.135 18.935-45.968-2.5678-68.414-9.5674-102.62-15.27l-111.17-23.211" stroke="url(#linearGradient3444)" stroke-width="17" fill="none"/>
+ <path id="path4045" d="m2189.2 1008.8-38.481 48.864c-9.1689 9.202-15.934 19.748-35.427 27.486l-13.06 5.4148-15.991 4.3474-34.473 6.7295c-19.397 4.1104-37.787 3.9135-58.637 0-17.685-4.6859-35.333-12.906-56.194-30.54-35.422-29.525-64.288-68.785-98.951-110.56l-71.464-81.237c-9.4092-11.882-19.566-25.798-27.486-42.146-4.4471-12.741-5.7261-21.875-5.4973-42.146l0.9162-141.1" stroke="url(#linearGradient3441)" stroke-width="17" fill="none"/>
+ <path id="path3817" d="m1215.7 1087.8-2.183-26.722 34.926 34.401-46.372 13.54z" stroke="#fff" stroke-width="1px" fill="#5279ad"/>
+ <path id="path3819" d="m1488.6 1063.5-18.776-16.865 46.134 2.6315-22.164 40.991z" stroke="#fff" stroke-width="1px" fill="#ad3952"/>
+ <path id="path3821" d="m1240.2 874.82 5.5016-18.451 15.242 36.522-39.429-6.2887z" stroke="#fff" stroke-width="1px" fill="#338ecc"/>
+ <path id="path3823" d="m1444.3 949.81-8.8434-20.444 34.39 19.326-30.503 19.761z" stroke="#fff" stroke-width="1px" fill="#904e6f"/>
+ <path id="path3825" d="m1705.2 913.17-13.173-20.947-23.971-11.877 47.942-15.549z" stroke="#fff" stroke-width="1px" fill="#fb0304"/>
+ <path id="path3827" d="m1758.1 907.12 12.902-22.757 24.673-10.5-44.625-15.747z" stroke="#fff" stroke-width="1px" fill="#e90f16"/>
+ <path id="path3830" d="m1733.6 768.4-26.622 7.9401 26.887-44.587 23.81 44.892z" stroke="#fff" stroke-width="1px" fill="#fa0405"/>
+ <path id="path3832" d="m1873.7 1004.3-14.639 23.751-6.6813-49.945 44.551 19.405z" stroke="#fff" stroke-width="1px" fill="#b2364d"/>
+ <path id="path3834" d="m1966.9 1009.4-3.9879-25.563 11.012-22.996-48.695 15.614z" stroke="#fff" stroke-width="1px" fill="#8a3a6d"/>
+ <path id="path3836" d="m1977.9 1123.6 0.6279-26.776 16.78-20.867-43.074 6.7773z" stroke="#fff" stroke-width="1px" fill="#7b5c84"/>
+ <path id="path3838" d="m2096.7 958.05-25.407 34.836 46.174 12.806-18.869-22.157z" stroke="#fff" stroke-width="1px" fill="#3d7dbe"/>
+ <path id="path3844" d="m1687.2 943.57-4.9499-15.38 27.4 15.733-25.279 14.496z" stroke="#fff" stroke-width="1px" fill="#e4131b"/>
+ <path id="path3848" d="m1765.7 941.98 27.931 18.208-4.9497-15.38 4.5962-15.91z" stroke="#fff" stroke-width="1px" fill="#ce2231"/>
+ <path id="path3850" d="m1738.9 669.28 13 1.5 21.5-8.75 0.5-5.25" stroke="#f00" stroke-width="3" fill="none"/>
+ <path id="path3852" d="m1773.2 662.1 7.4201-5.2755" stroke="#f00" stroke-width="3" fill="none"/>
+ <path id="path3854" d="m1739.7 685.03 11.5-0.25 10-5.75 10.75-11.75 21.228-7.8418" stroke="#f00" stroke-width="3" fill="none"/>
+ <path id="path3856" d="m1784.9 662.48-0.5536-4.87" stroke="#f00" stroke-width="3" fill="none"/>
+ <path id="path3858" d="m1768.5 670.95 10.609 0.32848 10.5-6.5 6.2474 1.7955 1.4843-6.247" stroke="#f00" stroke-width="3" fill="none"/>
+ <path id="path3860" d="m1741.7 697.53 20.5-4.75 16.75-11.25 3-6 15.785-10.01 7.4649 0.01 8.2983-1.8388" stroke="#f00" stroke-width="3" fill="none"/>
+ <path id="path3978" stroke-width="1px" stroke="#fff" d="m1669.1 659.37v-4.8864l4.8865-4.581h20.462l9.1621-3.6648 14.048-10.689 2.1378-3.3594 7.3297-5.8026 5.1918-24.127 6.1081-16.492 8.2459 2.7486-0.6108 9.7729 3.054 7.6351-2.4432 10.078 0.6108 9.7729 9.7729 18.324 18.071 12.275-12.252-0.80505-22.922-1.6969h-14.965l-30.846 5.8026z"/>
+ <path id="path3980" d="m1739.1 582.1 8.8567-1.8324 2.4431-3.3594 1.8324-9.7729 3.6649-4.581 0.3054-12.216 2.1378-9.7729 5.4972-11.3-2.1378-15.576-5.8026-8.2459-0.9163-7.3297 4.5811-3.6648 10.384-2.4432 1.2216-15.576-2.7486-6.4135 2.4432-10.384 13.132-11.605 8.2459-0.3054 10.689-5.4973 8.5513-19.851-9.4675-3.3594-20.462 8.2459-23.516-10.994-8.5513-0.3054-8.8567 8.2459-1.2217 5.4973-8.8567 0.9162-4.5809-4.2756-9.1621 0.30541-3.6649-3.054-9.4674-0.3054-1.2218 7.0243-3.054 0.3054-3.9702 11.605 1.2216 9.4675 17.103 7.9405 10.689 4.2756 5.8026 1.2216 0.3054 8.2459-2.7485 4.581 5.8026 13.438-3.6649 4.581 0.3054 7.6351 4.2756 3.054 3.0541 9.4675-1.8324 14.049-4.8865 3.6648-0.6108 8.2459 4.5812 4.581-0.9164 25.959z" stroke="#fff" stroke-width="1px" fill="#6c6c6c"/>
+ <path id="path3867" d="m326.97 526.39v56.569" stroke="#fff" stroke-width="6" fill="none"/>
+ <path id="path3869" d="m326.97 581.19 15.91-4.5962-15.203 25.809-14.496-26.517z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3877" d="m201.97 548.89v56.569" stroke="#fff" stroke-width="6" fill="none"/>
+ <path id="path3879" d="m201.97 603.69 15.91-4.5962-15.203 25.809-14.496-26.517z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3883" d="m731.47 509.18v72.683" stroke="#fff" stroke-width="6.8011" fill="none"/>
+ <path id="path3885" d="m731.47 580.69 15.91-4.5962-15.203 25.809-14.496-26.517z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3889" d="m891.49 487.83v72.683" stroke="#fff" stroke-width="6.8011" fill="none"/>
+ <path id="path3891" d="m891.49 559.34 15.91-4.5962-15.203 25.809-14.496-26.517z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3893" d="m1038.3 484.28v72.683" stroke="#fff" stroke-width="6.8011" fill="none"/>
+ <path id="path3895" d="m1038.3 555.79 15.91-4.5962-15.203 25.809-14.496-26.517z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3899" d="m377.65 232.85-46.511 32.199" stroke="#fff" stroke-width="6" fill="none"/>
+ <path id="path3901" d="m332.59 264.04 12.835 10.465-29.874 2.191 13.551-27.012z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3905" d="m897.67 210.6-20.054 52.895" stroke="#fff" stroke-width="6" fill="none"/>
+ <path id="path3907" d="m878.25 261.84 16.506 1.3425-23.365 18.744-4.154-29.933z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3911" d="m1300.7 192.32-26.553 65.619" stroke="#fff" stroke-width="7.6899" fill="none"/>
+ <path id="path3913" d="m1274.9 255.89 21.856 1.6654-30.938 23.253-5.5003-37.134z" stroke="#fff" stroke-width="1.2816px" fill="#fff"/>
+ <path id="path3917" d="m1756.5 175.14-34.874 79.002" stroke="#fff" stroke-width="9.6697" fill="none"/>
+ <path id="path3919" d="m1722.7 251.67 28.704 2.0051-40.632 27.995-7.2238-44.707z" stroke="#fff" stroke-width="1.6116px" fill="#fff"/>
+ <path id="path3921" d="m1494.5 590.93 218.18 0.32617" stroke="#fde85d" stroke-width="7.3202" fill="#fde85d"/>
+ <path id="path3923" d="m1711.8 591.5-4.4109-15.962 25.631 15.502-26.683 14.186z" stroke="#fde85d" stroke-width="4" fill="#fde85d"/>
+ <path id="path3925" d="m1899.2 545.5-124.2 77.19" stroke="#fde85d" stroke-width="7" fill="#fde85d"/>
+ <path id="path3927" d="m1773.9 621.33 12.146 11.257-29.953 0.29317 15.236-26.098z" stroke="#fde85d" stroke-width="1px" fill="#fde85d"/>
+ <path id="path3929" d="m1917.1 709.28-109.9-29.33" stroke="#fde85d" stroke-width="7" fill="#fde85d"/>
+ <path id="path3931" d="m1809.8 681.61 0.4939 16.553-21.216-21.145 29.289-7.4437z" stroke="#fde85d" stroke-width="1px" fill="#fde85d"/>
+ <path id="path3933" d="m1677.7 576.4c11.468 0.90189 16.484-1.4217 20.506-4.2426 7.3435-10.92 9.9773-19.484 13.789-28.638" stroke="#fff" stroke-width="4" fill="none"/>
+ <path id="path3935" d="m1677 536.81c10.096 4.3307 16.172-0.38311 22.627-4.2426 6.6014-8.249 9.4409-17.752 13.435-26.87" stroke="#fff" stroke-width="4" fill="none"/>
+ <path id="path3937" d="m1715.8 491.2c-2.3743-10.77-7.8422-14.724-14.496-21.213-7.4975-3.7615-15.583-1.9208-21.213 0.00001-13.3 10.034-11.443 15.562-13.789 31.466" stroke="#fff" stroke-width="4" fill="none"/>
+ <path id="path3939" d="m1823.3 579.23c-4.0358 1.0534-2.0169 2.9134-16.263 1.4142-11.553-5.6536-13.968-20.445-20.506-31.113" stroke="#fff" stroke-width="4" fill="none"/>
+ <path id="path3941" d="m1822.6 536.81c-2.9558 1.2354-1.0573 3.511-16.264 2.1213-16.92-10.689-13.322-18.203-19.799-29.698" stroke="#fff" stroke-width="4" fill="none"/>
+ <path id="path3943" d="m1781.6 484.48c1.3805-12.332 8.8711-17.6 12.728-20.506 9.634-6.1416 17.504-3.2806 24.042-1.4142 13.959 14.494 9.9617 22.259 12.728 33.234" stroke="#fff" stroke-width="4" fill="none"/>
+ <path id="path3945" d="m1657.5 496.85 6.7175 16.971 11.314-14.496-9.1923 1.7678z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3947" d="m1715.5 495.79-12.021 12.021 7.7782 0.7071 7.7781 3.8891z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3949" d="m1701.7 546.35 13.082-11.314 2.4748 16.263-6.364-4.9497z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3951" d="m1781.3 555.54 5.6568-4.5962h9.546l-13.435-12.728z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3953" d="m1779.8 513.47 6.364-4.5962h10.253l-14.496-13.435z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3955" d="m1822.3 491.9 10.253 15.203 7.071-17.678-8.4853 6.0104z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3957" d="m1038.2 708.21 131.22 165.65" stroke="#fff" stroke-width="7" fill="none"/>
+ <path id="path3959" d="m1165.7 869.94 9.826-13.33 3.6468 29.731-27.641-12.216z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <path id="path3961" d="m1207.6 1153.5 83.959-36.194" stroke="#fff" stroke-width="7" fill="none"/>
+ <path id="path3963" d="m1291.4 1119.3-10.208-13.041 29.62 4.4592-19.181 23.353z" stroke="#fff" stroke-width="1px" fill="#fff"/>
+ <rect id="rect3905" stroke-linejoin="round" height="55.861" width="186.68" stroke="#000" y="34.056" x="1165" stroke-width="3" fill="#fff"/>
+ <rect id="rect3907" stroke-linejoin="round" height="41.901" width="123.22" stroke="#000" y="401.3" x="1216.9" stroke-width="2.1109" fill="#fff"/>
+ <rect id="rect3909" stroke-linejoin="round" height="44.045" width="114.76" stroke="#000" y="616.96" x="1385.2" stroke-width="2.0886" fill="#fff"/>
+ <rect id="rect3911" stroke-linejoin="round" height="42.516" width="132.32" stroke="#000" y="1030" x="1672.3" stroke-width="2.2035" fill="#fff"/>
+ <rect id="rect3913" stroke-linejoin="round" height="42.378" width="149.86" stroke="#000" y="725.98" x="1890.2" stroke-width="2.3412" fill="#fff"/>
+ <rect id="rect3915" stroke-linejoin="round" height="42.41" width="145.65" stroke="#000" y="1186.3" x="1620" stroke-width="2.3089" fill="#fff"/>
+ <text id="text3917" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="72.946159" x="1255.5569" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan3919" font-size="32px" y="72.946159" x="1255.5569" font-family="DejaVu Sans">2&#xB0;C</tspan>   </text>
+ <text id="text3921" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="434.98486" x="1279.5985" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan3923" font-size="32px" y="434.98486" x="1279.5985" font-family="DejaVu Sans">2.05&#xB0;C</tspan>   </text>
+ <text id="text3925" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="652.06665" x="1442.233" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan3927" font-size="32px" y="652.06665" x="1442.233" font-family="DejaVu Sans">350&#xB0;C</tspan>   </text>
+ <text id="text3929" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="1063.6027" x="1737.0966" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan3931" font-size="32px" y="1063.6027" x="1737.0966" font-family="DejaVu Sans">400&#xB0;C</tspan>   </text>
+ <text id="text3933" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="758.83972" x="1965.4921" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan3935" font-size="32px" y="758.83972" x="1965.4921" font-family="DejaVu Sans">2 - 60&#xB0;C</tspan>   </text>
+ <text id="text3937" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="1220.5804" x="1691.1348" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan3939" font-size="32px" y="1220.5804" x="1691.1348" font-family="DejaVu Sans">1200&#xB0;C</tspan>   </text>
+ <text id="text3941" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="125%" y="808.78503" x="687.69366" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan3943" y="808.78503" x="687.69366" font-family="DejaVu Sans">Basalt</tspan>   </text>
+ <text id="text3945" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" transform="matrix(.32697 .94503 -.94503 .32697 0 0)" xml:space="preserve" font-size="36px" y="-681.05029" x="1173.6763" font-family="DejaVu Sans" line-height="125%" fill="#ffffff">     <tspan id="tspan3947" y="-681.05029" x="1173.6763" font-family="DejaVu Sans">Seawater</tspan>   </text>
+ <text id="text3949" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" transform="matrix(.32697 .94503 -.94503 .32697 0 0)" xml:space="preserve" font-size="36px" y="-882.63055" x="1087.853" font-family="DejaVu Sans" line-height="125%" fill="#ffffff">     <tspan id="tspan3951" y="-882.63055" x="1087.853" font-family="DejaVu Sans">Seawater</tspan>   </text>
+ <text id="text3953" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" transform="rotate(-37.765)" xml:space="preserve" font-size="36px" y="1741.9568" x="626.56842" font-family="DejaVu Sans" line-height="125%" fill="#ffffff">     <tspan id="tspan3955" y="1741.9568" x="626.56842" font-family="DejaVu Sans">Seawater</tspan>   </text>
+ <text id="text3957" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" transform="matrix(.96999 -.24313 .24313 .96999 0 0)" xml:space="preserve" font-size="36px" y="1388.1948" x="1092.5142" font-family="DejaVu Sans" line-height="125%" fill="#ffffff">     <tspan id="tspan3959" y="1388.1948" x="1092.5142" font-family="DejaVu Sans">Evolved</tspan>   </text>
+ <text id="text3961" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="100%" y="951.87988" x="1740.6322" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan3963" y="951.87988" x="1740.6322">HT</tspan>     <tspan id="tspan3965" y="987.87988" x="1740.6322">Reaction</tspan>     <tspan id="tspan3967" y="1023.8798" x="1740.6322">Zone</tspan>   </text>
+ <text id="text3969" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="125%" y="1171.0829" x="1688.3062" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan3971" y="1171.0829" x="1688.3062" font-family="DejaVu Sans">Magma</tspan>   </text>
+ <text id="text3973" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="125%" y="622.79187" x="1254.2546" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan3975" y="622.79187" x="1254.2546" font-family="DejaVu Sans">Basalt</tspan>   </text>
+ <text id="text3977" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="100%" y="534.58997" x="1432.78" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan3979" y="534.58997" x="1432.78">HOT</tspan>     <tspan id="tspan3981" y="570.58997" x="1432.78">(focussed)</tspan>     <tspan id="tspan3983" y="606.58997" x="1432.78">flow</tspan>   </text>
+ <text id="text3985" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="100%" y="516.39154" x="2030.229" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan3987" y="516.39154" x="2030.229">Precipitation</tspan>     <tspan id="tspan3989" y="552.39154" x="2030.229">Chimney</tspan>     <tspan id="tspan3991" y="588.39154" x="2030.229">(Black Smoker)</tspan>   </text>
+ <text id="text3993" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="100%" y="647.82397" x="1970.4419" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan3995" y="647.82397" x="1970.4419">WARM</tspan>     <tspan id="tspan3997" y="683.82397" x="1970.4419">(diffuse)</tspan>     <tspan id="tspan3999" y="719.82397" x="1970.4419">flow</tspan>   </text>
+ <text id="text4001" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="36px" line-height="150%" y="994.78503" x="117.48955" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan4003" y="994.78503" x="117.48955">Metalliferous Sediments</tspan>     <tspan id="tspan4005" y="1048.785" x="117.48955">Iron-Magnesium Crusts</tspan>   </text>
+ <path id="path4007" stroke-linejoin="round" d="m107.7 981.28a31 15.5 0 0 1 -62 0 31 15.5 0 1 1 62 0z" stroke="#fff" stroke-width="5" fill="#de6d29"/>
+ <path id="path4009" stroke-linejoin="round" d="m107.7 1035.3a31 15.5 0 0 1 -62 0 31 15.5 0 1 1 62 0z" stroke="#fff" stroke-width="5" fill="#7f9fd2"/>
+ <text id="text4011" style="word-spacing:0px;letter-spacing:0px;text-align:center" transform="scale(.98515 1.0151)" xml:space="preserve" font-size="44.333px" y="336.95877" x="591.81427" font-family="DejaVu Sans" line-height="125%" fill="#000000">     <tspan id="tspan4015" y="336.95877" x="591.81427">&#xB3;He, Mn&#xB2;&#x207A;, H</tspan>     <tspan id="tspan3217" font-size="23.645px">4</tspan>     <tspan id="tspan181" font-size="44.333px">SiO</tspan>     <tspan id="tspan3219" font-size="23.645px">4</tspan>     <tspan id="tspan4019" style="letter-spacing:0px" font-size="44.333px">,</tspan>     <tspan id="tspan185" font-size="44.333px"> FeOOH, MnO</tspan>     <tspan id="tspan3221" font-size="23.645px">2</tspan>     <tspan id="tspan188" font-size="44.333px">, &#x394;T,</tspan>   </text>
+ <text id="text5525" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="40px" line-height="125%" y="648.07318" x="930.35651" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan5527" y="648.07318" x="930.35651">Sub Seafloor</tspan>     <tspan id="tspan5529" y="698.07318" x="930.35651">Microbial Biosphere</tspan>   </text>
+ <text id="text5531" style="word-spacing:0px;letter-spacing:0px;text-align:center" transform="scale(.97087 1.03)" xml:space="preserve" font-size="42.718px" y="149.26955" x="772.08734" font-family="DejaVu Sans" line-height="125%" fill="#ffffff">     <tspan id="tspan5537" y="149.26955" x="772.08734">Oxyanions, (HPO</tspan>     <tspan id="tspan3241" font-size="23.301px">4</tspan>     <tspan id="tspan190" font-size="43.689px">&#xB2;&#x207B;, HVO</tspan>     <tspan id="tspan3243" font-size="23.301px">4</tspan>     <tspan id="tspan193" font-size="43.689px">&#xB2;&#x207B;, CrO</tspan>     <tspan id="tspan3245" font-size="23.301px">4</tspan>     <tspan id="tspan196" font-size="43.689px">&#xB2;&#x207B;, HAsO</tspan>     <tspan id="tspan3247" font-size="23.301px">4</tspan>     <tspan id="tspan199" font-size="43.689px">&#xB2;&#x207B;), REE, Trace Metals</tspan>   </text>
+ <text id="text5551" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="44px" line-height="125%" y="844.0415" x="911.1427" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan5553" y="844.0415" x="911.1427">Mg&#xB2;&#x207A;</tspan>     <tspan id="tspan5555" y="909.54187" x="911.1427">SO</tspan>     <tspan id="tspan3249" font-size="24px">4</tspan>     <tspan id="tspan207" font-size="45px">&#xB2;&#x207B;</tspan>   </text>
+ <text id="text5561" style="word-spacing:0px;letter-spacing:0px;text-align:center" xml:space="preserve" font-size="44px" line-height="125%" y="1122.9001" x="542.27228" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan5563" y="1122.9001" x="542.27228">H&#x207A;, Cl&#x207B;, Fe&#xB2;&#x207A;, Mn&#xB2;&#x207A;,</tspan>     <tspan id="tspan5565" y="1177.9001" x="542.27228">H</tspan>     <tspan id="tspan3253" font-size="24px">4</tspan>     <tspan id="tspan213" font-size="45px">SiO</tspan>     <tspan id="tspan3251" font-size="24px">4</tspan>     <tspan id="tspan216" font-size="45px">, &#xB3;He, H</tspan>     <tspan id="tspan3255" font-size="24px">2</tspan>     <tspan id="tspan219" font-size="45px">S, CH</tspan>     <tspan id="tspan3257" font-size="24px">4</tspan>     <tspan id="tspan222" font-size="45px">, CO</tspan>     <tspan id="tspan3259" font-size="24px">2</tspan>     <tspan id="tspan225" font-size="45px">, H</tspan>     <tspan id="tspan3261" font-size="24px">2</tspan>     <tspan id="tspan228" font-size="45px">,</tspan>     <tspan id="tspan5567" y="1243.4005" x="542.27228">Ca&#xB2;&#x207A;, K&#x207A;, Li&#x207A;, Cu&#xB2;&#x207A;, Zn&#xB2;&#x207A;, Pb&#xB2;&#x207A;</tspan>   </text>
+ <path id="path5581" fill="#f3b07c" d="m1693.8 837.45v-39.025l-150.53-1.0136 10.137-20.78-90.214 41.053 89.707 39.532-10.136-20.78z"/>
+ <path id="path5583" fill="#f3b07c" d="m1773.9 835.93 0.5069-36.491 132.28-1.5205-8.6159-19.766 80.078 39.532-80.078 39.532 8.6159-20.78z"/>
+ <text id="text5585" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="125%" y="827.31641" x="1603.1764" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan5587" y="827.31641" x="1603.1764" font-family="DejaVu Sans">Spreading</tspan>   </text>
+ <text id="text5589" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="36px" line-height="125%" y="829.34369" x="1816.4686" font-family="DejaVu Sans" fill="#000000">     <tspan id="tspan5591" y="829.34369" x="1816.4686" font-family="DejaVu Sans">Axis</tspan>   </text>
+ <path id="path5593" fill="#ee652f" d="m1715.6 75.701-1.0136-37.505-97.31 0.50682 6.0818-12.671-90.214 34.464 89.707 32.437-9.1228-16.725z"/>
+ <path id="path5595" fill="#ee652f" d="m1751.1 75.194h53.723l-0.5069-36.998h-53.216z"/>
+ <path id="path5597" fill="#ee652f" d="m1836.2 74.687-0.507-36.491 35.984-1.5205-6.5887-12.671 88.187 33.45-88.187 31.423 7.0955-13.684z"/>
+ <text id="text5599" style="word-spacing:0px;letter-spacing:0px;text-anchor:middle;text-align:center" xml:space="preserve" font-size="32px" line-height="125%" y="69.111694" x="1644.1494" font-family="DejaVu Sans" fill="#ffffff">     <tspan id="tspan5601" font-size="32px" y="69.111694" x="1644.1494" font-family="DejaVu Sans">0.1 cm/s</tspan>   </text>
+ <text id="text3204" style="word-spacing:0px;letter-spacing:0px;text-align:center" transform="scale(.96995 1.031)" xml:space="preserve" font-size="43.649px" y="330.72559" x="1432.1362" font-family="DejaVu Sans" line-height="125%" fill="#ffffff">     <tspan id="tspan3206" y="330.72559" x="1432.1362">CH</tspan>     <tspan id="tspan3208" font-size="23.279px" fill="#ffffff">4</tspan>     <tspan id="tspan245" font-size="43.649px">, Fe&#xB2;&#x207A;, Fe</tspan>     <tspan id="tspan3210" font-size="23.279px" fill="#ffffff">x</tspan>     <tspan id="tspan248" font-size="43.649px">S</tspan>     <tspan id="tspan3212" font-size="23.279px" fill="#ffffff">y</tspan>     <tspan id="tspan251" font-size="43.649px">, &#xB2;&#xB2;&#xB2;Rn, H</tspan>     <tspan id="tspan3214" font-size="23.279px" fill="#ffffff">2</tspan>     <tspan id="tspan254" font-size="43.649px">, H</tspan>     <tspan id="tspan3216" font-size="23.279px" fill="#ffffff">2</tspan>     <tspan id="tspan257" font-size="43.649px">S</tspan>   </text>
  <metadata>
   <rdf:RDF>
    <cc:Work>

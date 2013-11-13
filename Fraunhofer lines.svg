@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="225" width="768" version="1.0">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 772.48 209.02" version="1.0">
  <defs id="defs4">
-  <linearGradient id="linearGradient3986" y2="405.22" gradientUnits="userSpaceOnUse" x2="697.14" gradientTransform="matrix(1.0104 0 0 .37169 -53.852 33.258)" y1="405.22" x1="54.286">
+  <linearGradient id="linearGradient3986" x1="54.286" gradientUnits="userSpaceOnUse" y1="405.22" gradientTransform="matrix(1.0104 0 0 .37169 -53.852 33.258)" x2="697.14" y2="405.22">
    <stop id="WL380nm" stop-color="#00121F" offset="0"/>
    <stop id="WL381nm" stop-color="#00121F" offset=".0060241"/>
    <stop id="WL383nm" stop-color="#00121F" offset=".012048"/>
    <stop id="WL385nm" stop-color="#00121F" offset=".018072"/>
    <stop id="WL387nm" stop-color="#00121F" offset=".024096"/>
-   <stop id="WL389nm" stop-color="#001930" offset=".030120"/>
+   <stop id="WL389nm" stop-color="#001930" offset=".03012"/>
    <stop id="WL391nm" stop-color="#001930" offset=".036145"/>
    <stop id="WL393nm" stop-color="#240036" offset=".042169"/>
    <stop id="WL395nm" stop-color="#24003E" offset=".048193"/>
@@ -27,15 +27,15 @@
    <stop id="WL423nm" stop-color="#6B00F8" offset=".13253"/>
    <stop id="WL425nm" stop-color="#6E00FF" offset=".13855"/>
    <stop id="WL427nm" stop-color="#7000FF" offset=".14458"/>
-   <stop id="WL429nm" stop-color="#6E00FF" offset=".15060"/>
+   <stop id="WL429nm" stop-color="#6E00FF" offset=".1506"/>
    <stop id="WL431nm" stop-color="#6C00FF" offset=".15663"/>
    <stop id="WL433nm" stop-color="#6E00FF" offset=".16265"/>
    <stop id="WL435nm" stop-color="#7000FF" offset=".16867"/>
-   <stop id="WL437nm" stop-color="#6F00FF" offset=".17470"/>
+   <stop id="WL437nm" stop-color="#6F00FF" offset=".1747"/>
    <stop id="WL439nm" stop-color="#6C00FF" offset=".18072"/>
    <stop id="WL441nm" stop-color="#6A00FF" offset=".18675"/>
    <stop id="WL443nm" stop-color="#6700FF" offset=".19277"/>
-   <stop id="WL445nm" stop-color="#6700FF" offset=".19880"/>
+   <stop id="WL445nm" stop-color="#6700FF" offset=".1988"/>
    <stop id="WL447nm" stop-color="#6100FF" offset=".20482"/>
    <stop id="WL449nm" stop-color="#5C00FF" offset=".21084"/>
    <stop id="WL451nm" stop-color="#5700FF" offset=".21687"/>
@@ -52,15 +52,15 @@
    <stop id="WL473nm" stop-color="#0070FF" offset=".28313"/>
    <stop id="WL475nm" stop-color="#007FFF" offset=".28916"/>
    <stop id="WL477nm" stop-color="#008DFF" offset=".29518"/>
-   <stop id="WL479nm" stop-color="#009DFF" offset=".30120"/>
+   <stop id="WL479nm" stop-color="#009DFF" offset=".3012"/>
    <stop id="WL481nm" stop-color="#00A3FA" offset=".30723"/>
    <stop id="WL483nm" stop-color="#00B1F5" offset=".31325"/>
    <stop id="WL485nm" stop-color="#00B6ED" offset=".31928"/>
-   <stop id="WL487nm" stop-color="#00BBE6" offset=".32530"/>
+   <stop id="WL487nm" stop-color="#00BBE6" offset=".3253"/>
    <stop id="WL489nm" stop-color="#00C4E1" offset=".33133"/>
    <stop id="WL491nm" stop-color="#00CDDD" offset=".33735"/>
    <stop id="WL493nm" stop-color="#00D6DA" offset=".34337"/>
-   <stop id="WL495nm" stop-color="#00DFD8" offset=".34940"/>
+   <stop id="WL495nm" stop-color="#00DFD8" offset=".3494"/>
    <stop id="WL497nm" stop-color="#00E3D5" offset=".35542"/>
    <stop id="WL499nm" stop-color="#00EBD4" offset=".36145"/>
    <stop id="WL501nm" stop-color="#00F6D5" offset=".36747"/>
@@ -81,7 +81,7 @@
    <stop id="WL531nm" stop-color="#00FF97" offset=".45783"/>
    <stop id="WL533nm" stop-color="#00FF94" offset=".46386"/>
    <stop id="WL535nm" stop-color="#00FF8E" offset=".46988"/>
-   <stop id="WL537nm" stop-color="#00FF8B" offset=".47590"/>
+   <stop id="WL537nm" stop-color="#00FF8B" offset=".4759"/>
    <stop id="WL539nm" stop-color="#00FF82" offset=".48193"/>
    <stop id="WL541nm" stop-color="#00FF7E" offset=".48795"/>
    <stop id="WL543nm" stop-color="#00FF76" offset=".49398"/>
@@ -89,7 +89,7 @@
    <stop id="WL547nm" stop-color="#00FF5C" offset=".50602"/>
    <stop id="WL549nm" stop-color="#00FF46" offset=".51205"/>
    <stop id="WL551nm" stop-color="#00FF24" offset=".51807"/>
-   <stop id="WL553nm" stop-color="#39FF00" offset=".52410"/>
+   <stop id="WL553nm" stop-color="#39FF00" offset=".5241"/>
    <stop id="WL555nm" stop-color="#59FF00" offset=".53012"/>
    <stop id="WL557nm" stop-color="#73FF00" offset=".53614"/>
    <stop id="WL559nm" stop-color="#8AFF00" offset=".54217"/>
@@ -110,15 +110,15 @@
    <stop id="WL589nm" stop-color="#FF9100" offset=".63253"/>
    <stop id="WL591nm" stop-color="#FF8700" offset=".63855"/>
    <stop id="WL593nm" stop-color="#FF7C00" offset=".64458"/>
-   <stop id="WL595nm" stop-color="#FF7000" offset=".65060"/>
+   <stop id="WL595nm" stop-color="#FF7000" offset=".6506"/>
    <stop id="WL597nm" stop-color="#FF6A00" offset=".65663"/>
    <stop id="WL599nm" stop-color="#FF5E00" offset=".66265"/>
    <stop id="WL601nm" stop-color="#f50" offset=".66867"/>
-   <stop id="WL603nm" stop-color="#FF4800" offset=".67470"/>
+   <stop id="WL603nm" stop-color="#FF4800" offset=".6747"/>
    <stop id="WL605nm" stop-color="#FF4100" offset=".68072"/>
    <stop id="WL607nm" stop-color="#f30" offset=".68675"/>
    <stop id="WL609nm" stop-color="#FF2C00" offset=".69277"/>
-   <stop id="WL611nm" stop-color="#FF1200" offset=".69880"/>
+   <stop id="WL611nm" stop-color="#FF1200" offset=".6988"/>
    <stop id="WL613nm" stop-color="#FF0012" offset=".70482"/>
    <stop id="WL615nm" stop-color="#FF0028" offset=".71084"/>
    <stop id="WL617nm" stop-color="#FF002C" offset=".71687"/>
@@ -135,15 +135,15 @@
    <stop id="WL639nm" stop-color="#F3004E" offset=".78313"/>
    <stop id="WL641nm" stop-color="#E80046" offset=".78916"/>
    <stop id="WL643nm" stop-color="#E00046" offset=".79518"/>
-   <stop id="WL645nm" stop-color="#D70043" offset=".80120"/>
+   <stop id="WL645nm" stop-color="#D70043" offset=".8012"/>
    <stop id="WL647nm" stop-color="#CF003E" offset=".80723"/>
    <stop id="WL649nm" stop-color="#C90043" offset=".81325"/>
    <stop id="WL651nm" stop-color="#BF003E" offset=".81928"/>
-   <stop id="WL653nm" stop-color="#B50039" offset=".82530"/>
+   <stop id="WL653nm" stop-color="#B50039" offset=".8253"/>
    <stop id="WL655nm" stop-color="#AF0039" offset=".83133"/>
    <stop id="WL657nm" stop-color="#A9003C" offset=".83735"/>
    <stop id="WL659nm" stop-color="#9D0036" offset=".84337"/>
-   <stop id="WL661nm" stop-color="#970030" offset=".84940"/>
+   <stop id="WL661nm" stop-color="#970030" offset=".8494"/>
    <stop id="WL663nm" stop-color="#8F0030" offset=".85542"/>
    <stop id="WL665nm" stop-color="#880030" offset=".86145"/>
    <stop id="WL667nm" stop-color="#800028" offset=".86747"/>
@@ -164,225 +164,159 @@
    <stop id="WL697nm" stop-color="#300019" offset=".95783"/>
    <stop id="WL699nm" stop-color="#300019" offset=".96386"/>
    <stop id="WL701nm" stop-color="#300019" offset=".96988"/>
-   <stop id="WL703nm" stop-color="#300019" offset=".97590"/>
+   <stop id="WL703nm" stop-color="#300019" offset=".9759"/>
    <stop id="WL705nm" stop-color="#300019" offset=".98193"/>
    <stop id="WL707nm" stop-color="#300019" offset=".98795"/>
    <stop id="WL709nm" stop-color="#300019" offset=".99398"/>
    <stop id="WL710nm" stop-color="#300019" offset="1"/>
   </linearGradient>
  </defs>
- <g id="layer1" transform="translate(4.0001 -83.862)">
-  <path id="rect2160" fill="url(#linearGradient3986)" d="m-3.0001 123.86v120h0.7495 0.0312 3.2164 0.9993 644.05 4.47 112.48v-120h-112.48-4.47-644.05-1.003-3.2164-0.0312-0.7495z"/>
-  <g id="g3640" transform="translate(0,-14)" stroke="#000" fill="none">
-   <path id="path3356" d="m30.094 262.96v19" stroke-width="1.5"/>
-   <path id="path3358" d="m20.242 262.71v9" stroke-width="1px"/>
-   <path id="path3360" d="m10.39 262.71v12" stroke-width="1px"/>
-   <path id="path3362" d="m0.53866 262.71v9" stroke-width="1px"/>
-   <path id="path3372" d="m70.094 262.96v19" stroke-width="1.5"/>
-   <path id="path3374" d="m60.242 262.71v9" stroke-width="1px"/>
-   <path id="path3376" d="m50.39 262.71v12" stroke-width="1px"/>
-   <path id="path3378" d="m40.539 262.71v9" stroke-width="1px"/>
-   <path id="path3382" d="m110.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3384" d="m100.24 262.71v9" stroke-width="1px"/>
-   <path id="path3386" d="m90.39 262.71v12" stroke-width="1px"/>
-   <path id="path3388" d="m80.539 262.71v9" stroke-width="1px"/>
-   <path id="path3392" d="m150.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3394" d="m140.24 262.71v9" stroke-width="1px"/>
-   <path id="path3396" d="m130.39 262.71v12" stroke-width="1px"/>
-   <path id="path3398" d="m120.54 262.71v9" stroke-width="1px"/>
-   <path id="path3402" d="m190.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3404" d="m180.24 262.71v9" stroke-width="1px"/>
-   <path id="path3406" d="m170.39 262.71v12" stroke-width="1px"/>
-   <path id="path3408" d="m160.54 262.71v9" stroke-width="1px"/>
-   <path id="path3412" d="m230.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3414" d="m220.24 262.71v9" stroke-width="1px"/>
-   <path id="path3416" d="m210.39 262.71v12" stroke-width="1px"/>
-   <path id="path3418" d="m200.54 262.71v9" stroke-width="1px"/>
-   <path id="path3422" d="m270.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3424" d="m260.24 262.71v9" stroke-width="1px"/>
-   <path id="path3426" d="m250.39 262.71v12" stroke-width="1px"/>
-   <path id="path3428" d="m240.54 262.71v9" stroke-width="1px"/>
-   <path id="path3432" d="m310.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3434" d="m300.24 262.71v9" stroke-width="1px"/>
-   <path id="path3436" d="m290.39 262.71v12" stroke-width="1px"/>
-   <path id="path3438" d="m280.54 262.71v9" stroke-width="1px"/>
-   <path id="path3442" d="m350.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3444" d="m340.24 262.71v9" stroke-width="1px"/>
-   <path id="path3446" d="m330.39 262.71v12" stroke-width="1px"/>
-   <path id="path3448" d="m320.54 262.71v9" stroke-width="1px"/>
-   <path id="path3452" d="m390.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3454" d="m380.24 262.71v9" stroke-width="1px"/>
-   <path id="path3456" d="m370.39 262.71v12" stroke-width="1px"/>
-   <path id="path3458" d="m360.54 262.71v9" stroke-width="1px"/>
-   <path id="path3462" d="m430.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3464" d="m420.24 262.71v9" stroke-width="1px"/>
-   <path id="path3466" d="m410.39 262.71v12" stroke-width="1px"/>
-   <path id="path3468" d="m400.54 262.71v9" stroke-width="1px"/>
-   <path id="path3472" d="m470.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3474" d="m460.24 262.71v9" stroke-width="1px"/>
-   <path id="path3476" d="m450.39 262.71v12" stroke-width="1px"/>
-   <path id="path3478" d="m440.54 262.71v9" stroke-width="1px"/>
-   <path id="path3482" d="m510.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3484" d="m500.24 262.71v9" stroke-width="1px"/>
-   <path id="path3486" d="m490.39 262.71v12" stroke-width="1px"/>
-   <path id="path3488" d="m480.54 262.71v9" stroke-width="1px"/>
-   <path id="path3492" d="m550.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3494" d="m540.24 262.71v9" stroke-width="1px"/>
-   <path id="path3496" d="m530.39 262.71v12" stroke-width="1px"/>
-   <path id="path3498" d="m520.54 262.71v9" stroke-width="1px"/>
-   <path id="path3502" d="m590.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3504" d="m580.24 262.71v9" stroke-width="1px"/>
-   <path id="path3506" d="m570.39 262.71v12" stroke-width="1px"/>
-   <path id="path3508" d="m560.54 262.71v9" stroke-width="1px"/>
-   <path id="path3512" d="m630.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3514" d="m620.24 262.71v9" stroke-width="1px"/>
-   <path id="path3516" d="m610.39 262.71v12" stroke-width="1px"/>
-   <path id="path3518" d="m600.54 262.71v9" stroke-width="1px"/>
-   <path id="path3522" d="m670.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3524" d="m660.24 262.71v9" stroke-width="1px"/>
-   <path id="path3526" d="m650.39 262.71v12" stroke-width="1px"/>
-   <path id="path3528" d="m640.54 262.71v9" stroke-width="1px"/>
-   <path id="path3532" d="m710.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3534" d="m700.24 262.71v9" stroke-width="1px"/>
-   <path id="path3536" d="m690.39 262.71v12" stroke-width="1px"/>
-   <path id="path3538" d="m680.54 262.71v9" stroke-width="1px"/>
-   <path id="path3542" d="m750.09 262.96v19" stroke-width="1.5"/>
-   <path id="path3544" d="m740.24 262.71v9" stroke-width="1px"/>
-   <path id="path3546" d="m730.39 262.71v12" stroke-width="1px"/>
-   <path id="path3548" d="m720.54 262.71v9" stroke-width="1px"/>
-   <path id="path3558" d="m760.54 262.71v9" stroke-width="1px"/>
+ <g id="layer1" transform="translate(5.8092 -93.435)">
+  <path id="rect2160" fill="url(#linearGradient3986)" d="m-3.0001 123.86v120h766v-120h-766z"/>
+  <g id="g3640" fill="none" stroke="#000" transform="translate(0,-14)">
+   <path id="path3356" stroke-width="1.5" d="m30.094 262.96v19"/>
+   <path id="path3358" stroke-width="1px" d="m20.242 262.71v9"/>
+   <path id="path3360" stroke-width="1px" d="m10.39 262.71v12"/>
+   <path id="path3362" stroke-width="1px" d="m0.53866 262.71v9"/>
+   <path id="path3372" stroke-width="1.5" d="m70.094 262.96v19"/>
+   <path id="path3374" stroke-width="1px" d="m60.242 262.71v9"/>
+   <path id="path3376" stroke-width="1px" d="m50.39 262.71v12"/>
+   <path id="path3378" stroke-width="1px" d="m40.539 262.71v9"/>
+   <path id="path3382" stroke-width="1.5" d="m110.09 262.96v19"/>
+   <path id="path3384" stroke-width="1px" d="m100.24 262.71v9"/>
+   <path id="path3386" stroke-width="1px" d="m90.39 262.71v12"/>
+   <path id="path3388" stroke-width="1px" d="m80.539 262.71v9"/>
+   <path id="path3392" stroke-width="1.5" d="m150.09 262.96v19"/>
+   <path id="path3394" stroke-width="1px" d="m140.24 262.71v9"/>
+   <path id="path3396" stroke-width="1px" d="m130.39 262.71v12"/>
+   <path id="path3398" stroke-width="1px" d="m120.54 262.71v9"/>
+   <path id="path3402" stroke-width="1.5" d="m190.09 262.96v19"/>
+   <path id="path3404" stroke-width="1px" d="m180.24 262.71v9"/>
+   <path id="path3406" stroke-width="1px" d="m170.39 262.71v12"/>
+   <path id="path3408" stroke-width="1px" d="m160.54 262.71v9"/>
+   <path id="path3412" stroke-width="1.5" d="m230.09 262.96v19"/>
+   <path id="path3414" stroke-width="1px" d="m220.24 262.71v9"/>
+   <path id="path3416" stroke-width="1px" d="m210.39 262.71v12"/>
+   <path id="path3418" stroke-width="1px" d="m200.54 262.71v9"/>
+   <path id="path3422" stroke-width="1.5" d="m270.09 262.96v19"/>
+   <path id="path3424" stroke-width="1px" d="m260.24 262.71v9"/>
+   <path id="path3426" stroke-width="1px" d="m250.39 262.71v12"/>
+   <path id="path3428" stroke-width="1px" d="m240.54 262.71v9"/>
+   <path id="path3432" stroke-width="1.5" d="m310.09 262.96v19"/>
+   <path id="path3434" stroke-width="1px" d="m300.24 262.71v9"/>
+   <path id="path3436" stroke-width="1px" d="m290.39 262.71v12"/>
+   <path id="path3438" stroke-width="1px" d="m280.54 262.71v9"/>
+   <path id="path3442" stroke-width="1.5" d="m350.09 262.96v19"/>
+   <path id="path3444" stroke-width="1px" d="m340.24 262.71v9"/>
+   <path id="path3446" stroke-width="1px" d="m330.39 262.71v12"/>
+   <path id="path3448" stroke-width="1px" d="m320.54 262.71v9"/>
+   <path id="path3452" stroke-width="1.5" d="m390.09 262.96v19"/>
+   <path id="path3454" stroke-width="1px" d="m380.24 262.71v9"/>
+   <path id="path3456" stroke-width="1px" d="m370.39 262.71v12"/>
+   <path id="path3458" stroke-width="1px" d="m360.54 262.71v9"/>
+   <path id="path3462" stroke-width="1.5" d="m430.09 262.96v19"/>
+   <path id="path3464" stroke-width="1px" d="m420.24 262.71v9"/>
+   <path id="path3466" stroke-width="1px" d="m410.39 262.71v12"/>
+   <path id="path3468" stroke-width="1px" d="m400.54 262.71v9"/>
+   <path id="path3472" stroke-width="1.5" d="m470.09 262.96v19"/>
+   <path id="path3474" stroke-width="1px" d="m460.24 262.71v9"/>
+   <path id="path3476" stroke-width="1px" d="m450.39 262.71v12"/>
+   <path id="path3478" stroke-width="1px" d="m440.54 262.71v9"/>
+   <path id="path3482" stroke-width="1.5" d="m510.09 262.96v19"/>
+   <path id="path3484" stroke-width="1px" d="m500.24 262.71v9"/>
+   <path id="path3486" stroke-width="1px" d="m490.39 262.71v12"/>
+   <path id="path3488" stroke-width="1px" d="m480.54 262.71v9"/>
+   <path id="path3492" stroke-width="1.5" d="m550.09 262.96v19"/>
+   <path id="path3494" stroke-width="1px" d="m540.24 262.71v9"/>
+   <path id="path3496" stroke-width="1px" d="m530.39 262.71v12"/>
+   <path id="path3498" stroke-width="1px" d="m520.54 262.71v9"/>
+   <path id="path3502" stroke-width="1.5" d="m590.09 262.96v19"/>
+   <path id="path3504" stroke-width="1px" d="m580.24 262.71v9"/>
+   <path id="path3506" stroke-width="1px" d="m570.39 262.71v12"/>
+   <path id="path3508" stroke-width="1px" d="m560.54 262.71v9"/>
+   <path id="path3512" stroke-width="1.5" d="m630.09 262.96v19"/>
+   <path id="path3514" stroke-width="1px" d="m620.24 262.71v9"/>
+   <path id="path3516" stroke-width="1px" d="m610.39 262.71v12"/>
+   <path id="path3518" stroke-width="1px" d="m600.54 262.71v9"/>
+   <path id="path3522" stroke-width="1.5" d="m670.09 262.96v19"/>
+   <path id="path3524" stroke-width="1px" d="m660.24 262.71v9"/>
+   <path id="path3526" stroke-width="1px" d="m650.39 262.71v12"/>
+   <path id="path3528" stroke-width="1px" d="m640.54 262.71v9"/>
+   <path id="path3532" stroke-width="1.5" d="m710.09 262.96v19"/>
+   <path id="path3534" stroke-width="1px" d="m700.24 262.71v9"/>
+   <path id="path3536" stroke-width="1px" d="m690.39 262.71v12"/>
+   <path id="path3538" stroke-width="1px" d="m680.54 262.71v9"/>
+   <path id="path3542" stroke-width="1.5" d="m750.09 262.96v19"/>
+   <path id="path3544" stroke-width="1px" d="m740.24 262.71v9"/>
+   <path id="path3546" stroke-width="1px" d="m730.39 262.71v12"/>
+   <path id="path3548" stroke-width="1px" d="m720.54 262.71v9"/>
+   <path id="path3558" stroke-width="1px" d="m760.54 262.71v9"/>
   </g>
-  <text id="text3719" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="6px" y="266.32227" x="10.245346" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3721" x="10.245346" y="266.32227">390</tspan>
-    </text>
-  <text id="text3723" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="277.68423" x="29.570499" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3725" x="29.570499" y="277.68423">400</tspan>
-    </text>
-  <text id="text3727" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="277.68423" x="230.15945" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3729" y="277.68423" x="230.15945">500</tspan>
-    </text>
-  <text id="text3731" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="269.68423" x="130.15945" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3733" font-size="8px" y="269.68423" x="130.15945">450</tspan>
-    </text>
-  <text id="text3735" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="277.68423" x="430.15945" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3737" x="430.15945" y="277.68423">600</tspan>
-    </text>
-  <text id="text3739" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="269.68423" x="330.15945" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3741" font-size="8px" y="269.68423" x="330.15945">550</tspan>
-    </text>
-  <text id="text3743" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="277.68423" x="630.15942" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3745" y="277.68423" x="630.15942">700</tspan>
-    </text>
-  <text id="text3747" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="269.68423" x="530.15942" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3749" font-size="8px" y="269.68423" x="530.15942">650</tspan>
-    </text>
-  <text id="text3755" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="269.68423" x="730.15942" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3757" font-size="8px" y="269.68423" x="730.15942">750</tspan>
-    </text>
+  <text id="text3719" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="6px" y="266.32227" x="10.245346" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3721" y="266.32227" x="10.245346">390</tspan>     </text>
+  <text id="text3723" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="277.68423" x="29.570499" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3725" y="277.68423" x="29.570499">400</tspan>     </text>
+  <text id="text3727" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="277.68423" x="230.15945" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3729" y="277.68423" x="230.15945">500</tspan>     </text>
+  <text id="text3731" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="269.68423" x="130.15945" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3733" y="269.68423" x="130.15945" font-size="8px">450</tspan>     </text>
+  <text id="text3735" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="277.68423" x="430.15945" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3737" y="277.68423" x="430.15945">600</tspan>     </text>
+  <text id="text3739" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="269.68423" x="330.15945" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3741" y="269.68423" x="330.15945" font-size="8px">550</tspan>     </text>
+  <text id="text3743" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="277.68423" x="630.15942" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3745" y="277.68423" x="630.15942">700</tspan>     </text>
+  <text id="text3747" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="269.68423" x="530.15942" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3749" y="269.68423" x="530.15942" font-size="8px">650</tspan>     </text>
+  <text id="text3755" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="269.68423" x="730.15942" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3757" y="269.68423" x="730.15942" font-size="8px">750</tspan>     </text>
   <path id="path3759" d="m16.025 243.36v-128" stroke="#000" stroke-width="2" fill="none"/>
-  <text id="text3761" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="14.247432" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3763" x="14.247432" y="109.39581">K</tspan>
-    </text>
+  <text id="text3761" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="14.247432" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3763" y="109.39581" x="14.247432">K</tspan>     </text>
   <path id="path3772" d="m24.025 243.36v-128" stroke="#000" stroke-width="2" fill="none"/>
-  <text id="text3774" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="26.247433" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3776" y="109.39581" x="26.247433">H</tspan>
-    </text>
+  <text id="text3774" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="26.247433" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3776" y="109.39581" x="26.247433">H</tspan>     </text>
   <path id="path3780" d="m92.025 243.36v-128" stroke="#000" stroke-width="2" fill="none"/>
-  <text id="text3782" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="90.247429" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3784" x="90.247429" y="109.39581">G</tspan>
-    </text>
+  <text id="text3782" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="90.247429" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3784" y="109.39581" x="90.247429">G</tspan>     </text>
   <path id="path3788" d="m202.02 243.36v-128" stroke="#000" stroke-width="2" fill="none"/>
-  <text id="text3790" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="201.05756" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3792" y="109.39581" x="201.05756">F</tspan>
-    </text>
+  <text id="text3790" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="201.05756" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3792" y="109.39581" x="201.05756">F</tspan>     </text>
   <path id="path3796" d="m284.02 243.36v-128" stroke="#000" stroke-width="2" fill="none"/>
-  <text id="text3798" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="283.05756" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3800" x="283.05756" y="109.39581">E</tspan>
-    </text>
+  <text id="text3798" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="283.05756" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3800" y="109.39581" x="283.05756">E</tspan>     </text>
   <path id="path3804" d="m406.02 243.36v-128" stroke="#000" stroke-width="2" fill="none"/>
-  <text id="text3806" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="404.24744" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3808" y="109.39581" x="404.24744"/>
-    </text>
+  <text id="text3806" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="404.24744" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3808" y="109.39581" x="404.24744"/>     </text>
   <path id="path3812" d="m410.02 243.36v-128" stroke="#000" stroke-width="2" fill="none"/>
-  <text id="text3814" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="106.55702" x="408.24744" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3816" x="408.24744" y="106.55702">D</tspan>
-    </text>
+  <text id="text3814" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="106.55702" x="408.24744" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3816" y="106.55702" x="408.24744">D</tspan>     </text>
   <path id="path3820" d="m544.02 243.36v-128" stroke="#000" stroke-width="2" fill="none"/>
-  <text id="text3822" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="543.86768" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3824" y="109.39581" x="543.86768">C</tspan>
-    </text>
+  <text id="text3822" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="543.86768" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3824" y="109.39581" x="543.86768">C</tspan>     </text>
   <path id="path3828" d="m604.02 243.36v-128" stroke="#000" stroke-width="2" fill="none"/>
-  <text id="text3830" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="603.05756" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3832" x="603.05756" y="109.39581">B</tspan>
-    </text>
+  <text id="text3830" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="603.05756" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3832" y="109.39581" x="603.05756">B</tspan>     </text>
   <path id="path3836" d="m750.02 243.36v-128" stroke="#000" stroke-width="2" fill="none"/>
-  <text id="text3838" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="749.05756" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3840" y="109.39581" x="749.05756">A</tspan>
-    </text>
-  <text id="text3912" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="298.71024" x="380.47015" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3914" x="380.47015" y="298.71024">wavelength in nm</tspan>
-    </text>
+  <text id="text3838" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="109.39581" x="749.05756" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3840" y="109.39581" x="749.05756">A</tspan>     </text>
+  <text id="text3912" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="18px" y="298.71024" x="380.47015" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3914" y="298.71024" x="380.47015">wavelength in nm</tspan>     </text>
   <path id="path3916" d="m6.0249 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path3918" d="m51.116 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text3920" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="51.018116" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3922" x="51.018116" y="116.62811">h</tspan>
-    </text>
+  <text id="text3920" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="51.018116" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3922" y="116.62811" x="51.018116">h</tspan>     </text>
   <path id="path3924" d="m73.116 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text3926" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="73.018112" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3928" y="116.62811" x="73.018112">g</tspan>
-    </text>
+  <text id="text3926" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="73.018112" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3928" y="116.62811" x="73.018112">g</tspan>     </text>
   <path id="path3930" d="m98.48 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text3932" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="98.382202" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3934" x="98.382202" y="116.62811">f</tspan>
-    </text>
+  <text id="text3932" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="98.382202" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3934" y="116.62811" x="98.382202">f</tspan>     </text>
   <path id="path3936" d="m106.93 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text3938" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="106.8369" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3940" y="116.62811" x="106.8369">e</tspan>
-    </text>
+  <text id="text3938" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="106.8369" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3940" y="116.62811" x="106.8369">e</tspan>     </text>
   <path id="path3942" d="m162.48 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text3944" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="162.38222" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3946" x="162.38222" y="116.62811">d</tspan>
-    </text>
+  <text id="text3944" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="162.38222" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3946" y="116.62811" x="162.38222">d</tspan>     </text>
   <path id="path3948" d="m182.48 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text3950" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="182.38222" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3952" y="116.62811" x="182.38222">h</tspan>
-    </text>
+  <text id="text3950" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="182.38222" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3952" y="116.62811" x="182.38222">h</tspan>     </text>
   <path id="path3954" d="m221.16 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text3956" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="221.06424" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3958" x="221.06424" y="116.62811">c</tspan>
-    </text>
+  <text id="text3956" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="221.06424" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3958" y="116.62811" x="221.06424">c</tspan>     </text>
   <path id="path3960" d="m246.07 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text3962" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="245.9736" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3964" y="116.62811" x="245.9736">h</tspan>
-    </text>
+  <text id="text3962" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="245.9736" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3964" y="116.62811" x="245.9736">h</tspan>     </text>
   <path id="path3966" d="m264.3 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text3968" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="110.59108" x="265.33774" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan3970" x="265.33774" y="110.59108">b</tspan>
-    </text>
+  <text id="text3968" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="110.59108" x="265.33774" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan3970" y="110.59108" x="265.33774">b</tspan>     </text>
   <path id="path3972" d="m266.53 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path3978" d="m304.53 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path3984" d="m329.84 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path3990" d="m338.3 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path3996" d="m384.53 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path4002" d="m484.53 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text4004" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="484.42831" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan4006" x="484.42831" y="116.62811">a</tspan>
-    </text>
+  <text id="text4004" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="10px" y="116.62811" x="484.42831" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan4006" y="116.62811" x="484.42831">a</tspan>     </text>
   <path id="path4008" d="m521.21 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path4014" d="m550.57 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path4020" d="m566.57 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path4026" d="m610.34 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path4032" d="m663.66 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
   <path id="path4038" d="m694.57 243.99v-124.27" stroke="#000" stroke-width=".75" fill="none"/>
-  <text id="text4050" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="6px" y="117.39909" x="265.56509" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan4052" y="117.39909" x="265.56509">4-1</tspan>
-    </text>
-  <text id="text4054" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="6px" y="117.39909" x="267.9736" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan4056" x="267.9736" y="117.39909"/>
-    </text>
-  <text id="text4058" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="6px" y="113.27621" x="408.06601" font-family="DejaVu Sans" fill="#000000">
-      <tspan id="tspan4060" x="408.06601" y="113.27621">3-1</tspan>
-    </text>
+  <text id="text4050" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="6px" y="117.39909" x="265.56509" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan4052" y="117.39909" x="265.56509">4-1</tspan>     </text>
+  <text id="text4054" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="6px" y="117.39909" x="267.9736" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan4056" y="117.39909" x="267.9736"/>     </text>
+  <text id="text4058" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="6px" y="113.27621" x="408.06601" font-family="DejaVu Sans" fill="#000000">       <tspan id="tspan4060" y="113.27621" x="408.06601">3-1</tspan>     </text>
  </g>
  <metadata>
   <rdf:RDF>

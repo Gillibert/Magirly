@@ -1,90 +1,70 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="325" width="442" version="1.0">
- <g id="layer1">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 365.26 284.18" version="1.0">
+ <g id="layer1" transform="translate(-38.373 -20.662)">
   <path id="path3517" d="m129.99 93.391v-26.273" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path3515" d="m126.21 91.784v-23.059" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3513" d="m84.479 67.118l22.781-13.137 22.73 13.137" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3511" d="m84.479 93.391l22.781 13.139 22.73-13.139" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3513" d="m84.479 67.118 22.781-13.137 22.73 13.137" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3511" d="m84.479 93.391 22.781 13.139 22.73-13.139" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path3509" d="m84.479 93.391v-26.273" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path3507" d="m88.26 91.784v-23.059" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path3524" d="m109.15 54.964v-20.546" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path3505" d="m105.37 54.964v-20.546" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path3501" d="m105.37 105.59v20.5" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path3499" d="m109.15 105.59v20.5" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3497" d="m38.973 67.118l16.208-9.356" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3495" d="m84.479 67.118l-16.114-9.309" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3493" d="m38.973 93.391l16.208 9.359" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3491" d="m84.479 93.391l-16.114 9.309" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3489" d="m129.99 93.391l22.77 13.139" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3487" d="m198.27 54.029l-22.78 13.136-22.73-13.184-22.77 13.137" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3485" d="m195.01 51.571l-19.99 11.483" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3483" d="m289.28 54.076l-22.77 13.136-22.73-13.183-22.78 13.136-22.73-13.136" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3481" d="m286.02 51.619l-19.99 11.53" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3479" d="m380.3 54.123l-22.78 13.137-22.73-13.137-22.78 13.089-22.73-13.136" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3477" d="m377.04 51.666l-19.99 11.53" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3475" d="m403.03 67.307l-22.73-13.184" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3497" d="m38.973 67.118 16.208-9.356" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3495" d="m84.479 67.118-16.114-9.309" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3493" d="m38.973 93.391 16.208 9.359" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3491" d="m84.479 93.391-16.114 9.309" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3489" d="m129.99 93.391 22.77 13.139" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3487" d="m198.27 54.029-22.78 13.136-22.73-13.184-22.77 13.137" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3485" d="m195.01 51.571-19.99 11.483" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3483" d="m289.28 54.076-22.77 13.136-22.73-13.183-22.78 13.136-22.73-13.136" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3481" d="m286.02 51.619-19.99 11.53" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3479" d="m380.3 54.123-22.78 13.137-22.73-13.137-22.78 13.089-22.73-13.136" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3477" d="m377.04 51.666-19.99 11.53" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path3475" d="m403.03 67.307-22.73-13.184" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path3473" d="m198.27 54.029v-26.274" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path3471" d="m289.28 54.076v-26.273" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path2311" d="m380.3 54.123l0.04-26.273" stroke="#000" stroke-width="1.2" fill="none"/>
-  <text id="text3464" xml:space="preserve" font-size="99px" y="33.230251" x="100.22526" font-family="Arial" fill="#ff0000">
-      <tspan id="tspan3466" font-size="18px" y="33.230251" x="100.22526" fill="#ff0000">O</tspan>
-    </text>
-  <text id="text3526" xml:space="preserve" font-size="99px" y="140.10974" x="100.22526" font-family="Arial" fill="#ff0000">
-      <tspan id="tspan3528" font-size="18px" y="140.10974" x="100.22526" fill="#ff0000">O</tspan>
-    </text>
-  <text id="text3532" xml:space="preserve" font-size="99px" y="60.170437" x="54.730038" font-family="Arial" fill="#000000">
-      <tspan id="tspan3534" y="60.170437" x="54.730038" font-size="18px">O</tspan>
-    </text>
-  <text id="text3537" xml:space="preserve" font-size="99px" y="113.92043" x="54.730038" font-family="Arial" fill="#000000">
-      <tspan id="tspan3539" y="113.92043" x="54.730038" font-size="18px">O</tspan>
-    </text>
+  <path id="path2311" d="m380.3 54.123 0.04-26.273" stroke="#000" stroke-width="1.2" fill="none"/>
+  <text id="text3464" xml:space="preserve" font-size="99px" y="33.230251" x="100.22526" font-family="Arial" fill="#ff0000">       <tspan id="tspan3466" font-size="18px" y="33.230251" x="100.22526" fill="#ff0000">O</tspan>     </text>
+  <text id="text3526" xml:space="preserve" font-size="99px" y="140.10974" x="100.22526" font-family="Arial" fill="#ff0000">       <tspan id="tspan3528" font-size="18px" y="140.10974" x="100.22526" fill="#ff0000">O</tspan>     </text>
+  <text id="text3532" xml:space="preserve" font-size="99px" y="60.170437" x="54.730038" font-family="Arial" fill="#000000">       <tspan id="tspan3534" y="60.170437" x="54.730038" font-size="18px">O</tspan>     </text>
+  <text id="text3537" xml:space="preserve" font-size="99px" y="113.92043" x="54.730038" font-family="Arial" fill="#000000">       <tspan id="tspan3539" y="113.92043" x="54.730038" font-size="18px">O</tspan>     </text>
   <path id="path8245" d="m129.99 257.94v-26.27" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path8243" d="m126.21 256.33v-23.06" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8241" d="m107.26 218.53l22.73 13.14" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8239" d="m107.26 271.08l22.73-13.14" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8237" d="m84.479 231.67l22.781-13.14" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8235" d="m87.787 234.12l19.943-11.53" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8233" d="m84.479 257.94l22.781 13.14" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8231" d="m87.787 255.48l19.943 11.53" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8241" d="m107.26 218.53 22.73 13.14" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8239" d="m107.26 271.08 22.73-13.14" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8237" d="m84.479 231.67 22.781-13.14" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8235" d="m87.787 234.12 19.943-11.53" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8233" d="m84.479 257.94 22.781 13.14" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8231" d="m87.787 255.48 19.943 11.53" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path8229" d="m84.479 257.94v-26.27" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path8227" d="m107.26 218.53v-19.56" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path8225" d="m107.26 271.08v19.56" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8223" d="m38.973 231.67l16.208-9.36" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8221" d="m84.479 231.67l-16.114-9.31" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8219" d="m38.973 257.94l16.208 9.36" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8217" d="m84.479 257.94l-16.114 9.31" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8215" d="m129.99 257.94l22.77 13.14" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8213" d="m198.27 218.58l-22.78 13.13-22.73-13.18-22.77 13.14" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8211" d="m195.01 216.12l-19.99 11.48" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8209" d="m289.28 218.63l-22.77 13.13-22.73-13.18-22.78 13.13-22.73-13.13" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8207" d="m286.02 216.17l-19.99 11.53" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8205" d="m380.3 218.67l-22.78 13.14-22.73-13.14-22.78 13.09-22.73-13.13" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8203" d="m377.04 216.22l-19.99 11.53" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path8201" d="m403.03 231.86l-22.73-13.19" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8223" d="m38.973 231.67 16.208-9.36" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8221" d="m84.479 231.67-16.114-9.31" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8219" d="m38.973 257.94 16.208 9.36" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8217" d="m84.479 257.94-16.114 9.31" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8215" d="m129.99 257.94 22.77 13.14" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8213" d="m198.27 218.58-22.78 13.13-22.73-13.18-22.77 13.14" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8211" d="m195.01 216.12-19.99 11.48" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8209" d="m289.28 218.63-22.77 13.13-22.73-13.18-22.78 13.13-22.73-13.13" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8207" d="m286.02 216.17-19.99 11.53" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8205" d="m380.3 218.67-22.78 13.14-22.73-13.14-22.78 13.09-22.73-13.13" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8203" d="m377.04 216.22-19.99 11.53" stroke="#000" stroke-width="1.2" fill="none"/>
+  <path id="path8201" d="m403.03 231.86-22.73-13.19" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path8199" d="m198.27 218.58v-26.27" stroke="#000" stroke-width="1.2" fill="none"/>
   <path id="path8197" d="m289.28 218.63v-26.28" stroke="#000" stroke-width="1.2" fill="none"/>
-  <path id="path3581" d="m380.3 218.67l0.04-26.27" stroke="#000" stroke-width="1.2" fill="none"/>
-  <text id="text4830" xml:space="preserve" font-size="99px" y="224.99185" x="54.730038" font-family="Arial" fill="#000000">
-      <tspan id="tspan4832" y="224.99185" x="54.730038" font-size="18px">O</tspan>
-    </text>
-  <text id="text4834" xml:space="preserve" font-size="99px" y="278.36304" x="54.730038" font-family="Arial" fill="#000000">
-      <tspan id="tspan4836" y="278.36304" x="54.730038" font-size="18px">O</tspan>
-    </text>
-  <text id="text4841" xml:space="preserve" font-size="99px" y="197.78381" x="100.22526" font-family="Arial" fill="#ff0000">
-      <tspan id="tspan4843" font-size="18px" y="197.78381" x="100.22526" fill="#ff0000">OH</tspan>
-    </text>
-  <text id="text4845" xml:space="preserve" font-size="99px" y="304.6633" x="100.22526" font-family="Arial" fill="#ff0000">
-      <tspan id="tspan4847" font-size="18px" y="304.6633" x="100.22526" fill="#ff0000">OH</tspan>
-    </text>
-  <path id="path6997" d="m233.61 166.65l-4.97-2.37 4.97 8.3 4.97-8.3-4.97 2.37z" fill-rule="evenodd" stroke="#000" stroke-width=".68676pt"/>
+  <path id="path3581" d="m380.3 218.67 0.04-26.27" stroke="#000" stroke-width="1.2" fill="none"/>
+  <text id="text4830" xml:space="preserve" font-size="99px" y="224.99185" x="54.730038" font-family="Arial" fill="#000000">       <tspan id="tspan4832" y="224.99185" x="54.730038" font-size="18px">O</tspan>     </text>
+  <text id="text4834" xml:space="preserve" font-size="99px" y="278.36304" x="54.730038" font-family="Arial" fill="#000000">       <tspan id="tspan4836" y="278.36304" x="54.730038" font-size="18px">O</tspan>     </text>
+  <text id="text4841" xml:space="preserve" font-size="99px" y="197.78381" x="100.22526" font-family="Arial" fill="#ff0000">       <tspan id="tspan4843" font-size="18px" y="197.78381" x="100.22526" fill="#ff0000">OH</tspan>     </text>
+  <text id="text4845" xml:space="preserve" font-size="99px" y="304.6633" x="100.22526" font-family="Arial" fill="#ff0000">       <tspan id="tspan4847" font-size="18px" y="304.6633" x="100.22526" fill="#ff0000">OH</tspan>     </text>
+  <path id="path6997" d="m233.61 166.65-4.97-2.37 4.97 8.3 4.97-8.3-4.97 2.37z" fill-rule="evenodd" stroke="#000" stroke-width=".68676pt"/>
   <path id="path7000" d="m233.61 91.211v81.199" stroke="#000" stroke-width="1.1997" fill="none"/>
-  <text id="text7972" xml:space="preserve" font-size="18px" y="141.69122" x="253.22621" font-family="Arial" fill="#000000">
-      <tspan id="tspan7974" y="141.69122" x="253.22621" font-size="24px">2 e</tspan>
-    </text>
+  <text id="text7972" xml:space="preserve" font-size="18px" y="141.69122" x="253.22621" font-family="Arial" fill="#000000">       <tspan id="tspan7974" y="141.69122" x="253.22621" font-size="24px">2 e</tspan>     </text>
   <path id="text7984" d="m288.29 126.61v-1.41h11.12v1.41h-11.12z"/>
-  <text id="text7989" xml:space="preserve" font-size="18px" y="141.69122" x="306.61685" font-family="Arial" fill="#000000">
-      <tspan id="tspan7991" font-size="24px" dy="1.0101526 -1.0101526" y="141.69122" x="306.61685">+ 2 H<tspan id="tspan7998" font-size="20px"/></tspan>
-    </text>
+  <text id="text7989" xml:space="preserve" font-size="18px" y="141.69122" x="306.61685" font-family="Arial" fill="#000000">       <tspan id="tspan7991" font-size="24px" dy="1.0101526 -1.0101526" y="141.69122" x="306.61685">+ 2 H<tspan id="tspan7998" font-size="20px"/></tspan>     </text>
   <path id="text8000" d="m370.21 130.16v-3.53h-3.5v-1.48h3.5v-3.5h1.5v3.5h3.5v1.48h-3.5v3.53h-1.5z"/>
  </g>
  <metadata>

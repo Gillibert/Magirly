@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg3075" height="325" width="550" version="1.1" preserveAspectRatio="none" viewBox="0 0 550 325">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg3075" height="307.3" viewBox="0 0 536.62939 307.29764" width="536.63" version="1.1" preserveAspectRatio="none">
  <style id="style3077" type="text/css">text {
 	font-family : Verdana, Tahoma, sans-serif;
 	font-size : 11px;
@@ -16,9 +16,9 @@
  <desc id="desc3079">Usage share of Netscape Navigator</desc>
  <defs id="defs3081">
   <line id="horizontal_line" stroke-width="25" x2="2e3" x1="-1e4"/>
-  <line id="vertical_line" stroke-width="25" y2="-100" y1="100" x2="0"/>
+  <line id="vertical_line" stroke-width="25" y2="-100" x2="0" y1="100"/>
  </defs>
- <g id="g3085" transform="translate(55,50)">
+ <g id="g3085" transform="translate(43.357 36.019)">
   <g id="g3087" transform="matrix(.04 0 0 -.04 400 250)">
    <use id="use3089" xlink:href="#horizontal_line" height="275" width="550" stroke="#000000" y="0" x="0"/>
    <g id="g3091" stroke="#ccc">
@@ -41,9 +41,9 @@
     <use id="use3121" xlink:href="#vertical_line" height="275" width="550" y="0" x="1000"/>
     <use id="use3123" xlink:href="#vertical_line" height="275" width="550" y="0" x="2000"/>
    </g>
-   <path id="path3125" d="m-1e4 0v4l2e3 1h1e3 1e3 1e3l1e3 2 1e3 7 1e3 13 1e3 23 250 10 250 40 100 60 200-10 201 20 199 20h200 100l100 10 100 10 100 10 100 6 100 84 100-9 100 59 50 40 50-40 40 83 60-93 100 75 100 120 50-75 50 130 50 190 50 190 50 280 50 390 10 100 10 110 10 210 10 230 10 100 10 620 10 680 4 300 6 430 7 570 3 260 10 810 0.5 430 0.25 247.5 0.45 252.5 0.1 0.025v-7e3z" stroke="#000" stroke-width="20" fill="#555"/>
+   <path id="path3125" d="m-1e4 0v4l2e3 1h3e3l1e3 2 1e3 7 1e3 13 1e3 23 250 10 250 40 100 60 200-10 201 20 199 20h300l100 10 100 10 100 10 100 6 100 84 100-9 100 59 50 40 50-40 40 83 60-93 100 75 100 120 50-75 50 130 50 190 50 190 50 280 50 390 10 100 10 110 10 210 10 230 10 100 10 620 10 680 4 300 6 430 7 570 3 260 10 810 0.5 430 0.25 247.5 0.45 252.5 0.1 0.025v-7e3z" stroke="#000" stroke-width="20" fill="#555"/>
   </g>
-  <text id="text3127" style="text-anchor:middle" transform="matrix(0,-1,1,0,-160,120)" font-size="11px" y="125" x="0" font-family="'Verdana, Tahoma, sans-serif'" fill="#000000">World population, billions</text>
+  <text id="text3127" style="text-anchor:middle" font-size="11px" transform="matrix(0,-1,1,0,-160,120)" y="125" x="0" font-family="'Verdana, Tahoma, sans-serif'" fill="#000000">World population, billions</text>
   <g id="percentage_numbers" style="text-anchor:end" font-size="11px" transform="translate(-10,2)" font-family="'Verdana, Tahoma, sans-serif'" fill="#000000">
    <text id="text3130" style="text-anchor:end" y="250" x="0">0</text>
    <text id="text3132" style="text-anchor:end" y="210" x="0">1</text>

@@ -1,765 +1,438 @@
 <?xml version="1.0"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" id="svg2" font-size="12" height="2e3" stroke="black" stroke-linecap="square" sodipodi:docbase="/home/rws" style="color-interpolation:auto;image-rendering:auto;text-rendering:auto;color-rendering:auto;shape-rendering:auto" fill="black" width="744.09" version="1.0" stroke-miterlimit="10" sodipodi:docname="t.svg" font-family="'Dialog'" sodipodi:version="0.32">
- <sodipodi:namedview id="base" bordercolor="#666666" pagecolor="#ffffff" width="744.09448px" borderopacity="1.0" height="2000px"/>
- <text id="text3744" line-height="100%" xml:space="preserve" font-size="18px" y="1688.9399" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan3746" sodipodi:role="line" x="70.955795" y="1688.9399">Cefalotin</tspan>
-  </text>
- <text id="text4153" line-height="100%" xml:space="preserve" font-size="18px" y="1480.5552" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan4157" sodipodi:role="line" x="70.955795" y="1480.5552">Cefazolin</tspan>
-  </text>
- <text id="text4763" line-height="100%" xml:space="preserve" font-size="18px" y="768.16382" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan4767" sodipodi:role="line" x="70.955795" y="768.16382">Cefaclor</tspan>
-  </text>
- <text id="text5012" line-height="100%" xml:space="preserve" font-size="18px" y="863.15753" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan5014" sodipodi:role="line" x="70.955795" y="863.15753">Cefalexin</tspan>
-  </text>
- <text id="text5195" line-height="100%" xml:space="preserve" font-size="18px" y="958.09863" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan5197" sodipodi:role="line" x="70.955795" y="958.09863">Cefadroxil</tspan>
-  </text>
- <text id="text5938" line-height="100%" xml:space="preserve" font-size="18px" y="446.89478" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan5940" sodipodi:role="line" x="70.955795" y="446.89478">Cefradin</tspan>
-  </text>
- <text id="text6257" line-height="100%" xml:space="preserve" font-size="18px" y="373.3916" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan6259" sodipodi:role="line" x="70.955795" y="373.3916">Cefacetril</tspan>
-  </text>
- <text id="text8247" line-height="100%" xml:space="preserve" font-size="18px" y="659.65533" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan8249" sodipodi:role="line" x="70.955795" y="659.65533">Cefaloglycin</tspan>
-  </text>
- <text id="text8711" line-height="100%" xml:space="preserve" font-size="18px" y="1889.6328" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan8713" sodipodi:role="line" x="70.955795" y="1889.6328">Cefalonium</tspan>
-  </text>
- <text id="text9283" line-height="100%" xml:space="preserve" font-size="18px" y="1781.4659" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan9285" sodipodi:role="line" x="70.955795" y="1781.4659">Cefaloridin</tspan>
-  </text>
- <text id="text9647" line-height="100%" xml:space="preserve" font-size="18px" y="1291.8378" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan9649" sodipodi:role="line" x="70.955795" y="1291.8378">Cefapirin</tspan>
-  </text>
- <rect id="rect9998" height="16" width="13" y="863.07" x="435.1" fill="#fff"/>
- <rect id="rect10000" height="16" width="13" y="863.07" x="435.1" fill="#fff"/>
- <text id="text10096" line-height="100%" xml:space="preserve" font-size="18px" y="1067.8334" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan10098" sodipodi:role="line" x="70.955795" y="1067.8334">Cefatrizin</tspan>
-  </text>
- <text id="text10505" line-height="100%" xml:space="preserve" font-size="18px" y="1586.7449" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan10507" sodipodi:role="line" x="70.955795" y="1586.7449">Cefazaflur</tspan>
-  </text>
- <text id="text10944" line-height="100%" xml:space="preserve" font-size="18px" y="1177.1556" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan10946" sodipodi:role="line" x="70.955795" y="1177.1556">Cefazedon</tspan>
-  </text>
- <text id="text11283" line-height="100%" xml:space="preserve" font-size="18px" y="553.72491" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan11285" sodipodi:role="line" x="70.955795" y="553.72491">Cefroxadin</tspan>
-  </text>
- <text id="text11692" line-height="100%" xml:space="preserve" font-size="18px" y="1386.457" x="70.955795" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan11694" sodipodi:role="line" x="70.955795" y="1386.457">Ceftezol</tspan>
-  </text>
- <polygon id="polygon11698" points="337 990 339 990 339 1026 337 1026" transform="matrix(.50547 0 0 1 220.63 -886.06)"/>
- <polygon id="polygon11700" points="302 1025 302 1027 338 1027 338 1025" transform="matrix(1 0 0 .50547 53.483 -379.17)"/>
- <polygon id="polygon11702" points="397 1042 398 1043 363 1052 362 1051" transform="matrix(.71528 0 0 0.795 166.8 -672.45)"/>
- <polygon id="polygon11708" points="302 989 302 991 338 991 338 989" transform="matrix(.77223 0 0 .58789 130.47 -478.48)"/>
- <polygon id="polygon11710" points="301 1026 303 1026 303 990 301 990" transform="matrix(.50547 0 0 .80639 202.34 -687.42)"/>
- <polygon id="polygon11714" points="403 1007 404 1008 395 1043 394 1042" transform="matrix(.89067 0 0 .84487 96.56 -724.1)"/>
- <polygon id="polygon11716" points="408 1008 409 1009 400 1044 399 1043" transform="matrix(.89067 0 0 .84487 96.56 -724.1)"/>
- <polygon id="polygon11718" points="423 1067 422 1068 397 1043 398 1042" transform="matrix(.75894 0 0 .82237 149.19 -700.97)"/>
- <polygon id="polygon11720" points="270 972 269 973 301 991 302 990" transform="matrix(.80122 0 0 .74106 106.96 -634.37)"/>
- <polygon id="polygon11722" points="239 1026 238 1027 269 1045 270 1044" transform="matrix(.82063 0 0 .80579 96.174 -686.8)"/>
- <polygon id="polygon11726" points="269 972 270 973 239 991 238 990" transform="translate(53.483 -886.06)"/>
- <polygon id="polygon11728" points="270 980 271 981 244 997 243 996" transform="translate(53.483 -886.06)"/>
- <polygon id="polygon11730" points="269 936 271 936 271 972 269 972" transform="matrix(.50547 0 0 1 186.51 -886.06)"/>
- <polygon id="polygon11732" points="238 990 240 990 240 1026 238 1026" transform="matrix(.67031 0 0 1 131.95 -886.06)"/>
- <polygon id="polygon11740" points="208 972 207 973 238 991 239 990" transform="matrix(.74376 0 0 .87053 114.73 -757.75)"/>
- <polygon id="polygon11742" points="239 918 238 919 269 937 270 936" transform="matrix(.70532 0 0 .78422 133.05 -683.87)"/>
- <polygon id="polygon11744" points="299 916 300 917 268 935 267 934" transform="matrix(.64695 0 0 .72667 147.75 -629.13)"/>
- <polygon id="polygon11746" points="302 921 303 922 271 940 270 939" transform="matrix(.64695 0 0 .72667 147.75 -629.13)"/>
- <text id="text11810" line-height="100%" xml:space="preserve" font-size="18px" y="165.38742" x="318.56323" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan11812" sodipodi:role="line" x="318.56323" y="165.38742">S</tspan>
-  </text>
- <path id="path11814" d="m354 139.69l-0.06 0.03-22.06 11.44-0.44 0.22 0.22 0.43 2.03 4.1 0.28 0.56 0.47-0.38 19.97-15.5 0.06-0.03 0.06-0.06-0.53-0.81zm-4.41 3.4l-15.28 11.85-1.56-3.13 16.84-8.72z" fill-rule="evenodd" fill="#000"/>
- <text id="text12691" line-height="100%" xml:space="preserve" font-size="18px" y="40.539898" x="345.72256" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan12693" sodipodi:role="line" x="345.72256" y="40.539898">O</tspan>
-  </text>
- <text id="text12695" line-height="100%" xml:space="preserve" font-size="18px" y="40.800022" x="276.89398" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan12697" sodipodi:role="line" x="276.89398" y="40.800022">HO</tspan>
-  </text>
- <text id="text12699" line-height="100%" xml:space="preserve" font-size="18px" y="109.36848" x="348.54254" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan12701" sodipodi:role="line" x="348.54254" y="109.36848">N</tspan>
-  </text>
- <text id="text12703" line-height="100%" xml:space="preserve" font-size="18px" y="86.81897" x="248.45471" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan12705" sodipodi:role="line" x="248.45471" y="86.81897">R</tspan>
-  </text>
- <text id="text12707" line-height="100%" xml:space="preserve" transform="scale(1.0771 .92838)" font-size="9.696px" y="95.282906" x="240.94757" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan12709" sodipodi:role="line" x="240.94757" y="95.282906">1</tspan>
-  </text>
- <polygon id="polygon12711" transform="matrix(.64298 -.071588 .080409 .72221 141.25 -552.58)" points="299 916 300 917 268 935 267 934"/>
- <polygon id="polygon12713" transform="matrix(.64298 -.071588 .080409 .72221 141.75 -553.07)" points="302 921 303 922 271 940 270 939"/>
- <text id="text12715" line-height="100%" sodipodi:linespacing="100%" transform="rotate(-6.3528)" font-size="18px" y="136.11609" x="399.5047" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan12717" y="136.11609" x="399.5047" sodipodi:role="line">O</tspan>
-  </text>
- <text id="text12719" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="170.81723" x="410.45123" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan12721" y="170.81723" x="410.45123" sodipodi:role="line">N</tspan>
-  </text>
- <path id="path12723" d="m391.94 139.81l-0.69 0.72 0.06 0.06 16.28 18.75 0.35 0.38 0.37-0.31 3.5-2.97 0.47-0.38-0.47-0.37-19.81-15.81-0.06-0.07zm3.68 4.22l15.07 12.03-2.63 2.25-12.44-14.28z" fill-rule="evenodd" fill="#000"/>
- <text id="text12725" line-height="100%" transform="rotate(-6.3528)" sodipodi:linespacing="100%" font-size="18px" y="173.34142" x="437.43762" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan12727" sodipodi:role="line" x="437.43762" y="173.34142">O</tspan>
-  </text>
- <text id="text12729" line-height="100%" xml:space="preserve" font-size="18px" y="187.21687" x="408.40128" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan12731" sodipodi:role="line" x="408.40128" y="187.21687">H</tspan>
-  </text>
- <text id="text12733" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="190.36295" x="470.89157" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan12735" y="190.36295" x="470.89157" sodipodi:role="line">R</tspan>
-  </text>
- <text id="text12737" line-height="100%" xml:space="preserve" transform="scale(1.0161 .98419)" font-size="9.87px" y="195.89139" x="475.07428" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan12739" sodipodi:role="line" x="475.07428" y="195.89139">2</tspan>
-  </text>
- <text id="text13023" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="861.37335" x="392.36063" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan13025" y="861.37335" x="392.36063" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text13027" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="908.45966" x="396.36224" font-family="Sans" fill="#000000">
-    <tspan id="tspan13029" y="908.45966" x="396.36224" sodipodi:role="line">3</tspan>
-  </text>
- <path id="path13031" d="m447.59 855.84l-19.18 0.22 0.03 1 19.18-0.22-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text13101" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="370.75635" x="320.48877" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan13103" y="370.75635" x="320.48877" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text13105" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="393.00766" x="327.95328" font-family="Sans" fill="#000000">
-    <tspan id="tspan13107" y="393.00766" x="327.95328" sodipodi:role="line">3</tspan>
-  </text>
- <path id="path13109" d="m447.59 365.31l-19.18 0.22 0.03 1 19.18-0.22-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text13111" line-height="100%" xml:space="preserve" font-size="18px" y="371.41571" x="394.07318" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13113" sodipodi:role="line" x="394.07318" y="371.41571">CH</tspan>
-  </text>
- <text id="text13115" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="393.70419" x="397.99231" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13117" sodipodi:role="line" x="397.99231" y="393.70419">2</tspan>
-  </text>
- <text id="text13119" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="371.03143" x="353.43567" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan13121" y="371.03143" x="353.43567" sodipodi:role="line">COO</tspan>
-  </text>
- <text id="text13173" line-height="100%" xml:space="preserve" font-size="18px" y="768.16382" x="406.31686" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13175" sodipodi:role="line" x="406.31686" y="768.16382">Cl</tspan>
-  </text>
- <path id="path13177" d="m447.59 760.84l-19.18 0.22 0.03 1 19.18-0.22-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text13181" line-height="100%" xml:space="preserve" font-size="18px" y="445.1106" x="392.36072" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13183" sodipodi:role="line" x="392.36072" y="445.1106">CH</tspan>
-  </text>
- <text id="text13185" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="471.1257" x="396.36234" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13187" sodipodi:role="line" x="396.36234" y="471.1257">3</tspan>
-  </text>
- <path id="path13189" d="m447.59 439.56l-19.18 0.22 0.03 1 19.18-0.22-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text13265" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="550.26868" x="378.79153" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan13267" y="550.26868" x="378.79153" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text13269" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="581.60687" x="383.44693" font-family="Sans" fill="#000000">
-    <tspan id="tspan13271" y="581.60687" x="383.44693" sodipodi:role="line">3</tspan>
-  </text>
- <path id="path13273" d="m447.59 544.41l-19.18 0.21 0.03 1 19.18-0.21-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text13275" line-height="100%" xml:space="preserve" font-size="18px" y="550.75641" x="411.91718" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13277" sodipodi:role="line" x="411.91718" y="550.75641">O</tspan>
-  </text>
- <text id="text13414" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1291.559" x="320.48877" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan13416" y="1291.559" x="320.48877" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text13418" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1360.4213" x="327.95328" font-family="Sans" fill="#000000">
-    <tspan id="tspan13420" y="1360.4213" x="327.95328" sodipodi:role="line">3</tspan>
-  </text>
- <path id="path13422" d="m447.59 1286.1l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text13424" line-height="100%" xml:space="preserve" font-size="18px" y="1292.2184" x="394.07318" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13426" sodipodi:role="line" x="394.07318" y="1292.2184">CH</tspan>
-  </text>
- <text id="text13428" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1361.1246" x="397.99231" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13430" sodipodi:role="line" x="397.99231" y="1361.1246">2</tspan>
-  </text>
- <text id="text13432" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1291.834" x="353.43567" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan13434" y="1291.834" x="353.43567" sodipodi:role="line">COO</tspan>
-  </text>
- <text id="text13831" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1686.921" x="320.48877" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan13833" y="1686.921" x="320.48877" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text13835" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1775.7965" x="327.95328" font-family="Sans" fill="#000000">
-    <tspan id="tspan13837" y="1775.7965" x="327.95328" sodipodi:role="line">3</tspan>
-  </text>
- <path id="path13839" d="m447.59 1681.5l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text13841" line-height="100%" xml:space="preserve" font-size="18px" y="1687.5802" x="394.07318" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13843" sodipodi:role="line" x="394.07318" y="1687.5802">CH</tspan>
-  </text>
- <text id="text13845" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1776.4904" x="397.99234" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13847" sodipodi:role="line" x="397.99234" y="1776.4904">2</tspan>
-  </text>
- <text id="text13849" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1687.1959" x="353.43567" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan13851" y="1687.1959" x="353.43567" sodipodi:role="line">COO</tspan>
-  </text>
- <text id="text14000" line-height="100%" xml:space="preserve" font-size="18px" y="1583.9698" x="540.12494" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14002" sodipodi:role="line" x="540.12494" y="1583.9698">CH S  CF</tspan>
-  </text>
- <text id="text14004" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1668.9463" x="536.76923" font-family="Sans" fill="#000000">
-    <tspan id="tspan14006" y="1668.9463" x="536.76923" sodipodi:role="line">2</tspan>
-  </text>
- <path id="path14008" d="m538.47 1577.4l-19.19 0.2v1l19.19-0.2v-1z" fill-rule="evenodd" fill="#000"/>
- <path id="path14010" d="m593.44 1577.4l-8.25 0.4 0.03 0.8 8.25-0.4-0.03-0.8z" fill-rule="evenodd" fill="#000"/>
- <text id="text14016" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1669.7159" x="585.4455" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14018" sodipodi:role="line" x="585.4455" y="1669.7159">3</tspan>
-  </text>
- <text id="text14051" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="277.42184" x="360.9892" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14053" y="277.42184" x="360.9892" sodipodi:role="line">R</tspan>
-  </text>
- <text id="text14055" sodipodi:linespacing="100%" transform="scale(1.0771 .92838)" line-height="100%" xml:space="preserve" font-size="9.696px" y="300.58923" x="345.42267" font-family="Sans" fill="#000000">
-    <tspan id="tspan14057" y="300.58923" x="345.42267" sodipodi:role="line">1</tspan>
-  </text>
- <path id="path14075" d="m401.97 271.06l-19.19 0.22v1l19.19-0.22v-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text14067" line-height="100%" xml:space="preserve" font-size="18px" y="277.02655" x="574.1828" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14069" sodipodi:role="line" x="574.1828" y="277.02655">R</tspan>
-  </text>
- <text id="text14071" sodipodi:linespacing="100%" transform="scale(1.0161 .98419)" line-height="100%" xml:space="preserve" font-size="9.87px" y="283.94748" x="576.73212" font-family="Sans" fill="#000000">
-    <tspan id="tspan14073" y="283.94748" x="576.73212" sodipodi:role="line">2</tspan>
-  </text>
- <path id="path14077" d="m569.25 271.06l-19.19 0.22 0.03 1 19.19-0.22-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <path id="path14145" d="m72.688 302.28v3h644.09v-3h-644.09z" fill-rule="evenodd" fill="#000"/>
- <polygon id="polygon13227" transform="matrix(.69389 -0.185 -.19467 -.65943 522.83 1088)" points="281 910 280 911 255 886 256 885" fill="#000"/>
- <polygon id="polygon13229" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1388.3)" points="271 945 272 946 281 911 280 910" fill="#000"/>
- <polygon id="polygon13231" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1388.3)" points="315 901 316 902 281 911 280 910" fill="#000"/>
- <polygon id="polygon13233" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1388.3)" points="324 866 325 867 316 902 315 901" fill="#000"/>
- <polygon id="polygon13235" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1388.3)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon13237" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1388.3)" points="341 926 340 927 315 902 316 901" fill="#000"/>
- <polygon id="polygon13239" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1388.3)" points="359 857 360 858 325 867 324 866" fill="#000"/>
- <polygon id="polygon13241" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1388.3)" points="340 926 341 927 376 918 375 917" fill="#000"/>
- <polygon id="polygon13245" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1388.3)" points="386 882 385 883 359 858 360 857" fill="#000"/>
- <polygon id="polygon13249" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1388.3)" points="375 917 376 918 386 883 385 882" fill="#000"/>
- <polygon id="polygon13281" transform="matrix(.96283 -.27012 -.27012 -.96283 558.93 1363.6)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <text id="text14147" line-height="100%" xml:space="preserve" font-size="18px" y="470.85907" x="517.01886" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14149" sodipodi:role="line" x="517.01886" y="470.85907">NH</tspan>
-  </text>
- <text id="text14151" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="501.70636" x="517.77148" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14153" sodipodi:role="line" x="517.77148" y="501.70636">2</tspan>
-  </text>
- <polygon id="polygon14190" transform="matrix(.69389 -0.185 -.19467 -.65943 522.83 1194.9)" points="281 910 280 911 255 886 256 885" fill="#000"/>
- <polygon id="polygon14192" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1495.1)" points="271 945 272 946 281 911 280 910" fill="#000"/>
- <polygon id="polygon14194" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1495.1)" points="315 901 316 902 281 911 280 910" fill="#000"/>
- <polygon id="polygon14196" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1495.1)" points="324 866 325 867 316 902 315 901" fill="#000"/>
- <polygon id="polygon14198" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1495.1)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14200" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1495.1)" points="341 926 340 927 315 902 316 901" fill="#000"/>
- <polygon id="polygon14202" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1495.1)" points="359 857 360 858 325 867 324 866" fill="#000"/>
- <polygon id="polygon14204" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1495.1)" points="340 926 341 927 376 918 375 917" fill="#000"/>
- <polygon id="polygon14206" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1495.1)" points="386 882 385 883 359 858 360 857" fill="#000"/>
- <polygon id="polygon14208" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1495.1)" points="375 917 376 918 386 883 385 882" fill="#000"/>
- <polygon id="polygon14210" transform="matrix(.96283 -.27012 -.27012 -.96283 558.93 1470.4)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <text id="text14212" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="577.68921" x="517.01886" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14214" y="577.68921" x="517.01886" sodipodi:role="line">NH</tspan>
-  </text>
- <text id="text14216" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="613.94421" x="517.77148" font-family="Sans" fill="#000000">
-    <tspan id="tspan14218" y="613.94421" x="517.77148" sodipodi:role="line">2</tspan>
-  </text>
- <polygon id="polygon13145" transform="matrix(.96283 -.27012 -.27012 -.96283 558.51 1578.3)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon13153" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1651.4)" points="340 920 341 921 372 912 371 911" fill="#000"/>
- <polygon id="polygon14224" transform="matrix(.69389 -0.185 -.19467 -.65943 522.83 1302.6)" points="281 910 280 911 255 886 256 885" fill="#000"/>
- <polygon id="polygon14226" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1602.8)" points="271 945 272 946 281 911 280 910" fill="#000"/>
- <polygon id="polygon14228" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1602.8)" points="315 901 316 902 281 911 280 910" fill="#000"/>
- <polygon id="polygon14230" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -303.99)" points="324 866 325 867 316 902 315 901" fill="#000"/>
- <polygon id="polygon14232" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -303.99)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14234" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -303.99)" points="341 926 340 927 315 902 316 901" fill="#000"/>
- <polygon id="polygon14236" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -303.99)" points="359 857 360 858 325 867 324 866" fill="#000"/>
- <polygon id="polygon14238" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -303.99)" points="340 926 341 927 376 918 375 917" fill="#000"/>
- <polygon id="polygon14240" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -303.99)" points="386 882 385 883 359 858 360 857" fill="#000"/>
- <polygon id="polygon14242" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -303.99)" points="375 917 376 918 386 883 385 882" fill="#000"/>
- <text id="text14246" line-height="100%" xml:space="preserve" font-size="18px" y="685.36475" x="517.01886" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14248" sodipodi:role="line" x="517.01886" y="685.36475">NH</tspan>
-  </text>
- <text id="text14250" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="727.07031" x="517.77155" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14252" sodipodi:role="line" x="517.77155" y="727.07031">2</tspan>
-  </text>
- <polygon id="polygon14301" transform="matrix(.96283 -.27012 -.27012 -.96283 558.51 1685.1)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14303" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1758.2)" points="340 920 341 921 372 912 371 911" fill="#000"/>
- <polygon id="polygon14305" transform="matrix(.69389 -0.185 -.19467 -.65943 522.83 1409.3)" points="281 910 280 911 255 886 256 885" fill="#000"/>
- <polygon id="polygon14307" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1709.5)" points="271 945 272 946 281 911 280 910" fill="#000"/>
- <polygon id="polygon14309" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1709.5)" points="315 901 316 902 281 911 280 910" fill="#000"/>
- <polygon id="polygon14311" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -197.22)" points="324 866 325 867 316 902 315 901" fill="#000"/>
- <polygon id="polygon14313" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -197.22)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14315" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -197.22)" points="341 926 340 927 315 902 316 901" fill="#000"/>
- <polygon id="polygon14317" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -197.22)" points="359 857 360 858 325 867 324 866" fill="#000"/>
- <polygon id="polygon14319" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -197.22)" points="340 926 341 927 376 918 375 917" fill="#000"/>
- <polygon id="polygon14321" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -197.22)" points="386 882 385 883 359 858 360 857" fill="#000"/>
- <polygon id="polygon14323" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -197.22)" points="375 917 376 918 386 883 385 882" fill="#000"/>
- <text id="text14325" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="792.1286" x="517.01886" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14327" y="792.1286" x="517.01886" sodipodi:role="line">NH</tspan>
-  </text>
- <text id="text14329" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="839.23865" x="517.77155" font-family="Sans" fill="#000000">
-    <tspan id="tspan14331" y="839.23865" x="517.77155" sodipodi:role="line">2</tspan>
-  </text>
- <polygon id="polygon14335" transform="matrix(.96283 -.27012 -.27012 -.96283 558.51 1780.1)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14337" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1853.2)" points="340 920 341 921 372 912 371 911" fill="#000"/>
- <polygon id="polygon14339" transform="matrix(.69389 -0.185 -.19467 -.65943 522.83 1504.3)" points="281 910 280 911 255 886 256 885" fill="#000"/>
- <polygon id="polygon14341" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1804.5)" points="271 945 272 946 281 911 280 910" fill="#000"/>
- <polygon id="polygon14343" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1804.5)" points="315 901 316 902 281 911 280 910" fill="#000"/>
- <polygon id="polygon14345" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -102.23)" points="324 866 325 867 316 902 315 901" fill="#000"/>
- <polygon id="polygon14347" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -102.23)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14349" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -102.23)" points="341 926 340 927 315 902 316 901" fill="#000"/>
- <polygon id="polygon14351" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -102.23)" points="359 857 360 858 325 867 324 866" fill="#000"/>
- <polygon id="polygon14353" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -102.23)" points="340 926 341 927 376 918 375 917" fill="#000"/>
- <polygon id="polygon14355" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -102.23)" points="386 882 385 883 359 858 360 857" fill="#000"/>
- <polygon id="polygon14357" transform="matrix(.96283 .27012 -.27012 .96283 515.92 -102.23)" points="375 917 376 918 386 883 385 882" fill="#000"/>
- <text id="text14359" line-height="100%" xml:space="preserve" font-size="18px" y="887.12213" x="517.01886" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14361" sodipodi:role="line" x="517.01886" y="887.12213">NH</tspan>
-  </text>
- <text id="text14363" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="939.04071" x="517.77155" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14365" sodipodi:role="line" x="517.77155" y="939.04071">2</tspan>
-  </text>
- <polygon id="polygon14369" transform="matrix(.96283 -.27012 -.27012 -.96283 558.51 1894.1)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14371" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1967.2)" points="340 920 341 921 372 912 371 911" fill="#000"/>
- <polygon id="polygon14373" transform="matrix(.69389 -0.185 -.19467 -.65943 522.83 1618.3)" points="281 910 280 911 255 886 256 885" fill="#000"/>
- <polygon id="polygon14375" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1918.5)" points="271 945 272 946 281 911 280 910" fill="#000"/>
- <polygon id="polygon14377" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 1918.5)" points="315 901 316 902 281 911 280 910" fill="#000"/>
- <polygon id="polygon14379" transform="matrix(.96283 .27012 -.27012 .96283 515.92 11.77)" points="324 866 325 867 316 902 315 901" fill="#000"/>
- <polygon id="polygon14381" transform="matrix(.96283 .27012 -.27012 .96283 515.92 11.77)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14383" transform="matrix(.96283 .27012 -.27012 .96283 515.92 11.77)" points="341 926 340 927 315 902 316 901" fill="#000"/>
- <polygon id="polygon14385" transform="matrix(.96283 .27012 -.27012 .96283 515.92 11.77)" points="359 857 360 858 325 867 324 866" fill="#000"/>
- <polygon id="polygon14387" transform="matrix(.96283 .27012 -.27012 .96283 515.92 11.77)" points="340 926 341 927 376 918 375 917" fill="#000"/>
- <polygon id="polygon14389" transform="matrix(.96283 .27012 -.27012 .96283 515.92 11.77)" points="386 882 385 883 359 858 360 857" fill="#000"/>
- <polygon id="polygon14391" transform="matrix(.96283 .27012 -.27012 .96283 515.92 11.77)" points="375 917 376 918 386 883 385 882" fill="#000"/>
- <text id="text14393" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1001.1221" x="517.01886" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14395" y="1001.1221" x="517.01886" sodipodi:role="line">NH</tspan>
-  </text>
- <text id="text14397" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1058.8113" x="517.77155" font-family="Sans" fill="#000000">
-    <tspan id="tspan14399" y="1058.8113" x="517.77155" sodipodi:role="line">2</tspan>
-  </text>
- <polygon id="polygon14417" transform="matrix(.60154 -.27012 -.16876 -.96283 632.52 1917.7)" points="315 901 316 902 281 911 280 910" fill="#000"/>
- <text id="text14419" line-height="100%" xml:space="preserve" font-size="18px" y="970.61627" x="670.09985" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14421" sodipodi:role="line" x="670.09985" y="970.61627">OH</tspan>
-  </text>
- <polygon id="polygon14446" transform="matrix(.96283 -.27012 -.27012 -.96283 558.51 1984.7)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14448" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 2057.8)" points="340 920 341 921 372 912 371 911" fill="#000"/>
- <polygon id="polygon14450" transform="matrix(.69389 -0.185 -.19467 -.65943 522.83 1709)" points="281 910 280 911 255 886 256 885" fill="#000"/>
- <polygon id="polygon14452" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 2009.2)" points="271 945 272 946 281 911 280 910" fill="#000"/>
- <polygon id="polygon14454" transform="matrix(.96283 -.27012 -.27012 -.96283 515.92 2009.2)" points="315 901 316 902 281 911 280 910" fill="#000"/>
- <polygon id="polygon14456" transform="matrix(.96283 .27012 -.27012 .96283 515.92 102.45)" points="324 866 325 867 316 902 315 901" fill="#000"/>
- <polygon id="polygon14458" transform="matrix(.96283 .27012 -.27012 .96283 515.92 102.45)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14460" transform="matrix(.96283 .27012 -.27012 .96283 515.92 102.45)" points="341 926 340 927 315 902 316 901" fill="#000"/>
- <polygon id="polygon14462" transform="matrix(.96283 .27012 -.27012 .96283 515.92 102.45)" points="359 857 360 858 325 867 324 866" fill="#000"/>
- <polygon id="polygon14464" transform="matrix(.96283 .27012 -.27012 .96283 515.92 102.45)" points="340 926 341 927 376 918 375 917" fill="#000"/>
- <polygon id="polygon14466" transform="matrix(.96283 .27012 -.27012 .96283 515.92 102.45)" points="386 882 385 883 359 858 360 857" fill="#000"/>
- <polygon id="polygon14468" transform="matrix(.96283 .27012 -.27012 .96283 515.92 102.45)" points="375 917 376 918 386 883 385 882" fill="#000"/>
- <text id="text14470" line-height="100%" xml:space="preserve" font-size="18px" y="1091.7976" x="517.01886" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14472" sodipodi:role="line" x="517.01886" y="1091.7976">NH</tspan>
-  </text>
- <text id="text14474" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1154.0769" x="517.77197" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14476" sodipodi:role="line" x="517.77197" y="1154.0769">2</tspan>
-  </text>
- <polygon id="polygon14478" transform="matrix(.60154 -.27012 -.16876 -.96283 632.52 2008.4)" points="315 901 316 902 281 911 280 910" fill="#000"/>
- <text id="text14480" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1061.2919" x="670.09979" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14482" y="1061.2919" x="670.09979" sodipodi:role="line">OH</tspan>
-  </text>
- <polygon id="polygon14568" transform="matrix(.82674 -.19332 -.23194 -.68908 597.35 1944.1)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14570" transform="matrix(.96283 -.27012 -.27012 -.96283 545.48 2288.9)" points="340 920 341 921 372 912 371 911" fill="#000"/>
- <polygon id="polygon14572" transform="matrix(.55325 -.27012 -.15521 -.96283 571.26 2240.3)" points="315 901 316 902 281 911 280 910" fill="#000"/>
- <polygon id="polygon14574" transform="matrix(.96283 .27012 -.27012 .96283 545.48 333.49)" points="324 866 325 867 316 902 315 901" fill="#000"/>
- <polygon id="polygon14576" transform="matrix(.96283 .27012 -.27012 .96283 545.48 333.49)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14578" transform="matrix(.96283 .27012 -.27012 .96283 545.48 333.49)" points="341 926 340 927 315 902 316 901" fill="#000"/>
- <polygon id="polygon14580" transform="matrix(.96283 .27012 -.27012 .96283 545.48 333.49)" points="359 857 360 858 325 867 324 866" fill="#000"/>
- <polygon id="polygon14582" transform="matrix(.96283 .27012 -.27012 .96283 545.48 333.49)" points="340 926 341 927 376 918 375 917" fill="#000"/>
- <polygon id="polygon14584" transform="matrix(.76187 .19824 -.21374 .70661 569.25 578.94)" points="386 882 385 883 359 858 360 857" fill="#000"/>
- <polygon id="polygon14586" transform="matrix(.68827 .18348 -.19310 .65399 577.8 649.58)" points="375 917 376 918 386 883 385 882" fill="#000"/>
- <text id="text14644" line-height="100%" xml:space="preserve" font-size="18px" y="1295.0536" x="671.92853" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14646" sodipodi:role="line" x="671.92853" y="1295.0536">N</tspan>
-  </text>
- <text id="text14648" line-height="100%" xml:space="preserve" font-size="18px" y="1292.5475" x="572.61774" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14650" sodipodi:role="line" x="572.61774" y="1292.5475">S</tspan>
-  </text>
- <text id="text14652" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1292.4183" x="540.07458" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14654" y="1292.4183" x="540.07458" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text14656" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1361.335" x="536.95929" font-family="Sans" fill="#000000">
-    <tspan id="tspan14658" y="1361.335" x="536.95929" sodipodi:role="line">2</tspan>
-  </text>
- <path id="path14660" d="m538.47 1286l-19.19 0.2v1l19.19-0.2v-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text14701" line-height="100%" xml:space="preserve" font-size="18px" y="659.37976" x="320.48877" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14703" sodipodi:role="line" x="320.48877" y="659.37976">CH</tspan>
-  </text>
- <text id="text14705" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="696.24115" x="327.95328" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14707" sodipodi:role="line" x="327.95328" y="696.24115">3</tspan>
-  </text>
- <path id="path14709" d="m447.59 653.94l-19.18 0.22 0.03 1 19.18-0.22-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text14711" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="660.03912" x="394.07318" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14713" y="660.03912" x="394.07318" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text14715" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="696.93768" x="397.99231" font-family="Sans" fill="#000000">
-    <tspan id="tspan14717" y="696.93768" x="397.99231" sodipodi:role="line">2</tspan>
-  </text>
- <text id="text14719" line-height="100%" xml:space="preserve" font-size="18px" y="659.65485" x="353.43567" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14721" sodipodi:role="line" x="353.43567" y="659.65485">COO</tspan>
-  </text>
- <polygon id="polygon10740" points="256 859 257 860 292 850 291 849" transform="matrix(-.56534 .54431 -.53691 -.57313 1229.2 1491.6)"/>
- <polygon id="polygon10742" points="300 815 301 816 292 850 291 849" transform="matrix(-.53892 .46513 -.51182 -.48976 1200.5 1460.4)"/>
- <polygon id="polygon10752" points="231 833 230 834 256 860 257 859" transform="matrix(-.72510 .68864 -.68864 -.72510 1400.5 1585.2)"/>
- <polygon id="polygon10754" points="237 831 236 832 258 854 259 853" transform="matrix(-.72510 .68864 -.68864 -.72510 1400.5 1585.2)"/>
- <polygon id="polygon10756" points="301 815 300 816 274 790 275 789" transform="matrix(-.72510 .68864 -.68864 -.72510 1400.5 1585.2)"/>
- <polygon id="polygon10758" points="294 818 293 819 271 797 272 796" transform="matrix(-.72510 .68864 -.68864 -.72510 1400.5 1585.2)"/>
- <polygon id="polygon10762" points="196 843 197 844 231 834 230 833" transform="matrix(-.54745 .46378 -.51993 -.48833 1218.7 1439.7)"/>
- <polygon id="polygon10764" points="240 798 241 799 231 834 230 833" transform="matrix(-.72510 .68864 -.68864 -.72510 1400.5 1585.2)"/>
- <polygon id="polygon10766" points="274 789 275 790 241 799 240 798" transform="matrix(-.72510 .68864 -.68864 -.72510 1400.5 1585.2)"/>
- <polygon id="polygon10768" points="284 754 285 755 275 790 274 789" transform="matrix(-.51368 .47492 -.48785 -.50006 1183.7 1466.2)"/>
- <polygon id="polygon10772" points="217 771 216 772 242 797 243 796" transform="matrix(-.45592 .68864 -.43299 -.72510 1129.5 1585.2)"/>
- <polygon id="polygon10774" points="212 776 211 777 237 802 238 801" transform="matrix(-.45592 .68864 -.43299 -.72510 1129.5 1585.2)"/>
- <text id="text14958" line-height="100%" xml:space="preserve" font-size="18px" y="1177.752" x="597.38098" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14960" sodipodi:role="line" x="597.38098" y="1177.752">N</tspan>
-  </text>
- <text id="text14962" line-height="100%" xml:space="preserve" font-size="18px" y="1118.1556" x="668.54388" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14964" sodipodi:role="line" x="668.54388" y="1118.1556">Cl</tspan>
-  </text>
- <text id="text14966" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1236.1556" x="668.54388" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14968" y="1236.1556" x="668.54388" sodipodi:role="line">Cl</tspan>
-  </text>
- <text id="text14970" line-height="100%" xml:space="preserve" font-size="18px" y="1178.0178" x="698.49872" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14972" sodipodi:role="line" x="698.49872" y="1178.0178">O</tspan>
-  </text>
- <text id="text14993" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1178.1732" x="540.07458" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14995" y="1178.1732" x="540.07458" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text14997" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1241.3073" x="536.95935" font-family="Sans" fill="#000000">
-    <tspan id="tspan14999" y="1241.3073" x="536.95935" sodipodi:role="line">2</tspan>
-  </text>
- <path id="path15001" d="m538.47 1171.8l-19.19 0.2v1l19.19-0.2v-1z" fill-rule="evenodd" fill="#000"/>
- <path id="path15003" d="m594.47 1171.8l-19.19 0.2v1l19.19-0.2v-1z" fill-rule="evenodd" fill="#000"/>
- <polygon id="polygon14756" transform="matrix(.82674 -.19332 -.23194 -.68908 285.67 2432)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14758" transform="matrix(.96283 -.27012 -.27012 -.96283 233.8 2776.8)" points="340 920 341 921 372 912 371 911" fill="#000"/>
- <polygon id="polygon14762" transform="matrix(.96283 .27012 -.27012 .96283 233.8 821.37)" points="324 866 325 867 316 902 315 901" fill="#000"/>
- <polygon id="polygon14764" transform="matrix(.96283 .27012 -.27012 .96283 233.8 821.37)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14766" transform="matrix(.96283 .27012 -.27012 .96283 233.8 821.37)" points="341 926 340 927 315 902 316 901" fill="#000"/>
- <polygon id="polygon14768" transform="matrix(.96283 .27012 -.27012 .96283 233.8 821.37)" points="359 857 360 858 325 867 324 866" fill="#000"/>
- <polygon id="polygon14770" transform="matrix(.96283 .27012 -.27012 .96283 233.8 821.37)" points="340 926 341 927 376 918 375 917" fill="#000"/>
- <polygon id="polygon14772" transform="matrix(.76187 .19824 -.21374 .70661 257.57 1066.8)" points="386 882 385 883 359 858 360 857" fill="#000"/>
- <polygon id="polygon14774" transform="matrix(.68827 .18348 -.19310 .65399 266.12 1137.5)" points="375 917 376 918 386 883 385 882" fill="#000"/>
- <text id="text14776" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1782.9371" x="360.25058" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14778" y="1782.9371" x="360.25058" sodipodi:role="line">N</tspan>
-  </text>
- <text id="text14784" line-height="100%" xml:space="preserve" font-size="18px" y="1782.5171" x="395.42624" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14786" sodipodi:role="line" x="395.42624" y="1782.5171">CH</tspan>
-  </text>
- <text id="text14788" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1876.2428" x="399.28027" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14790" sodipodi:role="line" x="399.28027" y="1876.2428">2</tspan>
-  </text>
- <path id="path14792" d="m393.81 1776.1l-19.19 0.2 0.04 1 19.15-0.2v-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text14813" line-height="100%" xml:space="preserve" font-size="18px" y="1763.5673" x="368.95786" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14815" sodipodi:role="line" x="368.95786" y="1763.5673">+</tspan>
-  </text>
- <path id="path15005" d="m447.59 1776.1l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <polygon id="polygon14865" transform="matrix(.82674 -.19332 -.23194 -.68908 283.12 2540.2)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14867" transform="matrix(.96283 -.27012 -.27012 -.96283 231.24 2884.9)" points="340 920 341 921 372 912 371 911" fill="#000"/>
- <polygon id="polygon14871" transform="matrix(.96283 .27012 -.27012 .96283 231.24 929.54)" points="324 866 325 867 316 902 315 901" fill="#000"/>
- <polygon id="polygon14873" transform="matrix(.96283 .27012 -.27012 .96283 231.24 929.54)" points="330 870 331 871 322 902 321 901" fill="#000"/>
- <polygon id="polygon14875" transform="matrix(.96283 .27012 -.27012 .96283 231.24 929.54)" points="341 926 340 927 315 902 316 901" fill="#000"/>
- <polygon id="polygon14877" transform="matrix(.96283 .27012 -.27012 .96283 231.24 929.54)" points="359 857 360 858 325 867 324 866" fill="#000"/>
- <polygon id="polygon14879" transform="matrix(.96283 .27012 -.27012 .96283 231.24 929.54)" points="340 926 341 927 376 918 375 917" fill="#000"/>
- <polygon id="polygon14881" transform="matrix(.76187 .19824 -.21374 .70661 255.01 1175)" points="386 882 385 883 359 858 360 857" fill="#000"/>
- <polygon id="polygon14883" transform="matrix(.68827 .18348 -.19310 .65399 263.57 1245.6)" points="375 917 376 918 386 883 385 882" fill="#000"/>
- <text id="text14885" line-height="100%" xml:space="preserve" font-size="18px" y="1891.1038" x="357.69452" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14887" sodipodi:role="line" x="357.69452" y="1891.1038">N</tspan>
-  </text>
- <text id="text14889" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1890.6837" x="392.87018" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14891" y="1890.6837" x="392.87018" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text14893" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1989.8849" x="396.84741" font-family="Sans" fill="#000000">
-    <tspan id="tspan14895" y="1989.8849" x="396.84741" sodipodi:role="line">2</tspan>
-  </text>
- <path id="path14897" d="m391.25 1884.3l-19.19 0.2 0.03 1 19.19-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text14899" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1871.7339" x="366.40179" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan14901" y="1871.7339" x="366.40179" sodipodi:role="line">+</tspan>
-  </text>
- <text id="text14903" line-height="100%" xml:space="preserve" font-size="18px" y="1888.1267" x="210.0054" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14905" sodipodi:role="line" x="210.0054" y="1888.1267">H N-CO</tspan>
-  </text>
- <text id="text14926" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1990.3625" x="211.35234" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan14928" sodipodi:role="line" x="211.35234" y="1990.3625">2</tspan>
-  </text>
- <path id="path14930" d="m290.62 1882.5l-13.46 0.3 0.03 0.9 13.47-0.3-0.04-0.9z" fill-rule="evenodd" fill="#000"/>
- <path id="path15031" d="m447.59 1884l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <polygon id="polygon9141" transform="matrix(.30023 .66235 -.49841 .39899 959.32 1308)" points="181 897 182 898 191 863 190 862" fill="#000"/>
- <polygon id="polygon9149" transform="matrix(.40570 .71301 -.67351 .42950 1090.1 1272.1)" points="190 862 191 863 225 850 224 849" fill="#000"/>
- <polygon id="polygon9151" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1170.2)" points="169 834 168 835 190 863 191 862" fill="#000"/>
- <polygon id="polygon9153" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1170.2)" points="176 832 175 833 193 857 194 856" fill="#000"/>
- <polygon id="polygon9157" transform="matrix(.35468 .65423 -.58880 .39409 1045.3 1314.4)" points="225 849 224 850 222 814 223 813" fill="#000"/>
- <polygon id="polygon9159" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1170.2)" points="187 804 188 805 169 835 168 834" fill="#000"/>
- <polygon id="polygon9165" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1170.2)" points="223 813 222 814 187 805 188 804" fill="#000"/>
- <polygon id="polygon9167" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1170.2)" points="218 820 217 821 188 812 189 811" fill="#000"/>
- <text id="text15108" line-height="100%" xml:space="preserve" font-size="18px" y="1804.7919" x="610.62152" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15110" sodipodi:role="line" x="610.62152" y="1804.7919">S</tspan>
-  </text>
- <text id="text15138" line-height="100%" xml:space="preserve" font-size="18px" y="1796.2727" x="540.07458" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15140" sodipodi:role="line" x="540.07458" y="1796.2727">CH</tspan>
-  </text>
- <text id="text15142" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1890.6949" x="536.95935" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15144" sodipodi:role="line" x="536.95935" y="1890.6949">2</tspan>
-  </text>
- <path id="path15146" d="m538.47 1789.9l-19.19 0.2v1l19.19-0.2v-1z" fill-rule="evenodd" fill="#000"/>
- <polygon id="polygon15195" transform="matrix(.30023 .66235 -.49841 .39899 959.32 1416.2)" points="181 897 182 898 191 863 190 862" fill="#000"/>
- <polygon id="polygon15197" transform="matrix(.40570 .71301 -.67351 .42950 1090.1 1380.2)" points="190 862 191 863 225 850 224 849" fill="#000"/>
- <polygon id="polygon15199" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1278.4)" points="169 834 168 835 190 863 191 862" fill="#000"/>
- <polygon id="polygon15201" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1278.4)" points="176 832 175 833 193 857 194 856" fill="#000"/>
- <polygon id="polygon15203" transform="matrix(.35468 .65423 -.58880 .39409 1045.3 1422.5)" points="225 849 224 850 222 814 223 813" fill="#000"/>
- <polygon id="polygon15205" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1278.4)" points="187 804 188 805 169 835 168 834" fill="#000"/>
- <polygon id="polygon15207" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1278.4)" points="223 813 222 814 187 805 188 804" fill="#000"/>
- <polygon id="polygon15209" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1278.4)" points="218 820 217 821 188 812 189 811" fill="#000"/>
- <text id="text15211" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1912.9586" x="610.62152" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15213" y="1912.9586" x="610.62152" sodipodi:role="line">S</tspan>
-  </text>
- <text id="text15215" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1904.4395" x="540.07458" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15217" y="1904.4395" x="540.07458" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text15219" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="2004.337" x="536.95935" font-family="Sans" fill="#000000">
-    <tspan id="tspan15221" y="2004.337" x="536.95935" sodipodi:role="line">2</tspan>
-  </text>
- <path id="path15223" d="m538.47 1898l-19.19 0.2v1l19.19-0.2v-1z" fill-rule="evenodd" fill="#000"/>
- <polygon id="polygon15227" transform="matrix(.30023 .66235 -.49841 .39899 959.32 1215.5)" points="181 897 182 898 191 863 190 862" fill="#000"/>
- <polygon id="polygon15229" transform="matrix(.40570 .71301 -.67351 .42950 1090.1 1179.5)" points="190 862 191 863 225 850 224 849" fill="#000"/>
- <polygon id="polygon15231" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1077.7)" points="169 834 168 835 190 863 191 862" fill="#000"/>
- <polygon id="polygon15233" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1077.7)" points="176 832 175 833 193 857 194 856" fill="#000"/>
- <polygon id="polygon15235" transform="matrix(.35468 .65423 -.58880 .39409 1045.3 1221.8)" points="225 849 224 850 222 814 223 813" fill="#000"/>
- <polygon id="polygon15237" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1077.7)" points="187 804 188 805 169 835 168 834" fill="#000"/>
- <polygon id="polygon15239" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1077.7)" points="223 813 222 814 187 805 188 804" fill="#000"/>
- <polygon id="polygon15241" transform="matrix(.51599 .85659 -.85659 .51599 1227.1 1077.7)" points="218 820 217 821 188 812 189 811" fill="#000"/>
- <text id="text15243" line-height="100%" xml:space="preserve" font-size="18px" y="1712.2657" x="610.62152" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15245" sodipodi:role="line" x="610.62152" y="1712.2657">S</tspan>
-  </text>
- <text id="text15247" line-height="100%" xml:space="preserve" font-size="18px" y="1703.7466" x="540.07458" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15249" sodipodi:role="line" x="540.07458" y="1703.7466">CH</tspan>
-  </text>
- <text id="text15251" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1793.4852" x="536.95935" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15253" sodipodi:role="line" x="536.95935" y="1793.4852">2</tspan>
-  </text>
- <path id="path15255" d="m538.47 1697.3l-19.19 0.2v1l19.19-0.2v-1z" fill-rule="evenodd" fill="#000"/>
- <polygon id="polygon15261" transform="matrix(.40570 .71301 -.67351 .42950 779.79 879.81)" points="190 862 191 863 225 850 224 849" fill="#000"/>
- <polygon id="polygon15263" transform="matrix(.40173 .59706 -.66691 .35966 774.74 962.31)" points="169 834 168 835 190 863 191 862" fill="#000"/>
- <polygon id="polygon15265" transform="matrix(.37134 .65432 -.61645 .39414 738.84 921.52)" points="176 832 175 833 193 857 194 856" fill="#000"/>
- <polygon id="polygon15267" transform="matrix(.35468 .65423 -.58880 .39409 734.98 922.13)" points="225 849 224 850 222 814 223 813" fill="#000"/>
- <polygon id="polygon15269" transform="matrix(.25448 .85659 -.42247 .51599 607.73 777.98)" points="187 804 188 805 169 835 168 834" fill="#000"/>
- <polygon id="polygon15271" transform="matrix(.28198 .55268 -.46811 .33292 653.08 994.58)" points="223 813 222 814 187 805 188 804" fill="#000"/>
- <polygon id="polygon15273" transform="matrix(0.357 .60211 -.59265 .36270 738.05 958.27)" points="218 820 217 821 188 812 189 811" fill="#000"/>
- <text id="text15275" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1412.5494" x="300.27274" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15277" y="1412.5494" x="300.27274" sodipodi:role="line">S</tspan>
-  </text>
- <text id="text15279" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1408.9038" x="393.65405" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15281" y="1408.9038" x="393.65405" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text15283" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1483.7177" x="397.59357" font-family="Sans" fill="#000000">
-    <tspan id="tspan15285" y="1483.7177" x="397.59357" sodipodi:role="line">2</tspan>
-  </text>
- <path id="path15287" d="m391.59 1401.8l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text15304" line-height="100%" xml:space="preserve" font-size="18px" y="1408.5494" x="358.27271" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15306" sodipodi:role="line" x="358.27271" y="1408.5494">S</tspan>
-  </text>
- <path id="path15308" d="m334.22 1387.9l-0.41 0.9 21.72 9.8 0.41-0.9-21.72-9.8z" fill-rule="evenodd" fill="#000"/>
- <path id="path15310" d="m447.59 1401.8l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text15312" line-height="100%" xml:space="preserve" font-size="18px" y="1360.2542" x="318.07651" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15314" sodipodi:role="line" x="318.07651" y="1360.2542">N</tspan>
-  </text>
- <text id="text15316" line-height="100%" xml:space="preserve" font-size="18px" y="1359.811" x="282.84781" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15318" sodipodi:role="line" x="282.84781" y="1359.811">N</tspan>
-  </text>
- <polygon id="polygon15486" transform="matrix(.40570 .71301 -.67351 .42950 779.79 973.91)" points="190 862 191 863 225 850 224 849" fill="#000"/>
- <polygon id="polygon15488" transform="matrix(.40173 .59706 -.66691 .35966 774.74 1056.4)" points="169 834 168 835 190 863 191 862" fill="#000"/>
- <polygon id="polygon15490" transform="matrix(.37134 .65432 -.61645 .39414 738.84 1015.6)" points="176 832 175 833 193 857 194 856" fill="#000"/>
- <polygon id="polygon15492" transform="matrix(.35468 .65423 -.58880 .39409 734.98 1016.2)" points="225 849 224 850 222 814 223 813" fill="#000"/>
- <polygon id="polygon15494" transform="matrix(.25448 .85659 -.42247 .51599 607.73 872.07)" points="187 804 188 805 169 835 168 834" fill="#000"/>
- <polygon id="polygon15496" transform="matrix(.28198 .55268 -.46811 .33292 653.08 1088.7)" points="223 813 222 814 187 805 188 804" fill="#000"/>
- <polygon id="polygon15498" transform="matrix(0.357 .60211 -.59265 .36270 738.05 1052.4)" points="218 820 217 821 188 812 189 811" fill="#000"/>
- <text id="text15500" line-height="100%" xml:space="preserve" font-size="18px" y="1506.6475" x="300.27271" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15502" sodipodi:role="line" x="300.27271" y="1506.6475">S</tspan>
-  </text>
- <text id="text15504" line-height="100%" xml:space="preserve" font-size="18px" y="1503.0018" x="393.65405" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15506" sodipodi:role="line" x="393.65405" y="1503.0018">CH</tspan>
-  </text>
- <text id="text15508" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1582.579" x="397.5936" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15510" sodipodi:role="line" x="397.5936" y="1582.579">2</tspan>
-  </text>
- <path id="path15512" d="m391.59 1495.9l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text15514" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1502.6475" x="358.27271" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15516" y="1502.6475" x="358.27271" sodipodi:role="line">S</tspan>
-  </text>
- <path id="path15518" d="m334.22 1482l-0.41 0.9 21.72 9.8 0.41-0.9-21.72-9.8z" fill-rule="evenodd" fill="#000"/>
- <path id="path15520" d="m447.59 1495.9l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text15522" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1454.3522" x="318.07648" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15524" y="1454.3522" x="318.07648" sodipodi:role="line">N</tspan>
-  </text>
- <text id="text15526" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1453.9091" x="282.84778" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15528" y="1453.9091" x="282.84778" sodipodi:role="line">N</tspan>
-  </text>
- <text id="text15578" line-height="100%" xml:space="preserve" font-size="18px" y="1496.6793" x="218.73627" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15580" sodipodi:role="line" x="218.73627" y="1496.6793">CH</tspan>
-  </text>
- <text id="text15582" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1575.9248" x="231.10329" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15584" sodipodi:role="line" x="231.10329" y="1575.9248">3</tspan>
-  </text>
- <path id="path15586" d="m275.62 1480.3l-22.71 7.3 0.31 1 22.72-7.3-0.32-1z" fill-rule="evenodd" fill="#000"/>
- <polygon id="polygon15530" transform="matrix(.40570 .71301 -.67351 .42950 779.79 670.51)" points="190 862 191 863 225 850 224 849" fill="#000"/>
- <polygon id="polygon15532" transform="matrix(.40173 .59706 -.66691 .35966 774.74 753)" points="169 834 168 835 190 863 191 862" fill="#000"/>
- <polygon id="polygon15534" transform="matrix(.37134 .65432 -.61645 .39414 738.84 712.22)" points="176 832 175 833 193 857 194 856" fill="#000"/>
- <polygon id="polygon15536" transform="matrix(.35468 .65423 -.58880 .39409 734.98 712.83)" points="225 849 224 850 222 814 223 813" fill="#000"/>
- <polygon id="polygon15538" transform="matrix(.25448 .85659 -.42247 .51599 607.73 568.68)" points="187 804 188 805 169 835 168 834" fill="#000"/>
- <polygon id="polygon15540" transform="matrix(.28198 .55268 -.46811 .33292 653.08 785.28)" points="223 813 222 814 187 805 188 804" fill="#000"/>
- <polygon id="polygon15542" transform="matrix(0.357 .60211 -.59265 .36270 738.05 748.97)" points="218 820 217 821 188 812 189 811" fill="#000"/>
- <text id="text15544" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1203.248" x="300.27274" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15546" y="1203.248" x="300.27274" sodipodi:role="line">S</tspan>
-  </text>
- <text id="text15548" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1199.6024" x="393.65408" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15550" y="1199.6024" x="393.65408" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text15552" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1263.8213" x="397.59357" font-family="Sans" fill="#000000">
-    <tspan id="tspan15554" y="1263.8213" x="397.59357" sodipodi:role="line">2</tspan>
-  </text>
- <path id="path15556" d="m391.59 1192.5l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text15558" line-height="100%" xml:space="preserve" font-size="18px" y="1199.248" x="358.27274" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15560" sodipodi:role="line" x="358.27274" y="1199.248">S</tspan>
-  </text>
- <path id="path15562" d="m334.22 1178.6l-0.41 1 21.72 9.7 0.41-0.9-21.72-9.8z" fill-rule="evenodd" fill="#000"/>
- <path id="path15564" d="m447.59 1192.5l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text15566" line-height="100%" xml:space="preserve" font-size="18px" y="1150.9528" x="318.07651" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15568" sodipodi:role="line" x="318.07651" y="1150.9528">N</tspan>
-  </text>
- <text id="text15570" line-height="100%" xml:space="preserve" font-size="18px" y="1150.5096" x="282.84781" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15572" sodipodi:role="line" x="282.84781" y="1150.5096">N</tspan>
-  </text>
- <text id="text15596" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1192.8376" x="218.73627" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15598" y="1192.8376" x="218.73627" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text15600" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1256.7026" x="231.1033" font-family="Sans" fill="#000000">
-    <tspan id="tspan15602" y="1256.7026" x="231.1033" sodipodi:role="line">3</tspan>
-  </text>
- <path id="path15604" d="m275.62 1176.5l-22.71 7.3 0.31 0.9 22.72-7.3-0.32-0.9z" fill-rule="evenodd" fill="#000"/>
- <polygon id="polygon15710" transform="matrix(.42146 .56943 -.69966 .34301 807.77 671.73)" points="190 862 191 863 225 850 224 849" fill="#000"/>
- <polygon id="polygon15712" transform="matrix(.25482 .40524 -.42303 .24411 596.17 772.68)" points="169 834 168 835 190 863 191 862" fill="#000"/>
- <polygon id="polygon15716" transform="matrix(.46467 .87499 -.77138 .52707 858.9 446.54)" points="225 849 224 850 222 814 223 813" fill="#000"/>
- <polygon id="polygon15718" transform="matrix(.25448 .85659 -.42247 .51599 607.73 459.64)" points="187 804 188 805 169 835 168 834" fill="#000"/>
- <polygon id="polygon15720" transform="matrix(.28198 .55268 -.46811 .33292 653.08 676.25)" points="223 813 222 814 187 805 188 804" fill="#000"/>
- <text id="text15728" line-height="100%" xml:space="preserve" font-size="18px" y="1090.5669" x="393.65405" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15730" sodipodi:role="line" x="393.65405" y="1090.5669">CH</tspan>
-  </text>
- <text id="text15732" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1149.2666" x="397.59357" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15734" sodipodi:role="line" x="397.59357" y="1149.2666">2</tspan>
-  </text>
- <path id="path15736" d="m391.59 1083.5l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text15738" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1090.2125" x="358.27271" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15740" y="1090.2125" x="358.27271" sodipodi:role="line">S</tspan>
-  </text>
- <path id="path15742" d="m334.22 1069.6l-0.41 0.9 21.72 9.7 0.41-0.9-21.72-9.7z" fill-rule="evenodd" fill="#000"/>
- <path id="path15744" d="m447.59 1083.5l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text15746" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1041.9172" x="318.07648" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15748" y="1041.9172" x="318.07648" sodipodi:role="line">N</tspan>
-  </text>
- <text id="text15750" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1041.4741" x="282.84778" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15752" y="1041.4741" x="282.84778" sodipodi:role="line">N</tspan>
-  </text>
- <path id="path15756" d="m298.59 1039.4l-0.03 1 15.06 0.5 0.04-1-15.07-0.5z" fill-rule="evenodd" fill="#000"/>
- <path id="path15758" d="m329.28 1067l-21.28 17.3 0.66 0.8 21.25-17.3-0.63-0.8z" fill-rule="evenodd" fill="#000"/>
- <text id="text15760" line-height="100%" xml:space="preserve" font-size="18px" y="1073.4741" x="272.84778" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15762" sodipodi:role="line" x="272.84778" y="1073.4741">N</tspan>
-  </text>
- <text id="text15764" line-height="100%" xml:space="preserve" font-size="18px" y="1083.5638" x="260.26483" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15766" sodipodi:role="line" x="260.26483" y="1083.5638">H</tspan>
-  </text>
- <polygon id="polygon15849" transform="matrix(.24815 .40990 -.41195 .24691 913.12 1103.9)" points="190 862 191 863 225 850 224 849" fill="#000"/>
- <polygon id="polygon15851" transform="matrix(.32012 .38267 -.53142 .23051 995.63 1106.9)" points="169 834 168 835 190 863 191 862" fill="#000"/>
- <polygon id="polygon15855" transform="matrix(.35468 .65423 -.58880 .39409 1055.1 922.86)" points="225 849 224 850 222 814 223 813" fill="#000"/>
- <polygon id="polygon15857" transform="matrix(.25448 .85659 -.42247 .51599 927.83 778.71)" points="187 804 188 805 169 835 168 834" fill="#000"/>
- <polygon id="polygon15859" transform="matrix(.28198 .55268 -.46811 .33292 973.17 995.31)" points="223 813 222 814 187 805 188 804" fill="#000"/>
- <text id="text15867" line-height="100%" xml:space="preserve" font-size="18px" y="1408.7474" x="540.51758" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15869" sodipodi:role="line" x="540.51758" y="1408.7474">CH</tspan>
-  </text>
- <text id="text15871" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1483.5537" x="537.38116" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15873" sodipodi:role="line" x="537.38116" y="1483.5537">2</tspan>
-  </text>
- <path id="path15875" d="m538.47 1401.7l-19.19 0.2v1l19.19-0.2v-1z" fill-rule="evenodd" fill="#000"/>
- <path id="path15881" d="m589.62 1388.7l-21.71 9.7 0.4 0.9 21.72-9.7-0.41-0.9z" fill-rule="evenodd" fill="#000"/>
- <text id="text15885" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1360.9839" x="638.17236" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15887" y="1360.9839" x="638.17236" sodipodi:role="line">N</tspan>
-  </text>
- <text id="text15889" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1360.5408" x="602.94366" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15891" y="1360.5408" x="602.94366" sodipodi:role="line">N</tspan>
-  </text>
- <path id="path15893" d="m618.84 1358.9l-0.06 1 16.38 0.9 0.06-1-16.38-0.9z" fill-rule="evenodd" fill="#000"/>
- <path id="path15895" d="m651.75 1385.5l-17.28 12 0.56 0.8 17.28-11.9-0.56-0.9z" fill-rule="evenodd" fill="#000"/>
- <text id="text15897" line-height="100%" xml:space="preserve" font-size="18px" y="1411.0483" x="620.66565" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15899" sodipodi:role="line" x="620.66565" y="1411.0483">N</tspan>
-  </text>
- <text id="text15901" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1392.4403" x="591.42438" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15903" y="1392.4403" x="591.42438" sodipodi:role="line">N</tspan>
-  </text>
- <polygon id="polygon15905" transform="matrix(.24815 .40990 -.41195 .24691 913.12 1198)" points="190 862 191 863 225 850 224 849" fill="#000"/>
- <polygon id="polygon15907" transform="matrix(.32012 .38267 -.53142 .23051 995.63 1201)" points="169 834 168 835 190 863 191 862" fill="#000"/>
- <polygon id="polygon15909" transform="matrix(.35468 .65423 -.58880 .39409 1055.1 1017)" points="225 849 224 850 222 814 223 813" fill="#000"/>
- <polygon id="polygon15911" transform="matrix(.25448 .85659 -.42247 .51599 927.83 872.8)" points="187 804 188 805 169 835 168 834" fill="#000"/>
- <polygon id="polygon15913" transform="matrix(.28198 .55268 -.46811 .33292 973.17 1089.4)" points="223 813 222 814 187 805 188 804" fill="#000"/>
- <text id="text15915" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1502.8455" x="540.51764" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15917" y="1502.8455" x="540.51764" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text15919" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1582.415" x="537.38116" font-family="Sans" fill="#000000">
-    <tspan id="tspan15921" y="1582.415" x="537.38116" sodipodi:role="line">2</tspan>
-  </text>
- <path id="path15923" d="m538.47 1495.8l-19.19 0.2v1l19.19-0.2v-1z" fill-rule="evenodd" fill="#000"/>
- <path id="path15925" d="m589.62 1482.8l-21.71 9.7 0.4 0.9 21.72-9.7-0.41-0.9z" fill-rule="evenodd" fill="#000"/>
- <text id="text15927" line-height="100%" xml:space="preserve" font-size="18px" y="1455.0819" x="638.17242" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15929" sodipodi:role="line" x="638.17242" y="1455.0819">N</tspan>
-  </text>
- <text id="text15931" line-height="100%" xml:space="preserve" font-size="18px" y="1454.6388" x="602.94373" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15933" sodipodi:role="line" x="602.94373" y="1454.6388">N</tspan>
-  </text>
- <path id="path15935" d="m618.84 1453l-0.06 1 16.38 0.8 0.06-1-16.38-0.8z" fill-rule="evenodd" fill="#000"/>
- <path id="path15937" d="m651.75 1479.6l-17.28 12 0.56 0.8 17.28-11.9-0.56-0.9z" fill-rule="evenodd" fill="#000"/>
- <text id="text15939" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1505.1464" x="620.66571" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15941" y="1505.1464" x="620.66571" sodipodi:role="line">N</tspan>
-  </text>
- <text id="text15943" line-height="100%" xml:space="preserve" font-size="18px" y="1486.5383" x="591.42444" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15945" sodipodi:role="line" x="591.42444" y="1486.5383">N</tspan>
-  </text>
- <polygon id="polygon10341" points="434 899 433 900 460 924 461 923" transform="matrix(-.60442 0 0 .52151 608.86 1078.1)"/>
- <polygon id="polygon15947" transform="matrix(.24815 .40990 -.41195 .24691 591.88 1314.4)" points="190 862 191 863 225 850 224 849" fill="#000"/>
- <polygon id="polygon15949" transform="matrix(.32012 .38267 -.53142 .23051 674.4 1317.4)" points="169 834 168 835 190 863 191 862" fill="#000"/>
- <polygon id="polygon15951" transform="matrix(.35468 .65423 -.58880 .39409 733.85 1133.3)" points="225 849 224 850 222 814 223 813" fill="#000"/>
- <polygon id="polygon15953" transform="matrix(.25448 .85659 -.42247 .51599 606.59 989.17)" points="187 804 188 805 169 835 168 834" fill="#000"/>
- <polygon id="polygon15955" transform="matrix(.28198 .55268 -.46811 .33292 651.94 1205.8)" points="223 813 222 814 187 805 188 804" fill="#000"/>
- <text id="text15957" line-height="100%" xml:space="preserve" font-size="18px" y="1550.0996" x="347.76804" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15959" sodipodi:role="line" x="347.76804" y="1550.0996">CH</tspan>
-  </text>
- <text id="text15961" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1632.0615" x="353.91852" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15963" sodipodi:role="line" x="353.91852" y="1632.0615">3</tspan>
-  </text>
- <text id="text15969" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1571.4518" x="316.93851" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15971" y="1571.4518" x="316.93851" sodipodi:role="line">N</tspan>
-  </text>
- <text id="text15973" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1571.0087" x="281.70978" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15975" y="1571.0087" x="281.70978" sodipodi:role="line">N</tspan>
-  </text>
- <path id="path15977" d="m297.59 1569.3l-0.06 1 16.41 0.9 0.06-1-16.41-0.9z" fill-rule="evenodd" fill="#000"/>
- <path id="path15979" d="m286.34 1601.3l-0.56 0.9 12.84 8.8 0.57-0.8-12.85-8.9z" fill-rule="evenodd" fill="#000"/>
- <text id="text15981" line-height="100%" xml:space="preserve" font-size="18px" y="1621.5162" x="299.43176" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan15983" sodipodi:role="line" x="299.43176" y="1621.5162">N</tspan>
-  </text>
- <text id="text15985" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1602.9082" x="270.19049" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan15987" y="1602.9082" x="270.19049" sodipodi:role="line">N</tspan>
-  </text>
- <text id="text16017" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="1620.0017" x="393.65408" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan16019" y="1620.0017" x="393.65408" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text16021" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="1705.5015" x="397.5936" font-family="Sans" fill="#000000">
-    <tspan id="tspan16023" y="1705.5015" x="397.5936" sodipodi:role="line">2</tspan>
-  </text>
- <path id="path16025" d="m391.59 1612.9l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text16027" line-height="100%" xml:space="preserve" font-size="18px" y="1619.6473" x="358.27274" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan16029" sodipodi:role="line" x="358.27274" y="1619.6473">S</tspan>
-  </text>
- <path id="path16031" d="m334.22 1599l-0.41 0.9 21.72 9.8 0.41-0.9-21.72-9.8z" fill-rule="evenodd" fill="#000"/>
- <path id="path16033" d="m447.59 1612.9l-19.18 0.2 0.03 1 19.18-0.2-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text16191" line-height="100%" xml:space="preserve" font-size="18px" y="971.37335" x="392.36063" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan16193" sodipodi:role="line" x="392.36063" y="971.37335">CH</tspan>
-  </text>
- <text id="text16195" line-height="100%" xml:space="preserve" transform="scale(1.0506 .95182)" font-size="14.174px" y="1024.0278" x="396.36224" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan16197" sodipodi:role="line" x="396.36224" y="1024.0278">3</tspan>
-  </text>
- <path id="path16199" d="m447.59 965.84l-19.18 0.22 0.03 1 19.18-0.22-0.03-1z" fill-rule="evenodd" fill="#000"/>
- <text id="text13123" line-height="100%" sodipodi:linespacing="100%" font-size="18px" y="373.04755" x="531.77478" font-family="Sans" xml:space="preserve" fill="#000000">
-    <tspan id="tspan13125" y="373.04755" x="531.77478" sodipodi:role="line">CH</tspan>
-  </text>
- <text id="text13127" sodipodi:linespacing="100%" transform="scale(1.0506 .95182)" line-height="100%" xml:space="preserve" font-size="14.174px" y="395.42139" x="530.82605" font-family="Sans" fill="#000000">
-    <tspan id="tspan13129" y="395.42139" x="530.82605" sodipodi:role="line">2</tspan>
-  </text>
- <text id="text13131" line-height="100%" xml:space="preserve" font-size="18px" y="373.5567" x="591.77478" font-family="Sans" sodipodi:linespacing="100%" fill="#000000">
-    <tspan id="tspan13133" sodipodi:role="line" x="591.77478" y="373.5567">CN</tspan>
-  </text>
- <path id="path13135" d="m588.47 367.66l-19.19 0.22v1l19.19-0.22v-1z" fill-rule="evenodd" fill="#000"/>
- <path id="path16201" d="m528.47 367.66l-19.19 0.22v1l19.19-0.22v-1z" fill-rule="evenodd" fill="#000"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" font-size="12px" font-family="Dialog" stroke-linecap="square" viewBox="0 0 682.82 1888.8" stroke="#000000" version="1.0" stroke-miterlimit="10" fill="#000000">
+ <text id="text3744" font-size="18px" xml:space="preserve" line-height="100%" y="1662.2594" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan3746" x="0.5" y="1662.2594">Cefalotin</tspan>   </text>
+ <text id="text4153" font-size="18px" xml:space="preserve" line-height="100%" y="1453.8746" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan4157" x="0.5" y="1453.8746">Cefazolin</tspan>   </text>
+ <text id="text4763" font-size="18px" xml:space="preserve" line-height="100%" y="741.48328" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan4767" x="0.5" y="741.48328">Cefaclor</tspan>   </text>
+ <text id="text5012" font-size="18px" xml:space="preserve" line-height="100%" y="836.47699" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan5014" x="0.5" y="836.47699">Cefalexin</tspan>   </text>
+ <text id="text5195" font-size="18px" xml:space="preserve" line-height="100%" y="931.41809" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan5197" x="0.5" y="931.41809">Cefadroxil</tspan>   </text>
+ <text id="text5938" font-size="18px" xml:space="preserve" line-height="100%" y="420.21426" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan5940" x="0.5" y="420.21426">Cefradin</tspan>   </text>
+ <text id="text6257" font-size="18px" xml:space="preserve" line-height="100%" y="346.71109" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan6259" x="0.5" y="346.71109">Cefacetril</tspan>   </text>
+ <text id="text8247" font-size="18px" xml:space="preserve" line-height="100%" y="632.97479" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan8249" x="0.5" y="632.97479">Cefaloglycin</tspan>   </text>
+ <text id="text8711" font-size="18px" xml:space="preserve" line-height="100%" y="1862.9523" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan8713" x="0.5" y="1862.9523">Cefalonium</tspan>   </text>
+ <text id="text9283" font-size="18px" xml:space="preserve" line-height="100%" y="1754.7854" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan9285" x="0.5" y="1754.7854">Cefaloridin</tspan>   </text>
+ <text id="text9647" font-size="18px" xml:space="preserve" line-height="100%" y="1265.1572" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan9649" x="0.5" y="1265.1572">Cefapirin</tspan>   </text>
+ <rect id="rect9998" height="16" width="13" y="836.39" x="364.64" fill="#fff"/>
+ <rect id="rect10000" height="16" width="13" y="836.39" x="364.64" fill="#fff"/>
+ <text id="text10096" font-size="18px" xml:space="preserve" line-height="100%" y="1041.1528" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan10098" x="0.5" y="1041.1528">Cefatrizin</tspan>   </text>
+ <text id="text10505" font-size="18px" xml:space="preserve" line-height="100%" y="1560.0643" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan10507" x="0.5" y="1560.0643">Cefazaflur</tspan>   </text>
+ <text id="text10944" font-size="18px" xml:space="preserve" line-height="100%" y="1150.4751" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan10946" x="0.5" y="1150.4751">Cefazedon</tspan>   </text>
+ <text id="text11283" font-size="18px" xml:space="preserve" line-height="100%" y="527.04437" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan11285" x="0.5" y="527.04437">Cefroxadin</tspan>   </text>
+ <text id="text11692" font-size="18px" xml:space="preserve" line-height="100%" y="1359.7765" x="0.5" font-family="Sans" fill="#000000">     <tspan id="tspan11694" x="0.5" y="1359.7765">Ceftezol</tspan>   </text>
+ <polygon id="polygon11698" points="337 1026 337 990 339 990 339 1026" transform="matrix(.50547 0 0 1 150.17 -912.74)"/>
+ <polygon id="polygon11700" points="338 1025 302 1025 302 1027 338 1027" transform="matrix(1 0 0 .50547 -16.973 -405.85)"/>
+ <polygon id="polygon11702" points="362 1051 397 1042 398 1043 363 1052" transform="matrix(.71528 0 0 .795 96.344 -699.13)"/>
+ <polygon id="polygon11708" points="338 989 302 989 302 991 338 991" transform="matrix(.77223 0 0 .58789 60.014 -505.16)"/>
+ <polygon id="polygon11710" points="301 990 301 1026 303 1026 303 990" transform="matrix(.50547 0 0 .80639 131.88 -714.1)"/>
+ <polygon id="polygon11714" points="394 1042 403 1007 404 1008 395 1043" transform="matrix(.89067 0 0 .84487 26.104 -750.78)"/>
+ <polygon id="polygon11716" points="399 1043 408 1008 409 1009 400 1044" transform="matrix(.89067 0 0 .84487 26.104 -750.78)"/>
+ <polygon id="polygon11718" points="398 1042 423 1067 422 1068 397 1043" transform="matrix(.75894 0 0 .82237 78.734 -727.65)"/>
+ <polygon id="polygon11720" points="302 990 270 972 269 973 301 991" transform="matrix(.80122 0 0 .74106 36.504 -661.05)"/>
+ <polygon id="polygon11722" points="270 1044 239 1026 238 1027 269 1045" transform="matrix(.82063 0 0 .80579 25.718 -713.48)"/>
+ <polygon id="polygon11726" points="238 990 269 972 270 973 239 991" transform="translate(-16.973 -912.74)"/>
+ <polygon id="polygon11728" points="243 996 270 980 271 981 244 997" transform="translate(-16.973 -912.74)"/>
+ <polygon id="polygon11730" points="269 972 269 936 271 936 271 972" transform="matrix(.50547 0 0 1 116.05 -912.74)"/>
+ <polygon id="polygon11732" points="238 1026 238 990 240 990 240 1026" transform="matrix(.67031 0 0 1 61.494 -912.74)"/>
+ <polygon id="polygon11740" points="239 990 208 972 207 973 238 991" transform="matrix(.74376 0 0 .87053 44.274 -784.43)"/>
+ <polygon id="polygon11742" points="270 936 239 918 238 919 269 937" transform="matrix(.70532 0 0 .78422 62.594 -710.55)"/>
+ <polygon id="polygon11744" points="267 934 299 916 300 917 268 935" transform="matrix(.64695 0 0 .72667 77.294 -655.81)"/>
+ <polygon id="polygon11746" points="270 939 302 921 303 922 271 940" transform="matrix(.64695 0 0 .72667 77.294 -655.81)"/>
+ <text id="text11810" font-size="18px" xml:space="preserve" line-height="100%" y="138.70689" x="248.10744" font-family="Sans" fill="#000000">     <tspan id="tspan11812" x="248.10744" y="138.70689">S</tspan>   </text>
+ <path id="path11814" fill-rule="evenodd" fill="#000" d="m283.54 113.01-0.06 0.03-22.06 11.44-0.44 0.22 0.22 0.43 2.03 4.1 0.28 0.56 0.47-0.38 19.97-15.5 0.06-0.03 0.06-0.06-0.53-0.81zm-4.41 3.4-15.28 11.85-1.56-3.13 16.84-8.72z"/>
+ <text id="text12691" font-size="18px" xml:space="preserve" line-height="100%" y="13.859375" x="275.26678" font-family="Sans" fill="#000000">     <tspan id="tspan12693" x="275.26678" y="13.859375">O</tspan>   </text>
+ <text id="text12695" font-size="18px" xml:space="preserve" line-height="100%" y="14.119499" x="206.43819" font-family="Sans" fill="#000000">     <tspan id="tspan12697" x="206.43819" y="14.119499">HO</tspan>   </text>
+ <text id="text12699" font-size="18px" xml:space="preserve" line-height="100%" y="82.687958" x="278.08673" font-family="Sans" fill="#000000">     <tspan id="tspan12701" x="278.08673" y="82.687958">N</tspan>   </text>
+ <text id="text12703" font-size="18px" xml:space="preserve" line-height="100%" y="60.138447" x="177.99892" font-family="Sans" fill="#000000">     <tspan id="tspan12705" x="177.99892" y="60.138447">R</tspan>   </text>
+ <text id="text12707" font-size="9.6958px" font-family="Sans" xml:space="preserve" transform="scale(1.0771 .92840)" line-height="100%" y="66.542717" x="175.5314" stroke-width=".99998" fill="#000000">     <tspan id="tspan12709" y="66.542717" x="175.5314" stroke-width=".99998">1</tspan>   </text>
+ <polygon id="polygon12711" points="267 934 299 916 300 917 268 935" transform="matrix(.64298 -.071588 .080409 .72221 70.794 -579.26)"/>
+ <polygon id="polygon12713" points="270 939 302 921 303 922 271 940" transform="matrix(.64298 -.071588 .080409 .72221 71.294 -579.75)"/>
+ <text id="text12715" font-size="18px" font-family="Sans" transform="rotate(-6.3528)" line-height="100%" xml:space="preserve" y="101.80345" x="332.43375" fill="#000000">     <tspan id="tspan12717" y="101.80345" x="332.43375">O</tspan>   </text>
+ <text id="text12719" font-size="18px" line-height="100%" xml:space="preserve" y="144.1367" x="339.99542" font-family="Sans" fill="#000000">     <tspan id="tspan12721" y="144.1367" x="339.99542">N</tspan>   </text>
+ <path id="path12723" fill-rule="evenodd" fill="#000" d="m321.48 113.13-0.69 0.72 0.06 0.06 16.28 18.75 0.35 0.38 0.37-0.31 3.5-2.97 0.47-0.38-0.47-0.37-19.81-15.81-0.06-0.07zm3.68 4.22 15.07 12.03-2.63 2.25-12.44-14.28z"/>
+ <text id="text12725" font-size="18px" font-family="Sans" transform="rotate(-6.3528)" line-height="100%" xml:space="preserve" y="139.02878" x="370.36667" fill="#000000">     <tspan id="tspan12727" y="139.02878" x="370.36667">O</tspan>   </text>
+ <text id="text12729" font-size="18px" xml:space="preserve" line-height="100%" y="160.53635" x="337.9455" font-family="Sans" fill="#000000">     <tspan id="tspan12731" x="337.9455" y="160.53635">H</tspan>   </text>
+ <text id="text12733" font-size="18px" line-height="100%" xml:space="preserve" y="163.68242" x="400.43579" font-family="Sans" fill="#000000">     <tspan id="tspan12735" y="163.68242" x="400.43579">R</tspan>   </text>
+ <text id="text12737" font-size="9.8702px" font-family="Sans" xml:space="preserve" transform="scale(1.0161 .98417)" line-height="100%" y="168.78526" x="405.74203" fill="#000000">     <tspan id="tspan12739" y="168.78526" x="405.74203">2</tspan>   </text>
+ <text id="text13023" font-size="18px" line-height="100%" xml:space="preserve" y="834.69281" x="321.90485" font-family="Sans" fill="#000000">     <tspan id="tspan13025" y="834.69281" x="321.90485">CH</tspan>   </text>
+ <text id="text13027" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="880.42072" x="329.29684" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan13029" y="880.42072" x="329.29684" stroke-width=".99999">3</tspan>   </text>
+ <path id="path13031" fill-rule="evenodd" fill="#000" d="m377.13 829.16-19.18 0.22 0.03 1 19.18-0.22-0.03-1z"/>
+ <text id="text13101" font-size="18px" line-height="100%" xml:space="preserve" y="344.07584" x="250.03297" font-family="Sans" fill="#000000">     <tspan id="tspan13103" y="344.07584" x="250.03297">CH</tspan>   </text>
+ <text id="text13105" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="364.97333" x="260.88852" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan13107" y="364.97333" x="260.88852" stroke-width=".99999">3</tspan>   </text>
+ <path id="path13109" fill-rule="evenodd" fill="#000" d="m377.13 338.63-19.18 0.22 0.03 1 19.18-0.22-0.03-1z"/>
+ <text id="text13111" font-size="18px" xml:space="preserve" line-height="100%" y="344.7352" x="323.61737" font-family="Sans" fill="#000000">     <tspan id="tspan13113" x="323.61737" y="344.7352">CH</tspan>   </text>
+ <text id="text13115" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="365.66986" x="330.92691" stroke-width=".99999" fill="#000000">     <tspan id="tspan13117" y="365.66986" x="330.92691" stroke-width=".99999">2</tspan>   </text>
+ <text id="text13119" font-size="18px" line-height="100%" xml:space="preserve" y="344.35092" x="282.97986" font-family="Sans" fill="#000000">     <tspan id="tspan13121" y="344.35092" x="282.97986">COO</tspan>   </text>
+ <text id="text13173" font-size="18px" xml:space="preserve" line-height="100%" y="741.48328" x="335.86108" font-family="Sans" fill="#000000">     <tspan id="tspan13175" x="335.86108" y="741.48328">Cl</tspan>   </text>
+ <path id="path13177" fill-rule="evenodd" fill="#000" d="m377.13 734.16-19.18 0.22 0.03 1 19.18-0.22-0.03-1z"/>
+ <text id="text13181" font-size="18px" xml:space="preserve" line-height="100%" y="418.43008" x="321.90491" font-family="Sans" fill="#000000">     <tspan id="tspan13183" x="321.90491" y="418.43008">CH</tspan>   </text>
+ <text id="text13185" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="443.09067" x="329.29694" stroke-width=".99999" fill="#000000">     <tspan id="tspan13187" y="443.09067" x="329.29694" stroke-width=".99999">3</tspan>   </text>
+ <path id="path13189" fill-rule="evenodd" fill="#000" d="m377.13 412.88-19.18 0.22 0.03 1 19.18-0.22-0.03-1z"/>
+ <text id="text13265" font-size="18px" line-height="100%" xml:space="preserve" y="523.58813" x="308.33575" font-family="Sans" fill="#000000">     <tspan id="tspan13267" y="523.58813" x="308.33575">CH</tspan>   </text>
+ <text id="text13269" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="553.57086" x="316.38165" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan13271" y="553.57086" x="316.38165" stroke-width=".99999">3</tspan>   </text>
+ <path id="path13273" fill-rule="evenodd" fill="#000" d="m377.13 517.73-19.18 0.21 0.03 1 19.18-0.21-0.03-1z"/>
+ <text id="text13275" font-size="18px" xml:space="preserve" line-height="100%" y="524.07587" x="341.46136" font-family="Sans" fill="#000000">     <tspan id="tspan13277" x="341.46136" y="524.07587">O</tspan>   </text>
+ <text id="text13414" font-size="18px" line-height="100%" xml:space="preserve" y="1264.8784" x="250.03297" font-family="Sans" fill="#000000">     <tspan id="tspan13416" y="1264.8784" x="250.03297">CH</tspan>   </text>
+ <text id="text13418" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1332.3783" x="260.88852" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan13420" y="1332.3783" x="260.88852" stroke-width=".99999">3</tspan>   </text>
+ <path id="path13422" fill-rule="evenodd" fill="#000" d="m377.13 1259.4-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text13424" font-size="18px" xml:space="preserve" line-height="100%" y="1265.5378" x="323.61737" font-family="Sans" fill="#000000">     <tspan id="tspan13426" x="323.61737" y="1265.5378">CH</tspan>   </text>
+ <text id="text13428" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1333.0817" x="330.92691" stroke-width=".99999" fill="#000000">     <tspan id="tspan13430" y="1333.0817" x="330.92691" stroke-width=".99999">2</tspan>   </text>
+ <text id="text13432" font-size="18px" line-height="100%" xml:space="preserve" y="1265.1534" x="282.97986" font-family="Sans" fill="#000000">     <tspan id="tspan13434" y="1265.1534" x="282.97986">COO</tspan>   </text>
+ <text id="text13831" font-size="18px" line-height="100%" xml:space="preserve" y="1660.2405" x="250.03297" font-family="Sans" fill="#000000">     <tspan id="tspan13833" y="1660.2405" x="250.03297">CH</tspan>   </text>
+ <text id="text13835" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1747.7498" x="260.88852" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan13837" y="1747.7498" x="260.88852" stroke-width=".99999">3</tspan>   </text>
+ <path id="path13839" fill-rule="evenodd" fill="#000" d="m377.13 1654.8-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text13841" font-size="18px" xml:space="preserve" line-height="100%" y="1660.8997" x="323.61737" font-family="Sans" fill="#000000">     <tspan id="tspan13843" x="323.61737" y="1660.8997">CH</tspan>   </text>
+ <text id="text13845" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1748.4436" x="330.92694" stroke-width=".99999" fill="#000000">     <tspan id="tspan13847" y="1748.4436" x="330.92694" stroke-width=".99999">2</tspan>   </text>
+ <text id="text13849" font-size="18px" line-height="100%" xml:space="preserve" y="1660.5154" x="282.97986" font-family="Sans" fill="#000000">     <tspan id="tspan13851" y="1660.5154" x="282.97986">COO</tspan>   </text>
+ <text id="text14000" font-size="18px" xml:space="preserve" line-height="100%" y="1557.2893" x="469.66913" font-family="Sans" fill="#000000">     <tspan id="tspan14002" x="469.66913" y="1557.2893">CH S  CF</tspan>   </text>
+ <text id="text14004" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1640.9005" x="469.70258" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan14006" y="1640.9005" x="469.70258" stroke-width=".99999">2</tspan>   </text>
+ <path id="path14008" fill-rule="evenodd" fill="#000" d="m468.01 1550.7-19.19 0.2v1l19.19-0.2v-1z"/>
+ <path id="path14010" fill-rule="evenodd" fill="#000" d="m522.98 1550.7-8.25 0.4 0.03 0.8 8.25-0.4-0.03-0.8z"/>
+ <text id="text14016" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1641.6702" x="518.37842" stroke-width=".99999" fill="#000000">     <tspan id="tspan14018" y="1641.6702" x="518.37842" stroke-width=".99999">3</tspan>   </text>
+ <text id="text14051" font-size="18px" line-height="100%" xml:space="preserve" y="250.74132" x="290.53339" font-family="Sans" fill="#000000">     <tspan id="tspan14053" y="250.74132" x="290.53339">R</tspan>   </text>
+ <text id="text14055" font-size="9.6958px" font-family="Sans" transform="scale(1.0771 .92840)" xml:space="preserve" y="271.84476" x="280.0043" stroke-width=".99998" line-height="100%" fill="#000000">     <tspan id="tspan14057" y="271.84476" x="280.0043" stroke-width=".99998">1</tspan>   </text>
+ <path id="path14075" fill-rule="evenodd" fill="#000" d="m331.51 244.38-19.19 0.22v1l19.19-0.22v-1z"/>
+ <text id="text14067" font-size="18px" xml:space="preserve" line-height="100%" y="250.34602" x="503.72699" font-family="Sans" fill="#000000">     <tspan id="tspan14069" x="503.72699" y="250.34602">R</tspan>   </text>
+ <text id="text14071" font-size="9.8702px" font-family="Sans" transform="scale(1.0161 .98417)" xml:space="preserve" y="256.84293" x="507.40167" line-height="100%" fill="#000000">     <tspan id="tspan14073" y="256.84293" x="507.40167">2</tspan>   </text>
+ <path id="path14077" fill-rule="evenodd" fill="#000" d="m498.79 244.38-19.19 0.22 0.03 1 19.19-0.22-0.03-1z"/>
+ <path id="path14145" fill-rule="evenodd" fill="#000" d="m2.2322 275.6v3h644.09v-3h-644.09z"/>
+ <polygon id="polygon13227" points="256 885 281 910 280 911 255 886" fill="#000" transform="matrix(.69389 -.185 -.19467 -.65943 452.37 1061.3)"/>
+ <polygon id="polygon13229" points="280 910 271 945 272 946 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1361.6)"/>
+ <polygon id="polygon13231" points="280 910 315 901 316 902 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1361.6)"/>
+ <polygon id="polygon13233" points="315 901 324 866 325 867 316 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1361.6)"/>
+ <polygon id="polygon13235" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1361.6)"/>
+ <polygon id="polygon13237" points="316 901 341 926 340 927 315 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1361.6)"/>
+ <polygon id="polygon13239" points="324 866 359 857 360 858 325 867" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1361.6)"/>
+ <polygon id="polygon13241" points="375 917 340 926 341 927 376 918" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1361.6)"/>
+ <polygon id="polygon13245" points="360 857 386 882 385 883 359 858" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1361.6)"/>
+ <polygon id="polygon13249" points="385 882 375 917 376 918 386 883" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1361.6)"/>
+ <polygon id="polygon13281" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 488.47 1336.9)"/>
+ <text id="text14147" font-size="18px" xml:space="preserve" line-height="100%" y="444.17856" x="446.56305" font-family="Sans" fill="#000000">     <tspan id="tspan14149" x="446.56305" y="444.17856">NH</tspan>   </text>
+ <text id="text14151" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="473.67105" x="450.70502" stroke-width=".99999" fill="#000000">     <tspan id="tspan14153" y="473.67105" x="450.70502" stroke-width=".99999">2</tspan>   </text>
+ <polygon id="polygon14190" points="256 885 281 910 280 911 255 886" fill="#000" transform="matrix(.69389 -.185 -.19467 -.65943 452.37 1168.2)"/>
+ <polygon id="polygon14192" points="280 910 271 945 272 946 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1468.4)"/>
+ <polygon id="polygon14194" points="280 910 315 901 316 902 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1468.4)"/>
+ <polygon id="polygon14196" points="315 901 324 866 325 867 316 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1468.4)"/>
+ <polygon id="polygon14198" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1468.4)"/>
+ <polygon id="polygon14200" points="316 901 341 926 340 927 315 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1468.4)"/>
+ <polygon id="polygon14202" points="324 866 359 857 360 858 325 867" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1468.4)"/>
+ <polygon id="polygon14204" points="375 917 340 926 341 927 376 918" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1468.4)"/>
+ <polygon id="polygon14206" points="360 857 386 882 385 883 359 858" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1468.4)"/>
+ <polygon id="polygon14208" points="385 882 375 917 376 918 386 883" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1468.4)"/>
+ <polygon id="polygon14210" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 488.47 1443.7)"/>
+ <text id="text14212" font-size="18px" line-height="100%" xml:space="preserve" y="551.00867" x="446.56305" font-family="Sans" fill="#000000">     <tspan id="tspan14214" y="551.00867" x="446.56305">NH</tspan>   </text>
+ <text id="text14216" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="585.9079" x="450.70502" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan14218" y="585.9079" x="450.70502" stroke-width=".99999">2</tspan>   </text>
+ <polygon id="polygon13145" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 488.05 1551.6)"/>
+ <polygon id="polygon13153" points="371 911 340 920 341 921 372 912" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1624.7)"/>
+ <polygon id="polygon14224" points="256 885 281 910 280 911 255 886" fill="#000" transform="matrix(.69389 -.185 -.19467 -.65943 452.37 1275.9)"/>
+ <polygon id="polygon14226" points="280 910 271 945 272 946 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1576.1)"/>
+ <polygon id="polygon14228" points="280 910 315 901 316 902 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1576.1)"/>
+ <polygon id="polygon14230" points="315 901 324 866 325 867 316 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -330.67)"/>
+ <polygon id="polygon14232" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -330.67)"/>
+ <polygon id="polygon14234" points="316 901 341 926 340 927 315 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -330.67)"/>
+ <polygon id="polygon14236" points="324 866 359 857 360 858 325 867" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -330.67)"/>
+ <polygon id="polygon14238" points="375 917 340 926 341 927 376 918" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -330.67)"/>
+ <polygon id="polygon14240" points="360 857 386 882 385 883 359 858" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -330.67)"/>
+ <polygon id="polygon14242" points="385 882 375 917 376 918 386 883" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -330.67)"/>
+ <text id="text14246" font-size="18px" xml:space="preserve" line-height="100%" y="658.6842" x="446.56305" font-family="Sans" fill="#000000">     <tspan id="tspan14248" x="446.56305" y="658.6842">NH</tspan>   </text>
+ <text id="text14250" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="699.03302" x="450.70508" stroke-width=".99999" fill="#000000">     <tspan id="tspan14252" y="699.03302" x="450.70508" stroke-width=".99999">2</tspan>   </text>
+ <polygon id="polygon14301" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 488.05 1658.4)"/>
+ <polygon id="polygon14303" points="371 911 340 920 341 921 372 912" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1731.5)"/>
+ <polygon id="polygon14305" points="256 885 281 910 280 911 255 886" fill="#000" transform="matrix(.69389 -.185 -.19467 -.65943 452.37 1382.6)"/>
+ <polygon id="polygon14307" points="280 910 271 945 272 946 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1682.8)"/>
+ <polygon id="polygon14309" points="280 910 315 901 316 902 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1682.8)"/>
+ <polygon id="polygon14311" points="315 901 324 866 325 867 316 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -223.9)"/>
+ <polygon id="polygon14313" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -223.9)"/>
+ <polygon id="polygon14315" points="316 901 341 926 340 927 315 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -223.9)"/>
+ <polygon id="polygon14317" points="324 866 359 857 360 858 325 867" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -223.9)"/>
+ <polygon id="polygon14319" points="375 917 340 926 341 927 376 918" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -223.9)"/>
+ <polygon id="polygon14321" points="360 857 386 882 385 883 359 858" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -223.9)"/>
+ <polygon id="polygon14323" points="385 882 375 917 376 918 386 883" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -223.9)"/>
+ <text id="text14325" font-size="18px" line-height="100%" xml:space="preserve" y="765.44806" x="446.56305" font-family="Sans" fill="#000000">     <tspan id="tspan14327" y="765.44806" x="446.56305">NH</tspan>   </text>
+ <text id="text14329" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="811.20032" x="450.70508" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan14331" y="811.20032" x="450.70508" stroke-width=".99999">2</tspan>   </text>
+ <polygon id="polygon14335" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 488.05 1753.4)"/>
+ <polygon id="polygon14337" points="371 911 340 920 341 921 372 912" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1826.5)"/>
+ <polygon id="polygon14339" points="256 885 281 910 280 911 255 886" fill="#000" transform="matrix(.69389 -.185 -.19467 -.65943 452.37 1477.6)"/>
+ <polygon id="polygon14341" points="280 910 271 945 272 946 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1777.8)"/>
+ <polygon id="polygon14343" points="280 910 315 901 316 902 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1777.8)"/>
+ <polygon id="polygon14345" points="315 901 324 866 325 867 316 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -128.91)"/>
+ <polygon id="polygon14347" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -128.91)"/>
+ <polygon id="polygon14349" points="316 901 341 926 340 927 315 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -128.91)"/>
+ <polygon id="polygon14351" points="324 866 359 857 360 858 325 867" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -128.91)"/>
+ <polygon id="polygon14353" points="375 917 340 926 341 927 376 918" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -128.91)"/>
+ <polygon id="polygon14355" points="360 857 386 882 385 883 359 858" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -128.91)"/>
+ <polygon id="polygon14357" points="385 882 375 917 376 918 386 883" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -128.91)"/>
+ <text id="text14359" font-size="18px" xml:space="preserve" line-height="100%" y="860.44159" x="446.56305" font-family="Sans" fill="#000000">     <tspan id="tspan14361" x="446.56305" y="860.44159">NH</tspan>   </text>
+ <text id="text14363" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="911.00146" x="450.70508" stroke-width=".99999" fill="#000000">     <tspan id="tspan14365" y="911.00146" x="450.70508" stroke-width=".99999">2</tspan>   </text>
+ <polygon id="polygon14369" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 488.05 1867.4)"/>
+ <polygon id="polygon14371" points="371 911 340 920 341 921 372 912" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1940.5)"/>
+ <polygon id="polygon14373" points="256 885 281 910 280 911 255 886" fill="#000" transform="matrix(.69389 -.185 -.19467 -.65943 452.37 1591.6)"/>
+ <polygon id="polygon14375" points="280 910 271 945 272 946 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1891.8)"/>
+ <polygon id="polygon14377" points="280 910 315 901 316 902 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1891.8)"/>
+ <polygon id="polygon14379" points="315 901 324 866 325 867 316 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -14.911)"/>
+ <polygon id="polygon14381" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -14.911)"/>
+ <polygon id="polygon14383" points="316 901 341 926 340 927 315 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -14.911)"/>
+ <polygon id="polygon14385" points="324 866 359 857 360 858 325 867" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -14.911)"/>
+ <polygon id="polygon14387" points="375 917 340 926 341 927 376 918" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -14.911)"/>
+ <polygon id="polygon14389" points="360 857 386 882 385 883 359 858" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -14.911)"/>
+ <polygon id="polygon14391" points="385 882 375 917 376 918 386 883" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 -14.911)"/>
+ <text id="text14393" font-size="18px" line-height="100%" xml:space="preserve" y="974.44153" x="446.56305" font-family="Sans" fill="#000000">     <tspan id="tspan14395" y="974.44153" x="446.56305">NH</tspan>   </text>
+ <text id="text14397" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1030.771" x="450.70508" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan14399" y="1030.771" x="450.70508" stroke-width=".99999">2</tspan>   </text>
+ <polygon id="polygon14417" points="280 910 315 901 316 902 281 911" fill="#000" transform="matrix(.60154 -.27012 -.16876 -.96283 562.06 1891)"/>
+ <text id="text14419" font-size="18px" xml:space="preserve" line-height="100%" y="943.93573" x="599.64404" font-family="Sans" fill="#000000">     <tspan id="tspan14421" x="599.64404" y="943.93573">OH</tspan>   </text>
+ <polygon id="polygon14446" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 488.05 1958)"/>
+ <polygon id="polygon14448" points="371 911 340 920 341 921 372 912" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 2031.1)"/>
+ <polygon id="polygon14450" points="256 885 281 910 280 911 255 886" fill="#000" transform="matrix(.69389 -.185 -.19467 -.65943 452.37 1682.3)"/>
+ <polygon id="polygon14452" points="280 910 271 945 272 946 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1982.5)"/>
+ <polygon id="polygon14454" points="280 910 315 901 316 902 281 911" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 445.46 1982.5)"/>
+ <polygon id="polygon14456" points="315 901 324 866 325 867 316 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 75.769)"/>
+ <polygon id="polygon14458" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 75.769)"/>
+ <polygon id="polygon14460" points="316 901 341 926 340 927 315 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 75.769)"/>
+ <polygon id="polygon14462" points="324 866 359 857 360 858 325 867" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 75.769)"/>
+ <polygon id="polygon14464" points="375 917 340 926 341 927 376 918" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 75.769)"/>
+ <polygon id="polygon14466" points="360 857 386 882 385 883 359 858" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 75.769)"/>
+ <polygon id="polygon14468" points="385 882 375 917 376 918 386 883" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 445.46 75.769)"/>
+ <text id="text14470" font-size="18px" xml:space="preserve" line-height="100%" y="1065.1171" x="446.56305" font-family="Sans" fill="#000000">     <tspan id="tspan14472" x="446.56305" y="1065.1171">NH</tspan>   </text>
+ <text id="text14474" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1126.0358" x="450.70551" stroke-width=".99999" fill="#000000">     <tspan id="tspan14476" y="1126.0358" x="450.70551" stroke-width=".99999">2</tspan>   </text>
+ <polygon id="polygon14478" points="280 910 315 901 316 902 281 911" fill="#000" transform="matrix(.60154 -.27012 -.16876 -.96283 562.06 1981.7)"/>
+ <text id="text14480" font-size="18px" line-height="100%" xml:space="preserve" y="1034.6113" x="599.64398" font-family="Sans" fill="#000000">     <tspan id="tspan14482" y="1034.6113" x="599.64398">OH</tspan>   </text>
+ <polygon id="polygon14568" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.82674 -.19332 -.23194 -.68908 526.89 1917.4)"/>
+ <polygon id="polygon14570" points="371 911 340 920 341 921 372 912" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 475.02 2262.2)"/>
+ <polygon id="polygon14572" points="280 910 315 901 316 902 281 911" fill="#000" transform="matrix(.55325 -.27012 -.15521 -.96283 500.8 2213.6)"/>
+ <polygon id="polygon14574" points="315 901 324 866 325 867 316 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 475.02 306.81)"/>
+ <polygon id="polygon14576" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 475.02 306.81)"/>
+ <polygon id="polygon14578" points="316 901 341 926 340 927 315 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 475.02 306.81)"/>
+ <polygon id="polygon14580" points="324 866 359 857 360 858 325 867" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 475.02 306.81)"/>
+ <polygon id="polygon14582" points="375 917 340 926 341 927 376 918" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 475.02 306.81)"/>
+ <polygon id="polygon14584" points="360 857 386 882 385 883 359 858" fill="#000" transform="matrix(.76187 .19824 -.21374 .70661 498.79 552.26)"/>
+ <polygon id="polygon14586" points="385 882 375 917 376 918 386 883" fill="#000" transform="matrix(.68827 .18348 -.1931 .65399 507.34 622.9)"/>
+ <text id="text14644" font-size="18px" xml:space="preserve" line-height="100%" y="1268.373" x="601.47272" font-family="Sans" fill="#000000">     <tspan id="tspan14646" x="601.47272" y="1268.373">N</tspan>   </text>
+ <text id="text14648" font-size="18px" xml:space="preserve" line-height="100%" y="1265.8669" x="502.16193" font-family="Sans" fill="#000000">     <tspan id="tspan14650" x="502.16193" y="1265.8669">S</tspan>   </text>
+ <text id="text14652" font-size="18px" line-height="100%" xml:space="preserve" y="1265.7378" x="469.61877" font-family="Sans" fill="#000000">     <tspan id="tspan14654" y="1265.7378" x="469.61877">CH</tspan>   </text>
+ <text id="text14656" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1333.292" x="469.89264" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan14658" y="1333.292" x="469.89264" stroke-width=".99999">2</tspan>   </text>
+ <path id="path14660" fill-rule="evenodd" fill="#000" d="m468.01 1259.3-19.19 0.2v1l19.19-0.2v-1z"/>
+ <text id="text14701" font-size="18px" xml:space="preserve" line-height="100%" y="632.69922" x="250.03297" font-family="Sans" fill="#000000">     <tspan id="tspan14703" x="250.03297" y="632.69922">CH</tspan>   </text>
+ <text id="text14705" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="668.2041" x="260.88852" stroke-width=".99999" fill="#000000">     <tspan id="tspan14707" y="668.2041" x="260.88852" stroke-width=".99999">3</tspan>   </text>
+ <path id="path14709" fill-rule="evenodd" fill="#000" d="m377.13 627.26-19.18 0.22 0.03 1 19.18-0.22-0.03-1z"/>
+ <text id="text14711" font-size="18px" line-height="100%" xml:space="preserve" y="633.35858" x="323.61737" font-family="Sans" fill="#000000">     <tspan id="tspan14713" y="633.35858" x="323.61737">CH</tspan>   </text>
+ <text id="text14715" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="668.90063" x="330.92691" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan14717" y="668.90063" x="330.92691" stroke-width=".99999">2</tspan>   </text>
+ <text id="text14719" font-size="18px" xml:space="preserve" line-height="100%" y="632.9743" x="282.97986" font-family="Sans" fill="#000000">     <tspan id="tspan14721" x="282.97986" y="632.9743">COO</tspan>   </text>
+ <polygon id="polygon10740" points="291 849 256 859 257 860 292 850" transform="matrix(-.56534 .54431 -.53691 -.57313 1158.7 1464.9)"/>
+ <polygon id="polygon10742" points="291 849 300 815 301 816 292 850" transform="matrix(-.53892 .46513 -.51182 -.48976 1130 1433.7)"/>
+ <polygon id="polygon10752" points="257 859 231 833 230 834 256 860" transform="matrix(-.7251 .68864 -.68864 -.7251 1330 1558.5)"/>
+ <polygon id="polygon10754" points="259 853 237 831 236 832 258 854" transform="matrix(-.7251 .68864 -.68864 -.7251 1330 1558.5)"/>
+ <polygon id="polygon10756" points="275 789 301 815 300 816 274 790" transform="matrix(-.7251 .68864 -.68864 -.7251 1330 1558.5)"/>
+ <polygon id="polygon10758" points="272 796 294 818 293 819 271 797" transform="matrix(-.7251 .68864 -.68864 -.7251 1330 1558.5)"/>
+ <polygon id="polygon10762" points="230 833 196 843 197 844 231 834" transform="matrix(-.54745 .46378 -.51993 -.48833 1148.2 1413)"/>
+ <polygon id="polygon10764" points="230 833 240 798 241 799 231 834" transform="matrix(-.7251 .68864 -.68864 -.7251 1330 1558.5)"/>
+ <polygon id="polygon10766" points="240 798 274 789 275 790 241 799" transform="matrix(-.7251 .68864 -.68864 -.7251 1330 1558.5)"/>
+ <polygon id="polygon10768" points="274 789 284 754 285 755 275 790" transform="matrix(-.51368 .47492 -.48785 -.50006 1113.2 1439.5)"/>
+ <polygon id="polygon10772" points="243 796 217 771 216 772 242 797" transform="matrix(-.45592 .68864 -.43299 -.7251 1059 1558.5)"/>
+ <polygon id="polygon10774" points="238 801 212 776 211 777 237 802" transform="matrix(-.45592 .68864 -.43299 -.7251 1059 1558.5)"/>
+ <text id="text14958" font-size="18px" xml:space="preserve" line-height="100%" y="1151.0714" x="526.92517" font-family="Sans" fill="#000000">     <tspan id="tspan14960" x="526.92517" y="1151.0714">N</tspan>   </text>
+ <text id="text14962" font-size="18px" xml:space="preserve" line-height="100%" y="1091.4751" x="598.08807" font-family="Sans" fill="#000000">     <tspan id="tspan14964" x="598.08807" y="1091.4751">Cl</tspan>   </text>
+ <text id="text14966" font-size="18px" line-height="100%" xml:space="preserve" y="1209.4751" x="598.08807" font-family="Sans" fill="#000000">     <tspan id="tspan14968" y="1209.4751" x="598.08807">Cl</tspan>   </text>
+ <text id="text14970" font-size="18px" xml:space="preserve" line-height="100%" y="1151.3373" x="628.04291" font-family="Sans" fill="#000000">     <tspan id="tspan14972" x="628.04291" y="1151.3373">O</tspan>   </text>
+ <text id="text14993" font-size="18px" line-height="100%" xml:space="preserve" y="1151.4927" x="469.61877" font-family="Sans" fill="#000000">     <tspan id="tspan14995" y="1151.4927" x="469.61877">CH</tspan>   </text>
+ <text id="text14997" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1213.2654" x="469.8927" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan14999" y="1213.2654" x="469.8927" stroke-width=".99999">2</tspan>   </text>
+ <path id="path15001" fill-rule="evenodd" fill="#000" d="m468.01 1145.1-19.19 0.2v1l19.19-0.2v-1z"/>
+ <path id="path15003" fill-rule="evenodd" fill="#000" d="m524.01 1145.1-19.19 0.2v1l19.19-0.2v-1z"/>
+ <polygon id="polygon14756" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.82674 -.19332 -.23194 -.68908 215.21 2405.3)"/>
+ <polygon id="polygon14758" points="371 911 340 920 341 921 372 912" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 163.34 2750.1)"/>
+ <polygon id="polygon14762" points="315 901 324 866 325 867 316 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 163.34 794.69)"/>
+ <polygon id="polygon14764" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 163.34 794.69)"/>
+ <polygon id="polygon14766" points="316 901 341 926 340 927 315 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 163.34 794.69)"/>
+ <polygon id="polygon14768" points="324 866 359 857 360 858 325 867" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 163.34 794.69)"/>
+ <polygon id="polygon14770" points="375 917 340 926 341 927 376 918" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 163.34 794.69)"/>
+ <polygon id="polygon14772" points="360 857 386 882 385 883 359 858" fill="#000" transform="matrix(.76187 .19824 -.21374 .70661 187.11 1040.1)"/>
+ <polygon id="polygon14774" points="385 882 375 917 376 918 386 883" fill="#000" transform="matrix(.68827 .18348 -.1931 .65399 195.66 1110.8)"/>
+ <text id="text14776" font-size="18px" line-height="100%" xml:space="preserve" y="1756.2566" x="289.7948" font-family="Sans" fill="#000000">     <tspan id="tspan14778" y="1756.2566" x="289.7948">N</tspan>   </text>
+ <text id="text14784" font-size="18px" xml:space="preserve" line-height="100%" y="1755.8365" x="324.97046" font-family="Sans" fill="#000000">     <tspan id="tspan14786" x="324.97046" y="1755.8365">CH</tspan>   </text>
+ <text id="text14788" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1848.1952" x="332.21487" stroke-width=".99999" fill="#000000">     <tspan id="tspan14790" y="1848.1952" x="332.21487" stroke-width=".99999">2</tspan>   </text>
+ <path id="path14792" fill-rule="evenodd" fill="#000" d="m323.35 1749.4-19.19 0.2 0.04 1 19.15-0.2v-1z"/>
+ <text id="text14813" font-size="18px" xml:space="preserve" line-height="100%" y="1736.8867" x="298.50208" font-family="Sans" fill="#000000">     <tspan id="tspan14815" x="298.50208" y="1736.8867">+</tspan>   </text>
+ <path id="path15005" fill-rule="evenodd" fill="#000" d="m377.13 1749.4-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <polygon id="polygon14865" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.82674 -.19332 -.23194 -.68908 212.66 2513.5)"/>
+ <polygon id="polygon14867" points="371 911 340 920 341 921 372 912" fill="#000" transform="matrix(.96283 -.27012 -.27012 -.96283 160.78 2858.2)"/>
+ <polygon id="polygon14871" points="315 901 324 866 325 867 316 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 160.78 902.86)"/>
+ <polygon id="polygon14873" points="321 901 330 870 331 871 322 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 160.78 902.86)"/>
+ <polygon id="polygon14875" points="316 901 341 926 340 927 315 902" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 160.78 902.86)"/>
+ <polygon id="polygon14877" points="324 866 359 857 360 858 325 867" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 160.78 902.86)"/>
+ <polygon id="polygon14879" points="375 917 340 926 341 927 376 918" fill="#000" transform="matrix(.96283 .27012 -.27012 .96283 160.78 902.86)"/>
+ <polygon id="polygon14881" points="360 857 386 882 385 883 359 858" fill="#000" transform="matrix(.76187 .19824 -.21374 .70661 184.55 1148.3)"/>
+ <polygon id="polygon14883" points="385 882 375 917 376 918 386 883" fill="#000" transform="matrix(.68827 .18348 -.1931 .65399 193.11 1218.9)"/>
+ <text id="text14885" font-size="18px" xml:space="preserve" line-height="100%" y="1864.4232" x="287.23871" font-family="Sans" fill="#000000">     <tspan id="tspan14887" x="287.23871" y="1864.4232">N</tspan>   </text>
+ <text id="text14889" font-size="18px" line-height="100%" xml:space="preserve" y="1864.0032" x="322.41437" font-family="Sans" fill="#000000">     <tspan id="tspan14891" y="1864.0032" x="322.41437">CH</tspan>   </text>
+ <text id="text14893" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1961.8363" x="329.78201" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan14895" y="1961.8363" x="329.78201" stroke-width=".99999">2</tspan>   </text>
+ <path id="path14897" fill-rule="evenodd" fill="#000" d="m320.79 1857.6-19.19 0.2 0.03 1 19.19-0.2-0.03-1z"/>
+ <text id="text14899" font-size="18px" line-height="100%" xml:space="preserve" y="1845.0533" x="295.94598" font-family="Sans" fill="#000000">     <tspan id="tspan14901" y="1845.0533" x="295.94598">+</tspan>   </text>
+ <text id="text14903" font-size="18px" xml:space="preserve" line-height="100%" y="1861.4462" x="139.54961" font-family="Sans" fill="#000000">     <tspan id="tspan14905" x="139.54961" y="1861.4462">H N-CO</tspan>   </text>
+ <text id="text14926" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1962.314" x="144.28862" stroke-width=".99999" fill="#000000">     <tspan id="tspan14928" y="1962.314" x="144.28862" stroke-width=".99999">2</tspan>   </text>
+ <path id="path14930" fill-rule="evenodd" fill="#000" d="m220.16 1855.8-13.46 0.3 0.03 0.9 13.47-0.3-0.04-0.9z"/>
+ <path id="path15031" fill-rule="evenodd" fill="#000" d="m377.13 1857.3-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <polygon id="polygon9141" points="190 862 181 897 182 898 191 863" fill="#000" transform="matrix(.30023 .66235 -.49841 .39899 888.86 1281.3)"/>
+ <polygon id="polygon9149" points="224 849 190 862 191 863 225 850" fill="#000" transform="matrix(.4057 .71301 -.67351 .4295 1019.6 1245.4)"/>
+ <polygon id="polygon9151" points="191 862 169 834 168 835 190 863" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1143.5)"/>
+ <polygon id="polygon9153" points="194 856 176 832 175 833 193 857" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1143.5)"/>
+ <polygon id="polygon9157" points="223 813 225 849 224 850 222 814" fill="#000" transform="matrix(.35468 .65423 -.5888 .39409 974.84 1287.7)"/>
+ <polygon id="polygon9159" points="168 834 187 804 188 805 169 835" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1143.5)"/>
+ <polygon id="polygon9165" points="188 804 223 813 222 814 187 805" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1143.5)"/>
+ <polygon id="polygon9167" points="189 811 218 820 217 821 188 812" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1143.5)"/>
+ <text id="text15108" font-size="18px" xml:space="preserve" line-height="100%" y="1778.1113" x="540.16571" font-family="Sans" fill="#000000">     <tspan id="tspan15110" x="540.16571" y="1778.1113">S</tspan>   </text>
+ <text id="text15138" font-size="18px" xml:space="preserve" line-height="100%" y="1769.5922" x="469.61877" font-family="Sans" fill="#000000">     <tspan id="tspan15140" x="469.61877" y="1769.5922">CH</tspan>   </text>
+ <text id="text15142" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1862.6472" x="469.8927" stroke-width=".99999" fill="#000000">     <tspan id="tspan15144" y="1862.6472" x="469.8927" stroke-width=".99999">2</tspan>   </text>
+ <path id="path15146" fill-rule="evenodd" fill="#000" d="m468.01 1763.2-19.19 0.2v1l19.19-0.2v-1z"/>
+ <polygon id="polygon15195" points="190 862 181 897 182 898 191 863" fill="#000" transform="matrix(.30023 .66235 -.49841 .39899 888.86 1389.5)"/>
+ <polygon id="polygon15197" points="224 849 190 862 191 863 225 850" fill="#000" transform="matrix(.4057 .71301 -.67351 .4295 1019.6 1353.5)"/>
+ <polygon id="polygon15199" points="191 862 169 834 168 835 190 863" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1251.7)"/>
+ <polygon id="polygon15201" points="194 856 176 832 175 833 193 857" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1251.7)"/>
+ <polygon id="polygon15203" points="223 813 225 849 224 850 222 814" fill="#000" transform="matrix(.35468 .65423 -.5888 .39409 974.84 1395.8)"/>
+ <polygon id="polygon15205" points="168 834 187 804 188 805 169 835" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1251.7)"/>
+ <polygon id="polygon15207" points="188 804 223 813 222 814 187 805" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1251.7)"/>
+ <polygon id="polygon15209" points="189 811 218 820 217 821 188 812" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1251.7)"/>
+ <text id="text15211" font-size="18px" line-height="100%" xml:space="preserve" y="1886.2781" x="540.16571" font-family="Sans" fill="#000000">     <tspan id="tspan15213" y="1886.2781" x="540.16571">S</tspan>   </text>
+ <text id="text15215" font-size="18px" line-height="100%" xml:space="preserve" y="1877.7589" x="469.61877" font-family="Sans" fill="#000000">     <tspan id="tspan15217" y="1877.7589" x="469.61877">CH</tspan>   </text>
+ <text id="text15219" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1976.2883" x="469.8927" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan15221" y="1976.2883" x="469.8927" stroke-width=".99999">2</tspan>   </text>
+ <path id="path15223" fill-rule="evenodd" fill="#000" d="m468.01 1871.3-19.19 0.2v1l19.19-0.2v-1z"/>
+ <polygon id="polygon15227" points="190 862 181 897 182 898 191 863" fill="#000" transform="matrix(.30023 .66235 -.49841 .39899 888.86 1188.8)"/>
+ <polygon id="polygon15229" points="224 849 190 862 191 863 225 850" fill="#000" transform="matrix(.4057 .71301 -.67351 .4295 1019.6 1152.8)"/>
+ <polygon id="polygon15231" points="191 862 169 834 168 835 190 863" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1051)"/>
+ <polygon id="polygon15233" points="194 856 176 832 175 833 193 857" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1051)"/>
+ <polygon id="polygon15235" points="223 813 225 849 224 850 222 814" fill="#000" transform="matrix(.35468 .65423 -.5888 .39409 974.84 1195.1)"/>
+ <polygon id="polygon15237" points="168 834 187 804 188 805 169 835" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1051)"/>
+ <polygon id="polygon15239" points="188 804 223 813 222 814 187 805" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1051)"/>
+ <polygon id="polygon15241" points="189 811 218 820 217 821 188 812" fill="#000" transform="matrix(.51599 .85659 -.85659 .51599 1156.6 1051)"/>
+ <text id="text15243" font-size="18px" xml:space="preserve" line-height="100%" y="1685.5852" x="540.16571" font-family="Sans" fill="#000000">     <tspan id="tspan15245" x="540.16571" y="1685.5852">S</tspan>   </text>
+ <text id="text15247" font-size="18px" xml:space="preserve" line-height="100%" y="1677.066" x="469.61877" font-family="Sans" fill="#000000">     <tspan id="tspan15249" x="469.61877" y="1677.066">CH</tspan>   </text>
+ <text id="text15251" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1765.4384" x="469.8927" stroke-width=".99999" fill="#000000">     <tspan id="tspan15253" y="1765.4384" x="469.8927" stroke-width=".99999">2</tspan>   </text>
+ <path id="path15255" fill-rule="evenodd" fill="#000" d="m468.01 1670.6-19.19 0.2v1l19.19-0.2v-1z"/>
+ <polygon id="polygon15261" points="224 849 190 862 191 863 225 850" fill="#000" transform="matrix(.4057 .71301 -.67351 .4295 709.33 853.13)"/>
+ <polygon id="polygon15263" points="191 862 169 834 168 835 190 863" fill="#000" transform="matrix(.40173 .59706 -.66691 .35966 704.28 935.63)"/>
+ <polygon id="polygon15265" points="194 856 176 832 175 833 193 857" fill="#000" transform="matrix(.37134 .65432 -.61645 .39414 668.38 894.84)"/>
+ <polygon id="polygon15267" points="223 813 225 849 224 850 222 814" fill="#000" transform="matrix(.35468 .65423 -.5888 .39409 664.52 895.45)"/>
+ <polygon id="polygon15269" points="168 834 187 804 188 805 169 835" fill="#000" transform="matrix(.25448 .85659 -.42247 .51599 537.27 751.3)"/>
+ <polygon id="polygon15271" points="188 804 223 813 222 814 187 805" fill="#000" transform="matrix(.28198 .55268 -.46811 .33292 582.62 967.9)"/>
+ <polygon id="polygon15273" points="189 811 218 820 217 821 188 812" fill="#000" transform="matrix(.357 .60211 -.59265 .3627 667.59 931.59)"/>
+ <text id="text15275" font-size="18px" line-height="100%" xml:space="preserve" y="1385.8689" x="229.81694" font-family="Sans" fill="#000000">     <tspan id="tspan15277" y="1385.8689" x="229.81694">S</tspan>   </text>
+ <text id="text15279" font-size="18px" line-height="100%" xml:space="preserve" y="1382.2233" x="323.19824" font-family="Sans" fill="#000000">     <tspan id="tspan15281" y="1382.2233" x="323.19824">CH</tspan>   </text>
+ <text id="text15283" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1455.6736" x="330.52817" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan15285" y="1455.6736" x="330.52817" stroke-width=".99999">2</tspan>   </text>
+ <path id="path15287" fill-rule="evenodd" fill="#000" d="m321.13 1375.1-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text15304" font-size="18px" xml:space="preserve" line-height="100%" y="1381.8689" x="287.81689" font-family="Sans" fill="#000000">     <tspan id="tspan15306" x="287.81689" y="1381.8689">S</tspan>   </text>
+ <path id="path15308" fill-rule="evenodd" fill="#000" d="m263.76 1361.2-0.41 0.9 21.72 9.8 0.41-0.9-21.72-9.8z"/>
+ <path id="path15310" fill-rule="evenodd" fill="#000" d="m377.13 1375.1-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text15312" font-size="18px" xml:space="preserve" line-height="100%" y="1333.5736" x="247.62071" font-family="Sans" fill="#000000">     <tspan id="tspan15314" x="247.62071" y="1333.5736">N</tspan>   </text>
+ <text id="text15316" font-size="18px" xml:space="preserve" line-height="100%" y="1333.1305" x="212.39201" font-family="Sans" fill="#000000">     <tspan id="tspan15318" x="212.39201" y="1333.1305">N</tspan>   </text>
+ <polygon id="polygon15486" points="224 849 190 862 191 863 225 850" fill="#000" transform="matrix(.4057 .71301 -.67351 .4295 709.33 947.23)"/>
+ <polygon id="polygon15488" points="191 862 169 834 168 835 190 863" fill="#000" transform="matrix(.40173 .59706 -.66691 .35966 704.28 1029.7)"/>
+ <polygon id="polygon15490" points="194 856 176 832 175 833 193 857" fill="#000" transform="matrix(.37134 .65432 -.61645 .39414 668.38 988.92)"/>
+ <polygon id="polygon15492" points="223 813 225 849 224 850 222 814" fill="#000" transform="matrix(.35468 .65423 -.5888 .39409 664.52 989.52)"/>
+ <polygon id="polygon15494" points="168 834 187 804 188 805 169 835" fill="#000" transform="matrix(.25448 .85659 -.42247 .51599 537.27 845.39)"/>
+ <polygon id="polygon15496" points="188 804 223 813 222 814 187 805" fill="#000" transform="matrix(.28198 .55268 -.46811 .33292 582.62 1062)"/>
+ <polygon id="polygon15498" points="189 811 218 820 217 821 188 812" fill="#000" transform="matrix(.357 .60211 -.59265 .3627 667.59 1025.7)"/>
+ <text id="text15500" font-size="18px" xml:space="preserve" line-height="100%" y="1479.9669" x="229.81691" font-family="Sans" fill="#000000">     <tspan id="tspan15502" x="229.81691" y="1479.9669">S</tspan>   </text>
+ <text id="text15504" font-size="18px" xml:space="preserve" line-height="100%" y="1476.3213" x="323.19824" font-family="Sans" fill="#000000">     <tspan id="tspan15506" x="323.19824" y="1476.3213">CH</tspan>   </text>
+ <text id="text15508" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1554.5341" x="330.5282" stroke-width=".99999" fill="#000000">     <tspan id="tspan15510" y="1554.5341" x="330.5282" stroke-width=".99999">2</tspan>   </text>
+ <path id="path15512" fill-rule="evenodd" fill="#000" d="m321.13 1469.2-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text15514" font-size="18px" line-height="100%" xml:space="preserve" y="1475.9669" x="287.81689" font-family="Sans" fill="#000000">     <tspan id="tspan15516" y="1475.9669" x="287.81689">S</tspan>   </text>
+ <path id="path15518" fill-rule="evenodd" fill="#000" d="m263.76 1455.3-0.41 0.9 21.72 9.8 0.41-0.9-21.72-9.8z"/>
+ <path id="path15520" fill-rule="evenodd" fill="#000" d="m377.13 1469.2-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text15522" font-size="18px" line-height="100%" xml:space="preserve" y="1427.6716" x="247.62068" font-family="Sans" fill="#000000">     <tspan id="tspan15524" y="1427.6716" x="247.62068">N</tspan>   </text>
+ <text id="text15526" font-size="18px" line-height="100%" xml:space="preserve" y="1427.2285" x="212.39198" font-family="Sans" fill="#000000">     <tspan id="tspan15528" y="1427.2285" x="212.39198">N</tspan>   </text>
+ <text id="text15578" font-size="18px" xml:space="preserve" line-height="100%" y="1469.9988" x="148.28047" font-family="Sans" fill="#000000">     <tspan id="tspan15580" x="148.28047" y="1469.9988">CH</tspan>   </text>
+ <text id="text15582" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1547.8799" x="164.03938" stroke-width=".99999" fill="#000000">     <tspan id="tspan15584" y="1547.8799" x="164.03938" stroke-width=".99999">3</tspan>   </text>
+ <path id="path15586" fill-rule="evenodd" fill="#000" d="m205.16 1453.6-22.71 7.3 0.31 1 22.72-7.3-0.32-1z"/>
+ <polygon id="polygon15530" points="224 849 190 862 191 863 225 850" fill="#000" transform="matrix(.4057 .71301 -.67351 .4295 709.33 643.83)"/>
+ <polygon id="polygon15532" points="191 862 169 834 168 835 190 863" fill="#000" transform="matrix(.40173 .59706 -.66691 .35966 704.28 726.32)"/>
+ <polygon id="polygon15534" points="194 856 176 832 175 833 193 857" fill="#000" transform="matrix(.37134 .65432 -.61645 .39414 668.38 685.54)"/>
+ <polygon id="polygon15536" points="223 813 225 849 224 850 222 814" fill="#000" transform="matrix(.35468 .65423 -.5888 .39409 664.52 686.15)"/>
+ <polygon id="polygon15538" points="168 834 187 804 188 805 169 835" fill="#000" transform="matrix(.25448 .85659 -.42247 .51599 537.27 542)"/>
+ <polygon id="polygon15540" points="188 804 223 813 222 814 187 805" fill="#000" transform="matrix(.28198 .55268 -.46811 .33292 582.62 758.6)"/>
+ <polygon id="polygon15542" points="189 811 218 820 217 821 188 812" fill="#000" transform="matrix(.357 .60211 -.59265 .3627 667.59 722.29)"/>
+ <text id="text15544" font-size="18px" line-height="100%" xml:space="preserve" y="1176.5675" x="229.81694" font-family="Sans" fill="#000000">     <tspan id="tspan15546" y="1176.5675" x="229.81694">S</tspan>   </text>
+ <text id="text15548" font-size="18px" line-height="100%" xml:space="preserve" y="1172.9219" x="323.1983" font-family="Sans" fill="#000000">     <tspan id="tspan15550" y="1172.9219" x="323.1983">CH</tspan>   </text>
+ <text id="text15552" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1235.7792" x="330.52817" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan15554" y="1235.7792" x="330.52817" stroke-width=".99999">2</tspan>   </text>
+ <path id="path15556" fill-rule="evenodd" fill="#000" d="m321.13 1165.8-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text15558" font-size="18px" xml:space="preserve" line-height="100%" y="1172.5675" x="287.81696" font-family="Sans" fill="#000000">     <tspan id="tspan15560" x="287.81696" y="1172.5675">S</tspan>   </text>
+ <path id="path15562" fill-rule="evenodd" fill="#000" d="m263.76 1151.9-0.41 1 21.72 9.7 0.41-0.9-21.72-9.8z"/>
+ <path id="path15564" fill-rule="evenodd" fill="#000" d="m377.13 1165.8-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text15566" font-size="18px" xml:space="preserve" line-height="100%" y="1124.2722" x="247.62071" font-family="Sans" fill="#000000">     <tspan id="tspan15568" x="247.62071" y="1124.2722">N</tspan>   </text>
+ <text id="text15570" font-size="18px" xml:space="preserve" line-height="100%" y="1123.8291" x="212.39201" font-family="Sans" fill="#000000">     <tspan id="tspan15572" x="212.39201" y="1123.8291">N</tspan>   </text>
+ <text id="text15596" font-size="18px" line-height="100%" xml:space="preserve" y="1166.1571" x="148.28047" font-family="Sans" fill="#000000">     <tspan id="tspan15598" y="1166.1571" x="148.28047">CH</tspan>   </text>
+ <text id="text15600" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1228.6605" x="164.0394" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan15602" y="1228.6605" x="164.0394" stroke-width=".99999">3</tspan>   </text>
+ <path id="path15604" fill-rule="evenodd" fill="#000" d="m205.16 1149.8-22.71 7.3 0.31 0.9 22.72-7.3-0.32-0.9z"/>
+ <polygon id="polygon15710" points="224 849 190 862 191 863 225 850" fill="#000" transform="matrix(.42146 .56943 -.69966 .34301 737.31 645.05)"/>
+ <polygon id="polygon15712" points="191 862 169 834 168 835 190 863" fill="#000" transform="matrix(.25482 .40524 -.42303 .24411 525.71 746)"/>
+ <polygon id="polygon15716" points="223 813 225 849 224 850 222 814" fill="#000" transform="matrix(.46467 .87499 -.77138 .52707 788.44 419.86)"/>
+ <polygon id="polygon15718" points="168 834 187 804 188 805 169 835" fill="#000" transform="matrix(.25448 .85659 -.42247 .51599 537.27 432.96)"/>
+ <polygon id="polygon15720" points="188 804 223 813 222 814 187 805" fill="#000" transform="matrix(.28198 .55268 -.46811 .33292 582.62 649.57)"/>
+ <text id="text15728" font-size="18px" xml:space="preserve" line-height="100%" y="1063.8864" x="323.19824" font-family="Sans" fill="#000000">     <tspan id="tspan15730" x="323.19824" y="1063.8864">CH</tspan>   </text>
+ <text id="text15732" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1121.2255" x="330.52817" stroke-width=".99999" fill="#000000">     <tspan id="tspan15734" y="1121.2255" x="330.52817" stroke-width=".99999">2</tspan>   </text>
+ <path id="path15736" fill-rule="evenodd" fill="#000" d="m321.13 1056.8-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text15738" font-size="18px" line-height="100%" xml:space="preserve" y="1063.532" x="287.81689" font-family="Sans" fill="#000000">     <tspan id="tspan15740" y="1063.532" x="287.81689">S</tspan>   </text>
+ <path id="path15742" fill-rule="evenodd" fill="#000" d="m263.76 1042.9-0.41 0.9 21.72 9.7 0.41-0.9-21.72-9.7z"/>
+ <path id="path15744" fill-rule="evenodd" fill="#000" d="m377.13 1056.8-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text15746" font-size="18px" line-height="100%" xml:space="preserve" y="1015.2367" x="247.62068" font-family="Sans" fill="#000000">     <tspan id="tspan15748" y="1015.2367" x="247.62068">N</tspan>   </text>
+ <text id="text15750" font-size="18px" line-height="100%" xml:space="preserve" y="1014.7936" x="212.39198" font-family="Sans" fill="#000000">     <tspan id="tspan15752" y="1014.7936" x="212.39198">N</tspan>   </text>
+ <path id="path15756" fill-rule="evenodd" fill="#000" d="m228.13 1012.7-0.03 1 15.06 0.5 0.04-1-15.07-0.5z"/>
+ <path id="path15758" fill-rule="evenodd" fill="#000" d="m258.82 1040.3-21.28 17.3 0.66 0.8 21.25-17.3-0.63-0.8z"/>
+ <text id="text15760" font-size="18px" xml:space="preserve" line-height="100%" y="1046.7936" x="202.39198" font-family="Sans" fill="#000000">     <tspan id="tspan15762" x="202.39198" y="1046.7936">N</tspan>   </text>
+ <text id="text15764" font-size="18px" xml:space="preserve" line-height="100%" y="1056.8833" x="189.80904" font-family="Sans" fill="#000000">     <tspan id="tspan15766" x="189.80904" y="1056.8833">H</tspan>   </text>
+ <polygon id="polygon15849" points="224 849 190 862 191 863 225 850" fill="#000" transform="matrix(.24815 .4099 -.41195 .24691 842.66 1077.2)"/>
+ <polygon id="polygon15851" points="191 862 169 834 168 835 190 863" fill="#000" transform="matrix(.32012 .38267 -.53142 .23051 925.17 1080.2)"/>
+ <polygon id="polygon15855" points="223 813 225 849 224 850 222 814" fill="#000" transform="matrix(.35468 .65423 -.5888 .39409 984.64 896.18)"/>
+ <polygon id="polygon15857" points="168 834 187 804 188 805 169 835" fill="#000" transform="matrix(.25448 .85659 -.42247 .51599 857.37 752.03)"/>
+ <polygon id="polygon15859" points="188 804 223 813 222 814 187 805" fill="#000" transform="matrix(.28198 .55268 -.46811 .33292 902.71 968.63)"/>
+ <text id="text15867" font-size="18px" xml:space="preserve" line-height="100%" y="1382.0669" x="470.06177" font-family="Sans" fill="#000000">     <tspan id="tspan15869" x="470.06177" y="1382.0669">CH</tspan>   </text>
+ <text id="text15871" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1455.5096" x="470.31451" stroke-width=".99999" fill="#000000">     <tspan id="tspan15873" y="1455.5096" x="470.31451" stroke-width=".99999">2</tspan>   </text>
+ <path id="path15875" fill-rule="evenodd" fill="#000" d="m468.01 1375-19.19 0.2v1l19.19-0.2v-1z"/>
+ <path id="path15881" fill-rule="evenodd" fill="#000" d="m519.16 1362-21.71 9.7 0.4 0.9 21.72-9.7-0.41-0.9z"/>
+ <text id="text15885" font-size="18px" line-height="100%" xml:space="preserve" y="1334.3033" x="567.71655" font-family="Sans" fill="#000000">     <tspan id="tspan15887" y="1334.3033" x="567.71655">N</tspan>   </text>
+ <text id="text15889" font-size="18px" line-height="100%" xml:space="preserve" y="1333.8602" x="532.48785" font-family="Sans" fill="#000000">     <tspan id="tspan15891" y="1333.8602" x="532.48785">N</tspan>   </text>
+ <path id="path15893" fill-rule="evenodd" fill="#000" d="m548.38 1332.2-0.06 1 16.38 0.9 0.06-1-16.38-0.9z"/>
+ <path id="path15895" fill-rule="evenodd" fill="#000" d="m581.29 1358.8-17.28 12 0.56 0.8 17.28-11.9-0.56-0.9z"/>
+ <text id="text15897" font-size="18px" xml:space="preserve" line-height="100%" y="1384.3678" x="550.20984" font-family="Sans" fill="#000000">     <tspan id="tspan15899" x="550.20984" y="1384.3678">N</tspan>   </text>
+ <text id="text15901" font-size="18px" line-height="100%" xml:space="preserve" y="1365.7598" x="520.96857" font-family="Sans" fill="#000000">     <tspan id="tspan15903" y="1365.7598" x="520.96857">N</tspan>   </text>
+ <polygon id="polygon15905" points="224 849 190 862 191 863 225 850" fill="#000" transform="matrix(.24815 .4099 -.41195 .24691 842.66 1171.3)"/>
+ <polygon id="polygon15907" points="191 862 169 834 168 835 190 863" fill="#000" transform="matrix(.32012 .38267 -.53142 .23051 925.17 1174.3)"/>
+ <polygon id="polygon15909" points="223 813 225 849 224 850 222 814" fill="#000" transform="matrix(.35468 .65423 -.5888 .39409 984.64 990.32)"/>
+ <polygon id="polygon15911" points="168 834 187 804 188 805 169 835" fill="#000" transform="matrix(.25448 .85659 -.42247 .51599 857.37 846.12)"/>
+ <polygon id="polygon15913" points="188 804 223 813 222 814 187 805" fill="#000" transform="matrix(.28198 .55268 -.46811 .33292 902.71 1062.7)"/>
+ <text id="text15915" font-size="18px" line-height="100%" xml:space="preserve" y="1476.1649" x="470.06183" font-family="Sans" fill="#000000">     <tspan id="tspan15917" y="1476.1649" x="470.06183">CH</tspan>   </text>
+ <text id="text15919" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1554.3701" x="470.31451" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan15921" y="1554.3701" x="470.31451" stroke-width=".99999">2</tspan>   </text>
+ <path id="path15923" fill-rule="evenodd" fill="#000" d="m468.01 1469.1-19.19 0.2v1l19.19-0.2v-1z"/>
+ <path id="path15925" fill-rule="evenodd" fill="#000" d="m519.16 1456.1-21.71 9.7 0.4 0.9 21.72-9.7-0.41-0.9z"/>
+ <text id="text15927" font-size="18px" xml:space="preserve" line-height="100%" y="1428.4014" x="567.71661" font-family="Sans" fill="#000000">     <tspan id="tspan15929" x="567.71661" y="1428.4014">N</tspan>   </text>
+ <text id="text15931" font-size="18px" xml:space="preserve" line-height="100%" y="1427.9583" x="532.48792" font-family="Sans" fill="#000000">     <tspan id="tspan15933" x="532.48792" y="1427.9583">N</tspan>   </text>
+ <path id="path15935" fill-rule="evenodd" fill="#000" d="m548.38 1426.3-0.06 1 16.38 0.8 0.06-1-16.38-0.8z"/>
+ <path id="path15937" fill-rule="evenodd" fill="#000" d="m581.29 1452.9-17.28 12 0.56 0.8 17.28-11.9-0.56-0.9z"/>
+ <text id="text15939" font-size="18px" line-height="100%" xml:space="preserve" y="1478.4658" x="550.2099" font-family="Sans" fill="#000000">     <tspan id="tspan15941" y="1478.4658" x="550.2099">N</tspan>   </text>
+ <text id="text15943" font-size="18px" xml:space="preserve" line-height="100%" y="1459.8578" x="520.96863" font-family="Sans" fill="#000000">     <tspan id="tspan15945" x="520.96863" y="1459.8578">N</tspan>   </text>
+ <polygon id="polygon10341" points="461 923 434 899 433 900 460 924" transform="matrix(-.60442 0 0 .52151 538.4 1051.4)"/>
+ <polygon id="polygon15947" points="224 849 190 862 191 863 225 850" fill="#000" transform="matrix(.24815 .4099 -.41195 .24691 521.42 1287.7)"/>
+ <polygon id="polygon15949" points="191 862 169 834 168 835 190 863" fill="#000" transform="matrix(.32012 .38267 -.53142 .23051 603.94 1290.7)"/>
+ <polygon id="polygon15951" points="223 813 225 849 224 850 222 814" fill="#000" transform="matrix(.35468 .65423 -.5888 .39409 663.39 1106.6)"/>
+ <polygon id="polygon15953" points="168 834 187 804 188 805 169 835" fill="#000" transform="matrix(.25448 .85659 -.42247 .51599 536.13 962.49)"/>
+ <polygon id="polygon15955" points="188 804 223 813 222 814 187 805" fill="#000" transform="matrix(.28198 .55268 -.46811 .33292 581.48 1179.1)"/>
+ <text id="text15957" font-size="18px" xml:space="preserve" line-height="100%" y="1523.4191" x="277.31226" font-family="Sans" fill="#000000">     <tspan id="tspan15959" x="277.31226" y="1523.4191">CH</tspan>   </text>
+ <text id="text15961" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="1604.0161" x="286.85352" stroke-width=".99999" fill="#000000">     <tspan id="tspan15963" y="1604.0161" x="286.85352" stroke-width=".99999">3</tspan>   </text>
+ <text id="text15969" font-size="18px" line-height="100%" xml:space="preserve" y="1544.7712" x="246.48271" font-family="Sans" fill="#000000">     <tspan id="tspan15971" y="1544.7712" x="246.48271">N</tspan>   </text>
+ <text id="text15973" font-size="18px" line-height="100%" xml:space="preserve" y="1544.3281" x="211.25398" font-family="Sans" fill="#000000">     <tspan id="tspan15975" y="1544.3281" x="211.25398">N</tspan>   </text>
+ <path id="path15977" fill-rule="evenodd" fill="#000" d="m227.13 1542.6-0.06 1 16.41 0.9 0.06-1-16.41-0.9z"/>
+ <path id="path15979" fill-rule="evenodd" fill="#000" d="m215.88 1574.6-0.56 0.9 12.84 8.8 0.57-0.8-12.85-8.9z"/>
+ <text id="text15981" font-size="18px" xml:space="preserve" line-height="100%" y="1594.8357" x="228.97597" font-family="Sans" fill="#000000">     <tspan id="tspan15983" x="228.97597" y="1594.8357">N</tspan>   </text>
+ <text id="text15985" font-size="18px" line-height="100%" xml:space="preserve" y="1576.2277" x="199.7347" font-family="Sans" fill="#000000">     <tspan id="tspan15987" y="1576.2277" x="199.7347">N</tspan>   </text>
+ <text id="text16017" font-size="18px" line-height="100%" xml:space="preserve" y="1593.3212" x="323.1983" font-family="Sans" fill="#000000">     <tspan id="tspan16019" y="1593.3212" x="323.1983">CH</tspan>   </text>
+ <text id="text16021" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="1677.4554" x="330.5282" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan16023" y="1677.4554" x="330.5282" stroke-width=".99999">2</tspan>   </text>
+ <path id="path16025" fill-rule="evenodd" fill="#000" d="m321.13 1586.2-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text16027" font-size="18px" xml:space="preserve" line-height="100%" y="1592.9668" x="287.81696" font-family="Sans" fill="#000000">     <tspan id="tspan16029" x="287.81696" y="1592.9668">S</tspan>   </text>
+ <path id="path16031" fill-rule="evenodd" fill="#000" d="m263.76 1572.3-0.41 0.9 21.72 9.8 0.41-0.9-21.72-9.8z"/>
+ <path id="path16033" fill-rule="evenodd" fill="#000" d="m377.13 1586.2-19.18 0.2 0.03 1 19.18-0.2-0.03-1z"/>
+ <text id="text16191" font-size="18px" xml:space="preserve" line-height="100%" y="944.69281" x="321.90485" font-family="Sans" fill="#000000">     <tspan id="tspan16193" x="321.90485" y="944.69281">CH</tspan>   </text>
+ <text id="text16195" font-size="14.174px" font-family="Sans" xml:space="preserve" transform="scale(1.0506 .95183)" line-height="100%" y="995.98785" x="329.29684" stroke-width=".99999" fill="#000000">     <tspan id="tspan16197" y="995.98785" x="329.29684" stroke-width=".99999">3</tspan>   </text>
+ <path id="path16199" fill-rule="evenodd" fill="#000" d="m377.13 939.16-19.18 0.22 0.03 1 19.18-0.22-0.03-1z"/>
+ <text id="text13123" font-size="18px" line-height="100%" xml:space="preserve" y="346.36703" x="461.31897" font-family="Sans" fill="#000000">     <tspan id="tspan13125" y="346.36703" x="461.31897">CH</tspan>   </text>
+ <text id="text13127" font-size="14.174px" font-family="Sans" transform="scale(1.0506 .95183)" xml:space="preserve" y="367.38702" x="463.75946" stroke-width=".99999" line-height="100%" fill="#000000">     <tspan id="tspan13129" y="367.38702" x="463.75946" stroke-width=".99999">2</tspan>   </text>
+ <text id="text13131" font-size="18px" xml:space="preserve" line-height="100%" y="346.87619" x="521.31897" font-family="Sans" fill="#000000">     <tspan id="tspan13133" x="521.31897" y="346.87619">CN</tspan>   </text>
+ <path id="path13135" fill-rule="evenodd" fill="#000" d="m518.01 340.98-19.19 0.22v1l19.19-0.22v-1z"/>
+ <path id="path16201" fill-rule="evenodd" fill="#000" d="m458.01 340.98-19.19 0.22v1l19.19-0.22v-1z"/>
  <metadata>
   <rdf:RDF>
    <cc:Work>

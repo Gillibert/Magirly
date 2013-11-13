@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="59.854mm" width="127.35mm" version="1.0" viewBox="0 0 483 227">
- <g id="g4" stroke-linecap="round" transform="translate(-23,-39)">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="180.25" viewBox="0 0 467.2578 192.93455" width="436.53" version="1.0">
+ <g id="g4" stroke-linecap="round" transform="translate(-31.67 -57.364)">
   <g id="g6" stroke-width="2.2756" stroke="#000">
    <line id="line8" x2="183.14" y1="147.36" x1="186.55" y2="153.27"/>
    <line id="line10" x2="188.89" y1="150.68" x1="192.3" y2="156.59"/>
@@ -18,7 +18,7 @@
    <line id="line30" x2="214" y1="147" x1="179.1" y2="126.85"/>
   </g>
   <g id="g32" stroke="#000">
-   <polygon id="polygon34" points="113.94 174.71 108.03 171.29 125.01 146.43 126.99 147.57 126.99 147.57" stroke="#000"/>
+   <polygon id="polygon34" points="126.99 147.57 126.99 147.57 113.94 174.71 108.03 171.29 125.01 146.43" stroke="#000"/>
   </g>
   <g id="g36" stroke-width="2.2756" stroke="#000">
    <line id="line38" x2="179.1" y1="147" x1="126" y2="147"/>
@@ -34,12 +34,12 @@
    <line id="line56" x2="78.31" y1="176.51" x1="81.73" y2="170.59"/>
   </g>
   <g id="g58" stroke="#000">
-   <polygon id="polygon60" points="208.61 191.27 202.69 194.69 178.11 147.57 180.09 146.43 180.09 146.43" stroke="#000"/>
+   <polygon id="polygon60" points="180.09 146.43 180.09 146.43 208.61 191.27 202.69 194.69 178.11 147.57" stroke="#000"/>
   </g>
   <path id="text62" d="m227.03 119.23 7.38-10.65h-3.33l-5.64 8.58-5.61-8.58h-3.39l7.26 10.65-7.74 11.22h3.39l6-9.12 5.97 9.12h3.45l-7.74-11.22"/>
   <path id="text64" d="m104.83 193.02v9.96h2.79v-21.87h-2.79v9.45h-11.25v-9.45h-2.79v21.87h2.82v-9.96h11.22"/>
   <polyline id="polyline66" stroke="#000" points="263 151 315.68 151" stroke-width="2.2756" fill="none"/>
-  <polygon id="polygon68" fill-rule="evenodd" stroke="#000" points="313.68 148 315.68 151 313.68 154 323.68 151 323.68 151"/>
+  <polygon id="polygon68" points="323.68 151 323.68 151 313.68 148 315.68 151 313.68 154" stroke="#000" fill-rule="evenodd"/>
   <g id="g70" stroke-width="2.2756" stroke="#000">
    <line id="line72" x2="457.55" y1="148.73" x1="454.14" y2="154.64"/>
    <line id="line74" x2="463.3" y1="145.41" x1="459.89" y2="151.32"/>
@@ -65,21 +65,21 @@
    <line id="line110" x2="446.12" y1="147.04" x1="400.98" y2="147.04"/>
   </g>
   <g id="g112" stroke="#000">
-   <polygon id="polygon114" points="352.73 184.51 349.31 178.59 396.43 154.01 397.57 155.99 397.57 155.99" stroke="#000"/>
+   <polygon id="polygon114" points="397.57 155.99 397.57 155.99 352.73 184.51 349.31 178.59 396.43 154.01" stroke="#000"/>
   </g>
   <g id="g116" stroke="#000">
-   <polygon id="polygon118" points="497.79 178.59 494.37 184.51 449.53 155.99 450.67 154.01 450.67 154.01" stroke="#000"/>
+   <polygon id="polygon118" points="450.67 154.01 450.67 154.01 497.79 178.59 494.37 184.51 449.53 155.99" stroke="#000"/>
   </g>
   <path id="text120" d="m278.32 125.24h-15.12v2.1h15.12v-2.1m17.73-1.95v9.96h2.79v-21.87h-2.79v9.45h-11.25v-9.45h-2.79v21.87h2.82v-9.96h11.22m16.88-1.26 7.38-10.65h-3.33l-5.64 8.58-5.61-8.58h-3.39l7.26 10.65-7.74 11.22h3.39l6-9.12 5.97 9.12h3.45l-7.74-11.22"/>
   <path id="path122" d="m194 126.68c-11.333-31.787-10.277-52.937 3.17-63.45 13.447-10.52 22.643-3.5 27.59 21.06" stroke="#f00" stroke-width="2.2756" fill="none"/>
-  <polygon id="polygon124" fill-rule="evenodd" stroke="#f00" points="227.31 81.73 224.76 84.29 221.42 82.92 226.34 92.13 226.34 92.13" fill="#f00"/>
+  <polygon id="polygon124" fill-rule="evenodd" stroke="#f00" points="226.34 92.13 226.34 92.13 227.31 81.73 224.76 84.29 221.42 82.92" fill="#f00"/>
   <path id="text126" d="m31.67 250h9.87c2.07 0 3.6-0.57 4.77-1.83 1.08-1.14 1.68-2.7 1.68-4.41 0-2.64-1.2-4.23-3.99-5.31 1.98-0.93 3.03-2.55 3.03-4.77 0-1.59-0.6-3-1.74-4.02-1.14-1.05-2.64-1.53-4.74-1.53h-8.88v21.87m2.79-12.45v-6.96h5.4c1.56 0 2.43 0.21 3.18 0.78 0.78 0.6 1.2 1.5 1.2 2.7 0 1.17-0.42 2.1-1.2 2.7-0.75 0.57-1.62 0.78-3.18 0.78h-5.4m0 9.99v-7.53h6.81c1.35 0 2.25 0.33 2.91 1.05 0.66 0.69 1.02 1.65 1.02 2.73 0 1.05-0.36 2.01-1.02 2.7-0.66 0.72-1.56 1.05-2.91 1.05h-6.81"/>
-  <line id="line128" stroke-width="2.1029" y2="228.46" y1="249.25" stroke="#000" x2="52.186" x1="55.306"/>
+  <line id="line128" stroke-width="2.1029" y2="228.46" x2="52.186" stroke="#000" y1="249.25" x1="55.306"/>
   <path id="path130" d="m62.13 237.24c51.79-4 78.61-16.47 60.09-34.93" stroke="#f00" stroke-width="2.2756" fill="none"/>
-  <polygon id="polygon132" fill-rule="evenodd" stroke="#f00" points="121.51 205.84 122.22 202.31 125.75 201.59 116.55 196.66 116.55 196.66" fill="#f00"/>
+  <polygon id="polygon132" fill-rule="evenodd" stroke="#f00" points="116.55 196.66 116.55 196.66 121.51 205.84 122.22 202.31 125.75 201.59" fill="#f00"/>
  </g>
- <path id="path130-9" d="m103.03 125.33c8.5028 17.642 27.632 23.452 29.792-4.1455" stroke="#f00" stroke-linecap="round" stroke-width="2.2756" fill="none"/>
- <polygon id="polygon132-8" fill-rule="evenodd" stroke-linecap="round" transform="matrix(.64887 .76090 -.76090 .64887 207.48 -102.88)" stroke="#f00" points="116.55 196.66 116.55 196.66 121.51 205.84 122.22 202.31 125.75 201.59" fill="#f00"/>
+ <path id="path130-9" d="m94.36 106.97c8.5028 17.642 27.632 23.452 29.792-4.1455" stroke="#f00" stroke-linecap="round" stroke-width="2.2756" fill="none"/>
+ <polygon id="polygon132-8" fill-rule="evenodd" stroke-linecap="round" transform="matrix(.64887 .7609 -.7609 .64887 198.81 -121.24)" stroke="#f00" points="122.22 202.31 125.75 201.59 116.55 196.66 116.55 196.66 121.51 205.84" fill="#f00"/>
  <metadata>
   <rdf:RDF>
    <cc:Work>

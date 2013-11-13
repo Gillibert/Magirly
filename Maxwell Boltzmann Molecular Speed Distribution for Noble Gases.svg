@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="463" width="700" version="1.0">
- <g id="layer3">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 701.75 421.76" version="1.0">
+ <g id="layer3" transform="translate(-14.674 -29.24)">
   <path id="path2258" d="m108.86 349h474" stroke="#ccc" stroke-width="1px" fill="none"/>
   <path id="path3241" d="m108.86 316h474" fill-rule="evenodd" stroke="#999" stroke-width="1px" fill="#999"/>
   <path id="path3245" d="m108.36 282h474" stroke="#ccc" stroke-width="1px" fill="none"/>
@@ -36,98 +36,56 @@
   <path id="path3309" d="m146.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
   <path id="path3311" d="m127.86 381v-298" fill-rule="evenodd" stroke="#ccc" stroke-width="1px" fill="#ccc"/>
  </g>
- <g id="layer4" fill="none">
+ <g id="layer4" fill="none" transform="translate(-14.674 -29.24)">
   <path id="path3317" d="m116.43 381.21c33.08-27.62 54.99-110.75 86.43-110.71 34.65-1.03 70.42 111.68 160.29 110.19" stroke="#fc0" stroke-linecap="round" stroke-width="3"/>
   <path id="path3321" d="m108.42 381.96c26.56-2.09 39.63-156.6 67.27-156.98 14.09 0.28 22.91 34.76 40.95 75.46 19.33 43.58 34.9 77.94 77.68 80.23" stroke="#0ff" stroke-linecap="round" stroke-width="3"/>
   <path id="path3319" d="m111.07 382.29c87.51-7.42 136.06-50.13 206.27-50.63 68.27 0.26 162.86 40.6 264.4 45.63" stroke="#00f" stroke-linecap="round" stroke-width="3"/>
   <path id="path3314" d="m581.88 380.99s-344.6-0.31-363.13-0.49c-38.17-1.87-40.46-82.47-49.89-142.68-10.67-69.87-13.78-139.93-23.28-140.01-15.5 0.181-21.74 283.9-37.01 284.12" stroke="#609" stroke-linecap="round" stroke-width="3"/>
-  <path id="path3338" d="m582.86 381.55v-299.05" stroke="#999" stroke-width="1.0008px"/>
+  <path id="path3338" stroke-width="1.0008px" stroke="#999" d="m582.86 381.55v-299.05"/>
  </g>
- <g id="layer5" stroke="#fff" stroke-width="2" fill="none">
+ <g id="layer5" transform="translate(-14.674 -29.24)" stroke="#fff" stroke-width="2" fill="none">
   <path id="path3332" d="m105.86 383h19"/>
-  <path id="path3334" d="m105.63 380.86l2.93 0.26"/>
+  <path id="path3334" d="m105.63 380.86 2.93 0.26"/>
  </g>
- <g id="layer2" stroke="#000" fill="none">
-  <path id="path2237" d="m102.86 382h480v6" stroke-width="1px"/>
-  <path id="path2239" d="m487.86 388v-6" stroke-width="1px"/>
-  <path id="path2241" d="m392.86 388v-6" stroke-width="1px"/>
-  <path id="path2243" d="m298.86 388v-6" stroke-width="1px"/>
-  <path id="path2245" d="m203.86 388v-6" stroke-width="1px"/>
-  <path id="path2247" d="m108.86 388.4v-305.9" stroke-width="1.0008px"/>
-  <path id="path2249" d="m102.86 116h6" stroke-width="1px"/>
-  <path id="path2251" d="m102.86 183h6" stroke-width="1px"/>
-  <path id="path2253" d="m102.86 249h6" stroke-width="1px"/>
-  <path id="path2255" d="m102.86 316h6" stroke-width="1px"/>
+ <g id="layer2" fill="none" stroke="#000" transform="translate(-14.674 -29.24)">
+  <path id="path2237" stroke-width="1px" d="m102.86 382h480v6"/>
+  <path id="path2239" stroke-width="1px" d="m487.86 388v-6"/>
+  <path id="path2241" stroke-width="1px" d="m392.86 388v-6"/>
+  <path id="path2243" stroke-width="1px" d="m298.86 388v-6"/>
+  <path id="path2245" stroke-width="1px" d="m203.86 388v-6"/>
+  <path id="path2247" stroke-width="1.0008px" d="m108.86 388.4v-305.9"/>
+  <path id="path2249" stroke-width="1px" d="m102.86 116h6"/>
+  <path id="path2251" stroke-width="1px" d="m102.86 183h6"/>
+  <path id="path2253" stroke-width="1px" d="m102.86 249h6"/>
+  <path id="path2255" stroke-width="1px" d="m102.86 316h6"/>
  </g>
- <g id="layer6">
-  <text id="text3342" font-weight="bold" xml:space="preserve" font-size="20px" y="44.435299" x="18.82061" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3344" x="18.82061" y="44.435299">Maxwell-Boltzmann Molecular Speed Distribution for Noble Gases</tspan>
-    </text>
+ <g id="layer6" transform="translate(-14.674 -29.24)">
+  <text id="text3342" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="44.435299" x="18.82061" font-weight="bold" fill="#000000">       <tspan id="tspan3344" y="44.435299" x="18.82061">Maxwell-Boltzmann Molecular Speed Distribution for Noble Gases</tspan>     </text>
   <rect id="rect3346" stroke-linejoin="round" height="101.27" width="88.506" stroke="#000" stroke-linecap="round" y="181.17" x="605.45" stroke-width="2" fill="none"/>
   <path id="path3348" d="m610.61 195.06h23.73" fill-rule="evenodd" stroke="#00f" stroke-width="3" fill="#00f"/>
   <path id="path3350" d="m610.61 220.06h23.73" fill-rule="evenodd" stroke="#fc0" stroke-width="3" fill="#fc0"/>
   <path id="path3352" d="m610.61 244.96h23.73" fill-rule="evenodd" stroke="#0ff" stroke-width="3" fill="#0ff"/>
   <path id="path3354" d="m610.61 269.96h23.73" fill-rule="evenodd" stroke="#909" stroke-width="3" fill="#909"/>
-  <text id="text3356" font-weight="bold" xml:space="preserve" font-size="14px" y="196.32001" x="653.05402" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3358" x="653.05402" y="196.32001">4</tspan>
-    </text>
-  <text id="text3360" font-weight="bold" xml:space="preserve" font-size="20px" y="203.39101" x="663.73608" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3362" x="663.73608" y="203.39101">He</tspan>
-    </text>
-  <text id="text3364" font-weight="bold" xml:space="preserve" font-size="14px" y="219.68401" x="645.55798" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3366" x="645.55798" y="219.68401">20</tspan>
-    </text>
-  <text id="text3368" font-weight="bold" xml:space="preserve" font-size="20px" y="227.76601" x="664.19507" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3370" x="664.19507" y="227.76601">Ne</tspan>
-    </text>
-  <text id="text3372" font-weight="bold" xml:space="preserve" font-size="14px" y="245.42799" x="647.07397" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3374" x="647.07397" y="245.42799">40</tspan>
-    </text>
-  <text id="text3376" font-weight="bold" xml:space="preserve" font-size="20px" y="252.31599" x="664.06708" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3378" x="664.06708" y="252.31599">Ar</tspan>
-    </text>
-  <text id="text3380" font-weight="bold" xml:space="preserve" font-size="14px" y="268.67401" x="637.09802" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3382" x="637.09802" y="268.67401">132</tspan>
-    </text>
-  <text id="text3384" font-weight="bold" xml:space="preserve" font-size="20px" y="277.76599" x="664.06812" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3386" x="664.06812" y="277.76599">Xe</tspan>
-    </text>
-  <text id="text3388" font-weight="bold" xml:space="preserve" transform="rotate(-90)" font-size="20px" y="29.8694" x="-348.67001" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3390" x="-348.67001" y="29.8694">Probability density (s/m)</tspan>
-    </text>
-  <text id="text3392" font-weight="bold" xml:space="preserve" font-size="20px" y="446.83801" x="284.28299" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan3394" x="284.28299" y="446.83801">Speed (m/s)</tspan>
-    </text>
-  <text id="text2239" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="103.466" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan2241" x="103.466" y="404.53699">0</tspan>
-    </text>
-  <text id="text2243" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="187.166" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan2245" y="404.53699" x="187.166">500</tspan>
-    </text>
-  <text id="text2247" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="276.26599" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan2249" x="276.26599" y="404.53699">1000</tspan>
-    </text>
-  <text id="text2251" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="370.16599" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan2253" y="404.53699" x="370.16599">1500</tspan>
-    </text>
-  <text id="text2255" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="465.866" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan2257" x="465.866" y="404.53699">2000</tspan>
-    </text>
-  <text id="text2259" font-weight="bold" xml:space="preserve" font-size="20px" y="404.53699" x="560.86603" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan2261" y="404.53699" x="560.86603">2500</tspan>
-    </text>
-  <text id="text2474" font-weight="bold" xml:space="preserve" font-size="18px" y="121.571" x="48.5714" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan2476" x="48.5714" y="121.571">0.004</tspan>
-    </text>
-  <text id="text2478" font-weight="bold" xml:space="preserve" font-size="18px" y="188.714" x="45.714298" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan2480" x="45.714298" y="188.714">0.003</tspan>
-    </text>
-  <text id="text2482" font-weight="bold" xml:space="preserve" font-size="18px" y="254.429" x="44.285702" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan2484" x="44.285702" y="254.429">0.002</tspan>
-    </text>
-  <text id="text2486" font-weight="bold" xml:space="preserve" font-size="18px" y="321.57101" x="44.285702" font-family="DejaVu Sans Condensed" fill="#000000">
-      <tspan id="tspan2488" x="44.285702" y="321.57101">0.001</tspan>
-    </text>
+  <text id="text3356" font-size="14px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="196.32001" x="653.05402" font-weight="bold" fill="#000000">       <tspan id="tspan3358" y="196.32001" x="653.05402">4</tspan>     </text>
+  <text id="text3360" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="203.39101" x="663.73608" font-weight="bold" fill="#000000">       <tspan id="tspan3362" y="203.39101" x="663.73608">He</tspan>     </text>
+  <text id="text3364" font-size="14px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="219.68401" x="645.55798" font-weight="bold" fill="#000000">       <tspan id="tspan3366" y="219.68401" x="645.55798">20</tspan>     </text>
+  <text id="text3368" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="227.76601" x="664.19507" font-weight="bold" fill="#000000">       <tspan id="tspan3370" y="227.76601" x="664.19507">Ne</tspan>     </text>
+  <text id="text3372" font-size="14px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="245.42799" x="647.07397" font-weight="bold" fill="#000000">       <tspan id="tspan3374" y="245.42799" x="647.07397">40</tspan>     </text>
+  <text id="text3376" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="252.31599" x="664.06708" font-weight="bold" fill="#000000">       <tspan id="tspan3378" y="252.31599" x="664.06708">Ar</tspan>     </text>
+  <text id="text3380" font-size="14px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="268.67401" x="637.09802" font-weight="bold" fill="#000000">       <tspan id="tspan3382" y="268.67401" x="637.09802">132</tspan>     </text>
+  <text id="text3384" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="277.76599" x="664.06812" font-weight="bold" fill="#000000">       <tspan id="tspan3386" y="277.76599" x="664.06812">Xe</tspan>     </text>
+  <text id="text3388" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" transform="rotate(-90)" y="29.8694" x="-348.67001" font-weight="bold" fill="#000000">       <tspan id="tspan3390" y="29.8694" x="-348.67001">Probability density (s/m)</tspan>     </text>
+  <text id="text3392" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="446.83801" x="284.28299" font-weight="bold" fill="#000000">       <tspan id="tspan3394" y="446.83801" x="284.28299">Speed (m/s)</tspan>     </text>
+  <text id="text2239" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="404.53699" x="103.466" font-weight="bold" fill="#000000">       <tspan id="tspan2241" y="404.53699" x="103.466">0</tspan>     </text>
+  <text id="text2243" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="404.53699" x="187.166" font-weight="bold" fill="#000000">       <tspan id="tspan2245" y="404.53699" x="187.166">500</tspan>     </text>
+  <text id="text2247" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="404.53699" x="276.26599" font-weight="bold" fill="#000000">       <tspan id="tspan2249" y="404.53699" x="276.26599">1000</tspan>     </text>
+  <text id="text2251" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="404.53699" x="370.16599" font-weight="bold" fill="#000000">       <tspan id="tspan2253" y="404.53699" x="370.16599">1500</tspan>     </text>
+  <text id="text2255" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="404.53699" x="465.866" font-weight="bold" fill="#000000">       <tspan id="tspan2257" y="404.53699" x="465.866">2000</tspan>     </text>
+  <text id="text2259" font-size="20px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="404.53699" x="560.86603" font-weight="bold" fill="#000000">       <tspan id="tspan2261" y="404.53699" x="560.86603">2500</tspan>     </text>
+  <text id="text2474" font-size="18px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="121.571" x="48.5714" font-weight="bold" fill="#000000">       <tspan id="tspan2476" y="121.571" x="48.5714">0.004</tspan>     </text>
+  <text id="text2478" font-size="18px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="188.714" x="45.714298" font-weight="bold" fill="#000000">       <tspan id="tspan2480" y="188.714" x="45.714298">0.003</tspan>     </text>
+  <text id="text2482" font-size="18px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="254.429" x="44.285702" font-weight="bold" fill="#000000">       <tspan id="tspan2484" y="254.429" x="44.285702">0.002</tspan>     </text>
+  <text id="text2486" font-size="18px" font-family="DejaVu Sans Condensed" xml:space="preserve" y="321.57101" x="44.285702" font-weight="bold" fill="#000000">       <tspan id="tspan2488" y="321.57101" x="44.285702">0.001</tspan>     </text>
  </g>
  <metadata>
   <rdf:RDF>

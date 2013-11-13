@@ -1,302 +1,302 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" height="104.15mm" width="186.82mm" version="1.0" viewBox="0 0 626 349">
- <g font-size="12pt" font-family="Helvetica" stroke-linecap="round" transform="translate(10,-67)">
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="371.75" y1="183.23" x1="412.37" y2="159.78"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cdml="http://www.freesoftware.fsf.org/bkchem/cdml" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="342.66" width="643.61" version="1.0" viewBox="0 0 608.6418 324.05263">
+ <g id="g4" font-size="15px" transform="translate(1.2281 -75.91)" stroke-linecap="round" font-family="Helvetica">
+  <g id="g6" stroke-width="2.0105" stroke="#000">
+   <line id="line8" x2="371.75" y1="183.23" x1="412.37" y2="159.78"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="331.19" y1="195" x1="331.15" y2="230.18"/>
+  <g id="g10" stroke-width="2.0105" stroke="#000">
+   <line id="line12" x2="331.19" y1="195" x1="331.15" y2="230.18"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="344" y1="159.78" x1="371.75" y2="175.83"/>
+  <g id="g14" stroke-width="2.0105" stroke="#000">
+   <line id="line16" x2="344" y1="159.78" x1="371.75" y2="175.83"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="371.82" y1="230.18" x1="331.19" y2="253.63"/>
+  <g id="g18" stroke-width="2.0105" stroke="#000">
+   <line id="line20" x2="371.82" y1="230.18" x1="331.19" y2="253.63"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="412.43" y1="253.63" x1="371.82" y2="230.14"/>
+  <g id="g22" stroke-width="2.0105" stroke="#000">
+   <line id="line24" x2="412.43" y1="253.63" x1="371.82" y2="230.14"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="412.41" y1="352.02" x1="435.87" y2="311.39"/>
+  <g id="g26" stroke-width="2.0105" stroke="#000">
+   <line id="line28" x2="412.41" y1="352.02" x1="435.87" y2="311.39"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="87.38" y1="113" x1="46.76" y2="89.53"/>
+  <g id="g30" stroke-width="2.0105" stroke="#000">
+   <line id="line32" x2="87.38" y1="113" x1="46.76" y2="89.53"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="168.64" y1="253.64" x1="128" y2="230.2"/>
+  <g id="g34" stroke-width="2.0105" stroke="#000">
+   <line id="line36" x2="168.64" y1="253.64" x1="128" y2="230.2"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="168.57" y1="300.55" x1="128.01" y2="323.98"/>
+  <g id="g38" stroke-width="2.0105" stroke="#000">
+   <line id="line40" x2="168.57" y1="300.55" x1="128.01" y2="323.98"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="128" y1="300.55" x1="128.01" y2="253.64"/>
-   <line x2="135.04" y1="297.03" x1="135.04" y2="257.16"/>
+  <g id="g42" stroke-width="2.0105" stroke="#000">
+   <line id="line44" x2="128" y1="300.55" x1="128.01" y2="253.64"/>
+   <line id="line46" x2="135.04" y1="297.03" x1="135.04" y2="257.16"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="209.2" y1="230.2" x1="168.64" y2="253.63"/>
-   <line x2="202.64" y1="238.05" x1="168.16" y2="257.97"/>
+  <g id="g48" stroke-width="2.0105" stroke="#000">
+   <line id="line50" x2="209.2" y1="230.2" x1="168.64" y2="253.63"/>
+   <line id="line52" x2="202.64" y1="238.05" x1="168.16" y2="257.97"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="209.21" y1="323.98" x1="168.57" y2="300.54"/>
-   <line x2="202.64" y1="316.13" x1="168.1" y2="296.2"/>
+  <g id="g54" stroke-width="2.0105" stroke="#000">
+   <line id="line56" x2="209.21" y1="323.98" x1="168.57" y2="300.54"/>
+   <line id="line58" x2="202.64" y1="316.13" x1="168.1" y2="296.2"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="209.21" y1="253.63" x1="209.2" y2="300.54"/>
+  <g id="g60" stroke-width="2.0105" stroke="#000">
+   <line id="line62" x2="209.21" y1="253.63" x1="209.2" y2="300.54"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="446" y1="230.14" x1="412.43" y2="230.14"/>
+  <g id="g64" stroke-width="2.0105" stroke="#000">
+   <line id="line66" x2="446" y1="230.14" x1="412.43" y2="230.14"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="589" y1="311.43" x1="553.11" y2="311.43"/>
+  <g id="g68" stroke-width="2.0105" stroke="#000">
+   <line id="line70" x2="589" y1="311.43" x1="553.11" y2="311.43"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="168.57" y1="323.98" x1="168.57" y2="353"/>
+  <g id="g72" stroke-width="2.0105" stroke="#000">
+   <line id="line74" x2="168.57" y1="323.98" x1="168.57" y2="353"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="46.76" y1="113" x1="46.76" y2="159.84"/>
-   <line x2="53.8" y1="116.51" x1="53.8" y2="156.33"/>
+  <g id="g76" stroke-width="2.0105" stroke="#000">
+   <line id="line78" x2="46.76" y1="113" x1="46.76" y2="159.84"/>
+   <line id="line80" x2="53.8" y1="116.51" x1="53.8" y2="156.33"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="435.89" y1="230.14" x1="412.43" y2="270.77"/>
+  <g id="g82" stroke-width="2.0105" stroke="#000">
+   <line id="line84" x2="435.89" y1="230.14" x1="412.43" y2="270.77"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="87.38" y1="159.84" x1="46.76" y2="183.31"/>
+  <g id="g86" stroke-width="2.0105" stroke="#000">
+   <line id="line88" x2="87.38" y1="159.84" x1="46.76" y2="183.31"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="249.88" y1="159.83" x1="209.25" y2="183.28"/>
+  <g id="g90" stroke-width="2.0105" stroke="#000">
+   <line id="line92" x2="249.88" y1="159.83" x1="209.25" y2="183.28"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="87.38" y1="159.84" x1="128" y2="183.31"/>
-   <line x2="86.91" y1="155.51" x1="121.43" y2="175.46"/>
+  <g id="g94" stroke-width="2.0105" stroke="#000">
+   <line id="line96" x2="87.38" y1="159.84" x1="128" y2="183.31"/>
+   <line id="line98" x2="86.91" y1="155.51" x1="121.43" y2="175.46"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="168.64" y1="183.29" x1="168.63" y2="230.2"/>
+  <g id="g100" stroke-width="2.0105" stroke="#000">
+   <line id="line102" x2="168.64" y1="183.29" x1="168.63" y2="230.2"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="128" y1="113" x1="128" y2="159.84"/>
+  <g id="g104" stroke-width="2.0105" stroke="#000">
+   <line id="line106" x2="128" y1="113" x1="128" y2="159.84"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="553.11" y1="311.43" x1="553.11" y2="277"/>
+  <g id="g108" stroke-width="2.0105" stroke="#000">
+   <line id="line110" x2="553.11" y1="311.43" x1="553.11" y2="277"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="290.5" y1="183.28" x1="249.88" y2="159.82"/>
+  <g id="g112" stroke-width="2.0105" stroke="#000">
+   <line id="line114" x2="290.5" y1="183.28" x1="249.88" y2="159.82"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="553.11" y1="311.42" x1="506.2" y2="311.43"/>
+  <g id="g116" stroke-width="2.0105" stroke="#000">
+   <line id="line118" x2="553.11" y1="311.42" x1="506.2" y2="311.43"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="128" y1="89.53" x1="87.38" y2="113"/>
-   <line x2="121.43" y1="97.39" x1="86.91" y2="117.33"/>
+  <g id="g120" stroke-width="2.0105" stroke="#000">
+   <line id="line122" x2="128" y1="89.53" x1="87.38" y2="113"/>
+   <line id="line124" x2="121.43" y1="97.39" x1="86.91" y2="117.33"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="17" y1="113" x1="46.76" y2="95.82"/>
+  <g id="g126" stroke-width="2.0105" stroke="#000">
+   <line id="line128" x2="17" y1="113" x1="46.76" y2="95.82"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="209.25" y1="183.29" x1="168.63" y2="159.83"/>
+  <g id="g130" stroke-width="2.0105" stroke="#000">
+   <line id="line132" x2="209.25" y1="183.29" x1="168.63" y2="159.83"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="412.37" y1="230.14" x1="412.43" y2="183.23"/>
+  <g id="g134" stroke-width="2.0105" stroke="#000">
+   <line id="line136" x2="412.37" y1="230.14" x1="412.43" y2="183.23"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="495.97" y1="352.03" x1="482.72" y2="375"/>
+  <g id="g138" stroke-width="2.0105" stroke="#000">
+   <line id="line140" x2="495.97" y1="352.03" x1="482.72" y2="375"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="435.89" y1="311.39" x1="412.41" y2="270.77"/>
-   <line x2="440.22" y1="311.87" x1="420.27" y2="277.34"/>
+  <g id="g142" stroke-width="2.0105" stroke="#000">
+   <line id="line144" x2="435.89" y1="311.39" x1="412.41" y2="270.77"/>
+   <line id="line146" x2="440.22" y1="311.87" x1="420.27" y2="277.34"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="482.72" y1="352.02" x1="435.87" y2="352.03"/>
-   <line x2="479.21" y1="344.99" x1="439.39" y2="345"/>
+  <g id="g148" stroke-width="2.0105" stroke="#000">
+   <line id="line150" x2="482.72" y1="352.02" x1="435.87" y2="352.03"/>
+   <line id="line152" x2="479.21" y1="344.99" x1="439.39" y2="345"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="319" y1="159.82" x1="290.5" y2="176.26"/>
+  <g id="g154" stroke-width="2.0105" stroke="#000">
+   <line id="line156" x2="319" y1="159.82" x1="290.5" y2="176.26"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="482.74" y1="270.77" x1="435.89" y2="270.79"/>
+  <g id="g158" stroke-width="2.0105" stroke="#000">
+   <line id="line160" x2="482.74" y1="270.77" x1="435.89" y2="270.79"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="506.2" y1="352.03" x1="482.72" y2="311.42"/>
+  <g id="g162" stroke-width="2.0105" stroke="#000">
+   <line id="line164" x2="506.2" y1="352.03" x1="482.72" y2="311.42"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="553.11" y1="311.43" x1="553.11" y2="340"/>
+  <g id="g166" stroke-width="2.0105" stroke="#000">
+   <line id="line168" x2="553.11" y1="311.43" x1="553.11" y2="340"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="168.63" y1="159.84" x1="128" y2="183.29"/>
+  <g id="g170" stroke-width="2.0105" stroke="#000">
+   <line id="line172" x2="168.63" y1="159.84" x1="128" y2="183.29"/>
   </g>
-  <g stroke="#000" stroke-width="2.0105">
-   <line x2="506.2" y1="270.79" x1="482.74" y2="311.42"/>
-   <line x2="498.35" y1="277.35" x1="478.41" y2="311.89"/>
+  <g id="g174" stroke-width="2.0105" stroke="#000">
+   <line id="line176" x2="506.2" y1="270.79" x1="482.74" y2="311.42"/>
+   <line id="line178" x2="498.35" y1="277.35" x1="478.41" y2="311.89"/>
   </g>
-  <text y="190.27" x="320.30" font-size="24pt" font-family="Arial" fill="#000000">N</text>
-  <text y="237.14" x="447.30" font-size="24pt" font-family="Arial" fill="#000000">OH</text>
-  <text y="271.52" x="543.30" font-size="24pt" font-family="Arial" fill="#000000">F</text>
-  <text y="318.43" x="590.30" font-size="24pt" font-family="Arial" fill="#000000">F</text>
-  <text y="365.34" x="543.30" font-size="24pt" font-family="Arial" fill="#000000">F</text>
-  <text y="399.67" x="495.30" font-size="24pt" font-family="Arial" fill="#000000">Cl</text>
-  <text y="96.55" x="-3.70" font-size="24pt" font-family="Arial" fill="#000000">F</text>
-  <text y="377.89" x="159.30" font-size="24pt" font-family="Arial" fill="#000000">F</text>
+  <text id="text180" font-size="30px" y="190.27" x="320.29999" font-family="Arial" fill="#000000">N</text>
+  <text id="text182" font-size="30px" y="237.14" x="447.29999" font-family="Arial" fill="#000000">OH</text>
+  <text id="text184" font-size="30px" y="271.51999" x="543.29999" font-family="Arial" fill="#000000">F</text>
+  <text id="text186" font-size="30px" y="318.42999" x="590.29999" font-family="Arial" fill="#000000">F</text>
+  <text id="text188" font-size="30px" y="365.34" x="543.29999" font-family="Arial" fill="#000000">F</text>
+  <text id="text190" font-size="30px" y="399.67001" x="495.29999" font-family="Arial" fill="#000000">Cl</text>
+  <text id="text192" font-size="30px" y="96.550003" x="-3.7" font-family="Arial" fill="#000000">F</text>
+  <text id="text194" font-size="30px" y="377.89001" x="159.3" font-family="Arial" fill="#000000">F</text>
  </g>
- <cdml xmlns="http://www.freesoftware.fsf.org/bkchem/cdml" version="0.15">
-  <info>
-   <author_program version="0.13.0">BKchem</author_program>
-  </info>
-  <paper orientation="portrait" replace_minus="0" crop_margin="5" use_real_minus="0" type="Legal" crop_svg="1"/>
-  <viewport viewport="0.000000 0.000000 640.000000 480.000000"/>
-  <standard line_color="#000" line_width="0.06cm" font_size="24" font_family="Arial" paper_crop_margin="5" paper_crop_svg="1" paper_orientation="portrait" paper_type="Legal" area_color="">
-   <bond width="0.21cm" length="1.4cm" wedge-width="0.18cm" double-ratio="0.85"/>
-   <arrow length="1.6cm"/>
-   <atom show_hydrogens="0"/>
-  </standard>
-  <molecule id="molecule552" name="">
-   <atom id="atom56242" valency="4" name="C">
-    <point y="3.372cm" x="1.396cm"/>
-   </atom>
-   <atom id="atom39153" valency="4" name="C">
-    <point y="2.672cm" x="2.608cm"/>
-   </atom>
-   <atom id="atom24638" valency="4" name="C">
-    <point y="3.372cm" x="3.820cm"/>
-   </atom>
-   <atom id="atom94257" valency="4" name="C">
-    <point y="4.770cm" x="3.820cm"/>
-   </atom>
-   <atom id="atom49659" valency="4" name="C">
-    <point y="4.770cm" x="1.396cm"/>
-   </atom>
-   <atom id="atom37025" valency="4" name="C">
-    <point y="5.471cm" x="2.608cm"/>
-   </atom>
-   <atom id="atom73150" valency="4" name="C">
-    <point y="5.470cm" x="5.033cm"/>
-   </atom>
-   <atom id="atom84064" valency="4" name="C">
-    <point y="6.870cm" x="5.033cm"/>
-   </atom>
-   <atom id="atom7554" valency="4" name="C">
-    <point y="4.770cm" x="6.245cm"/>
-   </atom>
-   <atom id="atom96405" valency="4" name="C">
-    <point y="5.470cm" x="7.457cm"/>
-   </atom>
-   <atom id="atom73792" valency="4" name="C">
-    <point y="4.770cm" x="8.670cm"/>
-   </atom>
-   <atom id="atom1269" valency="4" name="C">
-    <point y="8.970cm" x="3.820cm"/>
-   </atom>
-   <atom id="atom39704" valency="4" name="C">
-    <point y="7.570cm" x="3.820cm"/>
-   </atom>
-   <atom id="atom88961" valency="4" name="C">
-    <point y="7.569cm" x="6.243cm"/>
-   </atom>
-   <atom id="atom4878" valency="4" name="C">
-    <point y="9.669cm" x="5.031cm"/>
-   </atom>
-   <atom id="atom94781" valency="4" name="C">
-    <point y="8.969cm" x="6.244cm"/>
-   </atom>
-   <atom id="atom72031" valency="4" name="C">
-    <point y="5.468cm" x="12.307cm"/>
-   </atom>
-   <atom id="atom70650" valency="4" name="C">
-    <point y="4.769cm" x="11.094cm"/>
-   </atom>
-   <atom id="atom55455" valency="4" name="C">
-    <point y="6.869cm" x="9.884cm"/>
-   </atom>
-   <atom id="atom8757" valency="4" name="C">
-    <point y="7.569cm" x="11.097cm"/>
-   </atom>
-   <atom id="atom45876" valency="4" name="C">
-    <point y="6.868cm" x="12.309cm"/>
-   </atom>
-   <atom id="atom12054" valency="4" name="C">
-    <point y="8.081cm" x="13.009cm"/>
-   </atom>
-   <atom id="atom79411" valency="3" pos="center-first" name="N">
-    <point y="5.469cm" x="9.882cm"/>
-   </atom>
-   <atom id="atom59645" valency="2" pos="center-first" hydrogens="on" name="O">
-    <point y="6.868cm" x="13.709cm"/>
-   </atom>
-   <atom id="atom48933" valency="4" name="C">
-    <point y="10.506cm" x="13.008cm"/>
-   </atom>
-   <atom id="atom75465" valency="4" name="C">
-    <point y="9.293cm" x="12.308cm"/>
-   </atom>
-   <atom id="atom51489" valency="4" name="C">
-    <point y="8.081cm" x="14.407cm"/>
-   </atom>
-   <atom id="atom80353" valency="4" name="C">
-    <point y="10.506cm" x="14.406cm"/>
-   </atom>
-   <atom id="atom62789" valency="4" name="C">
-    <point y="9.294cm" x="15.107cm"/>
-   </atom>
-   <atom id="atom9281" valency="4" name="C">
-    <point y="9.294cm" x="16.507cm"/>
-   </atom>
-   <atom id="atom22909" valency="1" pos="center-first" name="F">
-    <point y="7.894cm" x="16.507cm"/>
-   </atom>
-   <atom id="atom98811" valency="1" pos="center-first" name="F">
-    <point y="9.294cm" x="17.907cm"/>
-   </atom>
-   <atom id="atom6375" valency="1" pos="center-first" name="F">
-    <point y="10.694cm" x="16.507cm"/>
-   </atom>
-   <atom id="atom72766" valency="1" pos="center-first" name="Cl">
-    <point y="11.719cm" x="15.106cm"/>
-   </atom>
-   <atom id="atom47558" valency="1" pos="center-first" name="F">
-    <point y="2.673cm" x="0.183cm"/>
-   </atom>
-   <atom id="atom80577" valency="1" pos="center-first" name="F">
-    <point y="11.069cm" x="5.031cm"/>
-   </atom>
-   <bond id="bond16214" line_width="2.01047120419" end="atom70650" start="atom72031" double_ratio="0.85" type="n1"/>
-   <bond id="bond98555" line_width="2.01047120419" end="atom55455" start="atom79411" double_ratio="0.85" type="n1"/>
-   <bond id="bond80277" line_width="2.01047120419" end="atom79411" start="atom70650" double_ratio="0.85" type="n1"/>
-   <bond id="bond36985" line_width="2.01047120419" end="atom8757" start="atom55455" double_ratio="0.85" type="n1"/>
-   <bond id="bond45359" line_width="2.01047120419" end="atom45876" start="atom8757" double_ratio="0.85" type="n1"/>
-   <bond id="bond38571" line_width="2.01047120419" end="atom75465" start="atom48933" double_ratio="0.85" type="n1"/>
-   <bond id="bond19799" line_width="2.01047120419" end="atom39153" start="atom56242" double_ratio="0.85" type="n1"/>
-   <bond id="bond81116" line_width="2.01047120419" end="atom84064" start="atom39704" double_ratio="0.85" type="n1"/>
-   <bond id="bond15589" line_width="2.01047120419" end="atom4878" start="atom1269" double_ratio="0.85" type="n1"/>
-   <bond id="bond39112" line_width="2.01047120419" end="atom39704" center="no" bond_width="-7.03664921466" start="atom1269" double_ratio="0.85" type="n2"/>
-   <bond id="bond51332" line_width="2.01047120419" end="atom88961" center="no" bond_width="-7.03664921466" start="atom84064" double_ratio="0.85" type="n2"/>
-   <bond id="bond66248" line_width="2.01047120419" end="atom94781" center="no" bond_width="7.03664921466" start="atom4878" double_ratio="0.85" type="n2"/>
-   <bond id="bond16562" line_width="2.01047120419" end="atom94781" start="atom88961" double_ratio="0.85" type="n1"/>
-   <bond id="bond27134" line_width="2.01047120419" end="atom59645" start="atom45876" double_ratio="0.85" type="n1"/>
-   <bond id="bond93507" line_width="2.01047120419" end="atom98811" start="atom9281" double_ratio="0.85" type="n1"/>
-   <bond id="bond96878" line_width="2.01047120419" end="atom80577" start="atom4878" double_ratio="0.85" type="n1"/>
-   <bond id="bond78540" line_width="2.01047120419" end="atom49659" center="no" bond_width="7.03664921466" start="atom56242" double_ratio="0.85" type="n2"/>
-   <bond id="bond24606" line_width="2.01047120419" end="atom12054" start="atom45876" double_ratio="0.85" type="n1"/>
-   <bond id="bond93434" line_width="2.01047120419" end="atom37025" start="atom49659" double_ratio="0.85" type="n1"/>
-   <bond id="bond68587" line_width="2.01047120419" end="atom96405" start="atom7554" double_ratio="0.85" type="n1"/>
-   <bond id="bond39176" line_width="2.01047120419" end="atom37025" center="no" bond_width="-7.03664921466" start="atom94257" double_ratio="0.85" type="n2"/>
-   <bond id="bond5943" line_width="2.01047120419" end="atom84064" start="atom73150" double_ratio="0.85" type="n1"/>
-   <bond id="bond37195" line_width="2.01047120419" end="atom94257" start="atom24638" double_ratio="0.85" type="n1"/>
-   <bond id="bond60650" line_width="2.01047120419" end="atom22909" start="atom9281" double_ratio="0.85" type="n1"/>
-   <bond id="bond62043" line_width="2.01047120419" end="atom73792" start="atom96405" double_ratio="0.85" type="n1"/>
-   <bond id="bond3225" line_width="2.01047120419" end="atom9281" start="atom62789" double_ratio="0.85" type="n1"/>
-   <bond id="bond61683" line_width="2.01047120419" end="atom24638" center="no" bond_width="-7.03664921466" start="atom39153" double_ratio="0.85" type="n2"/>
-   <bond id="bond77157" line_width="2.01047120419" end="atom47558" start="atom56242" double_ratio="0.85" type="n1"/>
-   <bond id="bond91528" line_width="2.01047120419" end="atom7554" start="atom73150" double_ratio="0.85" type="n1"/>
-   <bond id="bond88140" line_width="2.01047120419" end="atom72031" start="atom45876" double_ratio="0.85" type="n1"/>
-   <bond id="bond22298" line_width="2.01047120419" end="atom72766" start="atom80353" double_ratio="0.85" type="n1"/>
-   <bond id="bond20318" line_width="2.01047120419" end="atom12054" center="no" bond_width="-7.03664921466" start="atom75465" double_ratio="0.85" type="n2"/>
-   <bond id="bond39461" line_width="2.01047120419" end="atom80353" center="no" bond_width="7.03664921466" start="atom48933" double_ratio="0.85" type="n2"/>
-   <bond id="bond9355" line_width="2.01047120419" end="atom79411" start="atom73792" double_ratio="0.85" type="n1"/>
-   <bond id="bond32026" line_width="2.01047120419" end="atom51489" start="atom12054" double_ratio="0.85" type="n1"/>
-   <bond id="bond83832" line_width="2.01047120419" end="atom62789" start="atom80353" double_ratio="0.85" type="n1"/>
-   <bond id="bond72349" line_width="2.01047120419" end="atom6375" start="atom9281" double_ratio="0.85" type="n1"/>
-   <bond id="bond56845" line_width="2.01047120419" end="atom73150" start="atom94257" double_ratio="0.85" type="n1"/>
-   <bond id="bond80266" line_width="2.01047120419" end="atom62789" center="no" bond_width="-7.03664921466" start="atom51489" double_ratio="0.85" type="n2"/>
-  </molecule>
- </cdml>
+ <cdml:cdml version="0.15">
+  <cdml:info>
+   <cdml:author_program version="0.13.0">BKchem</cdml:author_program>
+  </cdml:info>
+  <cdml:paper orientation="portrait" replace_minus="0" crop_margin="5" use_real_minus="0" type="Legal" crop_svg="1"/>
+  <cdml:viewport viewport="0.000000 0.000000 640.000000 480.000000"/>
+  <cdml:standard line_color="#000" line_width="0.06cm" font_size="24" paper_type="Legal" paper_crop_margin="5" paper_crop_svg="1" paper_orientation="portrait" area_color="" font_family="Arial">
+   <cdml:bond width="0.21cm" length="1.4cm" wedge-width="0.18cm" double-ratio="0.85"/>
+   <cdml:arrow length="1.6cm"/>
+   <cdml:atom show_hydrogens="0"/>
+  </cdml:standard>
+  <cdml:molecule id="molecule552" name="">
+   <cdml:atom id="atom56242" name="C" valency="4">
+    <cdml:point y="3.372cm" x="1.396cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom39153" name="C" valency="4">
+    <cdml:point y="2.672cm" x="2.608cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom24638" name="C" valency="4">
+    <cdml:point y="3.372cm" x="3.820cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom94257" name="C" valency="4">
+    <cdml:point y="4.770cm" x="3.820cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom49659" name="C" valency="4">
+    <cdml:point y="4.770cm" x="1.396cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom37025" name="C" valency="4">
+    <cdml:point y="5.471cm" x="2.608cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom73150" name="C" valency="4">
+    <cdml:point y="5.470cm" x="5.033cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom84064" name="C" valency="4">
+    <cdml:point y="6.870cm" x="5.033cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom7554" name="C" valency="4">
+    <cdml:point y="4.770cm" x="6.245cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom96405" name="C" valency="4">
+    <cdml:point y="5.470cm" x="7.457cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom73792" name="C" valency="4">
+    <cdml:point y="4.770cm" x="8.670cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom1269" name="C" valency="4">
+    <cdml:point y="8.970cm" x="3.820cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom39704" name="C" valency="4">
+    <cdml:point y="7.570cm" x="3.820cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom88961" name="C" valency="4">
+    <cdml:point y="7.569cm" x="6.243cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom4878" name="C" valency="4">
+    <cdml:point y="9.669cm" x="5.031cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom94781" name="C" valency="4">
+    <cdml:point y="8.969cm" x="6.244cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom72031" name="C" valency="4">
+    <cdml:point y="5.468cm" x="12.307cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom70650" name="C" valency="4">
+    <cdml:point y="4.769cm" x="11.094cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom55455" name="C" valency="4">
+    <cdml:point y="6.869cm" x="9.884cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom8757" name="C" valency="4">
+    <cdml:point y="7.569cm" x="11.097cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom45876" name="C" valency="4">
+    <cdml:point y="6.868cm" x="12.309cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom12054" name="C" valency="4">
+    <cdml:point y="8.081cm" x="13.009cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom79411" pos="center-first" name="N" valency="3">
+    <cdml:point y="5.469cm" x="9.882cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom59645" name="O" pos="center-first" hydrogens="on" valency="2">
+    <cdml:point y="6.868cm" x="13.709cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom48933" name="C" valency="4">
+    <cdml:point y="10.506cm" x="13.008cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom75465" name="C" valency="4">
+    <cdml:point y="9.293cm" x="12.308cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom51489" name="C" valency="4">
+    <cdml:point y="8.081cm" x="14.407cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom80353" name="C" valency="4">
+    <cdml:point y="10.506cm" x="14.406cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom62789" name="C" valency="4">
+    <cdml:point y="9.294cm" x="15.107cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom9281" name="C" valency="4">
+    <cdml:point y="9.294cm" x="16.507cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom22909" pos="center-first" name="F" valency="1">
+    <cdml:point y="7.894cm" x="16.507cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom98811" pos="center-first" name="F" valency="1">
+    <cdml:point y="9.294cm" x="17.907cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom6375" pos="center-first" name="F" valency="1">
+    <cdml:point y="10.694cm" x="16.507cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom72766" pos="center-first" name="Cl" valency="1">
+    <cdml:point y="11.719cm" x="15.106cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom47558" pos="center-first" name="F" valency="1">
+    <cdml:point y="2.673cm" x="0.183cm"/>
+   </cdml:atom>
+   <cdml:atom id="atom80577" pos="center-first" name="F" valency="1">
+    <cdml:point y="11.069cm" x="5.031cm"/>
+   </cdml:atom>
+   <cdml:bond id="bond16214" line_width="2.01047120419" end="atom70650" start="atom72031" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond98555" line_width="2.01047120419" end="atom55455" start="atom79411" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond80277" line_width="2.01047120419" end="atom79411" start="atom70650" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond36985" line_width="2.01047120419" end="atom8757" start="atom55455" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond45359" line_width="2.01047120419" end="atom45876" start="atom8757" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond38571" line_width="2.01047120419" end="atom75465" start="atom48933" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond19799" line_width="2.01047120419" end="atom39153" start="atom56242" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond81116" line_width="2.01047120419" end="atom84064" start="atom39704" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond15589" line_width="2.01047120419" end="atom4878" start="atom1269" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond39112" line_width="2.01047120419" end="atom39704" center="no" bond_width="-7.03664921466" start="atom1269" double_ratio="0.85" type="n2"/>
+   <cdml:bond id="bond51332" line_width="2.01047120419" end="atom88961" center="no" bond_width="-7.03664921466" start="atom84064" double_ratio="0.85" type="n2"/>
+   <cdml:bond id="bond66248" line_width="2.01047120419" end="atom94781" center="no" bond_width="7.03664921466" start="atom4878" double_ratio="0.85" type="n2"/>
+   <cdml:bond id="bond16562" line_width="2.01047120419" end="atom94781" start="atom88961" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond27134" line_width="2.01047120419" end="atom59645" start="atom45876" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond93507" line_width="2.01047120419" end="atom98811" start="atom9281" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond96878" line_width="2.01047120419" end="atom80577" start="atom4878" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond78540" line_width="2.01047120419" end="atom49659" center="no" bond_width="7.03664921466" start="atom56242" double_ratio="0.85" type="n2"/>
+   <cdml:bond id="bond24606" line_width="2.01047120419" end="atom12054" start="atom45876" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond93434" line_width="2.01047120419" end="atom37025" start="atom49659" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond68587" line_width="2.01047120419" end="atom96405" start="atom7554" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond39176" line_width="2.01047120419" end="atom37025" center="no" bond_width="-7.03664921466" start="atom94257" double_ratio="0.85" type="n2"/>
+   <cdml:bond id="bond5943" line_width="2.01047120419" end="atom84064" start="atom73150" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond37195" line_width="2.01047120419" end="atom94257" start="atom24638" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond60650" line_width="2.01047120419" end="atom22909" start="atom9281" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond62043" line_width="2.01047120419" end="atom73792" start="atom96405" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond3225" line_width="2.01047120419" end="atom9281" start="atom62789" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond61683" line_width="2.01047120419" end="atom24638" center="no" bond_width="-7.03664921466" start="atom39153" double_ratio="0.85" type="n2"/>
+   <cdml:bond id="bond77157" line_width="2.01047120419" end="atom47558" start="atom56242" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond91528" line_width="2.01047120419" end="atom7554" start="atom73150" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond88140" line_width="2.01047120419" end="atom72031" start="atom45876" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond22298" line_width="2.01047120419" end="atom72766" start="atom80353" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond20318" line_width="2.01047120419" end="atom12054" center="no" bond_width="-7.03664921466" start="atom75465" double_ratio="0.85" type="n2"/>
+   <cdml:bond id="bond39461" line_width="2.01047120419" end="atom80353" center="no" bond_width="7.03664921466" start="atom48933" double_ratio="0.85" type="n2"/>
+   <cdml:bond id="bond9355" line_width="2.01047120419" end="atom79411" start="atom73792" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond32026" line_width="2.01047120419" end="atom51489" start="atom12054" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond83832" line_width="2.01047120419" end="atom62789" start="atom80353" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond72349" line_width="2.01047120419" end="atom6375" start="atom9281" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond56845" line_width="2.01047120419" end="atom73150" start="atom94257" double_ratio="0.85" type="n1"/>
+   <cdml:bond id="bond80266" line_width="2.01047120419" end="atom62789" center="no" bond_width="-7.03664921466" start="atom51489" double_ratio="0.85" type="n2"/>
+  </cdml:molecule>
+ </cdml:cdml>
  <metadata>
   <rdf:RDF>
    <cc:Work>

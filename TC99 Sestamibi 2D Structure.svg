@@ -1,58 +1,28 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="1749" width="1815.4" version="1.0">
- <g id="layer1" transform="translate(531.88 361.02)">
-  <path id="path2309" d="m449.32 556.08l63.9 53.4 7.2-12.3 7.2-12.3-78.3-28.8z"/>
-  <path id="path2311" stroke-linejoin="round" d="m449.32 556.08l63.9 53.4 7.2-12.3 7.2-12.3-78.3-28.8" stroke="#000" stroke-width="0.3px" fill="none"/>
-  <path id="path2371" d="m341.02 533.58l-116.4 51 6.9 12.3 6.9 12.3 102.6-75.6z"/>
-  <path id="path2373" stroke-linejoin="round" d="m341.02 533.58l-116.4 51 6.9 12.3 6.9 12.3 102.6-75.6" stroke="#000" stroke-width="0.3px" fill="none"/>
-  <path id="path2295" stroke-linejoin="round" d="m-200.78 680.88l143.1 82.8 105.3-60.6m761.7 227.4v-166.8l-105-60.3m249.3-356.7l-144.3-83.4-105 60.6m-183.9-394.2l-144.6 83.399v124.2m-433.5-40.197v166.2l105.3 60.9m183.9 272.7l-105 60.6m119.1-36l-118.5 68.1m90.3-117l-112.8 65.1m415.8-708v-124.2m42-66.89l102.3-59.1m-433.2 750.59l-105-60.3m90.9 84.9l-113.4-65.4m141.6 16.5l-118.5-68.1m826.5 9l102.88-59.1m-680.68 435.3v81.6m28.2-81.6v81.6m-56.4-81.6v81.6m792.58-516.6l102.3 58.8m-918.58 154.2l15-25.8m-34.2 14.7l15-25.8m-34.2 14.7l15-25.8m-34.2 14.7l15-25.8m-34.2 14.7l15-25.8m-34.2 14.7l15-25.8m132.9 470.1v124.22l-144.6 83.4m578.1-166.82l102.6 59.4m41.7 66.62v124.2m-501.6-728.42l15 26.1m4.2-37.2l15 26.1m4.2-37.2l15 25.8m4.2-36.9l15 25.8m-725.4 236.1l-103.8 59.1m-83.7-0.3l-102.6-59.4m1011.3-250.2l105-60.6m-119.1 36.3l118.2-68.1m-90 117l113.1-65.4m-705.3-292.2l-102.3-59.399m680.4 559.2l105 60.9m-90.9-85.2l112.5 65.1m-140.7-16.2l118.2 68.1m-248.7-385.5v-81.6m-28.2 81.6v-81.6m56.4 81.6v-81.6m-172.8 874.82v124.2m-41.4 66.6l-102.9 59.4m-288.9-1377v-124.19m144.3 250.79h166.8m-166.8 0l83.4-144.6m783.6 978h-166.8m166.8 0l-83.4 144.62m-926.7-394.22l83.4-144.6m-83.4 144.6l-83.4-144.6m1237.8-189.6l-83.4 144.6m83.4-144.6l83.38 144.6m-805.78 606.02l-83.4-144.62m83.4 144.62h-166.8m456-1167.6l83.4 144.6m-83.4-144.6h166.8" stroke="#000" stroke-width="6px" fill="none"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 1739.6 1674" version="1.0">
+ <g id="layer1" transform="translate(493.88 323.51)">
+  <path id="path2309" d="m449.32 556.08 63.9 53.4 7.2-12.3 7.2-12.3-78.3-28.8z"/>
+  <path id="path2311" stroke-linejoin="round" d="m449.32 556.08 63.9 53.4 7.2-12.3 7.2-12.3-78.3-28.8" stroke="#000" stroke-width="0.3px" fill="none"/>
+  <path id="path2371" d="m341.02 533.58-116.4 51 6.9 12.3 6.9 12.3 102.6-75.6z"/>
+  <path id="path2373" stroke-linejoin="round" d="m341.02 533.58-116.4 51 6.9 12.3 6.9 12.3 102.6-75.6" stroke="#000" stroke-width="0.3px" fill="none"/>
+  <path id="path2295" stroke-linejoin="round" d="m-200.78 680.88 143.1 82.8 105.3-60.6m761.7 227.4v-166.8l-105-60.3m249.3-356.7-144.3-83.4-105 60.6m-183.9-394.2-144.6 83.399v124.2m-433.5-40.198v166.2l105.3 60.9m183.9 272.7-105 60.6m119.1-36-118.5 68.1m90.3-117-112.8 65.1m415.8-708v-124.2m42-66.89 102.3-59.1m-433.2 750.59-105-60.3m90.9 84.9-113.4-65.4m141.6 16.5-118.5-68.1m826.5 9 102.88-59.1m-680.68 435.3v81.6m28.2-81.6v81.6m-56.4-81.6v81.6m792.58-516.6 102.3 58.8m-918.58 154.2 15-25.8m-34.2 14.7 15-25.8m-34.2 14.7 15-25.8m-34.2 14.7 15-25.8m-34.2 14.7 15-25.8m-34.2 14.7 15-25.8m132.9 470.1v124.22l-144.6 83.4m578.1-166.82 102.6 59.4m41.7 66.62v124.2m-501.6-728.42 15 26.1m4.2-37.2 15 26.1m4.2-37.2 15 25.8m4.2-36.9 15 25.8m-725.4 236.1-103.8 59.1m-83.7-0.3-102.6-59.4m1011.3-250.2 105-60.6m-119.1 36.3 118.2-68.1m-90 117 113.1-65.4m-705.3-292.2-102.3-59.399m680.4 559.2 105 60.9m-90.9-85.2 112.5 65.1m-140.7-16.2 118.2 68.1m-248.7-385.5v-81.6m-28.2 81.6v-81.6m56.4 81.6v-81.6m-172.8 874.82v124.2m-41.4 66.6-102.9 59.4m-288.9-1377v-124.19m144.3 250.79h166.8m-166.8 0 83.4-144.6m783.6 978h-166.8m166.8 0-83.4 144.62m-926.7-394.22 83.4-144.6m-83.4 144.6-83.4-144.6m1237.8-189.6-83.4 144.6m83.4-144.6 83.38 144.6m-805.78 606.02-83.4-144.62m83.4 144.62h-166.8m456-1167.6 83.4 144.6m-83.4-144.6h166.8" stroke="#000" stroke-width="6px" fill="none"/>
   <path id="path2646" d="m375.15 384.15v78.2" stroke="#000" stroke-dasharray="24, 6" stroke-width="6" fill="none"/>
   <path id="path3618" d="m375.15 555.87v77.19" stroke="#000" stroke-dasharray="24, 6" stroke-width="6" fill="none"/>
-  <text id="text3620" xml:space="preserve" font-size="99px" line-height="100%" y="545.22137" x="344.78809" font-family="Arial" fill="#000000">
-      <tspan id="tspan3622" y="545.22137" x="344.78809">Tc</tspan>
-    </text>
-  <text id="text3624" xml:space="preserve" font-size="99px" line-height="100%" y="379.50708" x="339.43097" font-family="Arial" fill="#000000">
-      <tspan id="tspan3626" y="379.50708" x="339.43097">C</tspan>
-    </text>
-  <text id="text3628" xml:space="preserve" font-size="99px" line-height="100%" y="710.57855" x="339.43097" font-family="Arial" fill="#000000">
-      <tspan id="tspan3630" y="710.57855" x="339.43097">C</tspan>
-    </text>
-  <text id="text3632" xml:space="preserve" font-size="99px" line-height="100%" y="210.89606" x="339.43097" font-family="Arial" fill="#000000">
-      <tspan id="tspan3634" y="210.89606" x="339.43097">N</tspan>
-    </text>
-  <text id="text3636" xml:space="preserve" font-size="99px" line-height="100%" y="881.13232" x="339.43097" font-family="Arial" fill="#000000">
-      <tspan id="tspan3638" y="881.13232" x="339.43097">N</tspan>
-    </text>
-  <text id="text3640" xml:space="preserve" font-size="99px" line-height="100%" y="378.03699" x="51.790035" font-family="Arial" fill="#000000">
-      <tspan id="tspan3642" y="378.03699" x="51.790035">N</tspan>
-    </text>
-  <text id="text3644" xml:space="preserve" font-size="99px" line-height="100%" y="378.03699" x="628.08209" font-family="Arial" fill="#000000">
-      <tspan id="tspan3646" y="378.03699" x="628.08209">N</tspan>
-    </text>
-  <text id="text3648" xml:space="preserve" font-size="99px" line-height="100%" y="715.68054" x="51.790035" font-family="Arial" fill="#000000">
-      <tspan id="tspan3650" y="715.68054" x="51.790035">N</tspan>
-    </text>
-  <text id="text3652" xml:space="preserve" font-size="99px" line-height="100%" y="715.68054" x="628.08209" font-family="Arial" fill="#000000">
-      <tspan id="tspan3654" y="715.68054" x="628.08209">N</tspan>
-    </text>
-  <text id="text3656" xml:space="preserve" font-size="99px" line-height="100%" y="50.16473" x="-237.7693" font-family="Arial" fill="#000000">
-      <tspan id="tspan3658" y="50.16473" x="-237.7693">O</tspan>
-    </text>
-  <text id="text3660" xml:space="preserve" font-size="99px" line-height="100%" y="-203.60706" x="481.11624" font-family="Arial" fill="#000000">
-      <tspan id="tspan3662" y="-203.60706" x="481.11624">O</tspan>
-    </text>
-  <text id="text3664" xml:space="preserve" font-size="99px" line-height="100%" y="303.89294" x="1058.9734" font-family="Arial" fill="#000000">
-      <tspan id="tspan3666" y="303.89294" x="1058.9734">O</tspan>
-    </text>
-  <text id="text3668" xml:space="preserve" font-size="99px" line-height="100%" y="794.96442" x="-381.2052" font-family="Arial" fill="#000000">
-      <tspan id="tspan3670" y="794.96442" x="-381.2052">O</tspan>
-    </text>
-  <text id="text3672" xml:space="preserve" font-size="99px" line-height="100%" y="1297.4644" x="193.08049" font-family="Arial" fill="#000000">
-      <tspan id="tspan3674" y="1297.4644" x="193.08049">O</tspan>
-    </text>
-  <text id="text3676" xml:space="preserve" font-size="99px" line-height="100%" y="1042.4889" x="912.76093" font-family="Arial" fill="#000000">
-      <tspan id="tspan3678" y="1042.4889" x="912.76093">O</tspan>
-    </text>
+  <text id="text3620" font-size="99px" xml:space="preserve" line-height="100%" y="545.22137" x="344.78809" font-family="Arial" fill="#000000">       <tspan id="tspan3622" y="545.22137" x="344.78809">Tc</tspan>     </text>
+  <text id="text3624" font-size="99px" xml:space="preserve" line-height="100%" y="379.50708" x="339.43097" font-family="Arial" fill="#000000">       <tspan id="tspan3626" y="379.50708" x="339.43097">C</tspan>     </text>
+  <text id="text3628" font-size="99px" xml:space="preserve" line-height="100%" y="710.57855" x="339.43097" font-family="Arial" fill="#000000">       <tspan id="tspan3630" y="710.57855" x="339.43097">C</tspan>     </text>
+  <text id="text3632" font-size="99px" xml:space="preserve" line-height="100%" y="210.89606" x="339.43097" font-family="Arial" fill="#000000">       <tspan id="tspan3634" y="210.89606" x="339.43097">N</tspan>     </text>
+  <text id="text3636" font-size="99px" xml:space="preserve" line-height="100%" y="881.13232" x="339.43097" font-family="Arial" fill="#000000">       <tspan id="tspan3638" y="881.13232" x="339.43097">N</tspan>     </text>
+  <text id="text3640" font-size="99px" xml:space="preserve" line-height="100%" y="378.03699" x="51.790035" font-family="Arial" fill="#000000">       <tspan id="tspan3642" y="378.03699" x="51.790035">N</tspan>     </text>
+  <text id="text3644" font-size="99px" xml:space="preserve" line-height="100%" y="378.03699" x="628.08209" font-family="Arial" fill="#000000">       <tspan id="tspan3646" y="378.03699" x="628.08209">N</tspan>     </text>
+  <text id="text3648" font-size="99px" xml:space="preserve" line-height="100%" y="715.68054" x="51.790035" font-family="Arial" fill="#000000">       <tspan id="tspan3650" y="715.68054" x="51.790035">N</tspan>     </text>
+  <text id="text3652" font-size="99px" xml:space="preserve" line-height="100%" y="715.68054" x="628.08209" font-family="Arial" fill="#000000">       <tspan id="tspan3654" y="715.68054" x="628.08209">N</tspan>     </text>
+  <text id="text3656" font-size="99px" xml:space="preserve" line-height="100%" y="50.16473" x="-237.7693" font-family="Arial" fill="#000000">       <tspan id="tspan3658" y="50.16473" x="-237.7693">O</tspan>     </text>
+  <text id="text3660" font-size="99px" xml:space="preserve" line-height="100%" y="-203.60706" x="481.11624" font-family="Arial" fill="#000000">       <tspan id="tspan3662" y="-203.60706" x="481.11624">O</tspan>     </text>
+  <text id="text3664" font-size="99px" xml:space="preserve" line-height="100%" y="303.89294" x="1058.9734" font-family="Arial" fill="#000000">       <tspan id="tspan3666" y="303.89294" x="1058.9734">O</tspan>     </text>
+  <text id="text3668" font-size="99px" xml:space="preserve" line-height="100%" y="794.96442" x="-381.2052" font-family="Arial" fill="#000000">       <tspan id="tspan3670" y="794.96442" x="-381.2052">O</tspan>     </text>
+  <text id="text3672" font-size="99px" xml:space="preserve" line-height="100%" y="1297.4644" x="193.08049" font-family="Arial" fill="#000000">       <tspan id="tspan3674" y="1297.4644" x="193.08049">O</tspan>     </text>
+  <text id="text3676" font-size="99px" xml:space="preserve" line-height="100%" y="1042.4889" x="912.76093" font-family="Arial" fill="#000000">       <tspan id="tspan3678" y="1042.4889" x="912.76093">O</tspan>     </text>
  </g>
  <metadata>
   <rdf:RDF>

@@ -1,41 +1,33 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="200" width="250" version="1.0">
- <path id="path3723" d="m102.5 152.87v45.621" stroke="#000" stroke-width="3" fill="none"/>
- <path id="path3725" d="m221.5 67.5h-19.839" stroke="#000" stroke-width="1px" fill="none"/>
- <path id="path3727" d="m221.34 81.5h-19.84" stroke="#000" stroke-width="1px" fill="none"/>
- <path id="path3733" d="m211.67 62v-20" stroke="#000" stroke-width="1px" fill="none"/>
- <path id="path3735" d="m211.67 87.808v20.192" stroke="#000" stroke-width="1px" fill="none"/>
- <path id="path5556" d="m2.5 152.5h125l70-60v-35h-120l-75 60v35z" stroke="#000" stroke-width="1px" fill="none"/>
- <path id="path5560" stroke-linejoin="bevel" d="m2.5 142.5h125v10h-125v-10" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#93aca7"/>
- <path id="path5564" d="m127.5 127.5h-125v15h125v-15z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#3465a4"/>
- <path id="path5566" stroke-linejoin="bevel" d="m2.5 117.5h125v10h-125v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#93aca7"/>
- <path id="path5568" stroke-linejoin="bevel" d="m127.5 117.5 70-60v10l-70 60v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#536c67"/>
- <path id="path5570" stroke-linejoin="bevel" d="m2.5 117.5 75-60h120l-70 60h-125z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#d3d7cf"/>
- <path id="path9160" d="m127.5 142.5 70-60v-15l-70 60v15z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#204a87"/>
- <path id="path9162" stroke-linejoin="bevel" d="m127.5 142.5v10l70-60v-10l-70 60z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#4b625d"/>
- <path id="path10966" d="m102.5 30v57.188" stroke="#000" stroke-width="3" fill="none"/>
- <text id="text3043" xml:space="preserve" font-size="20px" y="18" x="65" font-family="DejaVu Serif" line-height="125%" fill="#000000">
-    <tspan id="tspan3637" font-size="20px" line-height="125%" y="18" x="65" font-family="DejaVu Serif">Conductive plates</tspan>
-  </text>
- <text id="text3047" xml:space="preserve" font-size="20px" y="171.30205" x="135.5094" font-family="DejaVu Serif" line-height="125%" fill="#000000">
-    <tspan id="tspan3049" font-size="20px" line-height="125%" y="171.30205" x="135.5094" font-family="DejaVu Serif">Dielectric</tspan>
-  </text>
- <path id="path1901" d="m149.47 152.35-15-15" stroke="#000" stroke-width="1.5" fill="none"/>
- <path id="path2806" d="m126.05 67.453 14.61-44.056" stroke="#000" stroke-width="1.5" fill="none"/>
- <path id="path2808" d="m150 24.191 22.5 78.309" stroke="#000" stroke-width="1.5" fill="none"/>
- <text id="text8194" xml:space="preserve" font-size="20px" font-style="italic" y="81.316406" x="222.53711" font-family="DejaVu Serif" line-height="112.99999952%" fill="#000000">
-    <tspan id="tspan8196" x="222.53711" y="81.316406">d</tspan>
-  </text>
- <text id="text10007" xml:space="preserve" font-size="20px" font-style="italic" y="62" x="17" font-family="DejaVu Serif" line-height="112.99999952%" fill="#000000">
-    <tspan id="tspan10009" x="17" y="62">A</tspan>
-  </text>
- <path id="path10910" d="m58.94 85.24-26.518-22.843" stroke="#000" stroke-width="1.5" fill="none"/>
- <path id="path2800" d="m66.517 91.766-9.0451-4.8217 2.9369-3.4095 6.1082 8.2312z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
- <path id="path2800-9" d="m124.5 71.829 0.91545-10.209 4.2845 1.376-5.1999 8.8331z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
- <path id="path2800-7" d="m173.82 106.99-5.0498-8.9197 4.3071-1.3033 0.74272 10.223z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
- <path id="path2800-5" d="m211.5 82 2.25 10h-4.5l2.25-10z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
- <path id="path2800-3" d="m211.5 67-2.25-10h4.5l-2.25 10z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
- <path id="path2800-2" d="m130.23 132.78 8.4934 5.738-3.2762 3.0849-5.2172-8.8229z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 258.12 197.19" version="1.0">
+ <path id="path3723" d="m100.5 150.07v45.621" stroke="#000" stroke-width="3" fill="none"/>
+ <path id="path3725" d="m219.5 64.695h-19.84" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path3727" d="m219.34 78.695h-19.84" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path3733" d="m209.67 59.195v-20" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path3735" d="m209.67 85.003v20.197" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path5556" d="m0.5 149.7h125l70-60v-35h-120l-75 60v35z" stroke="#000" stroke-width="1px" fill="none"/>
+ <path id="path5560" stroke-linejoin="bevel" d="m0.5 139.7h125v10h-125v-10" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#93aca7"/>
+ <path id="path5564" d="m125.5 124.7h-125v15h125v-15z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#3465a4"/>
+ <path id="path5566" stroke-linejoin="bevel" d="m0.5 114.7h125v10h-125v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#93aca7"/>
+ <path id="path5568" stroke-linejoin="bevel" d="m125.5 114.7 70-60v10l-70 60v-10z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#536c67"/>
+ <path id="path5570" stroke-linejoin="bevel" d="m0.5 114.7 75-60h120l-70 60h-125z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#d3d7cf"/>
+ <path id="path9160" d="m125.5 139.7 70-60v-15l-70 60v15z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#204a87"/>
+ <path id="path9162" stroke-linejoin="bevel" d="m125.5 139.7v10l70-60v-10l-70 60z" fill-rule="evenodd" stroke="#000" stroke-width="1px" fill="#4b625d"/>
+ <path id="path10966" d="m100.5 27.195v57.188" stroke="#000" stroke-width="3" fill="none"/>
+ <text id="text3043" font-size="20px" xml:space="preserve" line-height="125%" y="15.195312" x="63" font-family="DejaVu Serif" fill="#000000">     <tspan id="tspan3637" font-size="20px" line-height="125%" y="15.195312" x="63" font-family="DejaVu Serif">Conductive plates</tspan>   </text>
+ <text id="text3047" font-size="20px" xml:space="preserve" line-height="125%" y="168.49736" x="133.5094" font-family="DejaVu Serif" fill="#000000">     <tspan id="tspan3049" font-size="20px" line-height="125%" y="168.49736" x="133.5094" font-family="DejaVu Serif">Dielectric</tspan>   </text>
+ <path id="path1901" d="m147.47 149.55-15-15" stroke="#000" stroke-width="1.5" fill="none"/>
+ <path id="path2806" d="m124.05 64.648 14.61-44.056" stroke="#000" stroke-width="1.5" fill="none"/>
+ <path id="path2808" d="m148 21.386 22.5 78.309" stroke="#000" stroke-width="1.5" fill="none"/>
+ <text id="text8194" font-size="20px" line-height="112.99999952%" xml:space="preserve" font-style="italic" y="78.511719" x="220.53711" font-family="DejaVu Serif" fill="#000000">     <tspan id="tspan8196" y="78.511719" x="220.53711">d</tspan>   </text>
+ <text id="text10007" font-size="20px" line-height="112.99999952%" xml:space="preserve" font-style="italic" y="59.195312" x="15" font-family="DejaVu Serif" fill="#000000">     <tspan id="tspan10009" y="59.195312" x="15">A</tspan>   </text>
+ <path id="path10910" d="m56.94 82.435-26.518-22.843" stroke="#000" stroke-width="1.5" fill="none"/>
+ <path id="path2800" d="m64.517 88.961-9.0451-4.8217 2.9369-3.4095 6.1082 8.2312z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+ <path id="path2800-9" d="m122.5 69.024 0.91545-10.209 4.2845 1.376-5.1999 8.8331z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+ <path id="path2800-7" d="m171.82 104.19-5.0498-8.9197 4.3071-1.3033 0.74272 10.223z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+ <path id="path2800-5" d="m209.5 79.195 2.25 10h-4.5l2.25-10z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+ <path id="path2800-3" d="m209.5 64.195-2.25-10h4.5l-2.25 10z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
+ <path id="path2800-2" d="m128.23 129.98 8.4934 5.738-3.2762 3.0849-5.2172-8.8229z" fill-rule="evenodd" stroke="#000" stroke-width="1px"/>
  <metadata>
   <rdf:RDF>
    <cc:Work>

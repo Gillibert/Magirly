@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="58.271mm" width="192.74mm" version="1.0" viewBox="0 0 731 221">
- <g id="g4" stroke-linecap="round" transform="translate(-23,-45)">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="174.37" viewBox="0 0 706.69479 186.64229" width="660.23" version="1.0">
+ <g id="g4" stroke-linecap="round" transform="translate(-40.233 -63.357)">
   <g id="g6" stroke-width="2.2756" stroke="#000">
    <line id="line8" x2="183.14" y1="147.36" x1="186.55" y2="153.27"/>
    <line id="line10" x2="188.89" y1="150.68" x1="192.3" y2="156.59"/>
@@ -18,7 +18,7 @@
    <line id="line30" x2="214" y1="147" x1="179.1" y2="126.85"/>
   </g>
   <g id="g32" stroke="#000">
-   <polygon id="polygon34" points="113.94 174.71 108.03 171.29 125.01 146.43 126.99 147.57 126.99 147.57" stroke="#000"/>
+   <polygon id="polygon34" points="126.99 147.57 126.99 147.57 113.94 174.71 108.03 171.29 125.01 146.43" stroke="#000"/>
   </g>
   <g id="g36" stroke-width="2.2756" stroke="#000">
    <line id="line38" x2="179.1" y1="147" x1="126" y2="147"/>
@@ -34,14 +34,14 @@
    <line id="line56" x2="78.31" y1="176.51" x1="81.73" y2="170.59"/>
   </g>
   <g id="g58" stroke="#000">
-   <polygon id="polygon60" points="208.61 191.27 202.69 194.69 178.11 147.57 180.09 146.43 180.09 146.43" stroke="#000"/>
+   <polygon id="polygon60" points="180.09 146.43 180.09 146.43 208.61 191.27 202.69 194.69 178.11 147.57" stroke="#000"/>
   </g>
   <path id="text62" d="m227.03 119.23 7.38-10.65h-3.33l-5.64 8.58-5.61-8.58h-3.39l7.26 10.65-7.74 11.22h3.39l6-9.12 5.97 9.12h3.45l-7.74-11.22"/>
   <path id="text64" d="m104.83 193.02v9.96h2.79v-21.87h-2.79v9.45h-11.25v-9.45h-2.79v21.87h2.82v-9.96h11.22"/>
   <polyline id="polyline66" stroke="#000" points="263 151 315.68 151" stroke-width="2.2756" fill="none"/>
-  <polygon id="polygon68" fill-rule="evenodd" stroke="#000" points="313.68 148 315.68 151 313.68 154 323.68 151 323.68 151"/>
+  <polygon id="polygon68" points="323.68 151 323.68 151 313.68 148 315.68 151 313.68 154" stroke="#000" fill-rule="evenodd"/>
   <g id="g70" stroke="#000">
-   <polygon id="polygon72" points="350.11 177.38 346.7 171.46 393.86 146.96 395 148.93 395 148.93" stroke="#000"/>
+   <polygon id="polygon72" points="395 148.93 395 148.93 350.11 177.38 346.7 171.46 393.86 146.96" stroke="#000"/>
   </g>
   <g id="g74" stroke-width="2.2756" stroke="#000">
    <line id="line76" x2="394.43" y1="148.03" x1="447.53" y2="147.94"/>
@@ -60,7 +60,7 @@
    <line id="line98" x2="350.2" y1="124.27" x1="346.78" y2="118.36"/>
   </g>
   <g id="g100" stroke="#000">
-   <polygon id="polygon102" points="476.96 192.33 471.04 195.74 446.54 148.59 448.51 147.46 448.51 147.46" stroke="#000"/>
+   <polygon id="polygon102" points="448.51 147.46 448.51 147.46 476.96 192.33 471.04 195.74 446.54 148.59" stroke="#000"/>
   </g>
   <g id="g104" stroke-width="2.2756" stroke="#000">
    <line id="line106" x2="451.55" y1="148.4" x1="454.98" y2="154.31"/>
@@ -72,14 +72,14 @@
    <line id="line118" x2="486" y1="168.37" x1="489.42" y2="174.27"/>
    <line id="line120" x2="491.74" y1="171.69" x1="495.16" y2="177.6"/>
   </g>
-  <line id="line122" stroke-width="2.0232" y2="151.76" y1="157" stroke="#000" x2="408.58" x1="389.04"/>
+  <line id="line122" stroke-width="2.0232" y2="151.76" x2="408.58" stroke="#000" y1="157" x1="389.04"/>
   <g id="g124" stroke="#000">
-   <ellipse id="ellipse126" rx="5" ry="5" transform="translate(2.1407 23.548)" cy="140.89" cx="398.5" fill="none"/>
-   <line id="line128" y2="164.44" y1="164.44" x2="403.64" x1="397.64"/>
+   <ellipse id="ellipse126" d="m 403.5,140.89 c 0,2.76142 -2.23858,5 -5,5 -2.76142,0 -5,-2.23858 -5,-5 0,-2.76142 2.23858,-5 5,-5 2.76142,0 5,2.23858 5,5 z" rx="5" transform="translate(2.1407,23.548)" ry="5" cy="140.89" cx="398.5" fill="none"/>
+   <line id="line128" y1="164.44" x2="403.64" x1="397.64" y2="164.44"/>
   </g>
   <path id="text130" d="m495.03 120.33 7.38-10.65h-3.33l-5.64 8.58-5.61-8.58h-3.39l7.26 10.65-7.74 11.22h3.39l6-9.12 5.97 9.12h3.45l-7.74-11.22"/>
   <polyline id="polyline132" stroke="#000" points="520 150 572.68 150" stroke-width="2.2756" fill="none"/>
-  <polygon id="polygon134" fill-rule="evenodd" stroke="#000" points="570.68 147 572.68 150 570.68 153 580.68 150 580.68 150"/>
+  <polygon id="polygon134" points="580.68 150 580.68 150 570.68 147 572.68 150 570.68 153" stroke="#000" fill-rule="evenodd"/>
   <g id="g136" stroke-width="2.2756" stroke="#000">
    <line id="line138" x2="705.55" y1="141.73" x1="702.14" y2="147.64"/>
    <line id="line140" x2="711.3" y1="138.41" x1="707.89" y2="144.32"/>
@@ -105,27 +105,27 @@
    <line id="line176" x2="694.12" y1="140.04" x1="648.98" y2="140.04"/>
   </g>
   <g id="g178" stroke="#000">
-   <polygon id="polygon180" points="600.73 177.51 597.31 171.59 644.43 147.01 645.57 148.99 645.57 148.99" stroke="#000"/>
+   <polygon id="polygon180" points="645.57 148.99 645.57 148.99 600.73 177.51 597.31 171.59 644.43 147.01" stroke="#000"/>
   </g>
   <g id="g182" stroke="#000">
-   <polygon id="polygon184" points="745.79 171.59 742.37 177.51 697.53 148.99 698.67 147.01 698.67 147.01" stroke="#000"/>
+   <polygon id="polygon184" points="698.67 147.01 698.67 147.01 745.79 171.59 742.37 177.51 697.53 148.99" stroke="#000"/>
   </g>
   <path id="text186" d="m278.32 125.24h-15.12v2.1h15.12v-2.1m17.73-1.95v9.96h2.79v-21.87h-2.79v9.45h-11.25v-9.45h-2.79v21.87h2.82v-9.96h11.22"/>
   <path id="text188" d="m544.32 123.24h-15.12v2.1h15.12v-2.1m12.93-3.21 7.38-10.65h-3.33l-5.64 8.58-5.61-8.58h-3.39l7.26 10.65-7.74 11.22h3.39l6-9.12 5.97 9.12h3.45l-7.74-11.22"/>
   <path id="path190" d="m459 132.68c-11.333-31.787-10.277-52.94 3.17-63.46 13.447-10.513 22.643-3.49 27.59 21.07" stroke="#f00" stroke-width="2.2756" fill="none"/>
-  <polygon id="polygon192" fill-rule="evenodd" stroke="#f00" points="492.31 87.73 489.76 90.29 486.42 88.92 491.34 98.13 491.34 98.13" fill="#f00"/>
+  <polygon id="polygon192" fill-rule="evenodd" stroke="#f00" points="491.34 98.13 491.34 98.13 492.31 87.73 489.76 90.29 486.42 88.92" fill="#f00"/>
   <path id="text194" d="m40.233 250h9.87c2.07 0 3.6-0.57 4.77-1.83 1.08-1.14 1.68-2.7 1.68-4.41 0-2.64-1.2-4.23-3.99-5.31 1.98-0.93 3.03-2.55 3.03-4.77 0-1.59-0.6-3-1.74-4.02-1.14-1.05-2.64-1.53-4.74-1.53h-8.88v21.87m2.79-12.45v-6.96h5.4c1.56 0 2.43 0.21 3.18 0.78 0.78 0.6 1.2 1.5 1.2 2.7 0 1.17-0.42 2.1-1.2 2.7-0.75 0.57-1.62 0.78-3.18 0.78h-5.4m0 9.99v-7.53h6.81c1.35 0 2.25 0.33 2.91 1.05 0.66 0.69 1.02 1.65 1.02 2.73 0 1.05-0.36 2.01-1.02 2.7-0.66 0.72-1.56 1.05-2.91 1.05h-6.81"/>
-  <line id="line196" stroke-width="2.1588" y2="227.49" y1="248.84" stroke="#000" x2="58.838" x1="62.04"/>
+  <line id="line196" stroke-width="2.1588" y2="227.49" x2="58.838" stroke="#000" y1="248.84" x1="62.04"/>
   <path id="path198" d="m72.32 236c51.787-4 68.42-15.23 49.9-33.69" stroke="#f00" stroke-width="2.2756" fill="none"/>
-  <polygon id="polygon200" fill-rule="evenodd" stroke="#f00" points="121.51 205.84 122.22 202.31 125.75 201.59 116.55 196.66 116.55 196.66" fill="#f00"/>
+  <polygon id="polygon200" fill-rule="evenodd" stroke="#f00" points="116.55 196.66 116.55 196.66 121.51 205.84 122.22 202.31 125.75 201.59" fill="#f00"/>
  </g>
- <ellipse id="ellipse3350" rx="5" ry="5" stroke="#000" transform="translate(151.5 -76.14)" cy="140.89" cx="398.5" fill="none"/>
- <line id="line3352" y2="64.751" y1="64.751" stroke="#000" x2="552.99" x1="546.99"/>
- <ellipse id="ellipse3354" rx="5" ry="5" stroke="#000" transform="translate(-114.11 -73.914)" cy="140.89" cx="398.5" fill="none"/>
- <line id="line3356" y2="66.977" y1="66.977" stroke="#000" x2="287.39" x1="281.39"/>
- <line id="line3358" y2="63.948" y1="69.948" stroke="#000" x2="284.41" x1="284.42"/>
- <path id="path190-6" d="m372.11 129.73c-0.4432 6.9436 2.315 18.908 8.9554 23.983 9.3629 6.0892 17.198-15.227 22.145-39.787" stroke="#f00" stroke-linecap="round" stroke-width="2.2756" fill="none"/>
- <polygon id="polygon192-9" fill-rule="evenodd" stroke-linecap="round" transform="matrix(1 0 0 -1 -87.571 206.94)" stroke="#f00" points="486.42 88.92 491.34 98.13 491.34 98.13 492.31 87.73 489.76 90.29" fill="#f00"/>
+ <ellipse id="ellipse3350" rx="5" transform="translate(134.27 -94.497)" stroke="#000" ry="5" cy="140.89" cx="398.5" fill="none"/>
+ <line id="line3352" y2="46.394" x2="535.76" stroke="#000" y1="46.394" x1="529.76"/>
+ <ellipse id="ellipse3354" rx="5" transform="translate(-131.34 -92.271)" stroke="#000" ry="5" cy="140.89" cx="398.5" fill="none"/>
+ <line id="line3356" y2="48.62" x2="270.16" stroke="#000" y1="48.62" x1="264.16"/>
+ <line id="line3358" y2="45.591" x2="267.18" stroke="#000" y1="51.591" x1="267.19"/>
+ <path id="path190-6" d="m354.88 111.37c-0.4432 6.9436 2.315 18.908 8.9554 23.983 9.3629 6.0892 17.198-15.227 22.145-39.787" stroke="#f00" stroke-linecap="round" stroke-width="2.2756" fill="none"/>
+ <polygon id="polygon192-9" fill-rule="evenodd" stroke-linecap="round" transform="matrix(1 0 0 -1 -104.8 188.58)" stroke="#f00" points="492.31 87.73 489.76 90.29 486.42 88.92 491.34 98.13 491.34 98.13" fill="#f00"/>
  <metadata>
   <rdf:RDF>
    <cc:Work>

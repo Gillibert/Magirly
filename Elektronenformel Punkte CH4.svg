@@ -1,29 +1,19 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="700" width="700" version="1.0">
- <g id="layer1">
-  <text id="text3297" xml:space="preserve" font-size="200px" y="651.8855" x="264.19559" font-family="Verdana" line-height="100%" fill="#000000">
-      <tspan id="tspan3299" x="264.19559" y="651.8855">H</tspan>
-    </text>
-  <path id="path3321" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.203 20.203 0 1 1 -40.41 0 20.203 20.203 0 1 1 40.41 0z" transform="matrix(0 -1 1 0 -66.655 622.47)"/>
-  <text id="text3379" xml:space="preserve" font-size="200px" y="431.07501" x="267.80887" font-family="Verdana" line-height="100%" fill="#000000">
-      <tspan id="tspan3381" x="267.80887" y="431.07501">C</tspan>
-    </text>
-  <text id="text3383" xml:space="preserve" font-size="200px" y="431.07501" x="67.249527" font-family="Verdana" line-height="100%" fill="#000000">
-      <tspan id="tspan3385" x="67.249527" y="431.07501">H</tspan>
-    </text>
-  <text id="text3387" xml:space="preserve" font-size="200px" y="199.54021" x="264.19559" font-family="Verdana" line-height="100%" fill="#000000">
-      <tspan id="tspan3389" x="264.19559" y="199.54021">H</tspan>
-    </text>
-  <text id="text3391" xml:space="preserve" font-size="200px" y="431.07501" x="484.90018" font-family="Verdana" line-height="100%" fill="#000000">
-      <tspan id="tspan3393" x="484.90018" y="431.07501">H</tspan>
-    </text>
-  <path id="path3395" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.203 20.203 0 1 1 -40.41 0 20.203 20.203 0 1 1 40.41 0z" transform="matrix(0 -1 1 0 -67.665 694.84)"/>
-  <path id="path3401" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.203 20.203 0 1 1 -40.41 0 20.203 20.203 0 1 1 40.41 0z" transform="matrix(0 -1 1 0 -274.66 622.47)"/>
-  <path id="path3403" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.203 20.203 0 1 1 -40.41 0 20.203 20.203 0 1 1 40.41 0z" transform="matrix(0 -1 1 0 -275.66 694.84)"/>
-  <path id="path3405" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.203 20.203 0 1 1 -40.41 0 20.203 20.203 0 1 1 40.41 0z" transform="matrix(-1 0 0 -1 604.34 758.88)"/>
-  <path id="path3407" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.203 20.203 0 1 1 -40.41 0 20.203 20.203 0 1 1 40.41 0z" transform="matrix(-1 0 0 -1 676.71 759.89)"/>
-  <path id="path3409" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.203 20.203 0 1 1 -40.41 0 20.203 20.203 0 1 1 40.41 0z" transform="matrix(-1 0 0 -1 604.34 984.88)"/>
-  <path id="path3411" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.203 20.203 0 1 1 -40.41 0 20.203 20.203 0 1 1 40.41 0z" transform="matrix(-1 0 0 -1 676.71 985.89)"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 822.73 598.15" version="1.0">
+ <g id="layer1" transform="translate(-67.25 -53.739)">
+  <text id="text3297" font-size="200px" xml:space="preserve" line-height="100%" y="651.8855" x="264.19559" font-family="Verdana" fill="#000000">       <tspan id="tspan3299" y="651.8855" x="264.19559">H</tspan>     </text>
+  <path id="path3321" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.205 20.205 0 1 1 -40.41 0 20.205 20.205 0 1 1 40.41 0z" transform="matrix(0,-1,1,0,-66.655,622.47)"/>
+  <text id="text3379" font-size="200px" xml:space="preserve" line-height="100%" y="431.07501" x="267.80887" font-family="Verdana" fill="#000000">       <tspan id="tspan3381" y="431.07501" x="267.80887">C</tspan>     </text>
+  <text id="text3383" font-size="200px" xml:space="preserve" line-height="100%" y="431.07501" x="67.249527" font-family="Verdana" fill="#000000">       <tspan id="tspan3385" y="431.07501" x="67.249527">H</tspan>     </text>
+  <text id="text3387" font-size="200px" xml:space="preserve" line-height="100%" y="199.54021" x="264.19559" font-family="Verdana" fill="#000000">       <tspan id="tspan3389" y="199.54021" x="264.19559">H</tspan>     </text>
+  <text id="text3391" font-size="200px" xml:space="preserve" line-height="100%" y="431.07501" x="484.90018" font-family="Verdana" fill="#000000">       <tspan id="tspan3393" y="431.07501" x="484.90018">H</tspan>     </text>
+  <path id="path3395" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.205 20.205 0 1 1 -40.41 0 20.205 20.205 0 1 1 40.41 0z" transform="matrix(0,-1,1,0,-67.665,694.84)"/>
+  <path id="path3401" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.205 20.205 0 1 1 -40.41 0 20.205 20.205 0 1 1 40.41 0z" transform="matrix(0,-1,1,0,-274.66,622.47)"/>
+  <path id="path3403" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.205 20.205 0 1 1 -40.41 0 20.205 20.205 0 1 1 40.41 0z" transform="matrix(0,-1,1,0,-275.66,694.84)"/>
+  <path id="path3405" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.205 20.205 0 1 1 -40.41 0 20.205 20.205 0 1 1 40.41 0z" transform="matrix(-1,0,0,-1,604.34,758.88)"/>
+  <path id="path3407" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.205 20.205 0 1 1 -40.41 0 20.205 20.205 0 1 1 40.41 0z" transform="matrix(-1,0,0,-1,676.71,759.89)"/>
+  <path id="path3409" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.205 20.205 0 1 1 -40.41 0 20.205 20.205 0 1 1 40.41 0z" transform="matrix(-1,0,0,-1,604.34,984.88)"/>
+  <path id="path3411" opacity="0.94" style="color:#000000" d="m319.21 516.16a20.205 20.205 0 1 1 -40.41 0 20.205 20.205 0 1 1 40.41 0z" transform="matrix(-1,0,0,-1,676.71,985.89)"/>
  </g>
  <metadata>
   <rdf:RDF>

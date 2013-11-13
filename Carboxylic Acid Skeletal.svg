@@ -1,25 +1,13 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="743" width="927" version="1.0">
- <g id="layer1" transform="translate(102.34 -86.817)">
-  <rect id="rect3696" height="235.78" width="12.486" y="308.82" x="306.66"/>
-  <rect id="rect1922" height="232.58" width="12" y="308.82" x="269.66"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 1462.7 590.16" version="1.0">
+ <g id="layer1" transform="translate(37.717 -167.25)">
+  <rect id="rect3696" y="308.82" width="12.486" x="306.66" height="235.78"/>
+  <rect id="rect1922" y="308.82" width="12" x="269.66" height="232.58"/>
   <rect id="rect1889" transform="rotate(240)" height="224.25" width="12" y="-232.55" x="-615.5"/>
-  <rect id="rect7228" transform="matrix(0.5 -.86603 -.86603 -0.5 0 0)" height="223.92" width="12.13" y="-742.42" x="-321.07"/>
-  <text id="text2247" xml:space="preserve" font-size="188px" y="753.19153" x="-37.7169">
-      <tspan id="tspan2249" y="753.19153" x="-37.7169">
-        <tspan id="tspan2251" y="753.19153" x="-37.7169" font-family="Arial">R</tspan>
-      </tspan>
-    </text>
-  <text id="text2305" xml:space="preserve" font-size="188px" y="298.52243" x="219.5761">
-      <tspan id="tspan2307" y="298.52243" x="219.5761">
-        <tspan id="tspan2309" y="298.52243" x="219.5761" font-family="Arial">O</tspan>
-      </tspan>
-    </text>
-  <text id="text2182" xml:space="preserve" font-size="188px" y="755.57825" x="484.57611">
-      <tspan id="tspan2184" y="755.57825" x="484.57611">
-        <tspan id="tspan2186" y="755.57825" x="484.57611" font-family="Arial">OH</tspan>
-      </tspan>
-    </text>
+  <rect id="rect7228" transform="matrix(.5 -.86603 -.86603 -.5 0 0)" height="223.92" width="12.13" y="-742.42" x="-321.07"/>
+  <text id="text2247" xml:space="preserve" font-size="188px" y="753.19153" x="-37.7169">       <tspan id="tspan2249" y="753.19153" x="-37.7169">         <tspan id="tspan2251" y="753.19153" x="-37.7169" font-family="Arial">R</tspan>       </tspan>     </text>
+  <text id="text2305" xml:space="preserve" font-size="188px" y="298.52243" x="219.5761">       <tspan id="tspan2307" y="298.52243" x="219.5761">         <tspan id="tspan2309" y="298.52243" x="219.5761" font-family="Arial">O</tspan>       </tspan>     </text>
+  <text id="text2182" xml:space="preserve" font-size="188px" y="755.57825" x="484.57611">       <tspan id="tspan2184" y="755.57825" x="484.57611">         <tspan id="tspan2186" y="755.57825" x="484.57611" font-family="Arial">OH</tspan>       </tspan>     </text>
  </g>
  <metadata>
   <rdf:RDF>

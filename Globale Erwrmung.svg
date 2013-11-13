@@ -1,91 +1,71 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" height="556" width="744" version="1.0">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" viewBox="0 0 1192.3 664.99" version="1.0">
  <defs id="defs5">
-  <linearGradient id="linearGradient17321" y2="607.3" gradientUnits="userSpaceOnUse" x2="201.5" gradientTransform="matrix(2.0298 0 0 1.0043 -34.602 -14.706)" y1="-4.9795e-11" x1="201.5">
+  <linearGradient id="linearGradient17321" x1="201.5" gradientUnits="userSpaceOnUse" y1="-4.9795e-11" gradientTransform="matrix(2.0298 0 0 1.0043 187.47 3.2806e-7)" x2="201.5" y2="607.3">
    <stop id="stop9287" stop-color="#729fcf" offset="0"/>
    <stop id="stop9289" stop-color="#3465a4" offset="1"/>
   </linearGradient>
  </defs>
- <rect id="rect7345" opacity=".79624" fill-rule="evenodd" height="600.58" width="818.02" y="-14.706" x="-34.602" fill="url(#linearGradient17321)"/>
- <rect id="rect5982" transform="matrix(.99144 -.13053 .13053 .99144 0 0)" height="162.95" width="21.953" y="227.61" x="437" fill="#fffc40"/>
- <rect id="rect7766" transform="matrix(.99144 -.13053 .13053 .99144 0 0)" height="88.198" width="7.7614" y="427.62" x="446.59" fill="#fffc40"/>
- <rect id="rect4190" transform="matrix(.99144 -.13053 .13053 .99144 0 0)" height="295.36" width="21.953" y="181.72" x="71.108" fill="#fffc40"/>
- <rect id="rect7790" transform="matrix(.99144 .13053 -.13053 .99144 0 0)" height="104.49" width="13.204" y="333.49" x="207.76" fill="#fffc40"/>
- <path id="path7792" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z" transform="matrix(.99144 .13053 -.18504 1.4055 -381.63 85.633)" fill="#fffc40"/>
- <g id="g7814" fill="#fffc40" transform="matrix(.72064 .075742 -.075742 .72064 195.05 115.78)">
+ <rect id="rect7345" opacity=".79624" fill-rule="evenodd" height="600.58" width="818.02" y="0" x="187.47" fill="url(#linearGradient17321)"/>
+ <rect id="rect5982" transform="matrix(.99144 -.13053 .13053 .99144 0 0)" height="162.95" width="21.953" y="271.18" x="655.25" fill="#fffc40"/>
+ <rect id="rect7766" transform="matrix(.99144 -.13053 .13053 .99144 0 0)" height="88.198" width="7.7614" y="471.19" x="664.84" fill="#fffc40"/>
+ <rect id="rect4190" transform="matrix(.99144 -.13053 .13053 .99144 0 0)" height="295.36" width="21.953" y="225.29" x="289.36" fill="#fffc40"/>
+ <rect id="rect7790" transform="matrix(.99144 .13053 -.13053 .99144 0 0)" height="104.49" width="13.204" y="319.08" x="429.85" fill="#fffc40"/>
+ <path id="path7792" fill="#fffc40" d="m405.37 378.83c-0.12875 0.21183-29.773-3.691-29.832-3.9276-0.0677-0.25199 19.545-34.689 19.733-34.664 0.18838 0.0248 10.22 38.365 10.099 38.592z"/>
+ <g id="g7814" fill="#fffc40" transform="matrix(.72064 .075742 -.075742 .72064 417.12 130.49)">
   <rect id="rect7816" transform="matrix(.99144 .13053 -.13053 .99144 0 0)" height="47.98" width="3.8807" y="301.31" x="535.41"/>
-  <path id="path7818" transform="matrix(.71990 .094777 -.094777 .71990 131.78 38.46)" d="m566.11 388.99c-0.08 0.13-25.08 0.13-25.16 0-0.08-0.14 12.42-21.8 12.58-21.8s12.66 21.66 12.58 21.8z"/>
+  <path id="path7818" d="m566.11 388.99c-0.08 0.13-25.08 0.13-25.16 0-0.08-0.14 12.42-21.8 12.58-21.8s12.66 21.66 12.58 21.8z" transform="matrix(.7199 .094777 -.094777 .7199 131.78 38.46)"/>
  </g>
- <g id="g14662" fill="#ea3939" transform="matrix(1 0 0 .95070 -18.345 56.034)">
+ <g id="g14662" fill="#ea3939" transform="matrix(1 0 0 .9507 203.73 70.74)">
   <path id="path8414" d="m306.76 246.58c2.77 7.97 5.53 15.94 7.5 23.9 1.96 7.97 3.1 15.94 3.1 23.91s-1.14 15.94-3.1 23.91c-1.97 7.97-4.73 15.94-7.5 23.91-2.78 7.97-5.54 15.94-7.51 23.91-1.96 7.97-3.1 15.93-3.1 23.9s1.14 15.94 3.1 23.91c1.97 7.97 4.73 15.94 7.51 23.91" stroke="#ea3939" stroke-linecap="square" stroke-width="23.579"/>
-  <path id="path13767" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z" transform="matrix(-1.4132 .37868 .53684 2.0035 1049.5 -267.45)"/>
+  <path id="path13767" transform="matrix(-1.4132 .37868 .53684 2.0035 1049.5 -267.45)" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z"/>
  </g>
- <path id="path14674" d="m622.97 366.14c1.97 7.97 4.73 15.94 7.51 23.91 2.77 7.97 5.53 15.93 7.5 23.9 1.96 7.97 3.1 15.94 3.1 23.91s-1.14 15.94-3.1 23.91c-1.97 7.97-4.73 15.94-7.5 23.91" stroke="#ea3939" stroke-linecap="square" stroke-width="23.579" fill="#ea3939"/>
- <rect id="rect2008" height="600.27" width="6.6515" stroke="#000" stroke-linecap="round" y="48.319" x="366.45" stroke-width="3.3874" fill="#fff"/>
- <path id="path16104" transform="matrix(2.2797 0 0 -.97382 566.91 923.93)" fill="#decd87" d="m176.9 336.22a274.91 226.51 0 0 1 -522.99 -1.41"/>
- <g id="g5093" fill="#fffc40" transform="matrix(1.3846 -.050633 -.050633 1.0067 -13.121 38.6)">
+ <path id="path14674" d="m845.04 380.85c1.97 7.97 4.73 15.94 7.51 23.91 2.77 7.97 5.53 15.93 7.5 23.9 1.96 7.97 3.1 15.94 3.1 23.91s-1.14 15.94-3.1 23.91c-1.97 7.97-4.73 15.94-7.5 23.91" stroke="#ea3939" stroke-linecap="square" stroke-width="23.579" fill="#ea3939"/>
+ <rect id="rect2008" height="600.27" width="6.6515" stroke="#000" stroke-linecap="round" y="63.025" x="588.52" stroke-width="3.3874" fill="#fff"/>
+ <path id="path16104" fill="#decd87" d="m1192.3 611.22a626.71 220.58 0 0 0 -1192.3 1.37"/>
+ <g id="g5093" fill="#fffc40" transform="matrix(1.3846 -.050633 -.050633 1.0067 208.95 53.306)">
   <rect id="rect5083" transform="matrix(.99144 -.13053 .13053 .99144 0 0)" height="27.687" width="11.142" y="97.525" x="65.945"/>
-  <path id="path5085" transform="matrix(.97782 -.12873 .18551 1.4091 -58.02 11.343)" d="m132.34 100.4c-0.14 0-10.58-18.094-10.51-18.21 0.06-0.117 20.96-0.117 21.02 0 0.07 0.116-10.38 18.21-10.51 18.21z"/>
+  <path id="path5085" d="m132.34 100.4c-0.14 0-10.58-18.094-10.51-18.21 0.06-0.117 20.96-0.117 21.02 0 0.07 0.116-10.38 18.21-10.51 18.21z" transform="matrix(.97782 -.12873 .18551 1.4091 -58.02 11.343)"/>
  </g>
- <g id="g5984" fill="#fffc40" transform="matrix(1.3846 -.050633 -.050633 1.0067 356.45 38.6)">
+ <g id="g5984" fill="#fffc40" transform="matrix(1.3846 -.050633 -.050633 1.0067 578.52 53.306)">
   <rect id="rect5986" transform="matrix(.99144 -.13053 .13053 .99144 0 0)" height="27.687" width="11.142" y="97.525" x="65.945"/>
-  <path id="path5988" transform="matrix(.97782 -.12873 .18551 1.4091 -58.02 11.343)" d="m132.34 100.4c-0.14 0-10.58-18.094-10.51-18.21 0.06-0.117 20.96-0.117 21.02 0 0.07 0.116-10.38 18.21-10.51 18.21z"/>
+  <path id="path5988" d="m132.34 100.4c-0.14 0-10.58-18.094-10.51-18.21 0.06-0.117 20.96-0.117 21.02 0 0.07 0.116-10.38 18.21-10.51 18.21z" transform="matrix(.97782 -.12873 .18551 1.4091 -58.02 11.343)"/>
  </g>
- <g id="g7784" fill="#fffc40" transform="translate(31.476 33.868)">
+ <g id="g7784" fill="#fffc40" transform="translate(253.55 48.574)">
   <rect id="rect7772" transform="matrix(.99144 .13053 -.13053 .99144 0 0)" height="99.624" width="13.204" y="128.13" x="506.64"/>
-  <path id="path7774" transform="matrix(.99144 .13053 -.18504 1.4055 -58.503 -78.953)" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z"/>
+  <path id="path7774" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z" transform="matrix(.99144 .13053 -.18504 1.4055 -58.503 -78.953)"/>
  </g>
- <g id="g14678" fill="#ea3939" transform="matrix(.63396 .080994 .11067 -.81577 361.7 584.4)">
+ <g id="g14678" fill="#ea3939" transform="matrix(.63396 .080994 .11067 -.81577 583.77 599.11)">
   <path id="path14680" d="m306.76 246.58c2.77 7.97 1.3 17.23 3.97 25.08 5.85 17.26 17.61 20.64 17.61 28.61" stroke="#ea3939" stroke-linecap="square" stroke-width="23.579"/>
-  <path id="path14682" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z" transform="matrix(-1.4132 .37868 .53684 2.0035 1049.5 -267.45)"/>
+  <path id="path14682" transform="matrix(-1.4132 .37868 .53684 2.0035 1049.5 -267.45)" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z"/>
  </g>
- <g id="g14684" fill="#ea3939" transform="matrix(-.73924 0 0 .82261 857.39 82.195)">
+ <g id="g14684" fill="#ea3939" transform="matrix(-.73924 0 0 .82261 1079.5 96.901)">
   <path id="path14686" d="m306.76 246.58c2.77 7.97 5.53 15.94 7.5 23.9 1.96 7.97 3.1 15.94 3.1 23.91" stroke="#ea3939" stroke-linecap="square" stroke-width="23.579"/>
-  <path id="path14688" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z" transform="matrix(-1.4132 .37868 .53684 2.0035 1049.5 -267.45)"/>
+  <path id="path14688" transform="matrix(-1.4132 .37868 .53684 2.0035 1049.5 -267.45)" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z"/>
  </g>
- <path id="path5994" d="m443.05 348.04s-30.35-50.85 58.53-29.31c0 0 29.26-26.32 61.24 4.78 0 0 30.35-22.13 66.11 2.4 0 0 65.04-8.98 39.02 26.32 0 0 14.64 11.96-2.16 21.53 0 0-10.84 29.92-60.7 9.58 0 0-29.81 13.76-54.74-1.8 0 0-30.34 13.16-53.11-6.58 0 0-88.33 28.72-54.19-26.92z" fill-rule="evenodd" fill="#fff"/>
- <g id="g7808" fill="#fffc40" transform="matrix(.72064 .075742 -.075742 .72064 -198.47 -130.69)">
+ <path id="path5994" fill-rule="evenodd" fill="#fff" d="m665.12 362.75s-30.35-50.85 58.53-29.31c0 0 29.26-26.32 61.24 4.78 0 0 30.35-22.13 66.11 2.4 0 0 65.04-8.98 39.02 26.32 0 0 14.64 11.96-2.16 21.53 0 0-10.84 29.92-60.7 9.58 0 0-29.81 13.76-54.74-1.8 0 0-30.34 13.16-53.11-6.58 0 0-88.33 28.72-54.19-26.92z"/>
+ <g id="g7808" fill="#fffc40" transform="matrix(.72064 .075742 -.075742 .72064 23.601 -115.98)">
   <rect id="rect7810" transform="matrix(.99144 .13053 -.13053 .99144 0 0)" height="47.98" width="3.8807" y="301.31" x="535.41"/>
-  <path id="path7812" transform="matrix(.71990 .094777 -.094777 .71990 131.78 38.46)" d="m566.11 388.99c-0.08 0.13-25.08 0.13-25.16 0-0.08-0.14 12.42-21.8 12.58-21.8s12.66 21.66 12.58 21.8z"/>
+  <path id="path7812" d="m566.11 388.99c-0.08 0.13-25.08 0.13-25.16 0-0.08-0.14 12.42-21.8 12.58-21.8s12.66 21.66 12.58 21.8z" transform="matrix(.7199 .094777 -.094777 .7199 131.78 38.46)"/>
  </g>
- <g id="g14658" fill="#ea3939" transform="translate(5.6031 44.844)">
+ <g id="g14658" fill="#ea3939" transform="translate(227.67 59.55)">
   <path id="path14654" d="m237.56 266.45c1.09-3.12 2.17-6.24 2.94-9.36s1.22-6.24 1.22-9.36-0.45-6.24-1.22-9.36-1.85-6.25-2.94-9.37c-1.08-3.12-2.17-6.24-2.93-9.36-0.77-3.12-1.22-6.24-1.22-9.36s0.45-6.24 1.22-9.36c0.76-3.12 1.85-6.24 2.93-9.36" stroke="#ea3939" stroke-linecap="square" stroke-width="9.2324"/>
-  <path id="path14656" transform="matrix(-.55335 -.14827 .2102 -.78447 528.4 467.72)" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z"/>
+  <path id="path14656" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z" transform="matrix(-.55335 -.14827 .2102 -.78447 528.4 467.72)"/>
  </g>
- <g id="g14666" fill="#ea3939" transform="matrix(1.0581 0 0 -1.0581 18.277 415.88)">
+ <g id="g14666" fill="#ea3939" transform="matrix(1.0581 0 0 -1.0581 240.35 430.59)">
   <path id="path14668" d="m237.56 266.45c1.09-3.12 2.17-6.24 2.94-9.36s1.22-6.24 1.22-9.36-0.45-6.24-1.22-9.36-1.85-6.25-2.94-9.37c-1.08-3.12-2.17-6.24-2.93-9.36-0.77-3.12-1.22-6.24-1.22-9.36s0.45-6.24 1.22-9.36c0.76-3.12 1.85-6.24 2.93-9.36" stroke="#ea3939" stroke-linecap="square" stroke-width="9.2324"/>
-  <path id="path14670" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z" transform="matrix(-.55335 -.14827 .2102 -.78447 528.4 467.72)"/>
+  <path id="path14670" transform="matrix(-.55335 -.14827 .2102 -.78447 528.4 467.72)" d="m596.45 142.75c-0.1 0.16-30 0.16-30.09 0-0.1-0.17 14.85-26.06 15.04-26.06s15.14 25.89 15.05 26.06z"/>
  </g>
- <path id="path7776" d="m82.18 218.98s-33.137-27.2 63.91-15.68c0 0 31.95-14.08 66.86 2.56 0 0 33.14-11.84 72.19 1.28 0 0 71.01-4.8 42.61 14.08 0 0 15.98 6.4-2.37 11.51 0 0-11.83 16-66.27 5.12 0 0-32.55 7.36-59.77-0.96 0 0-33.13 7.04-57.99-3.52 0 0-96.449 15.36-59.17-14.39z" fill-rule="evenodd" fill="#fff"/>
- <text id="text7778" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="87.555305" x="93.880623" font-family="Bitstream Charter">
-    <tspan id="tspan7780" y="87.555305" x="93.880623">Sonnenstrahlung</tspan>
-    <tspan id="tspan7782" y="112.55531" x="93.880623">(kurzwellig)</tspan>
-  </text>
- <text id="text7794" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="226.4705" x="202.07071" font-family="Bitstream Charter">
-    <tspan id="tspan7802" y="226.4705" x="202.07071">HOHE WOLKEN</tspan>
-  </text>
- <text id="text14704" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="74.854797" x="266.55667" font-family="Bitstream Charter">
-    <tspan id="tspan14706" y="74.854797" x="266.55667">W&#xE4;rmestrahlung</tspan>
-    <tspan id="tspan14708" y="99.854797" x="266.55667">(langwellig)</tspan>
-  </text>
- <text id="text14722" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="356.72153" x="552.74652" font-family="Bitstream Charter">
-    <tspan id="tspan14726" y="356.72153" x="552.74652">NIEDRIGE WOLKEN</tspan>
-  </text>
- <text id="text1946" style="text-anchor:middle;text-align:center" font-family="Bitstream Vera Serif" xml:space="preserve" font-size="30px" y="37.58091" x="370.19196">
-    <tspan id="tspan1950" x="370.19196" y="37.58091">Effekt der Wolken auf das Erdklima</tspan>
-  </text>
- <rect id="rect2843" height="4.4261" width="3.243" y="46.347" x="368.21" fill="#fff"/>
- <text id="text1948" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="87.555305" x="468.07294" font-family="Bitstream Charter">
-    <tspan id="tspan1951" y="87.555305" x="468.07294">Sonnenstrahlung</tspan>
-    <tspan id="tspan1953" y="112.55531" x="468.07294">(kurzwellig)</tspan>
-  </text>
- <text id="text1955" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="196.59203" x="646.73608" font-family="Bitstream Charter">
-    <tspan id="tspan1957" y="196.59203" x="646.73608">W&#xE4;rmestrahlung</tspan>
-    <tspan id="tspan1959" y="221.59203" x="646.73608">(langwellig)</tspan>
-  </text>
- <text id="text1947" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="28px" y="512.1781" x="373.99142" font-family="Bitstream Charter">
-    <tspan id="tspan1949" y="512.1781" x="373.99142">ERDOBERFL&#xC4;CHE</tspan>
-  </text>
+ <path id="path7776" fill-rule="evenodd" fill="#fff" d="m304.25 233.69s-33.137-27.2 63.91-15.68c0 0 31.95-14.08 66.86 2.56 0 0 33.14-11.84 72.19 1.28 0 0 71.01-4.8 42.61 14.08 0 0 15.98 6.4-2.37 11.51 0 0-11.83 16-66.27 5.12 0 0-32.55 7.36-59.77-0.96 0 0-33.13 7.04-57.99-3.52 0 0-96.449 15.36-59.17-14.39z"/>
+ <text id="text7778" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="102.26131" x="315.952" font-family="Bitstream Charter">     <tspan id="tspan7780" y="102.26131" x="315.952">Sonnenstrahlung</tspan>     <tspan id="tspan7782" y="127.26131" x="315.952">(kurzwellig)</tspan>   </text>
+ <text id="text7794" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="241.1765" x="424.14209" font-family="Bitstream Charter">     <tspan id="tspan7802" y="241.1765" x="424.14209">HOHE WOLKEN</tspan>   </text>
+ <text id="text14704" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="89.560799" x="488.62805" font-family="Bitstream Charter">     <tspan id="tspan14706" y="89.560799" x="488.62805">W&#xE4;rmestrahlung</tspan>     <tspan id="tspan14708" y="114.5608" x="488.62805">(langwellig)</tspan>   </text>
+ <text id="text14722" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="371.42752" x="774.81787" font-family="Bitstream Charter">     <tspan id="tspan14726" y="371.42752" x="774.81787">NIEDRIGE WOLKEN</tspan>   </text>
+ <text id="text1946" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="30px" y="52.286911" x="592.26331" font-family="Bitstream Vera Serif">     <tspan id="tspan1950" y="52.286911" x="592.26331">Effekt der Wolken auf das Erdklima</tspan>   </text>
+ <rect id="rect2843" height="4.4261" width="3.243" y="61.053" x="590.28" fill="#fff"/>
+ <text id="text1948" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="102.26131" x="690.14429" font-family="Bitstream Charter">     <tspan id="tspan1951" y="102.26131" x="690.14429">Sonnenstrahlung</tspan>     <tspan id="tspan1953" y="127.26131" x="690.14429">(kurzwellig)</tspan>   </text>
+ <text id="text1955" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="20px" y="211.29802" x="868.80743" font-family="Bitstream Charter">     <tspan id="tspan1957" y="211.29802" x="868.80743">W&#xE4;rmestrahlung</tspan>     <tspan id="tspan1959" y="236.29802" x="868.80743">(langwellig)</tspan>   </text>
+ <text id="text1947" style="text-anchor:middle;text-align:center" xml:space="preserve" font-size="28px" y="526.88409" x="596.06281" font-family="Bitstream Charter">     <tspan id="tspan1949" y="526.88409" x="596.06281">ERDOBERFL&#xC4;CHE</tspan>   </text>
  <metadata>
   <rdf:RDF>
    <cc:Work>

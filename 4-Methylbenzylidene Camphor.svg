@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" stroke-linejoin="round" fill="none" xml:space="preserve" stroke-linecap="round" height="659" width="1108" version="1.0" stroke-width="1.2827" viewBox="905 480 1113 664">
-<path stroke="#000" stroke-width="6" d="m1092 907l139 37"/>
-<path stroke="#000" stroke-width="6" d="m1231 944l101-102"/>
-<path stroke="#000" stroke-width="6" d="m1092 907l-140 37"/>
-<path stroke="#000" stroke-width="6" d="m952 944l101-102"/>
-<path stroke="#000" stroke-width="6" d="m1332 842l-140-38"/>
-<path stroke="#000" stroke-width="6" d="m1092 907l48-255"/>
-<path stroke="#000" stroke-width="6" d="m1192 804l-52-152"/>
-<path stroke="#000" stroke-width="6" d="m1140 652l-125-72"/>
-<path stroke="#000" stroke-width="6" d="m1140 652l71-125"/>
-<path stroke="#000" stroke-width="6" d="m1092 907l-73 124"/>
-<text font-size="100" text-anchor="middle" y="1107" x="1302" font-family="Arial" fill="#000">O</text>
-<path stroke="#000" stroke-width="6" d="m1215 942l46 81"/>
-<path stroke="#000" stroke-width="6" d="m1242 938l41 73"/>
-<path stroke="#000" stroke-width="6" d="m1332 842l139-38"/>
-<path stroke="#000" stroke-width="6" d="m1354 862l108-30"/>
-<path stroke="#000" stroke-width="6" d="m1471 804l124 72"/>
-<path stroke="#000" stroke-width="6" d="m1595 876v143"/>
-<path stroke="#000" stroke-width="6" d="m1620 892v111"/>
-<path stroke="#000" stroke-width="6" d="m1595 1019l123 72"/>
-<path stroke="#000" stroke-width="6" d="m1718 1091l124-71"/>
-<path stroke="#000" stroke-width="6" d="m1719 1061l96-55"/>
-<path stroke="#000" stroke-width="6" d="m1842 1020v-144"/>
-<path stroke="#000" stroke-width="6" d="m1842 876l-124-72"/>
-<path stroke="#000" stroke-width="6" d="m1815 890l-96-56"/>
-<path stroke="#000" stroke-width="6" d="m1718 804l-123 72"/>
-<path stroke="#000" stroke-width="6" d="m1842 1020l124 72"/>
-<path stroke="#000" stroke-width="6" d="m1192 804l-67 17"/>
-<path stroke="#000" stroke-width="6" d="m1053 842l42-13"/>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" stroke-linejoin="round" fill="none" xml:space="preserve" stroke-linecap="round" height="579.58" width="1012.3" version="1.0" viewBox="905 480 1016.8875 583.97658" stroke-width="1.2827">
+<path id="path4" stroke-width="6" d="m1046.3 863 139 37" stroke="#000"/>
+<path id="path6" stroke-width="6" d="m1185.3 900 101-102" stroke="#000"/>
+<path id="path8" stroke-width="6" d="m1046.3 863-140 37" stroke="#000"/>
+<path id="path10" stroke-width="6" d="m906.3 900 101-102" stroke="#000"/>
+<path id="path12" stroke-width="6" d="m1286.3 798-140-38" stroke="#000"/>
+<path id="path14" stroke-width="6" d="m1046.3 863 48-255" stroke="#000"/>
+<path id="path16" stroke-width="6" d="m1146.3 760-52-152" stroke="#000"/>
+<path id="path18" stroke-width="6" d="m1094.3 608-125-72" stroke="#000"/>
+<path id="path20" stroke-width="6" d="m1094.3 608 71-125" stroke="#000"/>
+<path id="path22" stroke-width="6" d="m1046.3 863-73 124" stroke="#000"/>
+<text id="text24" font-size="100px" style="text-anchor:middle" y="1063" x="1256.2966" font-family="Arial" fill="#000000">O</text>
+<path id="path26" stroke-width="6" d="m1169.3 898 46 81" stroke="#000"/>
+<path id="path28" stroke-width="6" d="m1196.3 894 41 73" stroke="#000"/>
+<path id="path30" stroke-width="6" d="m1286.3 798 139-38" stroke="#000"/>
+<path id="path32" stroke-width="6" d="m1308.3 818 108-30" stroke="#000"/>
+<path id="path34" stroke-width="6" d="m1425.3 760 124 72" stroke="#000"/>
+<path id="path36" stroke-width="6" d="m1549.3 832v143" stroke="#000"/>
+<path id="path38" stroke-width="6" d="m1574.3 848v111" stroke="#000"/>
+<path id="path40" stroke-width="6" d="m1549.3 975 123 72" stroke="#000"/>
+<path id="path42" stroke-width="6" d="m1672.3 1047 124-71" stroke="#000"/>
+<path id="path44" stroke-width="6" d="m1673.3 1017 96-55" stroke="#000"/>
+<path id="path46" stroke-width="6" d="m1796.3 976v-144" stroke="#000"/>
+<path id="path48" stroke-width="6" d="m1796.3 832-124-72" stroke="#000"/>
+<path id="path50" stroke-width="6" d="m1769.3 846-96-56" stroke="#000"/>
+<path id="path52" stroke-width="6" d="m1672.3 760-123 72" stroke="#000"/>
+<path id="path54" stroke-width="6" d="m1796.3 976 124 72" stroke="#000"/>
+<path id="path56" stroke-width="6" d="m1146.3 760-67 17" stroke="#000"/>
+<path id="path58" stroke-width="6" d="m1007.3 798 42-13" stroke="#000"/>
 <metadata><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/><dc:publisher><cc:Agent rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher></cc:Work><cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/><cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/><cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata></svg>

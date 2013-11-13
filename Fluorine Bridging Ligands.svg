@@ -1,61 +1,45 @@
 <?xml version="1.0"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg5275" height="269.22" width="973.96" version="1.1">
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg5275" viewBox="0 0 1081.1 260.07" version="1.1">
  <defs id="defs5277">
   <pattern id="pattern3250" xlink:href="#pattern5382" patternTransform="matrix(6.0884 0 0 5.9145 -84.593 309.52)"/>
   <pattern id="pattern5382" xlink:href="#Strips1_1white" patternTransform="matrix(6.0884 0 0 5.9145 -125 327.34)"/>
-  <pattern id="Strips1_1white" height="1" width="2" patternUnits="userSpaceOnUse" patternTransform="translate(0) scale(10)">
+  <pattern id="Strips1_1white" width="2" patternUnits="userSpaceOnUse" patternTransform="translate(0) scale(10)" height="1">
    <rect id="rect4664" height="2" width="1" y="-.5" x="0" fill="#fff"/>
   </pattern>
  </defs>
- <g id="layer1" transform="translate(5.651 -63.901)">
-  <text id="text5676" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="44.692px" y="323.7113" x="185.39989" font-family="Sans" line-height="125%" fill="#000000">
-      <tspan id="tspan5678" x="185.39989" y="323.7113">(a)</tspan>
-    </text>
-  <text id="text2985" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="68.142px" y="193.11987" x="69.524376" font-family="Sans" line-height="125%" fill="#000000">
-      <tspan id="tspan2987" x="69.524376" y="193.11987">M</tspan>
-    </text>
+ <g id="layer1" transform="translate(5.651 -69.537)">
+  <text id="text5676" style="word-spacing:0px;letter-spacing:0px" font-family="Sans" xml:space="preserve" font-size="44.692px" line-height="125%" y="323.7113" x="185.39989" font-weight="bold" fill="#000000">       <tspan id="tspan5678" y="323.7113" x="185.39989">(a)</tspan>     </text>
+  <text id="text2985" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="68.142px" line-height="125%" y="193.11987" x="69.524376" font-family="Sans" fill="#000000">       <tspan id="tspan2987" y="193.11987" x="69.524376">M</tspan>     </text>
   <path id="path5447" d="m128.01 168.85 57.517 0.72569" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.3124" fill="none"/>
-  <text id="text5975" style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="68.142px" y="193.11987" x="189.59186" font-family="Sans" xml:space="preserve" fill="#000000">
-      <tspan id="tspan5977" y="193.11987" x="189.59186">F</tspan>
-    </text>
+  <text id="text5975" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="68.142px" line-height="125%" y="193.11987" x="189.59186" font-family="Sans" fill="#000000">       <tspan id="tspan5977" y="193.11987" x="189.59186">F</tspan>     </text>
   <path id="path5989" d="m333.84 71.193v64.221" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.3124" fill="none"/>
-  <path id="path3126" d="m248.01 240.64 56.324-39.345-36.731 54.789z" stroke="#000" stroke-width="1px"/>
-  <text id="text3910" style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="68.142px" y="194.13002" x="303.98129" font-family="Sans" xml:space="preserve" fill="#000000">
-      <tspan id="tspan3912" y="194.13002" x="303.98129">M</tspan>
-    </text>
+  <path id="path3126" stroke-width="1px" stroke="#000" d="m248.01 240.64 56.324-39.345-36.731 54.789z"/>
+  <text id="text3910" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="68.142px" line-height="125%" y="194.13002" x="303.98129" font-family="Sans" fill="#000000">       <tspan id="tspan3912" y="194.13002" x="303.98129">M</tspan>     </text>
   <path id="path3914" d="m240.01 168.85 57.517 0.72569" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.3124" fill="none"/>
   <path id="path3916" d="m376.01 168.85 57.517 0.72569" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.3124" fill="none"/>
   <path id="path3934" d="m333.84 205.19v64.221" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.3124" fill="none"/>
   <rect id="rect3940" transform="matrix(.76824 -.64016 .73213 .68117 0 0)" height="28.979" width="54.534" y="330.64" x="146.56" fill="url(#pattern3250)"/>
-  <path id="path3121" d="m248.01 240.64 56.324-39.345-36.731 54.789z" stroke="#000" stroke-width="1px"/>
+  <path id="path3121" stroke-width="1px" stroke="#000" d="m248.01 240.64 56.324-39.345-36.731 54.789z"/>
   <g id="g3137" transform="translate(18,-38)">
-   <path id="path3908" d="m403.67 149.23-58.793 35.549 40.26-52.251z" stroke="#000" stroke-width="1px"/>
+   <path id="path3908" stroke-width="1px" stroke="#000" d="m403.67 149.23-58.793 35.549 40.26-52.251z"/>
    <rect id="rect3131" transform="matrix(.76824 -.64016 .73213 .68117 0 0)" height="28.979" width="54.534" y="348.46" x="106.15" fill="url(#pattern5382)"/>
   </g>
-  <path id="path3141" d="m14.011 238.64 56.324-39.35-36.731 54.79z" stroke="#000" stroke-width="1px"/>
+  <path id="path3141" stroke-width="1px" stroke="#000" d="m14.011 238.64 56.324-39.35-36.731 54.79z"/>
   <g id="g3151" transform="translate(-216,-40)">
-   <path id="path3153" d="m403.67 149.23-58.793 35.549 40.26-52.251z" stroke="#000" stroke-width="1px"/>
+   <path id="path3153" stroke-width="1px" stroke="#000" d="m403.67 149.23-58.793 35.549 40.26-52.251z"/>
    <rect id="rect3155" transform="matrix(.76824 -.64016 .73213 .68117 0 0)" height="28.979" width="54.534" y="348.46" x="106.15" fill="url(#pattern5382)"/>
   </g>
   <path id="path3157" d="m93.839 71.193v64.221" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.3124" fill="none"/>
   <path id="path3163" d="m93.839 205.19v64.221" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.3124" fill="none"/>
   <path id="path3169" d="m-3.9948 168.85 57.517 0.72569" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.3124" fill="none"/>
   <g id="g6035" transform="matrix(.94641 0 0 .94641 607.5 -26.831)">
-   <g id="g6098" transform="translate(-33.335 -11.112)">
-    <text id="text6037" style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="72px" y="247.19746" x="22.277445" font-family="Sans" xml:space="preserve" fill="#000000">
-          <tspan id="tspan6039" y="247.19746" x="22.277445">M</tspan>
-        </text>
-    <text id="text6041" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="72px" y="186.88419" x="155.87897" font-family="Sans" line-height="125%" fill="#000000">
-          <tspan id="tspan6043" x="155.87897" y="186.88419">F</tspan>
-        </text>
+   <g id="g6098" transform="translate(-33.335,-11.112)">
+    <text id="text6037" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="72px" line-height="125%" y="247.19746" x="22.277445" font-family="Sans" fill="#000000">           <tspan id="tspan6039" y="247.19746" x="22.277445">M</tspan>         </text>
+    <text id="text6041" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="72px" line-height="125%" y="186.88419" x="155.87897" font-family="Sans" fill="#000000">           <tspan id="tspan6043" y="186.88419" x="155.87897">F</tspan>         </text>
     <path id="path6047" d="m88.296 207.68 60.774-30.19" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.5" fill="none"/>
     <path id="path6049" d="m88.296 237.49 60.773 30.186" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="11.008" fill="none"/>
-    <text id="text6051" style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="72px" y="294.88419" x="155.87897" font-family="Sans" xml:space="preserve" fill="#000000">
-          <tspan id="tspan6053" y="294.88419" x="155.87897">F</tspan>
-        </text>
-    <text id="text6055" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="72px" y="247.19746" x="282.27744" font-family="Sans" line-height="125%" fill="#000000">
-          <tspan id="tspan6057" x="282.27744" y="247.19746">M</tspan>
-        </text>
+    <text id="text6051" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="72px" line-height="125%" y="294.88419" x="155.87897" font-family="Sans" fill="#000000">           <tspan id="tspan6053" y="294.88419" x="155.87897">F</tspan>         </text>
+    <text id="text6055" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="72px" line-height="125%" y="247.19746" x="282.27744" font-family="Sans" fill="#000000">           <tspan id="tspan6057" y="247.19746" x="282.27744">M</tspan>         </text>
     <path id="path6061" d="m269.07 207.68-60.77-30.19" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.5" fill="none"/>
     <path id="path6063" d="m269.07 237.49-60.773 30.186" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="11.008" fill="none"/>
     <g id="g6085">
@@ -63,22 +47,20 @@
     </g>
     <path id="path6073" d="m348.3 207.68 60.773-30.186" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.5" fill="none"/>
     <path id="path6075" d="m348.3 237.49 60.773 30.186" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="11.008" fill="none"/>
-    <g id="g6090" transform="translate(0 136.37)">
+    <g id="g6090" transform="translate(0,136.37)">
      <path id="path6092" d="m310.01 118.37v67.857" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.5" fill="none"/>
     </g>
     <g id="g3982" transform="translate(-257.82)">
      <path id="path3984" d="m310.01 118.37v67.857" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.5" fill="none"/>
     </g>
-    <g id="g3990" transform="translate(-257.82 136.37)">
+    <g id="g3990" transform="translate(-257.82,136.37)">
      <path id="path3992" d="m310.01 118.37v67.857" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.5" fill="none"/>
     </g>
     <path id="path3998" d="m13.893 207.68-60.773-30.19" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="3.5" fill="none"/>
-    <path id="path4000" d="m13.893 237.49-60.773 30.186" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="11.008" fill="none"/>
+    <path id="path4000" d="m13.893 237.49-60.773 30.19" stroke="#000" stroke-linecap="round" stroke-miterlimit="4.2" stroke-width="11.008" fill="none"/>
    </g>
   </g>
-  <text id="text4010" style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-weight="bold" font-size="44.692px" y="323.7113" x="719.3999" font-family="Sans" xml:space="preserve" fill="#000000">
-      <tspan id="tspan4012" y="323.7113" x="719.3999">(b)</tspan>
-    </text>
+  <text id="text4010" style="word-spacing:0px;letter-spacing:0px" font-family="Sans" xml:space="preserve" font-size="44.692px" line-height="125%" y="323.7113" x="719.3999" font-weight="bold" fill="#000000">       <tspan id="tspan4012" y="323.7113" x="719.3999">(b)</tspan>     </text>
  </g>
  <metadata>
   <rdf:RDF>
